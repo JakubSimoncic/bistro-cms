@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="cs">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="Bistro na Florenci s výrobou chlebíčků, sendvičů a baget.">
+        <meta name="keywords" content="bistro, Florenc, chlebíčky, sendviče, bagety, jídlo, občerstvení">
+        <title>BISTRO FLORENC - O NÁS</title>
+        <style>
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: Arial, Helvetica, sans-serif;
+            color:#0F3825
+        }
+        header {
+            position: fixed;
+            width: 100%;
+            top: 0;
+            left: 0;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 15px 20px;
+            background: #0F3825;
+            box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+            z-index: 1000;
+        }
+        .logo {
+                margin-left: 20px;
+        }
+        .logo img {
+            height: 120px;
+        }
+        #menu-toggle {
+            display: none;
+            font-size: 30px;
+            background: none;
+            border: none;
+            cursor: pointer;
+            color: #F5F1E3;
+        }
+        nav {
+            display: flex;
+            align-items: center;
+            margin-right: 150px;
+            background: #0F3825;
+        }
+        nav a {
+            color: #F5F1E3;
+            text-decoration: none;
+            margin: 0 15px;
+            font-size: 20px;
+            text-transform: uppercase;
+            font-weight: bold;
+            transition: color 0.3s;
+        }
+        nav a:hover {
+            color: #d4a373;
+            text-decoration: underline;
+        }
+        @media (max-width: 768px) {
+            .logo img {
+                height: 80px;
+            }
+            #menu-toggle {
+                display: block;
+                position: absolute;
+                margin-right: 30px;
+                top: 15px;
+                right: 20px;
+            }
+            nav {
+                display: none;
+                flex-direction: column;
+                position: absolute;
+                top: 100px;
+                right: 0px;
+                background: #0F3825;
+                width: 100%;
+                text-align: center;
+                box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+            }
+            nav a {
+                padding: 15px;
+                display: block;
+            }
+            nav.show {
+                display: flex;
+            }
+        }
+        main {
+                padding-top: 190px;
+                text-align: center;
+                font-size: 30px;
+                font-family: Arial, Helvetica, sans-serif;
+                padding-left: 100px;
+                padding-right: 100px;
+                display: block;
+                line-height: 1.7;
+                background-color: #FFFFFF;
+            }
+        </style>
+    </head>
+    <body>
+        <header>
+            <div class="logo">
+                <a href="index.html">
+                    <img src="LOGO.png" alt="BISTRO FLORENC" loading="lazy">
+                </a>
+            </div>
+            <button id="menu-toggle">☰</button>
+            <nav id="nav-menu">
+                <a href="O_NAS.html">O NÁS</a>
+                <a href="MENU.html">DENNÍ MENU</a>
+                <a href="NASE_NABIDKA.html">NAŠE NABÍDKA</a>
+                <a href="KONTAKT.html">KONTAKT</a>
+                <a href="GALERIE.html">GALERIE</a>
+            </nav>
+        </header>
+        <main>
+            <p>
+                Jsme bistro na Florenci s výrobnou chlebíčků, baget a sendvičů. 
+                <br>V době oběda nabízíme rychlý a poctivý oběd na stojáka <br>vyrobený z čerstvých surovin nebo Sous-Vide masíčko přímo z grilu.<br>
+                Odpoledne k nám pak můžete zajít na svačinu nebo menší večeři <br>
+                … nebo třeba na výbornou kávu, domácí limonády.
+                <br>Vše podáváme čerstvé a s úsměvem.
+            </p>
+        </main>
+        <script>
+            document.addEventListener("DOMContentLoaded", function() {
+        const menuButton = document.getElementById('menu-toggle');
+        const navMenu = document.getElementById('nav-menu');
+    
+        if (!menuButton || !navMenu) {
+            console.error("❌ Element menu-toggle nebo nav-menu nebyl nalezen!");
+            return;
+        }
+    
+        menuButton.addEventListener('click', function() {
+            navMenu.classList.toggle('show');
+            console.log("✅ Menu přepnuto!");
+        });
+    });
+        </script>
+    </body>
+</html>

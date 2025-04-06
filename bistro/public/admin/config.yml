@@ -1,0 +1,89 @@
+backend:
+  name: github
+  repo: JakubSimoncic/web
+  branch: main
+
+media_folder: "uploads"
+public_folder: "/uploads"
+
+collections:
+  - name: "pages"
+    label: "Pages"
+    folder: "web"
+    create: true
+    slug: "{{slug}}"
+    extension: "html"
+    fields:
+      - { label: "Obsah", name: "body", widget: "markdown" } # Globální pole pro obsah
+    templates:
+      - label: "Hlavní stránka"
+        name: "index"
+        fields:
+          - { label: "Titulek", name: "title", widget: "string", required: true }
+          - { label: "Čistý text", name: "text", widget: "text" }
+          - { label: "HTML kód", name: "html", widget: "code", default_language: "html" }
+      - label: "Bagety"
+        name: "bagety"
+        fields:
+          - { label: "Titulek", name: "title", widget: "string" }
+          - { label: "Čistý text", name: "text", widget: "text" }
+          - { label: "HTML kód", name: "html", widget: "code", default_language: "html" }
+      - label: "Galerie"
+        name: "galerie"
+        fields:
+          - { label: "Titulek", name: "title", widget: "string" }
+          - { label: "Obrázky", name: "images", widget: "list", fields: [{ label: "Obrázek", name: "image", widget: "image" }] }
+          - { label: "Popis", name: "description", widget: "markdown" }
+          - { label: "Čistý text", name: "text", widget: "text" }
+          - { label: "HTML kód", name: "html", widget: "code", default_language: "html" }
+      - label: "Chlebíčky"
+        name: "chlebicky"
+        fields:
+          - { label: "Titulek", name: "title", widget: "string" }
+          - { label: "Čistý text", name: "text", widget: "text" }
+          - { label: "HTML kód", name: "html", widget: "code", default_language: "html" }
+      - label: "Kontakt"
+        name: "kontakt"
+        fields:
+          - { label: "Titulek", name: "title", widget: "string" }
+          - { label: "Adresa", name: "address", widget: "string" }
+          - { label: "Telefon", name: "phone", widget: "string" }
+          - { label: "Email", name: "email", widget: "string" }
+          - { label: "Čistý text", name: "text", widget: "text" }
+          - { label: "HTML kód", name: "html", widget: "code", default_language: "html" }
+      - label: "Menu"
+        name: "menu"
+        fields:
+          - { label: "Titulek", name: "title", widget: "string" }
+          - { label: "Čistý text", name: "text", widget: "text" }
+          - { label: "HTML kód", name: "html", widget: "code", default_language: "html" }
+      - label: "Nápoje"
+        name: "napoje"
+        fields:
+          - { label: "Titulek", name: "title", widget: "string" }
+          - { label: "Čistý text", widget: "text", name: "text" }
+          - { label: "HTML kód", widget: "code", name: "html", default_language: "html" }
+      - label: "Naše nabídka"
+        name: "nase_nabidka"
+        fields:
+          - { label: "Titulek", name: "title", widget: "string" }
+          - { label: "Čistý text", name: "text", widget: "text" }
+          - { label: "HTML kód", name: "html", widget: "code", default_language: "html" }
+      - label: "O nás"
+        name: "o_nas"
+        fields:
+          - { label: "Titulek", name: "title", widget: "string" }
+          - { label: "Čistý text", name: "text", widget: "text" }
+          - { label: "HTML kód", name: "html", widget: "code", default_language: "html" }
+      - label: "Pečivo"
+        name: "pecivo"
+        fields:
+          - { label: "Titulek", name: "title", widget: "string" }
+          - { label: "Čistý text", name: "text", widget: "text" }
+          - { label: "HTML kód", name: "html", widget: "code", default_language: "html" }
+      - label: "Pomazánky"
+        name: "pomazanky"
+        fields:
+          - { label: "Titulek", name: "title", widget: "string", required: true }
+          - { label: "Čistý text", name: "text", widget: "text" }
+          - { label: "HTML kód", name: "html", widget: "code", default_language: "html" }

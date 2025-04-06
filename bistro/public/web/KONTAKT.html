@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="cs">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="Bistro na Florenci s výrobou chlebíčků, sendvičů a baget.">
+        <meta name="keywords" content="bistro, Florenc, chlebíčky, sendviče, bagety, jídlo, občerstvení">
+        <title>BISTRO FLORENC - KONTAKT</title>
+        <style>
+            body {
+                margin: 0;
+                padding: 0;
+                font-family: Arial, Helvetica, sans-serif;
+		        color:#0F3825
+            }
+            header {
+                position: fixed;
+                width: 100%;
+                top: 0;
+                left: 0;
+                display: flex;
+                justify-content: space-between;
+                align-items: center;
+                padding: 15px 20px;
+                background: #0F3825;
+                box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+                z-index: 1000;
+            }
+            .logo {
+                margin-left: 20px;
+            }
+            .logo img {
+                height: 120px;
+            }
+            #menu-toggle {
+                display: none;
+                font-size: 30px;
+                background: none;
+                border: none;
+                cursor: pointer;
+		        color: #F5F1E3;
+            }
+            nav {
+                display: flex;
+                align-items: center;
+                margin-right: 150px;
+            }
+            nav a {
+                color: #F5F1E3;
+                text-decoration: none;
+                margin: 0 15px;
+                font-size: 20px;
+                text-transform: uppercase;
+                font-weight: bold;
+                transition: color 0.3s;
+            }
+            nav a:hover {
+                color: #d4a373;
+                text-decoration: underline;
+            }
+            main {
+                padding-top: 160px;
+                text-align: center;
+                margin-left: 10px;
+                margin-right: 10px;
+		        background-color: #FFFFFF;
+            }
+            footer {
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                justify-content: flex-start;
+                text-align: center;
+                padding: 20px;
+                margin: 0 auto;
+                width: 80%;
+		background-color: #1E5F3F;
+                color: #F5F1E3;
+            }
+            footer iframe {
+                width: 100%;
+                height: 500px;
+                border: 0;
+            }
+            @media (max-width: 768px) {
+                .logo img {
+                    height: 80px;
+                }
+                #menu-toggle {
+                    display: block;
+                    position: absolute;
+                    margin-right: 30px;
+                    top: 15px;
+                    right: 20px;
+                }
+                nav {
+                    display: none;
+                    flex-direction: column;
+                    position: absolute;
+                    top: 100px;
+                    right: 0px;
+                    background: #0F3825;
+                    width: 100%;
+                    text-align: center;
+                    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+                }
+                nav a {
+                    padding: 15px;
+                    display: block;
+		            color: #F5F1E3;
+                }
+                nav.show {
+                    display: flex;
+                }
+                main {
+                    padding: 120 20px;
+                    max-width: 800px;
+                    margin: 0 auto;
+                    background-color: #FFFFFF;
+                    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+                }
+            }
+            h1 {
+                font-size: 60px;
+                margin-bottom: 30px;
+                margin-top: 20px;
+                text-align: center;
+		        color: #0F3825;
+            }
+            h2 {
+                font-size: 30px;
+                color: #1E5F3F;
+                text-align: center
+            }
+        </style>
+    </head>
+    <body>
+        <header>
+            <div class="logo">
+                <a href="index.html">
+                    <img src="LOGO.png" alt="BISTRO FLORENC" loading="lazy">
+                </a>
+            </div>
+            <button id="menu-toggle" aria-label="Otevřít menu">☰</button>
+            <nav id="nav-menu">
+                <a href="O_NAS.html">O NÁS</a>
+                <a href="MENU.html">DENNÍ MENU</a>
+                <a href="NASE_NABIDKA.html">NAŠE NABÍDKA</a>
+                <a href="KONTAKT.html">KONTAKT</a>
+                <a href="GALERIE.html">GALERIE</a>
+            </nav>
+        </header>
+        <main>
+            <h1>KONTAKT</h1>
+            <h2>Telefon</h2>
+            <p>+420 777 770 905</p>
+            <h2>Email</h2>
+            <p>...</p>
+            <h2>Facebook</h2>
+            <p>...</p>
+            <h2>Instagram</h2>
+            <p>...</p>
+            <h2>Otevírací doba</h2>
+            <p>Po-Pá 7:00 - 20:00<br>So-Ne 10:00 - 18:00</p>
+            <h2>Adresa</h2>
+            <p>BISTRO FLORENC Křižíkova 254/5, Praha 8, Karlín 186 00</p>
+        </main>
+        <footer>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d319.97390262462454!2d14.44030634157498!3d50.09019565333138!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x470b95002f68b10d%3A0xc70f2e5f17a5522a!2sBISTRO%20flo-renc!5e0!3m2!1scs!2scz!4v1743093560477!5m2!1scs!2scz" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        </footer>
+        <script>
+            document.getElementById('menu-toggle').addEventListener('click', function() {
+                document.getElementById('nav-menu').classList.toggle('show');
+            });
+        </script>
+    </body>
+</html>

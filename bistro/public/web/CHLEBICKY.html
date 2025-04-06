@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html lang="cs">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="Bistro na Florenci s výrobou chlebíčků, sendvičů a baget.">
+        <meta name="keywords" content="bistro, Florenc, chlebíčky, sendviče, bagety, jídlo, občerstvení">
+        <title>BISTRO FLORENC - CHLEBÍČKY</title>
+        <style>
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: Arial, Helvetica, sans-serif;
+            color:#0F3825
+        }
+        header {
+            position: fixed;
+            width: 100%;
+            top: 0;
+            left: 0;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 15px 20px;
+            background: #0F3825;
+            box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        .logo {
+                margin-left: 20px;
+        }
+        .logo img {
+            height: 120px;
+        }
+        #menu-toggle {
+            display: none;
+            font-size: 30px;
+            background: none;
+            border: none;
+            cursor: pointer;
+            color: #F5F1E3;
+        }
+        nav {
+            display: flex;
+            align-items: center;
+            margin-right: 150px;
+            background: #0F3825;
+        }
+        nav a {
+            color: #F5F1E3;
+            text-decoration: none;
+            margin: 0 15px;
+            font-size: 20px;
+            font-weight: bold;
+            transition: color 0.3s;
+        }
+        nav a:hover {
+            color: #d4a373;
+            text-decoration: underline;
+        }
+        @media (max-width: 768px) {
+            .logo img {
+                height: 80px;
+            }
+            #menu-toggle {
+                display: block;
+                position: absolute;
+                margin-right: 30px;
+                top: 15px;
+                right: 20px;
+            }
+            nav {
+                display: none;
+                flex-direction: column;
+                position: absolute;
+                text-transform: uppercase;
+                top: 100px;
+                right: 0px;
+                width: 100%;
+                text-align: center;
+                box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+            }
+            nav a {
+                padding: 15px;
+                display: block;
+            }
+            nav.show {
+                display: flex;
+            }
+        }
+        main {
+            padding-top: 170px;
+            text-align: left;
+            padding-left: 20px;
+        }
+        .sipka img {
+            width: 50px;
+            height: auto;
+        }
+        footer {
+                padding-top: 10px;
+                text-align: center;
+                font-size: 20px;
+                font-family: Arial, Helvetica, sans-serif;
+                padding-left: 20px;
+                padding-right: 20px;
+                background-color: #ffffff;
+                margin-bottom: 20px;
+            }
+            .mrizka {
+                display: grid;
+                grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+                gap: 20px;
+            }
+            .mrizka-item {
+                background:#0F3825;
+                padding: 0px;
+                border-radius: 10px;
+                box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+            }
+            .mrizka-img {
+                width: 100%;
+                height: 200px;
+                object-fit: cover;
+                border-radius: 10px;
+            }
+            p {
+                color: #F5F1E3;
+                font-weight: bold;
+            }
+        </style>
+    </head>
+    <body>
+        <header>
+            <div class="logo">
+                <a href="index.html">
+                    <img src="LOGO.png" alt="BISTRO FLORENC" loading="lazy">
+                </a>
+            </div>
+            <button id="menu-toggle">☰</button>
+            <nav id="nav-menu">
+                <a href="O_NAS.html">O NÁS</a>
+                <a href="MENU.html">DENNÍ MENU</a>
+                <a href="NASE_NABIDKA.html">NAŠE NABÍDKA</a>
+                <a href="KONTAKT.html">KONTAKT</a>
+                <a href="GALERIE.html">GALERIE</a>
+            </nav>
+        </header>
+        <main>
+            <div class="sipka">
+                <a href="NASE_NABIDKA.html">
+                    <img src="ŠIPKA.png" alt="ZPĚT" loading="lazy">
+                </a>
+            </div>
+        </main>
+        <footer>
+            <div class="mrizka">
+                <div class="mrizka-item">
+                        <img class="mrizka-img" src="uzene.jpg" alt="chlebíček 1" loading="lazy">
+                    </a>
+                    <p>chlebíček s uzeným masem</p>
+                </div>
+
+                <div class="mrizka-item">
+                        <img class="mrizka-img" src="sunkovy.jpg" alt="chlebíček se šunkou" loading="lazy">
+                    </a>
+                    <p>chlebíček se šunkou</p>
+                </div>
+
+                <div class="mrizka-item">
+                        <img class="mrizka-img" src="torerro.jpg" alt="chlebíček se šunkou" loading="lazy">
+                    </a>
+                    <p>torerro</p>
+                </div>
+
+                <div class="mrizka-item">
+                        <img class="mrizka-img" src="sunka_vejce.jpg" alt="chlebíček 2" loading="lazy">
+                    </a>
+                    <p>chlebíček se šunkou a vejcem</p>
+                </div>
+
+                <div class="mrizka-item">
+                        <img class="mrizka-img" src="svedsky.jpg" alt="chlebíček 2" loading="lazy">
+                    </a>
+                    <p>švédský chlebíček</p>
+                </div>
+                <div class="mrizka-item">
+                        <img class="mrizka-img" src="vajickovy.jpg" alt="chlebíček 2" loading="lazy">
+                    </a>
+                    <p>vajíčkový chlebíček</p>
+                </div>
+                <div class="mrizka-item">
+                        <img class="mrizka-img" src="krabi.jpg" alt="chlebíček 2" loading="lazy">
+                    </a>
+                    <p>krabí chlebíček</p>
+                </div>
+                <div class="mrizka-item">
+                        <img class="mrizka-img" src="hermelinovy.jpg" alt="chlebíček 2" loading="lazy">
+                    </a>
+                    <p>hermelínový chlebíček</p>
+                </div>
+                <div class="mrizka-item">
+                        <img class="mrizka-img" src="syrovy.jpg" alt="chlebíček 2" loading="lazy">
+                    </a>
+                    <p>sýrový chlebíček</p>
+                </div>
+            </div>
+        </footer>
+        <script>
+            document.addEventListener("DOMContentLoaded", function() {
+        const menuButton = document.getElementById('menu-toggle');
+        const navMenu = document.getElementById('nav-menu');
+    
+        if (!menuButton || !navMenu) {
+            console.error("❌ Element menu-toggle nebo nav-menu nebyl nalezen!");
+            return;
+        }
+    
+        menuButton.addEventListener('click', function() {
+            navMenu.classList.toggle('show');
+            console.log("✅ Menu přepnuto!");
+        });
+    });
+        </script>
+    </body>
+</html>

@@ -1,0 +1,299 @@
+<!DOCTYPE html>
+<html lang="cs">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="Bistro na Florenci s výrobou chlebíčků, sendvičů a baget.">
+        <meta name="keywords" content="bistro, Florenc, chlebíčky, sendviče, bagety, jídlo, občerstvení">
+        <title>BISTRO FLORENC - NÁPOJE</title>
+        <style>
+            body {  margin: 0;
+                padding: 0;
+                font-family: Arial, Helvetica, sans-serif;
+                color:#0F3825
+            }
+            header {
+                position: fixed;
+                width: 100%;
+                top: 0;
+                left: 0;
+                display: flex;
+                justify-content: space-between;
+                align-items: center;
+                padding: 15px 20px;
+                background: #0F3825;
+                box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+                z-index: 1000;
+            }
+            .logo {
+                    margin-left: 20px;
+            }
+            .logo img {
+                height: 120px;
+            }
+            #menu-toggle {
+                display: none;
+                font-size: 30px;
+                background: none;
+                border: none;
+                cursor: pointer;
+                color: #F5F1E3;
+            }
+            nav {
+                display: flex;
+                align-items: center;
+                margin-right: 150px;
+            }
+            nav a {
+                color: #F5F1E3;
+                text-decoration: none;
+                margin: 0 15px;
+                font-size: 20px;
+                text-transform: uppercase;
+                font-weight: bold;
+                transition: color 0.3s;
+            }
+            nav a:hover {
+                color: #d4a373;
+                text-decoration: underline;
+            }
+            span {
+                width: 50px;
+            }
+            @media (max-width: 768px) {
+                .logo img {
+                    height: 80px;
+                }
+                #menu-toggle {
+                    display: block;
+                    position: absolute;
+                    margin-right: 30px;
+                    top: 15px;
+                    right: 20px;
+                }   
+                nav {
+                    display: none;
+                    flex-direction: column;
+                    position: absolute;
+                    top: 100px;
+                    right: 0px;
+                    background: #0F3825;
+                    width: 100%;
+                    text-align: center;
+                    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+                }
+                nav a {
+                    padding: 15px;
+                    display: block;
+                    color: #F5F1E3;
+                }
+                nav.show {
+                    display: flex;
+                }
+                }
+                footer {
+                    padding: 50px;
+                    max-width: 800px;
+                    margin: 0 auto;
+                    background-color: #ffffff;
+                    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+                }
+                h1 {
+                        font-size: 60px;
+                        font-weight: bold;
+                        margin-bottom: 60px;
+                        text-align: center;
+                        color: #0F3825;
+                }
+                h2 {
+                    border-bottom: 2px;
+                    padding-bottom: 5px;
+                    font-size: 35px;
+                    margin-top: 50px;
+                    color: #1E5F3F;
+                }
+                h3 {
+                    font-size: 30px;
+                    margin-top: 50px;
+                    margin-bottom: 0px;
+                }
+                h5 {
+                    text-align: center;
+                    font-size: 25px;
+                }
+                .menu-section {
+                    margin-bottom: 20px;
+                }
+                .menu-item {
+                    display: flex;
+                    justify-content: space-between;
+                    flex-wrap: wrap;
+                    padding: 10px 0;
+                    border-bottom: 1px solid #000000;
+                }
+                .menu-item div {
+                    flex: 1;
+                    min-width: 0;
+                    word-wrap: break-word;
+                    overflow-wrap: break-word;
+                }
+                .menu-item:last-child {
+                    border-bottom: none;
+                }
+                .menu-item h4 {
+                    margin: 0;
+                    font-size: 18px;
+                }
+                .menu-item p {
+                    margin: 5px 0 0 0;
+                    font-size: 14px;
+                    color: #666;
+                    flex-basis: 100%;
+                    display: block;
+                    white-space: pre-wrap;
+                }
+                .menu-item span {
+                    font-weight: bold;
+                }
+                @media (max-width: 600px) {
+                    .menu-item {
+                        flex-direction: column;
+                        align-items: flex-start;
+                    }
+                    .menu-item span {
+                        white-space: nowrap;
+                        font-weight: bold;
+                        text-align: right;
+                        margin-top: 5px;
+                        margin-left: auto;
+                    }}
+                    .sipka img {
+                width: 50px;
+                height: auto;
+                }
+            main {
+                padding-top: 170px;
+                text-align: left;
+                padding-left: 20px;
+                background-color: #FFFFFF;
+            }
+    </style>
+    </head>
+    <body>
+        <header>
+            <div class="logo">
+                <a href="index.html">
+                    <img src="LOGO.png" alt="BISTRO FLORENC" loading="lazy">
+                </a>
+            </div>
+            <button id="menu-toggle">☰</button>
+            <nav id="nav-menu">
+                <a href="O_NAS.html">O NÁS</a>
+                <a href="MENU.html">DENNÍ MENU</a>
+                <a href="NASE_NABIDKA.html">NAŠE NABÍDKA</a>
+                <a href="KONTAKT.html">KONTAKT</a>
+                <a href="GALERIE.html">GALERIE</a>
+            </nav>
+        </header>
+        <main>
+            <div class="sipka">
+                <a href="NASE_NABIDKA.html">
+                    <img src="ŠIPKA.png" alt="ZPĚT" loading="lazy">
+                </a>
+            </div>
+        </main>
+        <footer>
+            <h1>NÁPOJOVÝ LÍSTEK</h1>
+            <section class="menu-section">
+                <h2>KÁVA</h2>
+                <div class="menu-item">
+                    <div>
+                        <h4>Espresso</h4>
+                    </div>
+                    <span>55Kč</span>
+                </div>
+                <div class="menu-item">
+                    <div>
+                        <h4>Cappuccino</h4>
+                    </div>
+                    <span>65Kč</span>
+                </div>
+                <div class="menu-item">
+                    <div>
+                        <h4>Café Latte</h4>
+                    </div>
+                    <span>70Kč</span>
+                </div>
+                <div class="menu-item">
+                    <div>
+                        <h4>Espresso Macchiato</h4>
+                    </div>
+                    <span>60Kč</span>
+                </div>
+                <div class="menu-item">
+                    <div>
+                        <h4>Double Espresso</h4>
+                    </div>
+                    <span>70Kč</span>
+                </div>
+                <div class="menu-item">
+                    <div>
+                        <h4>Flat White</h4>
+                    </div>
+                    <span>75Kč</span>
+                </div>
+                <div class="menu-item">
+                    <div>
+                        <h4>Vídeňská káva</h4>
+                    </div>
+                    <span>65Kč</span>
+                </div>
+            </section>
+            <section class="menu-section">
+                <h2>DOMÁCÍ LIMONÁDY</h2>
+                <div class="menu-item">
+                    <div>
+                        <h4>Malinová limonáda 0,4l</h4>
+                    </div>
+                    <span>60Kč</span>
+                </div>
+                <div class="menu-item">
+                    <div>
+                        <h4>Bezinková limonáda 0,4l</h4>
+                    </div>
+                    <span>60Kč</span>
+                </div>
+                <div class="menu-item">
+                    <div>
+                        <h4>Citronáda 0,4l</h4>
+                    </div>
+                    <span>60Kč</span>
+                </div>
+                <div class="menu-item">
+                    <div>
+                        <h4>Zázvorová limonáda 0,4l</h4>
+                    </div>
+                    <span>60Kč</span>
+                </div>
+                <h5><i>PODÁVÁME S LEDEM A MÁTOU</i></h5>
+                <h5><i>MOŽNO PŘIPRAVIT I V NEPRELIVÉ VARIANTĚ</i></h5>
+            </section>
+        </footer>
+        <script>
+            document.addEventListener("DOMContentLoaded", function() {
+        const menuButton = document.getElementById('menu-toggle');
+        const navMenu = document.getElementById('nav-menu');
+    
+        if (!menuButton || !navMenu) {
+            console.error("❌ Element menu-toggle nebo nav-menu nebyl nalezen!");
+            return;
+        }
+    
+        menuButton.addEventListener('click', function() {
+            navMenu.classList.toggle('show');
+            console.log("✅ Menu přepnuto!");
+        });
+    });
+        </script>
+    </body>
+</html>

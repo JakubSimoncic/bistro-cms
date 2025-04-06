@@ -1,0 +1,241 @@
+<!DOCTYPE html>
+<html lang="cs">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="Bistro na Florenci s výrobou chlebíčků, sendvičů a baget.">
+        <meta name="keywords" content="bistro, Florenc, chlebíčky, sendviče, bagety, jídlo, občerstvení">
+        <title>BISTRO FLORENC - GALERIE</title>
+        <style>
+            body {
+                margin: 0;
+                padding: 0;
+                font-family: Arial, Helvetica, sans-serif;
+                color:#0F3825
+            }
+            header {
+                position: fixed;
+                width: 100%;
+                top: 0;
+                left: 0;
+                display: flex;
+                justify-content: space-between;
+                align-items: center;
+                padding: 15px 20px;
+                background: #0F3825;
+                box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+                z-index: 1000;
+            }
+            .logo {
+                    margin-left: 20px;
+            }
+            .logo img {
+                height: 120px;
+            }
+            #menu-toggle {
+                display: none;
+                font-size: 30px;
+                background: none;
+                border: none;
+                cursor: pointer;
+                color: #F5F1E3;
+            }
+            nav {
+                display: flex;
+                align-items: center;
+                margin-right: 150px;
+                background: #0F3825;
+            }
+            nav a {
+                color: #F5F1E3;
+                text-decoration: none;
+                margin: 0 15px;
+                font-size: 20px;
+                text-transform: uppercase;
+                font-weight: bold;
+                transition: color 0.3s;
+            }
+            nav a:hover {
+                color: #d4a373;
+                text-decoration: underline;
+            }
+            @media (max-width: 768px) {
+                .logo img {
+                    height: 80px;
+                }
+                #menu-toggle {
+                    display: block;
+                    position: absolute;
+                    margin-right: 30px;
+                    top: 15px;
+                    right: 20px;
+                }
+                nav {
+                    display: none;
+                    flex-direction: column;
+                    position: absolute;
+                    top: 100px;
+                    right: 0px;
+                    background: #0F3825;
+                    width: 100%;
+                    text-align: center;
+                    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+                }
+                nav a {
+                    padding: 15px;
+                    display: block;
+                }
+                nav.show {
+                    display: flex;
+                }
+            }
+            main {
+                padding-top: 160px;
+                text-align: center;
+                margin-left: 30px;
+                margin-right: 30px;
+                background-color: #FFFFFF;
+                }
+                .galerie {
+                    display: grid;
+                    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+                    gap: 30px;
+                    margin-top: 60px;
+            }
+            .galerie-img {
+                width: 100%;
+                height: 250px;
+                border-radius: 10px;
+                object-fit: cover;
+                transition: 0.3s ease-in-out;
+            }
+            .galerie-img:hover {
+                transform: scale(1.1);
+            }
+            h1 {
+                font-size: 60px;
+                margin-top: 20px;
+                margin-bottom: 20px;
+                color: #0F3825;
+            }
+            .lightbox {
+                position: fixed;
+                top: 0;
+                left: 0;
+                width: 100%;
+                height: 100%;
+                background: rgba(0, 0, 0, 0.8);
+                display: none;
+                justify-content: center;
+                align-items: center;
+                z-index: 2000;
+            }
+            .lightbox img {
+                max-width: 90%;
+                max-height: 80vh;
+                border-radius: 10px;
+            }
+            .lightbox .close {
+                position: absolute;
+                top: 20px;
+                right: 30px;
+                font-size: 40px;
+                color: white;
+                cursor: pointer;
+                background: none;
+                border: none;
+            }
+            .arrow {
+                position: absolute;
+                top: 50%;
+                transform: translateY(-50%);
+                font-size: 50px;
+                color: white;
+                cursor: pointer;
+                background: none;
+                border: none;
+                padding: 20px;
+            }
+            .arrow-left {
+                left: 20px;
+            }
+            .arrow-right {
+                right: 20px;
+            }
+        </style>
+    </head>
+    <body>
+        <header>
+            <div class="logo">
+                <a href="index.html">
+                    <img src="LOGO.png" alt="BISTRO FLORENC" loading="lazy">
+                </a>
+            </div>
+            <button id="menu-toggle">☰</button>
+            <nav id="nav-menu">
+                <a href="O_NAS.html">O NÁS</a>
+                <a href="MENU.html">DENNÍ MENU</a>
+                <a href="NASE_NABIDKA.html">NAŠE NABÍDKA</a>
+                <a href="KONTAKT.html">KONTAKT</a>
+                <a href="GALERIE.html">GALERIE</a>
+            </nav>
+        </header>
+        <main>
+            <h1>GALERIE</h1>
+            <div class="galerie">
+                <img class="galerie-img" src="slide1.jpg" alt="FOTKA" loading="lazy" onclick="openLightbox(this)">
+                <img class="galerie-img" src="slide2.jpg" alt="FOTKA" loading="lazy" onclick="openLightbox(this)">
+                <img class="galerie-img" src="slide3.jpg" alt="FOTKA" loading="lazy" onclick="openLightbox(this)">
+                <img class="galerie-img" src="kava.jpg" alt="FOTKA" loading="lazy" onclick="openLightbox(this)">
+                <img class="galerie-img" src="slide4.jpg" alt="FOTKA" loading="lazy" onclick="openLightbox(this)">
+                <img class="galerie-img" src="chlebicky.jpg" alt="FOTKA" loading="lazy" onclick="openLightbox(this)">
+                <img class="galerie-img" src="hermelinovy.jpg" alt="FOTKA" loading="lazy" onclick="openLightbox(this)">
+                <img class="galerie-img" src="krabi.jpg" alt="FOTKA" loading="lazy" onclick="openLightbox(this)">
+                <img class="galerie-img" src="schiacciata.jpg" alt="FOTKA" loading="lazy" onclick="openLightbox(this)">
+                <img class="galerie-img" src="sunka_vejce.jpg" alt="FOTKA" loading="lazy" onclick="openLightbox(this)">
+                <img class="galerie-img" src="sunkovy.jpg" alt="FOTKA" loading="lazy" onclick="openLightbox(this)">
+                <img class="galerie-img" src="svedsky.jpg" alt="FOTKA" loading="lazy" onclick="openLightbox(this)">
+                <img class="galerie-img" src="syrovy.jpg" alt="FOTKA" loading="lazy" onclick="openLightbox(this)">
+                <img class="galerie-img" src="torerro.jpg" alt="FOTKA" loading="lazy" onclick="openLightbox(this)">
+                <img class="galerie-img" src="uzene.jpg" alt="FOTKA" loading="lazy" onclick="openLightbox(this)">
+                <img class="galerie-img" src="vajickovy.jpg" alt="FOTKA" loading="lazy" onclick="openLightbox(this)">
+            </div>
+            <div id="lightbox" class="lightbox">
+                <button class="close" onclick="closeLightbox()">&times;</button>
+                <button class="arrow arrow-left" onclick="changeImage(-1)">&#10094;</button>
+                <img id="lightbox-img">
+                <button class="arrow arrow-right" onclick="changeImage(1)">&#10095;</button>
+            </div>
+        </main>
+        <script>
+            let images = document.querySelectorAll(".galerie-img");
+            let currentIndex = 0;
+            
+            function openLightbox(imgElement) {
+                currentIndex = Array.from(images).indexOf(imgElement);
+                document.getElementById("lightbox-img").src = imgElement.src;
+                document.getElementById("lightbox").style.display = "flex";
+            }
+
+            function closeLightbox() {
+                document.getElementById("lightbox").style.display = "none";
+            }
+            
+            function changeImage(direction) {
+                currentIndex = (currentIndex + direction + images.length) % images.length;
+                document.getElementById("lightbox-img").src = images[currentIndex].src;
+            }
+            
+            document.addEventListener("keydown", function(event) {
+                if (document.getElementById("lightbox").style.display === "flex") {
+                    if (event.key === "ArrowRight") changeImage(1);
+                    if (event.key === "ArrowLeft") changeImage(-1);
+                    if (event.key === "Escape") closeLightbox();
+                }
+            });
+            document.getElementById("menu-toggle").addEventListener("click", function() {
+            document.getElementById("nav-menu").classList.toggle("show");
+            });
+        </script>
+    </body>
+</html>
