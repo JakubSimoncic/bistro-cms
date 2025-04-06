@@ -21,13 +21,13 @@ collections:
         fields:
           - { label: "Titulek", name: "title", widget: "string", required: true }
           - { label: "text", name: "text", widget: "text" }
-          - { label: "HTML kód", name: "html", widget: "code", default_language: "html" }
+          - { label: "HTML kód", name: "html", widget: "text", default_language: "html" }
       - label: "Bagety"
         name: "bagety"
         fields:
           - { label: "Titulek", name: "title", widget: "string" }
           - { label: "text", name: "text", widget: "text" }
-          - { label: "HTML kód", name: "html", widget: "code", default_language: "html" }
+          - { label: "HTML kód", name: "html", widget: "text", default_language: "html" }
       - label: "Galerie"
         name: "galerie"
         fields:
@@ -35,13 +35,13 @@ collections:
           - { label: "Obrázky", name: "images", widget: "list", fields: [{ label: "Obrázek", name: "image", widget: "image" }] }
           - { label: "Popis", name: "description", widget: "markdown" }
           - { label: "text", name: "text", widget: "text" }
-          - { label: "HTML kód", name: "html", widget: "code", default_language: "html" }
+          - { label: "HTML kód", name: "html", widget: "text", default_language: "html" }
       - label: "Chlebíčky"
         name: "chlebicky"
         fields:
           - { label: "Titulek", name: "title", widget: "string" }
           - { label: "text", name: "text", widget: "text" }
-          - { label: "HTML kód", name: "html", widget: "code", default_language: "html" }
+          - { label: "HTML kód", name: "html", widget: "text", default_language: "html" }
       - label: "Kontakt"
         name: "kontakt"
         fields:
@@ -50,40 +50,40 @@ collections:
           - { label: "Telefon", name: "phone", widget: "string" }
           - { label: "Email", name: "email", widget: "string" }
           - { label: "text", name: "text", widget: "text" }
-          - { label: "HTML kód", name: "html", widget: "code", default_language: "html" }
+          - { label: "HTML kód", name: "html", widget: "text", default_language: "html" }
       - label: "Menu"
         name: "menu"
         fields:
           - { label: "Titulek", name: "title", widget: "string" }
           - { label: "text", name: "text", widget: "text" }
-          - { label: "HTML kód", name: "html", widget: "code", default_language: "html" }
+          - { label: "HTML kód", name: "html", widget: "text", default_language: "html" }
       - label: "Nápoje"
         name: "napoje"
         fields:
           - { label: "Titulek", name: "title", widget: "string" }
           - { label: "text", widget: "text", name: "text" }
-          - { label: "HTML kód", widget: "code", name: "html", default_language: "html" }
+          - { label: "HTML kód", name: "html", widget: "text",  default_language: "html" }
       - label: "Naše nabídka"
         name: "nase_nabidka"
         fields:
           - { label: "Titulek", name: "title", widget: "string" }
           - { label: "text", name: "text", widget: "text" }
-          - { label: "HTML kód", name: "html", widget: "code", default_language: "html" }
+          - { label: "HTML kód", name: "html", widget: "text", default_language: "html" }
       - label: "O nás"
         name: "o_nas"
         fields:
           - { label: "Titulek", name: "title", widget: "string" }
           - { label: "text", name: "text", widget: "text" }
-          - { label: "HTML kód", name: "html", widget: "code", default_language: "html" }
+          - { label: "HTML kód", name: "html", widget: "text", default_language: "html" }
       - label: "Pečivo"
         name: "pecivo"
         fields:
           - { label: "Titulek", name: "title", widget: "string" }
           - { label: "text", name: "text", widget: "text" }
-          - { label: "HTML kód", name: "html", widget: "code", default_language: "html" }
+          - { label: "HTML kód", name: "html", widget: "text", default_language: "html" }
       - label: "Pomazánky"
         name: "pomazanky"
         fields:
           - { label: "Titulek", name: "title", widget: "string", required: true }
           - { label: "text", name: "text", widget: "text" }
-          - { label: "HTML kód", name: "html", widget: "code", default_language: "html" }
+          - { label: "HTML kód", name: "html", widget: "text", default_language: "html" }
