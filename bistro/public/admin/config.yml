@@ -14,66 +14,86 @@ collections:
     slug: "{{slug}}"
     extension: "html"
     fields:
-      - { label: "Obsah", name: "body", widget: "markdown" } # Globální pole pro obsah
+      - { label: "Obsah", name: "body", widget: "markdown" }
     templates:
       - label: "Hlavní stránka"
         name: "index"
         identifier_field: "title"
         fields:
           - { label: "Titulek", name: "title", widget: "string", required: true }
-          - { label: "text", name: "text", widget: "markdown" }  # Změněno na markdown
+          - { label: "Text", name: "text", widget: "markdown" }
+
       - label: "Bagety"
         name: "bagety"
+        identifier_field: "title"
         fields:
-          - { label: "Titulek", name: "title", widget: "string" }
-          - { label: "text", name: "text", widget: "markdown" }  # Změněno na markdown
+          - { label: "Titulek", name: "title", widget: "string", required: true }
+          - { label: "Text", name: "text", widget: "markdown" }
+
       - label: "Galerie"
         name: "galerie"
+        identifier_field: "title"
         fields:
-          - { label: "Titulek", name: "title", widget: "string" }
+          - { label: "Titulek", name: "title", widget: "string", required: true }
           - { label: "Obrázky", name: "images", widget: "list", fields: [{ label: "Obrázek", name: "image", widget: "image" }] }
           - { label: "Popis", name: "description", widget: "markdown" }
-          - { label: "text", name: "text", widget: "markdown" }  # Změněno na markdown
+          - { label: "Text", name: "text", widget: "markdown" }
+
       - label: "Chlebíčky"
         name: "chlebicky"
+        identifier_field: "title"
         fields:
-          - { label: "Titulek", name: "title", widget: "string" }
-          - { label: "text", name: "text", widget: "markdown" }  # Změněno na markdown
+          - { label: "Titulek", name: "title", widget: "string", required: true }
+          - { label: "Text", name: "text", widget: "markdown" }
+
       - label: "Kontakt"
         name: "kontakt"
+        identifier_field: "title"
         fields:
-          - { label: "Titulek", name: "title", widget: "string" }
+          - { label: "Titulek", name: "title", widget: "string", required: true }
           - { label: "Adresa", name: "address", widget: "string" }
           - { label: "Telefon", name: "phone", widget: "string" }
           - { label: "Email", name: "email", widget: "string" }
-          - { label: "text", name: "text", widget: "markdown" }  # Změněno na markdown
+          - { label: "Text", name: "text", widget: "markdown" }
+
       - label: "Menu"
         name: "menu"
-        fields:
-          - { label: "Titulek", name: "title", widget: "string" }
-          - { label: "text", name: "text", widget: "markdown" }  # Změněno na markdown
-      - label: "Nápoje"
-        name: "napoje"
-        fields:
-          - { label: "Titulek", name: "title", widget: "string" }
-          - { label: "text", widget: "markdown", name: "text" }  # Změněno na markdown
-      - label: "Naše nabídka"
-        name: "nase_nabidka"
-        fields:
-          - { label: "Titulek", name: "title", widget: "string" }
-          - { label: "text", name: "text", widget: "markdown" }  # Změněno na markdown
-      - label: "O nás"
-        name: "o_nas"
-        fields:
-          - { label: "Titulek", name: "title", widget: "string" }
-          - { label: "text", name: "text", widget: "markdown" }  # Změněno na markdown
-      - label: "Pečivo"
-        name: "pecivo"
-        fields:
-          - { label: "Titulek", name: "title", widget: "string" }
-          - { label: "text", name: "text", widget: "markdown" }  # Změněno na markdown
-      - label: "Pomazánky"
-        name: "pomazanky"
+        identifier_field: "title"
         fields:
           - { label: "Titulek", name: "title", widget: "string", required: true }
-          - { label: "text", name: "text", widget: "markdown" }  # Změněno na markdown
+          - { label: "Text", name: "text", widget: "markdown" }
+
+      - label: "Nápoje"
+        name: "napoje"
+        identifier_field: "title"
+        fields:
+          - { label: "Titulek", name: "title", widget: "string", required: true }
+          - { label: "Text", name: "text", widget: "markdown" }
+
+      - label: "Naše nabídka"
+        name: "nase_nabidka"
+        identifier_field: "title"
+        fields:
+          - { label: "Titulek", name: "title", widget: "string", required: true }
+          - { label: "Text", name: "text", widget: "markdown" }
+
+      - label: "O nás"
+        name: "o_nas"
+        identifier_field: "title"
+        fields:
+          - { label: "Titulek", name: "title", widget: "string", required: true }
+          - { label: "Text", name: "text", widget: "markdown" }
+
+      - label: "Pečivo"
+        name: "pecivo"
+        identifier_field: "title"
+        fields:
+          - { label: "Titulek", name: "title", widget: "string", required: true }
+          - { label: "Text", name: "text", widget: "markdown" }
+
+      - label: "Pomazánky"
+        name: "pomazanky"
+        identifier_field: "title"
+        fields:
+          - { label: "Titulek", name: "title", widget: "string", required: true }
+          - { label: "Text", name: "text", widget: "markdown" }
