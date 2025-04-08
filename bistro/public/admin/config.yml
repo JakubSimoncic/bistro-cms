@@ -18,6 +18,7 @@ collections:
     templates:
       - label: "Hlavní stránka"
         name: "index"
+        identifier_field: "title"
         fields:
           - { label: "Titulek", name: "title", widget: "string", required: true }
           - { label: "text", name: "text", widget: "markdown" }  # Změněno na markdown
