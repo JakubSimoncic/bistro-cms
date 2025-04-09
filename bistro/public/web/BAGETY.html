@@ -230,7 +230,7 @@
         </script>
         <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
         <script>
-        fetch('bistro/public/ontent/BAGETY.md')
+        fetch('bistro/public/content/BAGETY.md')
           .then(response => response.text())
           .then(text => {
             document.getElementById('content').innerHTML = marked.parse(text);
