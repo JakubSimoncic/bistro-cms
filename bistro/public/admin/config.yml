@@ -9,7 +9,7 @@ public_folder: "/uploads"
 collections:
   - name: "pages"
     label: "Pages"
-    folder: "bistro/public/web"
+    folder: "bistro/public/content"
     create: true
     slug: "{{slug}}"
     extension: "html"
