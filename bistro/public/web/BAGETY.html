@@ -6,7 +6,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta name="description" content="Bistro na Florenci s výrobou chlebíčků, sendvičů a baget.">
         <meta name="keywords" content="bistro, Florenc, chlebíčky, sendviče, bagety, jídlo, občerstvení">
-        <title>BISTRO FLORENC - BAGETY</title>
+        <title>BISTRO FLORENC | BAGETY</title>
         <style>
                 body {  margin: 0;
                     padding: 0;
@@ -90,7 +90,7 @@
                     }
                     nav.show {
                         display: flex;
-                }
+                    }
                     }
                     footer {
                         padding: 50px;
@@ -210,93 +210,8 @@
                 </a>
             </div>
         </main>
-        <footer>
-            <h1>BAGETY</h1>
-            <section class="menu-section">
-                <h2>STAROČESKÁ / FRANCOUZSKÁ</h2>
-                <div class="menu-item">
-                    <div>
-                        <h4>chlebíčková</h4>
-                        <p>bramborový salát, šunka, paprikáš, uzený sýr, uzená krkovička, kyselá okurka, paprika</p>
-                    </div>
-                    <span>69 Kč</span>
-                </div>
-                <div class="menu-item">
-                    <div>
-                        <h4>kuřecí stripsy</h4>
-                        <p>dresink texas (majonéza, uzená paprika, chilli), kuřecí stripsy, salát, rajče, paprika, okurka</p>
-                    </div>
-                    <span>69 Kč</span>
-                </div>
-                <div class="menu-item">
-                    <div>
-                        <h4>sýrová</h4>
-                        <p>tavený sýr, gouda, uzený eidam, hermelín, oliva, rajče, vejce, kyselá okurka</p> 
-                    </div>
-                    <span>65 Kč</span>
-                </div>
-            </section>
-            <section class="menu-section">
-                <h2>PLETÝNKA</h2>
-                <div class="menu-item">
-                    <div>
-                        <h4>s debrecínkou</h4>
-                        <p>máslo, debrecínka, listový salát, paprika, kyselá okurka</p>
-                    </div>
-                    <span>52 Kč</span>
-                </div>
-                <div class="menu-item">
-                    <div>
-                        <h4>šunka-sýr</h4>
-                        <p>máslo, šunka, sýr, listový salát, rajče, kyselá okurka</p>
-                    </div>
-                    <span>52 Kč</span>
-                </div>
-                <div class="menu-item">
-                    <div>
-                        <h4>turistická</h4>
-                        <p>máslo, turistický salám, vejce, paprika, kyselá okurka, listový salát</p>
-                    </div>
-                    <span>52 Kč</span>
-                </div>
-            </section>
-            <section class="menu-section">
-                <h2>VÍCEZRNNÝ ROHLÍČEK</h2>
-                <div class="menu-item">
-                    <div>
-                        <h4>šunkový</h4>
-                        <p>máslo, šunka, vejce, kyselá okurka, paprika, rajče, kudrnka</p>
-                    </div>
-                    <span>45 Kč</span>
-                </div>
-                <div class="menu-item">
-                    <div>
-                        <h4>gorgonzolový</h4>
-                        <p>gorgonzolová pomazánka, (gorgonzola, philadelphia, mascarpone), listový salát, rajče, microgreen</p>
-                    </div>
-                    <span>45 Kč</span>
-                </div>
-                <div class="menu-item">
-                    <div>
-                        <h4>chorizo</h4>
-                        <p>máslo, chorizo, oliva, kyselá okurka, paprika</p>
-                    </div>
-                    <span>45 Kč</span>
-                </div>
-                <div class="menu-item">
-                    <div>
-                        <h4>schiacciata</h4>
-                    </div>
-                    <span>59 Kč</span>
-                </div>
-                <div class="menu-item">
-                    <div>
-                        <h4>ciabatta se zelím a kmínem</h4>
-                    </div>
-                    <span>59 Kč</span>
-                </div>
-            </section>
-        </footer>
+        <footer id="content"></footer>
+        
         <script>
             document.addEventListener("DOMContentLoaded", function() {
         const menuButton = document.getElementById('menu-toggle');
@@ -313,5 +228,13 @@
         });
     });
         </script>
+        <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+        <script>
+        fetch('../content/BAGETY.md')
+          .then(response => response.text())
+          .then(text => {
+            document.getElementById('content').innerHTML = marked.parse(text);
+          });
+        </script>        
     </body>
 </html>
