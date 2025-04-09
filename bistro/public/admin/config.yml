@@ -9,7 +9,7 @@ public_folder: "/uploads"
 collections:
   - name: "pages"
     label: "Pages"
-    folder: "/content/BAGETY.md"
+    folder: "/content"
     create: true
     slug: "{{slug}}"
     extension: "html"
