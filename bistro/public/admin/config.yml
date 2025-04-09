@@ -1,6 +1,6 @@
 backend:
   name: git-gateway
-  repo: JakubSimoncic/web
+  repo: JakubSimoncic/bistro-cms
   branch: main
 
 media_folder: "uploads"
