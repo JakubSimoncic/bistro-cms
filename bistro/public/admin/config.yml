@@ -5,8 +5,14 @@ backend:
   folder: "public/content"
   create: true
   slug: "{{slug}}"
-  media_folder: "public/uploads"  # Cesta pro ukládání médií
-  public_folder: "/uploads"       # Veřejná cesta k médiím
+  media_folder: "public/uploads"  # Zde je cesta pro ukládání médií
+  public_folder: "/uploads"       # Veřejná cesta pro přístup k médiím
+
+media_library:
+  name: media-store  # Typ knihovny pro správu médií, například Netlify nebo Cloudinary
+  config:
+    media_folder: "public/uploads"  # Stejná cesta pro ukládání médií
+    public_folder: "/uploads"      # Stejná veřejná cesta pro přístup
 
 collections:
   - name: "pages"
