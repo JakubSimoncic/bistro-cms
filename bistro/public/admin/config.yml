@@ -5,8 +5,8 @@ backend:
   folder: "public/content"
   create: true
   slug: "{{slug}}"
-  media_folder: "uploads"
-  public_folder: "/uploads"
+  media_folder: "public/uploads"  # Cesta pro ukládání médií
+  public_folder: "/uploads"       # Veřejná cesta k médiím
 
 collections:
   - name: "pages"
