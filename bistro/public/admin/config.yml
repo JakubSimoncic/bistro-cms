@@ -2,11 +2,11 @@ backend:
   name: git-gateway
   repo: JakubSimoncic/bistro-cms
   branch: main
-    folder: "public/content"
-    create: true
-    slug: "{{slug}}"
-    media_folder: "uploads"
-    public_folder: "/uploads"
+  folder: "public/content"
+  create: true
+  slug: "{{slug}}"
+  media_folder: "uploads"
+  public_folder: "/uploads"
 
 collections:
   - name: "pages"
