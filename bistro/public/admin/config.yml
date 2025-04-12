@@ -14,6 +14,7 @@ collections:
         name: "bagety"
         file: "content/BAGETY.md"
         fields:
+         - { label: "Titulek", name: "title", widget: "string", required: true }
           - { label: "Text", name: "text", widget: "markdown" }
 
       - label: "Chlebíčky"
