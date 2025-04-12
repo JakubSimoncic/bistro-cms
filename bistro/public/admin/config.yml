@@ -5,8 +5,14 @@ backend:
   folder: "public/content"
   create: true
   slug: "{{slug}}"
-  media_folder: "public/uploads"  # Cesta pro ukládání médií
+  media_folder: "public/uploads"  # Cesta pro ukládání médií (místní složka)
   public_folder: "/uploads"       # Cesta pro veřejný přístup k médiím
+
+media_library:
+  name: local  # Místní knihovna pro správu médií (pokud neplánuješ používat externí knihovny)
+  config:
+    media_folder: "public/uploads"  # Složka pro ukládání médií
+    public_folder: "/uploads"       # Veřejná složka pro přístup k médiím
 
 collections:
   - name: "pages"
