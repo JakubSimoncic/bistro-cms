@@ -8,52 +8,52 @@ title: "Bagety"
 
 ## STAROČESKÁ / FRANCOUZSKÁ
 
-### chlebíčková  
-bramborový salát, šunka, paprikáš, uzený sýr, uzená krkovička, kyselá okurka, paprika  
+### Chlebíčková
+Bramborový salát, šunka, paprikáš, uzený sýr, uzená krkovička, kyselá okurka, paprika  
 **69 Kč**
 
-### kuřecí stripsy  
-dresink texas (majonéza, uzená paprika, chilli), kuřecí stripsy, salát, rajče, paprika, okurka  
+### Kuřecí stripsy
+Dresink Texas (majonéza, uzená paprika, chilli), kuřecí stripsy, salát, rajče, paprika, okurka  
 **69 Kč**
 
-### sýrová  
-tavený sýr, gouda, uzený eidam, hermelín, oliva, rajče, vejce, kyselá okurka  
+### Sýrová
+Tavený sýr, gouda, uzený eidam, hermelín, oliva, rajče, vejce, kyselá okurka  
 **65 Kč**
 
 ---
 
 ## PLETÝNKA
 
-### s debrecínkou  
-máslo, debrecínka, listový salát, paprika, kyselá okurka  
+### S debrecínkou
+Máslo, debrecínka, listový salát, paprika, kyselá okurka  
 **52 Kč**
 
-### šunka-sýr  
-máslo, šunka, sýr, listový salát, rajče, kyselá okurka  
+### Šunka-sýr
+Máslo, šunka, sýr, listový salát, rajče, kyselá okurka  
 **52 Kč**
 
-### turistická  
-máslo, turistický salám, vejce, paprika, kyselá okurka, listový salát  
+### Turistická
+Máslo, turistický salám, vejce, paprika, kyselá okurka, listový salát  
 **52 Kč**
 
 ---
 
 ## VÍCEZRNNÝ ROHLÍČEK
 
-### šunkový  
-máslo, šunka, vejce, kyselá okurka, paprika, rajče, kudrnka  
+### Šunkový
+Máslo, šunka, vejce, kyselá okurka, paprika, rajče, kudrnka  
 **45 Kč**
 
-### gorgonzolový  
-gorgonzolová pomazánka (gorgonzola, philadelphia, mascarpone), listový salát, rajče, microgreen  
+### Gorgonzolový
+Gorgonzolová pomazánka (gorgonzola, philadelphia, mascarpone), listový salát, rajče, microgreen  
 **45 Kč**
 
-### chorizo  
-máslo, chorizo, oliva, kyselá okurka, paprika  
+### Chorizo
+Máslo, chorizo, oliva, kyselá okurka, paprika  
 **45 Kč**
 
-### schiacciata  
+### Schiacciata  
 **59 Kč**
 
-### ciabatta se zelím a kmínem  
+### Ciabatta se zelím a kmínem  
 **59 Kč**
