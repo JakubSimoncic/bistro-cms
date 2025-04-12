@@ -1,59 +1,159 @@
----
-title: "Bagety"
-text: |
-  ![Zpět](ŠIPKA.png)
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Bistro na Florenci s výrobou chlebíčků, sendvičů a baget." />
+  <meta name="keywords" content="bistro, Florenc, chlebíčky, sendviče, bagety, jídlo, občerstvení" />
+  <title>Bistro Florenc | Bagety</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: Arial, Helvetica, sans-serif;
+      color: #0F3825;
+    }
+    header {
+      position: fixed;
+      width: 100%;
+      top: 0;
+      left: 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 15px 20px;
+      background: #0F3825;
+      box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+      z-index: 1000;
+    }
+    .logo {
+      margin-left: 20px;
+    }
+    .logo img {
+      height: 120px;
+    }
+    #menu-toggle {
+      display: none;
+      font-size: 30px;
+      background: none;
+      border: none;
+      cursor: pointer;
+    }
+    nav {
+      display: flex;
+      align-items: center;
+      margin-right: 150px;
+    }
+    nav a {
+      color: #F5F1E3;
+      text-decoration: none;
+      margin: 0 15px;
+      font-size: 20px;
+      text-transform: uppercase;
+      font-weight: bold;
+      transition: color 0.3s;
+    }
+    nav a:hover {
+      color: #d4a373;
+      text-decoration: underline;
+    }
+    @media (max-width: 768px) {
+      .logo img {
+        height: 80px;
+      }
+      #menu-toggle {
+        display: block;
+        position: absolute;
+        top: 15px;
+        right: 20px;
+      }
+      nav {
+        display: none;
+        flex-direction: column;
+        position: absolute;
+        top: 100px;
+        right: 0px;
+        background: #0F3825;
+        width: 100%;
+        text-align: center;
+        box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+      }
+      nav a {
+        padding: 15px;
+        display: block;
+        color: #F5F1E3;
+      }
+      nav.show {
+        display: flex;
+      }
+    }
+    main {
+      padding-top: 170px;
+      padding-left: 20px;
+      padding-right: 20px;
+    }
+    .sipka img {
+      width: 50px;
+      height: auto;
+    }
+    #obsah h1, #obsah h2, #obsah h3 {
+      color: #0F3825;
+      text-align: center;
+    }
+    #obsah strong {
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="logo">
+      <a href="index.html">
+        <img src="LOGO.png" alt="BISTRO FLORENC" loading="lazy" />
+      </a>
+    </div>
+    <button class="button" id="menu-toggle">☰</button>
+    <nav id="nav-menu">
+      <a href="O_NAS.html">O NÁS</a>
+      <a href="MENU.html">DENNÍ MENU</a>
+      <a href="NASE_NABIDKA.html">NAŠE NABÍDKA</a>
+      <a href="KONTAKT.html">KONTAKT</a>
+      <a href="GALERIE.html">GALERIE</a>
+    </nav>
+  </header>
 
-  # BAGETY
+  <main>
+    <div class="sipka">
+      <a href="NASE_NABIDKA.html">
+        <img src="ŠIPKA.png" alt="ZPĚT" loading="lazy" />
+      </a>
+    </div>
+    <div id="obsah">Načítám obsah…</div>
+  </main>
 
-  ## STAROČESKÁ / FRANCOUZSKÁ
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <script>
+    fetch('bagety.md')
+      .then(res => res.text())
+      .then(md => {
+        const html = marked.parse(md);
+        document.getElementById('obsah').innerHTML = html;
+      })
+      .catch(err => {
+        document.getElementById('obsah').innerHTML = "<p>❌ Nepodařilo se načíst obsah.</p>";
+        console.error(err);
+      });
 
-  ### chlebíčková  
-  bramborový salát, šunka, paprikáš, uzený sýr, uzená krkovička, kyselá okurka, paprika  
-  **69 Kč**
+    document.addEventListener("DOMContentLoaded", function () {
+      const menuButton = document.getElementById('menu-toggle');
+      const navMenu = document.getElementById('nav-menu');
 
-  ### kuřecí stripsy  
-  dresink texas (majonéza, uzená paprika, chilli), kuřecí stripsy, salát, rajče, paprika, okurka  
-  **69 Kč**
+      if (!menuButton || !navMenu) return;
 
-  ### sýrová  
-  tavený sýr, gouda, uzený eidam, hermelín, oliva, rajče, vejce, kyselá okurka  
-  **65 Kč**
-
-  ---
-
-  ## PLETÝNKA
-
-  ### s debrecínkou  
-  máslo, debrecínka, listový salát, paprika, kyselá okurka  
-  **52 Kč**
-
-  ### šunka-sýr  
-  máslo, šunka, sýr, listový salát, rajče, kyselá okurka  
-  **52 Kč**
-
-  ### turistická  
-  máslo, turistický salám, vejce, paprika, kyselá okurka, listový salát  
-  **52 Kč**
-
-  ---
-
-  ## VÍCEZRNNÝ ROHLÍČEK
-
-  ### šunkový  
-  máslo, šunka, vejce, kyselá okurka, paprika, rajče, kudrnka  
-  **45 Kč**
-
-  ### gorgonzolový  
-  gorgonzolová pomazánka (gorgonzola, philadelphia, mascarpone), listový salát, rajče, microgreen  
-  **45 Kč**
-
-  ### chorizo  
-  máslo, chorizo, oliva, kyselá okurka, paprika  
-  **45 Kč**
-
-  ### schiacciata  
-  **59 Kč**
-
-  ### ciabatta se zelím a kmínem  
-  **59 Kč**
----
+      menuButton.addEventListener('click', function () {
+        navMenu.classList.toggle('show');
+      });
+    });
+  </script>
+</body>
+</html>
