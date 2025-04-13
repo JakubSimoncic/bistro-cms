@@ -216,7 +216,7 @@
           });
     
           // Načtení Markdownu a vykreslení obsahu
-          fetch(""../content/BAGETY.md"")
+          fetch("/content/BAGETY.md")
             .then((response) => response.text())
             .then((markdown) => {
               const match = markdown.match(/---\s*\ntitle:.*?\ntext:\s*\|([\s\S]*?)\n---/);
