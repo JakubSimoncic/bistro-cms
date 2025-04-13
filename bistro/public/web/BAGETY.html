@@ -8,57 +8,57 @@
   <title>BISTRO FLORENC | BAGETY</title>
   <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
   <style>
-    body { margin: 0; padding: 0; font-family: Arial, Helvetica, sans-serif; color:#0F3825 }
-    header {
+    main body { margin: 0; padding: 0; font-family: Arial, Helvetica, sans-serif; color:#0F3825 }
+    main header {
       position: fixed; width: 100%; top: 0; left: 0; display: flex;
       justify-content: space-between; align-items: center;
       padding: 15px 20px; background: #0F3825;
       box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); z-index: 1000;
     }
-    .logo { margin-left: 20px; }
-    .logo img { height: 120px; }
-    #menu-toggle {
+    main .logo { margin-left: 20px; }
+    main .logo img { height: 120px; }
+    main #menu-toggle {
       display: none; font-size: 30px; background: none; border: none; cursor: pointer;
     }
-    nav {
+    main nav {
       display: flex; align-items: center; margin-right: 150px;
     }
-    nav a {
+    main nav a {
       color: #F5F1E3; text-decoration: none; margin: 0 15px;
       font-size: 20px; text-transform: uppercase; font-weight: bold; transition: color 0.3s;
     }
-    nav a:hover {
+    main nav a:hover {
       color: #d4a373; text-decoration: underline;
     }
-    span { width: 50px; }
+    main span { width: 50px; }
 
-    @media (max-width: 768px) {
-      .logo img { height: 80px; }
-      #menu-toggle {
+    main @media (max-width: 768px) {
+      main .logo img { height: 80px; }
+      main #menu-toggle {
         display: block; position: absolute; margin-right: 30px;
         top: 15px; right: 20px;
       }
-      nav {
+      main nav {
         display: none; flex-direction: column; position: absolute;
         top: 100px; right: 0px; background: #0F3825;
         width: 100%; text-align: center;
         box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
       }
-      nav a {
+      main nav a {
         padding: 15px; display: block;
         font-weight: bold; color: #F5F1E3;
       }
-      nav.show { display: flex; }
+      main nav.show { display: flex; }
     }
 
-    main {
+    main main {
       padding-top: 170px;
       text-align: left;
       padding-left: 20px;
       padding-right: 20px;
     }
 
-    footer {
+    main footer {
       padding: 50px;
       max-width: 800px;
       margin: 0 auto;
@@ -66,12 +66,12 @@
       box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     }
 
-    img {
+    main img {
       max-width: 100%;
       height: auto;
     }
 
-    button {
+    main button {
       color: #F5F1E3;
     }
   </style>
