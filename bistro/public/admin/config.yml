@@ -12,7 +12,7 @@ collections:
     folder: "bistro/public/content"
     create: true
     slug: "{{slug}}"
-    extension: "md"
+    extension: "html"
     format: "frontmatter"
     fields:
       - label: "Text"
@@ -21,7 +21,7 @@ collections:
   - name: "bagety_page"
     label: "Obsah Baget"
     files:
-      - file: "bistro/public/content/BAGETY.md"
+      - file: "bistro/public/web/BAGETY.html
         label: "Hlavní obsah"
         name: "main_content"
         fields:
