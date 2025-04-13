@@ -1,8 +1,4 @@
 ---
-title: BAGETY
-text: >-
-  ![Zpět](ŠIPKA.png)
-
   ## STAROČESKÁ / FRANCOUZSKÁ
 
   ### chlebíčková  
