@@ -21,3 +21,16 @@ collections:
       - label: "Text"
         name: "text"
         widget: "markdown"
+  - name: "bagety_page"
+    label: "Obsah Baget"
+    files:
+      - file: "bistro/public/content/BAGETY.md"
+        label: "Hlavní obsah"
+        name: "main_content"
+        fields:
+          - label: "Titulek"
+            name: "title"
+            widget: "string"
+          - label: "Obsah"
+            name: "text"
+            widget: "markdown"
