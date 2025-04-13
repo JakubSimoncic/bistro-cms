@@ -5,8 +5,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta name="description" content="Bistro na Florenci s výrobou chlebíčků, sendvičů a baget." />
   <meta name="keywords" content="bistro, Florenc, chlebíčky, sendviče, bagety, jídlo, občerstvení" />
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/js-yaml/4.1.0/js-yaml.min.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
   <title>BISTRO FLORENC | BAGETY</title>
   <style>
     body {
@@ -72,6 +70,10 @@
       padding-left: 20px;
       padding-right: 20px;
       text-align: left;
+    }
+
+    .sipka {
+      margin-bottom: 20px;
     }
 
     .sipka img {
@@ -218,10 +220,10 @@
     </nav>
   </header>
   <div class="sipka">
-                <a href="NASE_NABIDKA.html">
-                    <img src="ŠIPKA.png" alt="ZPĚT" loading="lazy">
-                </a>
-            </div>
+    <a href="NASE_NABIDKA.html">
+      <img src="ŠIPKA.png" alt="ZPĚT" loading="lazy">
+    </a>
+  </div>
   <main>
     <div id="content">Načítání obsahu...</div>
   </main>
@@ -236,33 +238,13 @@
         navMenu.classList.toggle("show");
       });
 
-      fetch("/content/BAGETY.md")
+      fetch("/content/BAGETY.md") // Předpokládám, že stále načítáte BAGETY.md
         .then((response) => response.text())
-        .then((markdown) => {
-          const frontmatterSeparator = '---';
-          const parts = markdown.split(frontmatterSeparator).filter(part => part.trim() !== '');
-          let frontmatter = {};
-          let content = '';
-
-          if (parts.length >= 2) {
-            try {
-              frontmatter = jsyaml.load(parts[0]);
-              content = parts[1].trim();
-            } catch (e) {
-              console.error("Chyba při parsování frontmatter:", e);
-              content = markdown; // Pokud se nepodaří parsovat, zobrazíme celý obsah
-            }
-          } else {
-            content = markdown; // Pokud frontmatter není nalezen
-          }
-
-          // Můžete použít frontmatter.title, pokud chcete někde zobrazit název
-          // document.querySelector('h1').textContent = frontmatter.title || 'BAGETY';
-
-          contentDiv.innerHTML = marked.parse(content);
+        .then((htmlContent) => {
+          contentDiv.innerHTML = htmlContent; // Přímo vložíme HTML obsah
         })
         .catch((error) => {
-          console.error("Chyba při načítání BAGETY.md:", error);
+          console.error("Chyba při načítání obsahu:", error);
           contentDiv.innerHTML = "⚠️ Obsah se nepodařilo načíst.";
         });
     });
