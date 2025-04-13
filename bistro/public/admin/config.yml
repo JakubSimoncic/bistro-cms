@@ -20,7 +20,7 @@ collections:
         widget: "string"
       - label: "Text"
         name: "text"
-        widget: "markdown" # Ponecháváme markdown pro ostatní stránky
+        widget: "markdown"
   - name: "bagety_page"
     label: "Obsah Baget"
     files:
@@ -33,4 +33,4 @@ collections:
             widget: "string"
           - label: "Obsah"
             name: "text"
-            widget: "rich_text" # Změněno na rich_text
+            widget: "markdown" # ZPĚT NA markdown
