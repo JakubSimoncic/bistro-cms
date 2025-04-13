@@ -17,8 +17,6 @@ text: >-
   tavený sýr, gouda, uzený eidam, hermelín, oliva, rajče, vejce, kyselá okurka  
   **65 Kč**
 
-  ---
-
   ## PLETÝNKA
 
   ### s debrecínkou  
@@ -32,8 +30,6 @@ text: >-
   ### turistická  
   máslo, turistický salám, vejce, paprika, kyselá okurka, listový salát  
   **52 Kč**
-
-  ---
 
   ## VÍCEZRNNÝ ROHLÍČEK
 
