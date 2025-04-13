@@ -162,7 +162,7 @@
                     main .menu-item span {
                         font-weight: bold;
                     }
-                    main @media (max-width: 600px) {
+                    @media (max-width: 600px) {
                         main .menu-item {
                             flex-direction: column;
                             align-items: flex-start;
@@ -217,7 +217,7 @@
           });
     
           // Načtení Markdownu a vykreslení obsahu
-          fetch("/content/BAGETY.md")
+          fetch("../content/BAGETY.md")
             .then((response) => response.text())
             .then((markdown) => {
               const match = markdown.match(/---\s*\ntitle:.*?\ntext:\s*\|([\s\S]*?)\n---/);
