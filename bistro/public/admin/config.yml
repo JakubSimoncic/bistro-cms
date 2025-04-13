@@ -25,9 +25,6 @@ collections:
         label: "Hlavní obsah"
         name: "main_content"
         fields:
-          - label: "Titulek"
-            name: "title"
-            widget: "string"
           - label: "Obsah"
             name: "text"
             widget: "markdown" # ZPĚT NA markdown
