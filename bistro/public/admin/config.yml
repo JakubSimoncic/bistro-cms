@@ -1,90 +1,78 @@
 backend:
   name: git-gateway
-  repo: JakubSimoncic/bistro-cms
+  repo: JakubSimoncic/web
   branch: main
+
+media_folder: "uploads"
+public_folder: "/uploads"
 
 collections:
   - name: "pages"
-    label: "Stránky"
-    files:
+    label: "Pages"
+    folder: "bistro/public/web"
+    create: true
+    slug: "{{slug}}"
+    extension: "html"
+    fields:
+      - { label: "Obsah", name: "body", widget: "markdown" } # Globální pole pro obsah
+    templates:
+      - label: "Hlavní stránka"
+        name: "index"
+        fields:
+          - { label: "Titulek", name: "title", widget: "string", required: true }
+          - { label: "text", name: "text", widget: "markdown" }  # Změněno na markdown
       - label: "Bagety"
         name: "bagety"
-        file: "content/BAGETY.md"
         fields:
-          - { label: "Titulek", name: "title", widget: "string", required: true }
-          - { label: "Text", name: "text", widget: "markdown" }
-
-      - label: "Chlebíčky"
-        name: "chlebicky"
-        file: "content/CHLEBICKY.md"
-        fields:
-          - { label: "Titulek", name: "title", widget: "string", required: true }
-          - { label: "Text", name: "text", widget: "markdown" }
-
+          - { label: "Titulek", name: "title", widget: "string" }
+          - { label: "text", name: "text", widget: "markdown" }  # Změněno na markdown
       - label: "Galerie"
         name: "galerie"
-        file: "content/GALERIE.md"
         fields:
-          - { label: "Titulek", name: "title", widget: "string", required: true }
+          - { label: "Titulek", name: "title", widget: "string" }
           - { label: "Obrázky", name: "images", widget: "list", fields: [{ label: "Obrázek", name: "image", widget: "image" }] }
           - { label: "Popis", name: "description", widget: "markdown" }
-          - { label: "Text", name: "text", widget: "markdown" }
-
+          - { label: "text", name: "text", widget: "markdown" }  # Změněno na markdown
+      - label: "Chlebíčky"
+        name: "chlebicky"
+        fields:
+          - { label: "Titulek", name: "title", widget: "string" }
+          - { label: "text", name: "text", widget: "markdown" }  # Změněno na markdown
       - label: "Kontakt"
         name: "kontakt"
-        file: "content/KONTAKT.md"
         fields:
-          - { label: "Titulek", name: "title", widget: "string", required: true }
+          - { label: "Titulek", name: "title", widget: "string" }
           - { label: "Adresa", name: "address", widget: "string" }
           - { label: "Telefon", name: "phone", widget: "string" }
           - { label: "Email", name: "email", widget: "string" }
-          - { label: "Text", name: "text", widget: "markdown" }
-
+          - { label: "text", name: "text", widget: "markdown" }  # Změněno na markdown
       - label: "Menu"
         name: "menu"
-        file: "content/MENU.md"
         fields:
-          - { label: "Titulek", name: "title", widget: "string", required: true }
-          - { label: "Text", name: "text", widget: "markdown" }
-
+          - { label: "Titulek", name: "title", widget: "string" }
+          - { label: "text", name: "text", widget: "markdown" }  # Změněno na markdown
       - label: "Nápoje"
         name: "napoje"
-        file: "content/NAPOJE.md"
         fields:
-          - { label: "Titulek", name: "title", widget: "string", required: true }
-          - { label: "Text", name: "text", widget: "markdown" }
-
+          - { label: "Titulek", name: "title", widget: "string" }
+          - { label: "text", widget: "markdown", name: "text" }  # Změněno na markdown
       - label: "Naše nabídka"
         name: "nase_nabidka"
-        file: "content/NASE_NABIDKA.md"
         fields:
-          - { label: "Titulek", name: "title", widget: "string", required: true }
-          - { label: "Text", name: "text", widget: "markdown" }
-
+          - { label: "Titulek", name: "title", widget: "string" }
+          - { label: "text", name: "text", widget: "markdown" }  # Změněno na markdown
       - label: "O nás"
         name: "o_nas"
-        file: "content/O_NAS.md"
         fields:
-          - { label: "Titulek", name: "title", widget: "string", required: true }
-          - { label: "Text", name: "text", widget: "markdown" }
-
+          - { label: "Titulek", name: "title", widget: "string" }
+          - { label: "text", name: "text", widget: "markdown" }  # Změněno na markdown
       - label: "Pečivo"
         name: "pecivo"
-        file: "content/PECIVO.md"
         fields:
-          - { label: "Titulek", name: "title", widget: "string", required: true }
-          - { label: "Text", name: "text", widget: "markdown" }
-
+          - { label: "Titulek", name: "title", widget: "string" }
+          - { label: "text", name: "text", widget: "markdown" }  # Změněno na markdown
       - label: "Pomazánky"
         name: "pomazanky"
-        file: "content/POMAZANKY.md"
         fields:
           - { label: "Titulek", name: "title", widget: "string", required: true }
-          - { label: "Text", name: "text", widget: "markdown" }
-
-      - label: "Hlavní stránka"
-        name: "index"
-        file: "content/index.md"
-        fields:
-          - { label: "Titulek", name: "title", widget: "string", required: true }
-          - { label: "Text", name: "text", widget: "markdown" }
+          - { label: "text", name: "text", widget: "markdown" }  # Změněno na markdown
