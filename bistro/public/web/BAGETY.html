@@ -1,57 +1,3 @@
----
-footer_text: " <h1>BAGETY</h1>
-
-                   <section class=\"menu-section\">
-
-                       <h2>STAROČESKÁ / FRANCOUZSKÁ</h2>
-
-                       <div class=\"menu-item\">
-
-                           <div>
-
-                               <h4>chlebíčková</h4>
-
-                               <p>bramborový salát, šunka, paprikáš, uzený
-  sýr, uzená krkovička, kyselá okurka, paprika</p>
-
-                           </div>
-
-                           <span>69 Kč</span>
-
-                       </div>
-
-                       <div class=\"menu-item\">
-
-                           <div>
-
-                               <h4>kuřecí stripsy</h4>
-
-                               <p>dresink texas (majonéza, uzená paprika,
-  chilli), kuřecí stripsy, salát, rajče, paprika, okurka</p>
-
-                           </div>
-
-                           <span>69 Kč</span>
-
-                       </div>
-
-                       <div class=\"menu-item\">
-
-                           <div>
-
-                               <h4>sýrová</h4>
-
-                               <p>tavený sýr, gouda, uzený eidam, hermelín,
-  oliva, rajče, vejce, kyselá okurka</p> 
-
-                           </div>
-
-                           <span>65 Kč</span>
-
-                       </div>
-
-                   </section>"
----
 <!DOCTYPE html>
 
 <html lang="cs">
@@ -159,21 +105,21 @@ footer_text: " <h1>BAGETY</h1>
                         display: flex;
                 }
                     }
-                    .footer-text-markdown footer {
+                    footer {
                         padding: 50px;
                         max-width: 800px;
                         margin: 0 auto;
                         background-color: #ffffff;
                         box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
                     }
-                    .footer-text-markdown h1 {
+                    h1 {
                             font-size: 60px;
                             font-weight: bold;
                             margin-bottom: 60px;
                             text-align: center;
                             color: #0F3825;
                     }
-                    .footer-text-markdown h2 {
+                    h2 {
                         border-bottom: 2px;
                         padding-bottom: 5px;
                         font-size: 35px;
@@ -185,39 +131,39 @@ footer_text: " <h1>BAGETY</h1>
                         overflow-wrap: break-word;
                         text-align: center;
                     }
-                    .footer-text-markdown h3 {
+                    h3 {
                         font-size: 30px;
                         margin-top: 50px;
                         margin-bottom: 0px;
                     }
-                    .footer-text-markdown h5 {
+                    h5 {
                         text-align: center;
                         font-size: 25px;
                     }
-                    .footer-text-markdown .menu-section {
+                    .menu-section {
                         margin-bottom: 20px;
                     }
-                    .footer-text-markdown .menu-item {
+                    .menu-item {
                         display: flex;
                         justify-content: space-between;
                         flex-wrap: wrap;
                         padding: 10px 0;
                         border-bottom: 1px solid #000000;
                     }
-                    .footer-text-markdown .menu-item div {
+                    .menu-item div {
                         flex: 1;
                         min-width: 0;
                         word-wrap: break-word;
                         overflow-wrap: break-word;
                     }
-                    .footer-text-markdown .menu-item:last-child {
+                    .menu-item:last-child {
                         border-bottom: none;
                     }
-                    .footer-text-markdown .menu-item h4 {
+                    .menu-item h4 {
                         margin: 0;
                         font-size: 18px;
                     }
-                    .footer-text-markdown .menu-item p {
+                    .menu-item p {
                         margin: 5px 0 0 0;
                         font-size: 14px;
                         color: #666;
@@ -225,15 +171,15 @@ footer_text: " <h1>BAGETY</h1>
                         display: block;
                         white-space: pre-wrap;
                     }
-                    .footer-text-markdown .menu-item span {
+                    .menu-item span {
                         font-weight: bold;
                     }
                     @media (max-width: 600px) {
-                        .footer-text-markdown .menu-item {
+                        .menu-item {
                             flex-direction: column;
                             align-items: flex-start;
                         }
-                        .footer-text-markdown .menu-item span {
+                        .menu-item span {
                             white-space: nowrap;
                             font-weight: bold;
                             text-align: right;
@@ -278,9 +224,91 @@ footer_text: " <h1>BAGETY</h1>
             </div>
         </main>
         <footer>
-            <div class="footer-text">
-                    {{ footer_text }}
-            </div>
+            <h1>BAGETY</h1>
+            <section class="menu-section">
+                <h2>STAROČESKÁ / FRANCOUZSKÁ</h2>
+                <div class="menu-item">
+                    <div>
+                        <h4>chlebíčková</h4>
+                        <p>bramborový salát, šunka, paprikáš, uzený sýr, uzená krkovička, kyselá okurka, paprika</p>
+                    </div>
+                    <span>69 Kč</span>
+                </div>
+                <div class="menu-item">
+                    <div>
+                        <h4>kuřecí stripsy</h4>
+                        <p>dresink texas (majonéza, uzená paprika, chilli), kuřecí stripsy, salát, rajče, paprika, okurka</p>
+                    </div>
+                    <span>69 Kč</span>
+                </div>
+                <div class="menu-item">
+                    <div>
+                        <h4>sýrová</h4>
+                        <p>tavený sýr, gouda, uzený eidam, hermelín, oliva, rajče, vejce, kyselá okurka</p> 
+                    </div>
+                    <span>65 Kč</span>
+                </div>
+            </section>
+            <section class="menu-section">
+                <h2>PLETÝNKA</h2>
+                <div class="menu-item">
+                    <div>
+                        <h4>s debrecínkou</h4>
+                        <p>máslo, debrecínka, listový salát, paprika, kyselá okurka</p>
+                    </div>
+                    <span>52 Kč</span>
+                </div>
+                <div class="menu-item">
+                    <div>
+                        <h4>šunka-sýr</h4>
+                        <p>máslo, šunka, sýr, listový salát, rajče, kyselá okurka</p>
+                    </div>
+                    <span>52 Kč</span>
+                </div>
+                <div class="menu-item">
+                    <div>
+                        <h4>turistická</h4>
+                        <p>máslo, turistický salám, vejce, paprika, kyselá okurka, listový salát</p>
+                    </div>
+                    <span>52 Kč</span>
+                </div>
+            </section>
+            <section class="menu-section">
+                <h2>VÍCEZRNNÝ ROHLÍČEK</h2>
+                <div class="menu-item">
+                    <div>
+                        <h4>šunkový</h4>
+                        <p>máslo, šunka, vejce, kyselá okurka, paprika, rajče, kudrnka</p>
+                    </div>
+                    <span>45 Kč</span>
+                </div>
+                <div class="menu-item">
+                    <div>
+                        <h4>gorgonzolový</h4>
+                        <p>gorgonzolová pomazánka, (gorgonzola, philadelphia, mascarpone), listový salát, rajče, microgreen</p>
+                    </div>
+                    <span>45 Kč</span>
+                </div>
+                <div class="menu-item">
+                    <div>
+                        <h4>chorizo</h4>
+                        <p>máslo, chorizo, oliva, kyselá okurka, paprika</p>
+                    </div>
+                    <span>45 Kč</span>
+                </div>
+                <div class="menu-item">
+                    <div>
+                        <h4>schiacciata</h4>
+                    </div>
+                    <span>59 Kč</span>
+                </div>
+                <div class="menu-item">
+                    <div>
+                        <h4>ciabatta se zelím a kmínem</h4>
+                    </div>
+                    <span>59 Kč</span>
+                </div>
+            </section>
         </footer>
         <script>
             document.addEventListener("DOMContentLoaded", function() {
