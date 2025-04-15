@@ -1,19 +1,11 @@
-backend:
-  name: git-gateway
-  repo: JakubSimoncic/web
-  branch: main
-
-media_folder: "uploads"
-public_folder: "/uploads"
-
 collections:
-  - name: "footer"
-    label: "Bagety – Footer"
+  - name: "footer-sekce-bagety"
+    label: "Footer sekce BAGETY"
     files:
-      - label: "Footer sekce (Bagety)"
+      - label: "Footer BAGETY"
         name: "footer_bagety"
         file: "bistro/public/web/BAGETY.html"
         fields:
-          - label: "Text ve footeru"
+          - label: "Text v patičce"
             name: "footer_text"
             widget: "markdown"
