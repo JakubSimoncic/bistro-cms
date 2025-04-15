@@ -1,10 +1,78 @@
+backend:
+  name: git-gateway
+  repo: JakubSimoncic/web
+  branch: main
+
+media_folder: "uploads"
+public_folder: "/uploads"
+
 collections:
-  - name: "bagety"
-    label: "Bagety"
+  - name: "pages"
+    label: "Pages"
     folder: "bistro/public/web"
     create: true
     slug: "{{slug}}"
     extension: "html"
     fields:
-      - { label: "Titulek", name: "title", widget: "string" }
-      - { label: "text", name: "text", widget: "markdown" }
+      - { label: "Obsah", name: "body", widget: "markdown" } # Globální pole pro obsah
+    templates:
+      - label: "Hlavní stránka"
+        name: "index"
+        fields:
+          - { label: "Titulek", name: "title", widget: "string", required: true }
+          - { label: "text", name: "text", widget: "markdown" }  # Změněno na markdown
+      - label: "Bagety"
+        name: "bagety"
+        fields:
+          - { label: "Titulek", name: "title", widget: "string" }
+          - { label: "text", name: "text", widget: "markdown" }  # Změněno na markdown
+      - label: "Galerie"
+        name: "galerie"
+        fields:
+          - { label: "Titulek", name: "title", widget: "string" }
+          - { label: "Obrázky", name: "images", widget: "list", fields: [{ label: "Obrázek", name: "image", widget: "image" }] }
+          - { label: "Popis", name: "description", widget: "markdown" }
+          - { label: "text", name: "text", widget: "markdown" }  # Změněno na markdown
+      - label: "Chlebíčky"
+        name: "chlebicky"
+        fields:
+          - { label: "Titulek", name: "title", widget: "string" }
+          - { label: "text", name: "text", widget: "markdown" }  # Změněno na markdown
+      - label: "Kontakt"
+        name: "kontakt"
+        fields:
+          - { label: "Titulek", name: "title", widget: "string" }
+          - { label: "Adresa", name: "address", widget: "string" }
+          - { label: "Telefon", name: "phone", widget: "string" }
+          - { label: "Email", name: "email", widget: "string" }
+          - { label: "text", name: "text", widget: "markdown" }  # Změněno na markdown
+      - label: "Menu"
+        name: "menu"
+        fields:
+          - { label: "Titulek", name: "title", widget: "string" }
+          - { label: "text", name: "text", widget: "markdown" }  # Změněno na markdown
+      - label: "Nápoje"
+        name: "napoje"
+        fields:
+          - { label: "Titulek", name: "title", widget: "string" }
+          - { label: "text", widget: "markdown", name: "text" }  # Změněno na markdown
+      - label: "Naše nabídka"
+        name: "nase_nabidka"
+        fields:
+          - { label: "Titulek", name: "title", widget: "string" }
+          - { label: "text", name: "text", widget: "markdown" }  # Změněno na markdown
+      - label: "O nás"
+        name: "o_nas"
+        fields:
+          - { label: "Titulek", name: "title", widget: "string" }
+          - { label: "text", name: "text", widget: "markdown" }  # Změněno na markdown
+      - label: "Pečivo"
+        name: "pecivo"
+        fields:
+          - { label: "Titulek", name: "title", widget: "string" }
+          - { label: "text", name: "text", widget: "markdown" }  # Změněno na markdown
+      - label: "Pomazánky"
+        name: "pomazanky"
+        fields:
+          - { label: "Titulek", name: "title", widget: "string", required: true }
+          - { label: "text", name: "text", widget: "markdown" }  # Změněno na markdown
