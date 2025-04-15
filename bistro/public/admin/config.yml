@@ -7,25 +7,13 @@ media_folder: "uploads"
 public_folder: "/uploads"
 
 collections:
-  - name: "pages"
-    label: "Pages"
-    folder: "bistro/public/web"
-    create: true
-    slug: "{{slug}}"
-    extension: "html"
-    fields:
-      - { label: "Obsah", name: "body", widget: "markdown" } # Globální pole pro obsah
-    templates:
-      - label: "Bagety"
-        name: "bagety"
-        folder: "bistro/public/web"
-        create: false
-        fields:
-          - { label: "Text v footeru", name: "footer_text", widget: "markdown", required: true }
-
   - name: "footer"
-    label: "Footer"
-    folder: "bistro/public/web"
-    create: false
-    fields:
-      - { label: "Text v footeru", name: "footer_text", widget: "markdown", required: true }
+    label: "Bagety – Footer"
+    files:
+      - label: "Footer sekce (Bagety)"
+        name: "footer_bagety"
+        file: "bistro/public/web/BAGETY.html"
+        fields:
+          - label: "Text ve footeru"
+            name: "footer_text"
+            widget: "markdown"
