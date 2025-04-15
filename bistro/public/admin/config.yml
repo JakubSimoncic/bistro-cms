@@ -1,23 +1,10 @@
-backend:
-  name: git-gateway
-  repo: JakubSimoncic/web
-  branch: main
-
-media_folder: "uploads"
-public_folder: "/uploads"
-
 collections:
-  - name: "pages"
-    label: "Pages"
+  - name: "bagety"
+    label: "Bagety"
     folder: "bistro/public/web"
     create: true
     slug: "{{slug}}"
     extension: "html"
     fields:
-      - { label: "Patička", name: "footer_text", widget: "markdown" }  # Pole pro úpravu textu v footeru
-    templates:
-      - label: "Bagety"
-        name: "bagety"
-        fields:
-          - { label: "Titulek", name: "title", widget: "string" }
-          - { label: "Patička", name: "footer_text", widget: "markdown" }  # Změněno na markdown pro úpravu textu
+      - { label: "Titulek", name: "title", widget: "string" }
+      - { label: "text", name: "text", widget: "markdown" }
