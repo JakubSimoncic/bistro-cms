@@ -12,12 +12,17 @@
       window.netlifyIdentity.on("init", (user) => {
         if (!user) {
           window.netlifyIdentity.on("login", () => {
-            document.location.href = "/admin/#/"; // Opravená cesta pro správnou hash routu
+            document.location.href = "/admin/#/";
           });
         }
       });
     }
   </script>
+
+  <!-- CMS náhledový skript -->
+  <script src="/admin/cms.html" type="module"></script>
+
+  <!-- Netlify CMS -->
   <script src="https://unpkg.com/netlify-cms@latest/dist/netlify-cms.js"></script>
 </body>
 </html>
