@@ -16,8 +16,13 @@ collections:
     fields:
       - { label: "Obsah", name: "body", widget: "markdown" } # Globální pole pro obsah
     templates:
-      - label: "Hlavní stránka"
-        name: "index"
+      - label: "Bagety"
+        name: "bagety"
+        folder: "bistro/public/web"
+        create: false
+        fields:
+          - { label: "Text v footeru", name: "footer_text", widget: "markdown", required: true }
+
   - name: "footer"
     label: "Footer"
     folder: "bistro/public/web"
