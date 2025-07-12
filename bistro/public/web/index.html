@@ -3,9 +3,20 @@
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta name="description" content="Bistro na Florenci s výrobou chlebíčků, sendvičů a baget.">
+        <meta name="description" content="Moderní bistro s čerstvými bagetami, sendviči a chlebíčky na pražském Florenci.">
         <meta name="keywords" content="bistro, Florenc, chlebíčky, sendviče, bagety, jídlo, občerstvení">
-        <title>BISTRO FLORENC</title>
+        
+        <!-- Běžná favicon -->
+        <link rel="icon" href="/favicon.ico" type="image/x-icon">
+        <link rel="icon" href="/favicon.png" type="image/png">
+        
+        <!-- Pro mobilní zařízení -->
+        <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+        <link rel="icon" sizes="192x192" href="/android-chrome-192x192.png">
+        <link rel="icon" sizes="512x512" href="/android-chrome-512x512.png">
+        <meta name="msapplication-TileImage" content="/mstile-150x150.png">
+
+        <title>Bistro Florenc</title>
         <style>
             body {
                 margin: 0;
@@ -71,6 +82,7 @@
                     top: 15px;
                     right: 20px;
                     margin-left: 20px;
+
                 }
                 nav {
                     display: none;
@@ -123,74 +135,38 @@
                     from {opacity: 0,5;} 
                     to {opacity: 1;}
                 }
-            #cornerVideo {
-                position: fixed;
-                top: 180px;
-                left: 20px;
-                width: 320px;
-                height: 180px;
-                background-color: #000;
-                border: 2px solid #d4a373;
-                border-radius: 8px;
-                box-shadow: 0 0 10px rgba(0,0,0,0.5);
-                z-index: 999;
-            }
-            #cornerVideo iframe {
-                width: 100%;
-                height: 100%;
-                border: none;
-                border-radius: 8px;
-            }
-            #cornerVideoClose {
-                position: absolute;
-                top: 5px;
-                right: 10px;
-                color: white;
-                font-size: 22px;
-                font-weight: bold;
-                cursor: pointer;
-                -webkit-user-select: none;
-                user-select: none;
-            }
-            #cornerVideoClose:hover {
-                color: #d4a373;
-            }
         </style>
     </head>
     <body>
         <header>
             <div class="logo">
                 <a href="index.html">
-                    <img src="LOGO.png" alt="BISTRO FLORENC" loading="lazy">
+                    <img src="web/LOGO.png" alt="BISTRO FLORENC" loading="lazy">
                 </a>
             </div>
             <button id="menu-toggle">☰</button>
             <nav id="nav-menu">
-                <a href="O_NAS.html">O NÁS</a>
-                <a href="MENU.html">DENNÍ MENU</a>
-                <a href="NASE_NABIDKA.html">NAŠE NABÍDKA</a>
-                <a href="KONTAKT.html">KONTAKT</a>
-                <a href="GALERIE.html">GALERIE</a>
+                <a href="web/O_NAS.html">O NÁS</a>
+                <a href="web/MENU.html">DENNÍ MENU</a>
+                <a href="web/NASE_NABIDKA.html">NAŠE NABÍDKA</a>
+                <a href="web/KONTAKT.html">KONTAKT</a>
+                <a href="web/GALERIE.html">GALERIE</a>
             </nav>
         </header>
         <main>
             <div class="slideshow-container">
                 <div class="slide fade">
-                    <img src="slide1.jpg" alt="Obrázek 1">
+                    <img src="web/slide1.jpg" alt="Obrázek 1">
                 </div>
                 <div class="slide fade">
-                    <img src="slide2.jpg" alt="Obrázek 2">
+                    <img src="web/slide2.jpg" alt="Obrázek 2">
                 </div>
                 <div class="slide fade">
-                    <img src="slide3.jpg" alt="Obrázek 3">
+                    <img src="web/slide3.jpg" alt="Obrázek 3">
                 </div>
                 <div class="slide fade">
-                    <img src="slide4.jpg" alt="Obrázek 4">
+                    <img src="web/slide4.jpg" alt="Obrázek 4">
                 </div>
-            </div>
-            <div id="cornerVideo">
-                <span id="cornerVideoClose">&times;</span>
-                <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/TkxlEAl4fEo?si=EWNEpeot-WZhWLH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
             </div>
         </main>
         <script>
@@ -210,9 +186,6 @@
                 slides[slideIndex - 1].style.display = "block";
                 setTimeout (showSlides, 5000);
             }
-                        document.getElementById('cornerVideoClose').onclick = function() {
-                document.getElementById('cornerVideo').style.display = 'none';
-            };
         </script>
         <script src="https://identity.netlify.com/v1/netlify-identity-widget.js></script>
             <script>
