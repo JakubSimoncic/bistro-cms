@@ -123,6 +123,38 @@
                     from {opacity: 0,5;} 
                     to {opacity: 1;}
                 }
+            #cornerVideo {
+                position: fixed;
+                top: 180px;
+                left: 20px;
+                width: 320px;
+                height: 180px;
+                background-color: #000;
+                border: 2px solid #d4a373;
+                border-radius: 8px;
+                box-shadow: 0 0 10px rgba(0,0,0,0.5);
+                z-index: 999;
+            }
+            #cornerVideo iframe {
+                width: 100%;
+                height: 100%;
+                border: none;
+                border-radius: 8px;
+            }
+            #cornerVideoClose {
+                position: absolute;
+                top: 5px;
+                right: 10px;
+                color: white;
+                font-size: 22px;
+                font-weight: bold;
+                cursor: pointer;
+                -webkit-user-select: none;
+                user-select: none;
+            }
+            #cornerVideoClose:hover {
+                color: #d4a373;
+            }
         </style>
     </head>
     <body>
@@ -156,6 +188,10 @@
                     <img src="slide4.jpg" alt="Obrázek 4">
                 </div>
             </div>
+            <div id="cornerVideo">
+                <span id="cornerVideoClose">&times;</span>
+                <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/TkxlEAl4fEo?si=EWNEpeot-WZhWLH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            </div>
         </main>
         <script>
             document.getElementById('menu-toggle').addEventListener('click', function() {
@@ -174,6 +210,9 @@
                 slides[slideIndex - 1].style.display = "block";
                 setTimeout (showSlides, 5000);
             }
+                        document.getElementById('cornerVideoClose').onclick = function() {
+                document.getElementById('cornerVideo').style.display = 'none';
+            };
         </script>
         <script src="https://identity.netlify.com/v1/netlify-identity-widget.js></script>
             <script>
