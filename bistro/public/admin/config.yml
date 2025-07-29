@@ -2,13 +2,8 @@ backend:
   name: git-gateway
   branch: main
 
-media_folder: "web/uploads"
-public_folder: "/web/uploads"
-
-media_library:
-  name: uploadcare
-  config:
-    publicKey: demo
+media_folder: "web"
+public_folder: "/web"
 
 collections:
   - name: "menu"
