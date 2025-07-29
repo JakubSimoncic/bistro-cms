@@ -6,7 +6,9 @@ media_folder: "web"
 public_folder: "/web"
 
 media_library:
-  name: default
+  name: uploadcare
+  config:
+    publicKey: demo
 
 collections:
   - name: "menu"
