@@ -122,6 +122,7 @@
                     padding-bottom: 5px;
                     font-size: 35px;
                     margin-top: 50px;
+                    text-align: center;
                     color: #0F3825
                 }
                 h3 {
@@ -136,53 +137,70 @@
                     text-align: center;
                     font-size: 25px;
                 }
-                .menu-section {
-                    margin-bottom: 20px;
+
+            /* Mezery mezi sekcemi menu */
+            section, ul {
+                margin-bottom: 20px;
+            }
+
+            /* Každá položka menu je <li> */
+            li {
+                display: flex;
+                justify-content: space-between;
+                flex-wrap: wrap;
+                padding: 10px 0;
+                border-bottom: 1px solid #000;
+                align-items: center;
+            }
+
+            /* Poslední položka bez spodního okraje */
+            li:last-child {
+                border-bottom: none;
+            }
+
+            /* Text položky (název jídla), tučné místo h4 */
+            li > strong {
+                margin: 0;
+                font-size: 18px;
+                flex: 1;
+                min-width: 0;
+                word-wrap: break-word;
+                overflow-wrap: break-word;
+            }
+
+            /* Popis položky */
+            li > p {
+                margin: 5px 0 0 0;
+                font-size: 14px;
+                color: #000;
+                flex-basis: 100%;
+                white-space: pre-wrap;
+            }
+
+            /* Cena nebo zvýrazněný text vpravo */
+            li > span {
+                font-weight: bold;
+                white-space: nowrap;
+                margin-left: 20px;
+                min-width: 50px;
+                text-align: right;
+                color: #000;
+            }
+
+            /* Responzivita */
+            @media (max-width: 600px) {
+                li {
+                    flex-direction: column;
+                    align-items: flex-start;
                 }
-                .menu-item {
-                    display: flex;
-                    justify-content: space-between;
-                    flex-wrap: wrap;
-                    padding: 10px 0;
-                    border-bottom: 1px solid #000000;
+                li > span {
+                    margin-left: 0;
+                    margin-top: 5px;
+                    text-align: left;
                 }
-                .menu-item div {
-                    flex: 1;
-                    min-width: 0;
-                    word-wrap: break-word;
-                    overflow-wrap: break-word;
-                }
-                .menu-item:last-child {
-                    border-bottom: none;
-                }
-                .menu-item h4 {
-                    margin: 0;
-                    font-size: 18px;
-                }
-                .menu-item p {
-                    margin: 5px 0 0 0;
-                    font-size: 14px;
-                    color: #000000;
-                    flex-basis: 100%;
-                    display: block;
-                    white-space: pre-wrap;
-                }
-                .menu-item span {
-                    font-weight: bold;
-                }
-                @media (max-width: 600px) {
-                    .menu-item {
-                        flex-direction: column;
-                        align-items: flex-start;
-                    }
-                    .menu-item span {
-                        white-space: nowrap;
-                        font-weight: bold;
-                        text-align: right;
-                        margin-top: 5px;
-                        margin-left: auto;
-                    }}
+            }
         </style>
+        <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
     </head>
     <body>
         <header>
@@ -198,127 +216,26 @@
                 <a href="NASE_NABIDKA.html">NAŠE NABÍDKA</a>
                 <a href="KONTAKT.html">KONTAKT</a>
                 <a href="GALERIE.html">GALERIE</a>
-            </nav>
+            </nav>  
         </header>
-        <footer>
-            <section class="menu-section">
-                <h3>MALÁ POLÉVKA K HLAVNÍMU JÍDLU- 250ml</h3>
-                <div class="menu-item">
-                    <div>
-                        <h4>Gulášová polévka</h4>
-                        <p></p>
-                    </div>
-                    <span>30Kč</span>
-                </div>
-                <div class="menu-item">
-                    <div>
-                        <h4>Krémová cibulačka se sýrem a krutony</h4>
-                        <p></p>
-                    </div>
-                    <span>30Kč</span>
-                    </div>
-                <h3>HLAVNÍ JÍDLA</h3>
-                <div class="menu-item">
-                    <div>
-                        <h4>Vepřová plec na houbách a domácí houskový knedlík (nebo pečená rýže)</h4>
-                        <p></p>
-                    </div>
-                    <span>165Kč</span>
-                </div>
-                <div class="menu-item">
-                    <div>
-                        <h4>Smažený holandský řízek, máslová bramborová kaše a kyselá okurka</h4>
-                        <p></p>
-                    </div>
-                    <span>165Kč</span>
-                </div>
-                <div class="menu-item">
-                    <div>
-                        <h4>Pečené kuřecí stehno s baby karotkou a fazolkami, pečená jasmínová rýže (nebo bramborová kaše)</h4>
-                        <p></p>
-                    </div>
-                    <span>165Kč</span>
-                </div>
-                <div class="menu-item">
-                    <div>
-                        <h4>Špagety s kuřecím masem, pancettou, sušenými rajčaty, česnekem, cibulí, pórkem a parmazánem</h4>
-                        <p></p>
-                    </div>
-                    <span>175Kč</span>
-                </div>
-                <h3>STÁLÁ NABÍDKA</h3>
-                <div class="menu-item">
-                    <div>
-                        <h4>Hovězí guláš s cibulkou a beraním rohem, domácí houskový knedlík</h4>
-                        <p></p>
-                    </div>
-                    <span>175Kč</span>
-                </div>
-                <div class="menu-item">
-                    <div>
-                        <h4>Kuřecí řízek, bramborový salát a citron</h4>
-                        <p></p>
-                    </div>
-                    <span>165Kč</span>
-                </div>
-                <div class="menu-item">
-                    <div>
-                        <h4>Smažený sýr, hranolky a tatarská omáčka</h4>
-                        <p></p>
-                    </div>
-                    <span>165Kč</span>
-                </div>
-                <div class="menu-item">
-                    <div>
-                        <h4>Bacon Cheeseburger (180g grilované hovězí maso, sýr čedar, anglická slanina, majonéza, plátky rajčat, cibulka a salát v sezamové housce) a smažené hranolky</h4>
-                        <p></p>
-                    </div>
-                    <span>255Kč</span>
-                </div>
-                <h3>VELKÁ POLÉVKA OBJEDNANÁ SAMOSTATNĚ-500ml</h3>
-                <div class="menu-item">
-                    <div>
-                        <h4>Gulášová polévka nebo krémová cibulačka se sýrem a krutony</h4>
-                        <p></p>
-                    </div>
-                    <span>75Kč</span>
-                </div>
-                <h3>ZVÝHODNĚNÉ NÁPOJE K HLAVNÍMU JÍDLU</h3>
-                <div class="menu-item">
-                    <div>
-                        <h4>Točená malinovka 0,3/0,5l</h4>
-                        <p></p>
-                    </div>
-                    <span>30/45Kč</span>
-                </div>
-                <div class="menu-item">
-                    <div>
-                        <h4>Točená kofola 0,3/0,5l</h4>
-                        <p></p>
-                    </div>
-                    <span>35/50Kč</span>
-                </div>
-                <div class="menu-item">
-                    <div>
-                        <h4>Domácí limonády (bezinka, malina, zázvor, citronáda)</h4>
-                        <p></p>
-                    </div>
-                    <span>55Kč</span>
-                </div>
-                <div class="menu-item">
-                    <div>
-                        <h4>Kohoutková voda s citronem, mátou a ledem</h4>
-                        <p></p>
-                    </div>
-                    <span>25Kč</span>
-                </div>
-                <h4><i>Nabídka je platná ve středu 30.7. od 10:30 do zavírací hodiny nebo do vyprodání</i></h4>
-            </section>
-        </footer>
+              <footer>
+                <section id="menu-content" class="markdown">Načítám denní menu...</section>
+              </footer>
         <script>
             document.getElementById('menu-toggle').addEventListener('click', function() {
                 document.getElementById('nav-menu').classList.toggle('show');
             });
+             fetch('pages/menu.md')
+        .then(response => response.text())
+        .then(markdown => {
+            const content = markdown.replace(/^---[\s\S]*?---\s*/, '');
+            const html = marked.parse(content);
+            document.getElementById('menu-content').innerHTML = html;
+        })
+        .catch(error => {
+            document.getElementById('menu-content').innerHTML = 'Nepodařilo se načíst denní menu.';
+            console.error(error);
+        });
         </script>
     </body>
 </html>
