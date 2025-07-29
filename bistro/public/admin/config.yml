@@ -16,7 +16,7 @@ collections:
     label: "Denní menu"
     create: false
     files:
-      - file: "web/pages/2025-07-29.md"
+      - file: "web/pages/denni-menu.md"
         label: "Denní menu 29.7.2025"
         name: "denni_menu_2025_07_29"
         fields:
