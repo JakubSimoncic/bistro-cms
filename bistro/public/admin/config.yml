@@ -13,11 +13,11 @@ media_library:
     
 collections:
   - name: "menu"
-    label: "Denní menu 29.7.2025"
+    label: "Denní menu"
     create: false
     files:
       - file: "web/pages/2025-07-29.md"
-        label: "Denní menu"
+        label: "Denní menu 29.7.2025"
         name: "Denní menu"
         fields:
           - { label: "Titulek", name: "title", widget: "string" }
