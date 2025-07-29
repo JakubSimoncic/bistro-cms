@@ -17,7 +17,7 @@ collections:
     create: false
     files:
       - file: "web/pages/2025-07-29.md"
-        label: "Denní menu 29.7.2025"
+        label: "Denní menu"
         name: "Denní menu"
         fields:
           - { label: "Titulek", name: "title", widget: "string" }
