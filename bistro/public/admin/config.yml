@@ -1,14 +1,22 @@
+backend:
+  name: git-gateway
+  branch: main
+
+media_folder: "web/uploads"
+public_folder: "/web/uploads"
+
+media_library:
+  name: uploadcare
+  config:
+    publicKey: demo
+
 collections:
   - name: "menu"
     label: "Denní menu"
-    folder: "pages"
-    create: false
+    folder: "web/pages"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}"
     fields:
       - { label: "Titulek", name: "title", widget: "string" }
       - { label: "Datum", name: "date", widget: "datetime" }
-      - label: "Menu položky"
-        name: "items"
-        widget: "list"
-        fields:
-          - { label: "Název jídla", name: "name", widget: "string" }
-          - { label: "Cena", name: "price", widget: "string" }
+      - { label: "Obsah", name: "body", widget: "markdown" }
