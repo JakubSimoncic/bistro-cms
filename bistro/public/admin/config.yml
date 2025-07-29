@@ -10,13 +10,16 @@ media_library:
   config:
     publicKey: demo
 
+    
 collections:
   - name: "menu"
-    label: "Denní menu"
-    folder: "web/pages"
+    label: "Denní menu 29.7.2025"
     create: false
-    slug: "{{year}}-{{month}}-{{day}}"
-    fields:
-      - { label: "Titulek", name: "title", widget: "string" }
-      - { label: "Datum", name: "date", widget: "datetime" }
-      - { label: "Obsah", name: "body", widget: "markdown", required: true }
+    files:
+      - file: "web/pages/2025-07-29.md"
+        label: "Denní menu 29.7.2025"
+        fields:
+          - { label: "Titulek", name: "title", widget: "string" }
+          - { label: "Datum", name: "date", widget: "datetime" }
+          - { label: "Obsah", name: "body", widget: "markdown" }
+
