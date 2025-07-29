@@ -19,4 +19,4 @@ collections:
     fields:
       - { label: "Titulek", name: "title", widget: "string" }
       - { label: "Datum", name: "date", widget: "datetime" }
-      - { label: "Obsah", name: "body", widget: "markdown" }
+      - { label: "Obsah", name: "body", widget: "markdown", required: true }
