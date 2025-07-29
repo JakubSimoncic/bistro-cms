@@ -14,7 +14,7 @@ collections:
   - name: "menu"
     label: "Denní menu"
     folder: "web/pages"
-    create: true
+    create: false
     slug: "{{year}}-{{month}}-{{day}}"
     fields:
       - { label: "Titulek", name: "title", widget: "string" }
