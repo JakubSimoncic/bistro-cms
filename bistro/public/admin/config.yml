@@ -14,7 +14,7 @@ media_library:
 collections:
   - name: "menu"
     label: "Denní menu"
-    create: false
+    create: true
     files:
       - file: "web/pages/2025-07-29.md"
         label: "Denní menu 29.7.2025"
