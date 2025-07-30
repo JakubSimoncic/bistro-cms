@@ -3,7 +3,7 @@ title: Denní menu
 ---
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
-* **Gulášová polévka**30Kč  
+* **Gulášová polévka**    30Kč  
 * **Krémová cibulačka se sýrem a krutony**   30Kč
 
 ## HLAVNÍ JÍDLA
