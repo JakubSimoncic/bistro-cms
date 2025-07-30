@@ -225,7 +225,7 @@
             document.getElementById('menu-toggle').addEventListener('click', function() {
                 document.getElementById('nav-menu').classList.toggle('show');
             });
-             fetch('/pages/denni-menu.md')
+             fetch('web/pages/denni-menu.md')
         .then(response => response.text())
         .then(markdown => {
             const content = markdown.replace(/^---[\s\S]*?---\s*/, '');
