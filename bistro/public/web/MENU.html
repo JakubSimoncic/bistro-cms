@@ -118,11 +118,12 @@
                         color: #0F3825;
                 }
                 h2 {
-                    border-bottom: 2px;
-                    padding-bottom: 5px;
-                    font-size: 35px;
+                    font-size: 27px;
                     margin-top: 50px;
-                    text-align: center;
+                    margin-bottom: -10px;
+                    text-align: left;
+                    margin-left: 37px;
+                    min-width: 0px;
                     color: #0F3825
                 }
                 h3 {
@@ -132,6 +133,8 @@
                 }
                 h4 {
                     color: #000000;
+                    margin-top: 0px;
+                    margin-bottom: 10px;
                 }
                 h5 {
                     text-align: center;
@@ -140,7 +143,7 @@
 
             /* Mezery mezi sekcemi menu */
             section, ul {
-                margin-bottom: 20px;
+                margin-bottom: 15px;
             }
 
             /* Každá položka menu je <li> */
@@ -151,11 +154,6 @@
                 padding: 10px 0;
                 border-bottom: 1px solid #000;
                 align-items: center;
-            }
-
-            /* Poslední položka bez spodního okraje */
-            li:last-child {
-                border-bottom: none;
             }
 
             /* Text položky (název jídla), tučné místo h4 */
@@ -188,10 +186,11 @@
             }
 
             /* Responzivita */
-            @media (max-width: 600px) {
+            @media (max-width: 764px) {
                 li {
                     flex-direction: column;
                     align-items: flex-start;
+                    
                 }
                 li > span {
                     margin-left: 0;
