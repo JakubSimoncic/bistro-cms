@@ -11,7 +11,7 @@ title: Denní menu
 * **Segedínský guláš a domácí houskový knedlík**   165Kč  
 * **Vepřová roláda plněná masovou fáší, dušené červené zelí a bramborový knedík**   165Kč  
 * **Těstoviny fusilli  s kuřecím masem, hříbky, smetanou a parmazánem**   175Kč  
-* **BBQ burger s trhaným vepřovým masem (vepřové maso, BBQ omáčka, sýr čedar, Jalapeno papričky, rajče ledový salát a rukola v naší domácí bulce), podáváme se smaženými hranolkami**   195Kč 
+* **BBQ burger s trhaným vepřovým masem (vepřové maso, BBQ omáčka, sýr čedar, Jalapeňo papričky, rajče, ledový salát a rukola v naší domácí bulce), podáváme se smaženými hranolkami**   195Kč 
 
 ## STÁLÁ NABÍDKA
 
