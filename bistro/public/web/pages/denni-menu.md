@@ -1,6 +1,5 @@
 ---
 title: "Denní menu"
-date: 2025-07-29
 ---
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
