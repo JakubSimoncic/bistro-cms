@@ -20,7 +20,7 @@ title: Denní menu
 * **Smažený sýr, hranolky a tatarská omáčka**   165Kč  
 * **Bacon Cheeseburger (180g grilované hovězí maso, sýr čedar, anglická slanina, majonéza, plátky rajčat, cibulka a salát v sezamové housce) a smažené hranolky**   255Kč
 
-## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTANĚ
+## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTANĚ – 500ml
 
 * **Gulášová polévka nebo krémová cibulačka se sýrem a krutony**   75Kč
 
