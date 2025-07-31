@@ -4,14 +4,14 @@ title: Denní menu
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
 * **J﻿ihočeská kulajda**  30Kč
-* **Gulášová polévka**    30Kč  
+* **Thajská kuřecí polévka se zeleninou, kokosovým mlékem a rýžovými nudlemi**    30Kč  
 
 ## HLAVNÍ JÍDLA
 
-* **Segedínský guláš a domácí houskový knedlík**   165Kč  
-* **Vepřová roláda plněná masovou fáší, dušené červené zelí a bramborový knedík**   165Kč  
-* **Těstoviny fusilli  s kuřecím masem, hříbky, smetanou a parmazánem**   175Kč  
-* **BBQ burger s trhaným vepřovým masem (vepřové maso, BBQ omáčka, majonéza, sýr čedar, Jalapeňo papričky, rajče, ledový salát a rukola v naší domácí bulce), podáváme se smaženými hranolkami**   195Kč 
+* **Plněný paprikový lusk s rajskou omáčkou a těstoviny fusilli**   175Kč  
+* **Vepřová roláda plněná masovou fáší, dušené červené zelí a bramborový knedlík**   165Kč  
+* **Kuřecí nudličky Gyros, smažené hranolky a zelný salátek**   175Kč  
+* **Smažené kuřecí stripsy v cornflakes strouhance, šťouchané brambory a BBQ majonéza**   175Kč 
 
 ## STÁLÁ NABÍDKA
 
@@ -22,7 +22,7 @@ title: Denní menu
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTANĚ – 500ml
 
-* **Gulášová polévka nebo krémová cibulačka se sýrem a krutony**   75Kč
+* **Gulášová polévka nebo thajská kuřecí polévka se zeleninou, kokosovým mlékem a rýžovými nudlemi**   75Kč
 
 ## ZVÝHODNĚNÉ NÁPOJE K HLAVNÍMU JÍDLU
 
@@ -31,4 +31,4 @@ title: Denní menu
 * **Domácí limonády (bezinka, malina, zázvor, citronáda)**   55Kč
 * **Kohoutková voda s citronem, mátou a ledem**   25Kč
 
-***Nabídka je platná ve čtvrtek 31.7. od 10:30 do zavírací hodiny nebo do vyprodání***
+***Nabídka je platná ve pátek 1.8. od 10:30 do zavírací hodiny nebo do vyprodání***
