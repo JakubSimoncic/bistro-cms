@@ -10,8 +10,8 @@ title: Denní menu
 
 * **Plněný paprikový lusk s rajskou omáčkou a těstoviny fusilli**   175Kč  
 * **Vepřová roláda plněná masovou fáší, dušené červené zelí a bramborový knedlík**   165Kč  
-* **Kuřecí nudličky Gyros, smažené hranolky a zelný salátek**   175Kč  
-* **Smažené kuřecí stripsy v cornflakes strouhance, šťouchané brambory a BBQ majonéza**   175Kč 
+* **Kuřecí nudličky Gyros, smažené hranolky a zelný salátek** 175Kč  
+* **Smažené kuřecí stripsy v cornflakes strouhance, šťouchané brambory a BBQ majonéza** 175Kč 
 
 ## STÁLÁ NABÍDKA
 
@@ -22,7 +22,7 @@ title: Denní menu
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTANĚ – 500ml
 
-* **Gulášová polévka nebo thajská kuřecí polévka se zeleninou, kokosovým mlékem a rýžovými nudlemi**   75Kč
+* **Gulášová polévka nebo thajská kuřecí polévka se zeleninou, kokosovým mlékem a rýžovými nudlemi** 75Kč
 
 ## ZVÝHODNĚNÉ NÁPOJE K HLAVNÍMU JÍDLU
 
