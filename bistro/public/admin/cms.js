@@ -5,7 +5,22 @@ function MarkdownControl({ value, onChange }) {
   textarea.style.fontFamily = 'monospace';
   textarea.style.fontSize = '14px';
   textarea.value = value || '';
-  textarea.addEventListener('input', e => onChange(e.target.value));
+
+  textarea.addEventListener('input', e => {
+    // Ulož pozici kurzoru
+    const start = textarea.selectionStart;
+    const end = textarea.selectionEnd;
+
+    // Zavolej onChange s novou hodnotou
+    onChange(e.target.value);
+
+    // Nastav kurzor zpět na uložené místo (po vykreslení)
+    requestAnimationFrame(() => {
+      textarea.selectionStart = start;
+      textarea.selectionEnd = end;
+    });
+  });
+
   return textarea;
 }
 
