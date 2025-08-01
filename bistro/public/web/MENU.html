@@ -37,6 +37,12 @@
             .logo img {
                 height: 120px;
             }
+            .print-only {
+                display: none !important;
+            }
+            .screen-only {
+                display: block;
+            }
             #menu-toggle {
                 display: none;
                 font-size: 30px;
@@ -108,7 +114,7 @@
                     background-color: #FFFFFF;
                     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
                     padding-left: 5%;
-                    padding-right: 5%;    
+                    padding-right: 5%;
                 }
                 h1 {
                         font-size: 60px;
@@ -124,7 +130,7 @@
                     text-align: left;
                     margin-left: 37px;
                     min-width: 0px;
-                    color: #0F3825
+                    color: #0F3825;
                 }
                 h3 {
                     font-size: 30px;
@@ -163,7 +169,6 @@
                 flex: 1;
                 min-width: 0;
                 word-wrap: break-word;
-                overflow-wrap: break-word;
             }
 
             /* Popis položky */
@@ -173,6 +178,7 @@
                 color: #000;
                 flex-basis: 100%;
                 white-space: pre-wrap;
+
             }
 
             /* Cena nebo zvýrazněný text vpravo */
@@ -190,24 +196,171 @@
                 li {
                     flex-direction: column;
                     align-items: flex-start;
-                    
+
                 }
                 li > span {
-                    margin-left: 0;
                     margin-top: 5px;
                     text-align: left;
+                    margin-left: 0;
                 }
             }
-                
+
+            /* Tiskové styly */
+            @media print {
+
+                body {
+                    color: #000;
+                    background: #fff;
+                    margin: 0;
+                    padding: 0;
+                    font-family: Arial, Helvetica, sans-serif;
+                }
+
+                header {
+                    position: relative !important;
+                    background: none !important;
+                    box-shadow: none !important;
+                    padding-top: 20px !important;
+                    justify-content: center !important;
+                    align-items: center !important;
+                }
+                header .screen-only {
+                    display: none !important;
+                }
+
+
+                .logo {
+                    position: absolute !important;
+                    top: 20px !important;
+                    left: 30px !important;
+                }
+                .logo img {
+                    height: 160px !important;
+                }
+
+                .nadpis {
+                    display: block !important;
+                    text-align: center !important;
+                    margin: 0 auto 20px auto !important;
+                    padding-left: 0 !important;
+                    padding-right: 0 !important;
+                }
+                .nadpis h1 {
+                    font-size: 60px !important;
+                    font-weight: bold !important;
+                    color: #000 !important;
+                    margin-bottom: 0 !important;
+                }
+
+                /* Skrytí navigace a tlačítek */
+                nav, #menu-toggle {
+                    display: none !important;
+                }
+
+                /* Footer (kde je menu) zobrazit jako main area */
+                footer {
+                    padding-top: 0 !important;
+                    max-width: 768px !important;
+                    margin: 10px auto 0 auto !important;
+                    background: #fff !important;
+                    box-shadow: none !important;
+                    padding-left: 0 !important;
+                    padding-right: 3% !important;
+                }
+
+                /* Oprava barev a stylu textu (v menu) */
+                h2 {
+                    font-size: 27px !important;
+                    margin-top: 50px !important;
+                    margin-bottom: -10px !important;
+                    text-align: left !important;
+                    margin-left: 37px !important;
+                    color: #000 !important;
+                }
+                h3 {
+                    font-size: 30px !important;
+                    margin-top: 30px !important;
+                    margin-bottom: 0 !important;
+                    color: #000 !important;
+                }
+                h4 {
+                    color: #000 !important;
+                    margin-top: 0 !important;
+                    margin-bottom: 10px !important;
+                }
+                h5 {
+                    text-align: center !important;
+                    font-size: 25px !important;
+                    color: #000 !important;
+                }
+
+                /* Položky menu - černé, s podtržením */
+                li {
+                    display: flex !important;
+                    justify-content: space-between !important;
+                    border-bottom: 1px solid #000 !important;
+                    padding: 10px 0 !important; 
+                    color: #000 !important;
+                    align-items: flex-start !important;
+                }
+
+                li > strong {
+                    font-size: 18px !important;
+                    font-weight: bold !important;
+                    color: #000 !important;
+                    flex: 1 1 auto !important;
+                    word-wrap: break-word !important;
+                }
+
+                li > p {
+                    font-size: 14px !important;
+                    color: #000 !important;
+                    white-space: pre-wrap !important;
+                    flex-basis: auto !important;
+                    margin-right: 5px !important;
+                }
+
+                li > span {
+                    color: #000 !important;
+                    margin-left: auto !important;
+                    text-align: right !important;
+                    min-width: 50px !important;
+                    white-space: nowrap !important;
+                }
+
+                /* Skryjeme odkazy a interaktivní prvky */
+                a {
+                    color: black !important;
+                    text-decoration: none !important;
+                    pointer-events: none !important;
+                }
+                .print-only {
+                    display: block !important;
+                    text-align: center !important;
+                    font-size: 60px !important;
+                    font-weight: bold !important;
+                    color: #000 !important;
+                    margin-bottom: 0px !important;
+                    padding: 0 !important;
+                }
+            }
         </style>
         <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
     </head>
     <body>
         <header>
-            <div class="logo">
+            <div class="logo screen-only">
                 <a href="index.html">
                     <img src="LOGO.png" alt="BISTRO FLORENC" loading="lazy">
                 </a>
+            </div>
+            <div class="print-only">
+                <div class="logo">
+                    <img src="LOGO2.png" alt="BISTRO FLORENC" loading="lazy">
+                </div>
+                <div>
+                    <h1>DENNÍ MENU</h1>
+                </div>
             </div>
             <button id="menu-toggle">☰</button>
             <nav id="nav-menu">
