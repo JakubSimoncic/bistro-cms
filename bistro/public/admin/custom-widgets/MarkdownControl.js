@@ -1,6 +1,6 @@
 import React from 'react';
 
-const SimpleMarkdownControl = ({ value, onChange }) => {
+const MarkdownControl = ({ value, onChange }) => {
   return (
     <textarea
       value={value || ''}
@@ -10,4 +10,4 @@ const SimpleMarkdownControl = ({ value, onChange }) => {
   );
 };
 
-export default SimpleMarkdownControl;
+export default MarkdownControl;
