@@ -10,8 +10,8 @@ title: Denní menu
 
 * **Uzený hovězí jazyk, křenová omáčka a domácí karlovarský knedlík** 175Kč
 * **Vepřová plec na houbách a pečená jasmínová rýže** 165Kč
-* **Pikantní kuřecí směs, smažené hranolky nebo pečená jasmínová rýže** 175Kč
-* **Smažené kuřecí stripsy v cornflakes strouhance, šťouchané brambory a zelný salátek** 175Kč
+* **Pikantní kuřecí směs, smažené hranolky nebo pečená jasmínová rýže** 165Kč
+* **Smažené kuřecí stripsy v cornflakes strouhance, šťouchané brambory a zelný salátek** 165Kč
 
 ## STÁLÁ NABÍDKA
 
