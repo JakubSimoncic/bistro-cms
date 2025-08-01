@@ -9,6 +9,15 @@ function MarkdownControl({ value, onChange }) {
   return textarea;
 }
 
-CMS.registerWidget('markdown', MarkdownControl);
+function waitForCMS(callback) {
+  if (window.CMS) {
+    callback();
+  } else {
+    setTimeout(() => waitForCMS(callback), 50);
+  }
+}
 
-CMS.init();
+waitForCMS(() => {
+  CMS.registerWidget('markdown', MarkdownControl);
+  CMS.init();
+});
