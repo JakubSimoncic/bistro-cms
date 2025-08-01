@@ -7,14 +7,11 @@ function MarkdownControl({ value, onChange }) {
   textarea.value = value || '';
 
   textarea.addEventListener('input', e => {
-    // Ulož pozici kurzoru
     const start = textarea.selectionStart;
     const end = textarea.selectionEnd;
 
-    // Zavolej onChange s novou hodnotou
     onChange(e.target.value);
 
-    // Nastav kurzor zpět na uložené místo
     requestAnimationFrame(() => {
       textarea.selectionStart = start;
       textarea.selectionEnd = end;
@@ -23,5 +20,3 @@ function MarkdownControl({ value, onChange }) {
 
   return textarea;
 }
-
-export default MarkdownControl;
