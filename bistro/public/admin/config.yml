@@ -10,7 +10,6 @@ media_library:
   config:
     publicKey: demo
 
-    
 collections:
   - name: "menu"
     label: "Denní menu"
@@ -22,4 +21,3 @@ collections:
         fields:
           - { label: "Titulek", name: "title", widget: "string" }
           - { label: "Obsah", name: "body", widget: "markdown" }
-
