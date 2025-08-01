@@ -21,4 +21,5 @@ title: Denní menu
 * **Točená kofola 0,3/0,5l**   35/50Kč
 * **Domácí limonády (bezinka, malina, zázvor, citronáda)**   55Kč
 * **Kohoutková voda s citronem, mátou a ledem**   25Kč
+  
 ***Nabídka je platná ve pátek 1.8. od 10:30 do zavírací hodiny nebo do vyprodání***
