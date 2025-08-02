@@ -3,15 +3,15 @@ title: Denní menu
 ---
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
-* **Frankfurtská polévka** 30Kč
-* **Mexická polévka se sýrem čedar a smaženou tortillou** 30Kč
+* **Jihočeská kulajda** 30Kč
+* **Thajská kuřecí polévka** 30Kč
 
 ## HLAVNÍ JÍDLA
 
-* **Uzený hovězí jazyk, křenová omáčka a domácí karlovarský knedlík** 175Kč
-* **Vepřová plec na houbách a pečená jasmínová rýže** 165Kč
-* **Pikantní kuřecí směs, smažené hranolky nebo pečená jasmínová rýže** 175Kč
-* **Smažené kuřecí stripsy v cornflakes strouhance, šťouchané brambory a zelný salátek** 175Kč
+* **Segedínský guláš a domácí houskový knedlík** 165Kč
+* **Vepřová roláda plněná masovou fáší a šťouchané brambory** 165Kč
+* **Pečené kuřecí stehno, dušené červené zelí a domácí karlovarský knedlík** 165Kč
+* **Kuřecí gyros, smažené hranolky a zelný salátek** 175Kč
 
 ## STÁLÁ NABÍDKA
 
@@ -22,7 +22,7 @@ title: Denní menu
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTANĚ – 500ml
 
-* **Gulášová polévka nebo mexická polévka se sýrem čedar a smaženou tortillou** 75Kč
+* **Jihočeská kulajda nebo Thajská kuřecí polévka** 75Kč
 
 ## ZVÝHODNĚNÉ NÁPOJE K HLAVNÍMU JÍDLU
 
@@ -31,4 +31,4 @@ title: Denní menu
 * **Domácí limonády (bezinka, malina, zázvor, citronáda)** 55Kč
 * **Kohoutková voda s citronem, mátou a ledem** 25Kč
 
-***Nabídka je platná v sobotu 2.8. od 10:30 do zavírací hodiny nebo do vyprodání***
+***Nabídka je platná v neděli 3.8. od 10:30 do zavírací hodiny nebo do vyprodání***
