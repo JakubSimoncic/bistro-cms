@@ -1,5 +1,6 @@
+// Netlify CMS poskytuje 'h' pro vytváření React elementů
 function MarkdownControl({ value, onChange, forID }) {
-  return React.createElement('textarea', {
+  return h('textarea', {
     id: forID,
     style: {
       width: '100%',
@@ -8,7 +9,7 @@ function MarkdownControl({ value, onChange, forID }) {
       fontSize: '14px',
     },
     value: value || '',
-    onChange: (e) => {
+    onInput: (e) => {
       const textarea = e.target;
       const start = textarea.selectionStart;
       const end = textarea.selectionEnd;
