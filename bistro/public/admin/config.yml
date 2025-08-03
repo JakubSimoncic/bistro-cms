@@ -17,8 +17,9 @@ collections:
     create: false
     files:
       - file: "bistro/public/web/pages/denni-menu.md"
-        label: "Denní menu 29.7.2025"
+        label: "Denní menu"
         name: "denni_menu_2025_07_29"
         fields:
           - { label: "Titulek", name: "title", widget: "string" }
           - { label: "Obsah", name: "body", widget: "markdown" }
+
