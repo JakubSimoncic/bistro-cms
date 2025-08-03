@@ -21,6 +21,7 @@ collections:
         name: "denni_menu_2025_07_29"
         fields:
           - { label: "Titulek", name: "title", widget: "string" }
-          - { label: "Obsah", name: "body", widget: "richtext" }
+          - { label: "Obsah", name: "body", widget: "markdown" }
+
 
 
