@@ -11,7 +11,7 @@ title: Denní menu
 * **Vepřová kýta na smetaně a domácí houskový knedlík** 165Kč
 * **Uzená krkovička, křenová omáčka a pažitkové brambory** 165Kč
 * **Boloňské špagety s hovězím mletým masem a parmazánem** 175Kč
-* **Kuřecí Burittos (kuřecí maso, rýže, fazolová pasta, papričky Jalapeños, sýr čedar, restovaná cibule s paprikou v grilované pšeničné tortille) a zakysaná smetana** 185Kč
+* **Kuřecí Burittos (kuřecí maso, rýže, fazolová pasta, papričky Jalapeños, sýr čedar, restovaná cibule s paprikou v grilované pšeničné tortille) a zakysaná smetana** 175Kč
 
 ## STÁLÁ NABÍDKA
 
