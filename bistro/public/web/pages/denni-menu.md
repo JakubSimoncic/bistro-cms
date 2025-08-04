@@ -3,15 +3,15 @@ title: Denní menu
 ---
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
-* **Jihočeská kulajda** 30Kč
-* **Thajská kuřecí polévka** 30Kč
+* **Frankfurtská polévka** 30Kč
+* **Krémová česnečka se sýrem a krutony** 30Kč
 
 ## HLAVNÍ JÍDLA
 
-* **Segedínský guláš a domácí houskový knedlík** 165Kč
-* **Vepřová roláda plněná masovou fáší a šťouchané brambory** 165Kč
-* **Pečené kuřecí stehno, dušené červené zelí a domácí karlovarský knedlík** 165Kč
-* **Kuřecí gyros, smažené hranolky a zelný salátek** 175Kč
+* **Vepřová kýta na smetaně a domácí houskový knedlík** 165Kč
+* **Moravský vrabec, zelí a bramborový knedlík** 165Kč
+* **Vepřová roláda plněná anglickou slaninou a zelím, šťouchané brambory** 165Kč
+* **Špagety Aglio Olio e Peperoncino s parmazánem** 175Kč
 
 ## STÁLÁ NABÍDKA
 
@@ -22,7 +22,7 @@ title: Denní menu
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTANĚ – 500ml
 
-* **Jihočeská kulajda nebo Thajská kuřecí polévka** 75Kč
+* **Frankfurtská polévka nebo krémová česnečka se sýrem a krutony** 75Kč
 
 ## ZVÝHODNĚNÉ NÁPOJE K HLAVNÍMU JÍDLU
 
@@ -31,4 +31,4 @@ title: Denní menu
 * **Domácí limonády (bezinka, malina, zázvor, citronáda)** 55Kč
 * **Kohoutková voda s citronem, mátou a ledem** 25Kč
 
-***Nabídka je platná v neděli 3.8. od 10:30 do zavírací hodiny nebo do vyprodání***
+***Nabídka je platná v pondělí 4.8. od 10:30 do zavírací hodiny nebo do vyprodání***
