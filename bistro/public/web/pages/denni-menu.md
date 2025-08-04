@@ -3,15 +3,15 @@ title: Denní menu
 ---
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
-* **Frankfurtská polévka** 30Kč
-* **Krémová česnečka se sýrem a krutony** 30Kč
+* **Čočková polévka** 30Kč
+* **Špenátový krém s bylinkovými krutony** 30Kč
 
 ## HLAVNÍ JÍDLA
 
 * **Vepřová kýta na smetaně a domácí houskový knedlík** 165Kč
-* **Moravský vrabec, zelí a bramborový knedlík** 165Kč
-* **Vepřová roláda plněná anglickou slaninou a zelím, šťouchané brambory** 165Kč
-* **Špagety Aglio Olio e Peperoncino s parmazánem** 175Kč
+* **Uzená krkovička, křenová omáčka a pažitkové brambory** 165Kč
+* **Boloňské špagety s hovězím mletým masem a parmazánem** 175Kč
+* **Kuřecí Burittos (kuřecí maso, rýže, fazolová pasta, papričky Jalapeños, sýr čedar, restovaná cibule s paprikou v grilované pšeničné tortille) a zakysaná smetana** 185Kč
 
 ## STÁLÁ NABÍDKA
 
@@ -22,7 +22,7 @@ title: Denní menu
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTANĚ – 500ml
 
-* **Frankfurtská polévka nebo krémová česnečka se sýrem a krutony** 75Kč
+* **Čočková polévka nebo špenátový krém s bylinkovými krutony** 75Kč
 
 ## ZVÝHODNĚNÉ NÁPOJE K HLAVNÍMU JÍDLU
 
@@ -31,4 +31,4 @@ title: Denní menu
 * **Domácí limonády (bezinka, malina, zázvor, citronáda)** 55Kč
 * **Kohoutková voda s citronem, mátou a ledem** 25Kč
 
-***Nabídka je platná v pondělí 4.8. od 10:30 do zavírací hodiny nebo do vyprodání***
+***Nabídka je platná v úterý 5.8. od 10:30 do zavírací hodiny nebo do vyprodání***
