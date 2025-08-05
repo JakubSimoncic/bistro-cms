@@ -15,9 +15,9 @@ title: Denní menu
 
 ## STÁLÁ NABÍDKA
 
-* **Hovězí guláš s cibulkou a beraním rohem, domácí houskový knedlík** 185Kč
-* **Kuřecí řízek, bramborový salát a citron** 175Kč
-* **Smažený sýr, hranolky a tatarská omáčka** 175Kč
+* **Hovězí guláš s cibulkou a beraním rohem, domácí houskový knedlík** 175Kč
+* **Kuřecí řízek, bramborový salát a citron** 165Kč
+* **Smažený sýr, hranolky a tatarská omáčka** 165Kč
 * **Bacon Cheeseburger (180g grilované hovězí maso, sýr čedar, anglická slanina, majonéza, plátky rajčat, cibulka a salát v sezamové housce) a smažené hranolky** 255Kč
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTANĚ – 500ml
