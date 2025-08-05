@@ -4,7 +4,7 @@ title: Denní menu
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
 * **Valašská kyselice** 30Kč
-* **Čočková polévka** 30Kč
+* **Čočková polévka s uzeným masem** 30Kč
 
 ## HLAVNÍ JÍDLA
 
