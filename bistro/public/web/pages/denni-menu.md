@@ -3,26 +3,26 @@ title: Denní menu
 ---
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
+* **Valašská kyselice** 30Kč
 * **Čočková polévka** 30Kč
-* **Špenátový krém s bylinkovými krutony** 30Kč
 
 ## HLAVNÍ JÍDLA
 
-* **Vepřová kýta na smetaně a domácí houskový knedlík** 165Kč
-* **Uzená krkovička, křenová omáčka a pažitkové brambory** 165Kč
-* **Boloňské špagety s hovězím mletým masem a parmazánem** 175Kč
-* **Kuřecí Burittos (kuřecí maso, rýže, fazolová pasta, papričky Jalapeños, sýr čedar a restovaná cibule s paprikou v grilované pšeničné tortille), zakysaná smetana** 175Kč
+* **Pečená vepřová krkovice na pivě a máslová bramborová kaše** 165Kč
+* **Sekaná svíčková, domácí houskový knedlík a brusinkový terč** 165Kč
+* **Pečená BBQ kuřecí křídla, Blue Cheese dip a smažené hranolky** 165Kč
+* **Mexické kuřecí Burittos (kuřecí maso, rýže, fazolová pasta, papričky Jalapeños, sýr čedar a restovaná cibule s paprikou v grilované pšeničné tortille), zakysaná smetana** 175Kč
 
 ## STÁLÁ NABÍDKA
 
-* **Hovězí guláš s cibulkou a beraním rohem, domácí houskový knedlík** 175Kč
-* **Kuřecí řízek, bramborový salát a citron** 165Kč
-* **Smažený sýr, hranolky a tatarská omáčka** 165Kč
+* **Hovězí guláš s cibulkou a beraním rohem, domácí houskový knedlík** 185Kč
+* **Kuřecí řízek, bramborový salát a citron** 175Kč
+* **Smažený sýr, hranolky a tatarská omáčka** 175Kč
 * **Bacon Cheeseburger (180g grilované hovězí maso, sýr čedar, anglická slanina, majonéza, plátky rajčat, cibulka a salát v sezamové housce) a smažené hranolky** 255Kč
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTANĚ – 500ml
 
-* **Čočková polévka nebo špenátový krém s bylinkovými krutony** 75Kč
+* **Valašská kyselice nebo čočková polévka** 75Kč
 
 ## ZVÝHODNĚNÉ NÁPOJE K HLAVNÍMU JÍDLU
 
@@ -31,4 +31,4 @@ title: Denní menu
 * **Domácí limonády (bezinka, malina, zázvor, citronáda)** 55Kč
 * **Kohoutková voda s citronem, mátou a ledem** 25Kč
 
-***Nabídka je platná v úterý 5.8. od 10:30 do zavírací hodiny nebo do vyprodání***
+***Nabídka je platná ve středu 6.8. od 10:30 do zavírací hodiny nebo do vyprodání***
