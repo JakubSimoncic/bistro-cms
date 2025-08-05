@@ -10,7 +10,7 @@ title: Denní menu
 
 * **Pečená vepřová krkovice na pivě a máslová bramborová kaše** 165Kč
 * **Sekaná svíčková, domácí houskový knedlík a brusinkový terč** 165Kč
-* **Pečená BBQ kuřecí křídla, Blue Cheese dip a smažené hranolky** 165Kč
+* **Pečená BBQ kuřecí křídla, Blue Cheese dip a smažené hranolky** 175Kč
 * **Mexické kuřecí Burittos (kuřecí maso, rýže, fazolová pasta, papričky Jalapeños, sýr čedar a restovaná cibule s paprikou v grilované pšeničné tortille), zakysaná smetana** 175Kč
 
 ## STÁLÁ NABÍDKA
