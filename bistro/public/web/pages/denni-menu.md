@@ -11,7 +11,7 @@ title: Denní menu
 * **Selská vepřová krkovice, bramborový knedlík a zelí** 165Kč
 * **Smažená kuřecí křídla v cornflakes strouhance, opečené brambory a tatarská omáčka** 175Kč
 * **Boloňské Lasagne s hovězím mletým masem a salátek s pestem** 175Kč
-* **Kuřecí Quesadilla (kuřecí maso, rajčata, karamelizovaná cibule a variace sýrů v grilované pšeničné tortille), zakysaná smetana** 185Kč
+* **Kuřecí Quesadilla (kuřecí maso, rajčata, karamelizovaná cibule a variace sýrů v grilované pšeničné tortille), zakysaná smetana** 175Kč
 
 ## STÁLÁ NABÍDKA
 
