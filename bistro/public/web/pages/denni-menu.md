@@ -3,15 +3,15 @@ title: Denní menu
 ---
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
-* **Valašská kyselice** 30Kč
+* **Fazolová polévka s klobásou** 30Kč
 * **Bramborová polévka** 30Kč
 
 ## HLAVNÍ JÍDLA
 
-* **Selská vepřová krkovice, bramborový knedlík a zelí** 165Kč
-* **Smažená kuřecí křídla v cornflakes strouhance, opečené brambory a tatarská omáčka** 175Kč
-* **Boloňské Lasagne s hovězím mletým masem a salátek s pestem** 175Kč
-* **Kuřecí Quesadilla (kuřecí maso, rajčata, karamelizovaná cibule a variace sýrů v grilované pšeničné tortille), zakysaná smetana** 175Kč
+* **Rozlítaný španělský vepřový ptáček a pečená jasmínová rýže** 165Kč
+* **Smažený karbanátek, bramborová kaše a kyselá okurka** 165Kč
+* **Grilovaný hermelín, opečené brambory a brusinková majonéza** 165Kč
+* **Těstoviny tagliatelle s kuřecím masem a omáčkou Quattro Formaggi a zdobené smaženou rukolou** 175Kč
 
 ## STÁLÁ NABÍDKA
 
@@ -22,7 +22,7 @@ title: Denní menu
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTANĚ – 500ml
 
-* **Valašská kyselice nebo bramborová polévka** 75Kč
+* **Fazolová polévka s klobásou nebo bramborová polévka** 75Kč
 
 ## ZVÝHODNĚNÉ NÁPOJE K HLAVNÍMU JÍDLU
 
@@ -31,4 +31,4 @@ title: Denní menu
 * **Domácí limonády (bezinka, malina, zázvor, citronáda)** 55Kč
 * **Kohoutková voda s citronem, mátou a ledem** 25Kč
 
-***Nabídka je platná ve čtvrtek 7.8. od 10:30 do zavírací hodiny nebo do vyprodání***
+***Nabídka je platná ve PÁTEK 8.8. od 10:30 do zavírací hodiny nebo do vyprodání***
