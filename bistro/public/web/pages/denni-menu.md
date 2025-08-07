@@ -11,7 +11,7 @@ title: Denní menu
 * **Rozlítaný španělský vepřový ptáček a pečená jasmínová rýže** 165Kč
 * **Smažený karbanátek, bramborová kaše a kyselá okurka** 165Kč
 * **Grilovaný hermelín, opečené brambory a brusinková majonéza** 165Kč
-* **Těstoviny tagliatelle s kuřecím masem a omáčkou Quattro Formaggi a zdobené smaženou rukolou** 175Kč
+* **Těstoviny tagliatelle s kuřecím masem, omáčkou Quattro Formaggi a zdobené smaženou rukolou** 175Kč
 
 ## STÁLÁ NABÍDKA
 
