@@ -10,8 +10,8 @@ title: Denní menu
 
 * **Moravský vrabec, zelí, variace knedlíku (houskový a bramborový)** 165Kč
 * **Smažený karbanátek, bramborová kaše a kyselá okurka** 165Kč
-* **Grilovaný hermelín, opečené brambory a brusinková majonéza** 165Kč
-* **BBQ kuřecí křidýlka, blue cheese dresink a hranolky ** 175Kč
+* **Grilovaný hermelín, hranolky a brusinková majonéza** 165Kč
+* **BBQ kuřecí křidýlka, blue cheese dresink a hranolky** 175Kč
 
 ## STÁLÁ NABÍDKA
 
