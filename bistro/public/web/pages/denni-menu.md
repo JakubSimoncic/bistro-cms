@@ -4,14 +4,14 @@ title: Denní menu
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
 * **Špenátový krém s krutony** 30Kč
-* **Valašská kyselice** 30Kč
+* **Fazolová s uzeninou** 30Kč
 
 ## HLAVNÍ JÍDLA
 
-* **Moravský vrabec, zelí, variace knedlíku (houskový a bramborový)** 165Kč
-* **Smažený karbanátek, bramborová kaše a kyselá okurka** 165Kč
-* **Grilovaný hermelín, hranolky a brusinková majonéza** 165Kč
-* **BBQ kuřecí křidýlka, blue cheese dresink a hranolky** 175Kč
+* **Křenová omáčka, uzená krkovice a houskový knedlík** 165Kč
+* **Rozlítaný španělský vepřový ptáček, pečená jasmínová rýže ** 165Kč
+* **Grilovaný hermelín, šťouchané brambory, blue cheese dresink** 165Kč
+* **Plněná tortilla s kuřecím masem (BBQ nebo Caesar dresinkem) a hranolky** 185Kč
 
 ## STÁLÁ NABÍDKA
 
@@ -22,7 +22,7 @@ title: Denní menu
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTANĚ – 500ml
 
-* **Špenátový krém s krutony nebo Valašská kyselice** 75Kč
+* **Špenátový krém s krutony nebo fazolová s uzeninou** 75Kč
 
 ## ZVÝHODNĚNÉ NÁPOJE K HLAVNÍMU JÍDLU
 
