@@ -9,7 +9,7 @@ title: Denní menu
 ## HLAVNÍ JÍDLA
 
 * **Křenová omáčka, uzená krkovice a houskový knedlík** 165Kč
-* **Rozlítaný španělský vepřový ptáček, pečená jasmínová rýže ** 165Kč
+* **Rozlítaný španělský vepřový ptáček, pečená jasmínová rýže** 165Kč
 * **Grilovaný hermelín, šťouchané brambory, blue cheese dresink** 165Kč
 * **Plněná tortilla s kuřecím masem (BBQ nebo Caesar dresinkem) a hranolky** 185Kč
 
