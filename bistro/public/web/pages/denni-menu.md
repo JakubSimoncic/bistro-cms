@@ -3,7 +3,7 @@ title: Denní menu
 ---
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
-* **Špenátový krém s krutony** 30Kč
+* **Špenátový krém se zakysanou smetanou** 30Kč
 * **Fazolová s uzeninou** 30Kč
 
 ## HLAVNÍ JÍDLA
@@ -22,7 +22,7 @@ title: Denní menu
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTANĚ – 500ml
 
-* **Špenátový krém s krutony nebo fazolová s uzeninou** 75Kč
+* **Špenátový krém se zakysanou smetanou nebo fazolová s uzeninou** 75Kč
 
 ## ZVÝHODNĚNÉ NÁPOJE K HLAVNÍMU JÍDLU
 
