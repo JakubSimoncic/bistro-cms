@@ -3,15 +3,15 @@ title: Denní menu
 ---
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
-* **Špenátový krém se zakysanou smetanou** 30Kč
-* **Fazolová s uzeninou** 30Kč
+* **Dršťková polévka** 30Kč
+* **Brokolicový krém s krutony** 30Kč
 
 ## HLAVNÍ JÍDLA
 
-* **Křenová omáčka, uzená krkovice a houskový knedlík** 165Kč
-* **Rozlítaný španělský vepřový ptáček, pečená jasmínová rýže** 165Kč
-* **Grilovaný hermelín, šťouchané brambory, blue cheese dresink** 165Kč
-* **Plněná tortilla s kuřecím masem (BBQ nebo Caesar dresinkem) a hranolky** 185Kč
+* **Pomalu pečený vepřový bok s chilli a cibulí, bramborová kaše, silná omáčka** 165Kč
+* **Kuřecí nudličky po sečuánsku, pečená jasmínová rýže** 165Kč
+* **Čevabčiči, vařené brambory s pařitkou, cibulka, hořčice** 165Kč
+* **Fusilli s kuřecím masem, hříbková omáčka se smetanou a jarní cibulkou, parmazán** 175Kč
 
 ## STÁLÁ NABÍDKA
 
@@ -22,7 +22,7 @@ title: Denní menu
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTANĚ – 500ml
 
-* **Špenátový krém se zakysanou smetanou nebo fazolová s uzeninou** 75Kč
+* **Dršťková polévka nebo Brokolicový krém s krutony** 75Kč
 ## ZVÝHODNĚNÉ NÁPOJE K HLAVNÍMU JÍDLU
 
 * **Točená malinovka 0,3/0,5l** 30/45Kč
