@@ -263,7 +263,11 @@
                 text-align: right;
                 color: #000;
             }
-
+            .datum {
+                text-allign: left;
+                font-weight: bold;
+                font-style: italic;
+            }
             /* Responzivita */
             @media (max-width: 764px) {
                 li {
@@ -447,6 +451,9 @@
         </header>
               <footer>
                 <section id="menu-content" class="markdown">Načítám denní menu...</section>
+                  <div class="datum">
+                      <p id="datum"></p>
+                  </div>
               </footer>
         <script>
             document.getElementById('menu-toggle').addEventListener('click', function() {
@@ -463,10 +470,18 @@
             document.getElementById('menu-content').innerHTML = 'Nepodařilo se načíst denní menu.';
             console.error(error);
         });
+            
+          document.addEventListener("DOMContentLoaded", function() {
+            const dny = ["Neděle", "Pondělí", "Úterý", "Středa", "Čtvrtek", "Pátek", "Sobota"];
+            
+            const dnes = new Date();
+            const denVTydnu = dny[dnes.getDay()];
+            const denVMesici = dnes.getDate();
+            const mesic = dnes.getMonth() + 1; // měsíce jsou 0–11
+            
+            const datumText = `Nabídka je platná na ${denVTydnu.toLowerCase()} ${denVMesici}.${mesic}. od 10:30 do zavírací hodiny nebo do vyprodání.`;
+            document.getElementById("datum").textContent = datumText;
+          });
         </script>
     </body>
 </html>
-
-
-
-
