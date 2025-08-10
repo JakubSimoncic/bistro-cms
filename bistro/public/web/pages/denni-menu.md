@@ -23,7 +23,6 @@ title: Denní menu
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTANĚ – 500ml
 
 * **Špenátový krém se zakysanou smetanou nebo fazolová s uzeninou** 75Kč
-
 ## ZVÝHODNĚNÉ NÁPOJE K HLAVNÍMU JÍDLU
 
 * **Točená malinovka 0,3/0,5l** 30/45Kč
