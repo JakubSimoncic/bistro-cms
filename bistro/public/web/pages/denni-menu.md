@@ -9,8 +9,8 @@ title: Denní menu
 ## HLAVNÍ JÍDLA
 
 * **Vepřové v mrkvi, šťouchané brambory** 165Kč
-* **Rozlítaný španělsky vepřový ptáček, pečená jasmínová rýže** 165Kč
-* **Pečené kuřecí paličky, marinované v podmáslí, bramborová kaše, restované fazolky s pancettou a česnekem ** 165Kč
+* **Rozlítaný španělský vepřový ptáček, pečená jasmínová rýže** 165Kč
+* **Pečené kuřecí paličky, marinované v podmáslí, bramborová kaše, restované fazolky s pancettou a česnekem** 165Kč
 * **Trhané vepřové maso v BBQ omáčce, americké brambory, salát coleslaw** 175Kč
 
 ## STÁLÁ NABÍDKA
