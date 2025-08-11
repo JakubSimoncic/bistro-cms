@@ -10,7 +10,7 @@ title: Denní menu
 
 * **Pomalu pečený vepřový bok s chilli a cibulí, bramborová kaše, silná omáčka** 165Kč
 * **Kuřecí nudličky po sečuánsku, pečená jasmínová rýže** 165Kč
-* **Čevabčiči, vařené brambory s pařitkou, cibulka, hořčice** 165Kč
+* **Čevabčiči, vařené brambory s pažitkou, cibulka, hořčice** 165Kč
 * **Fusilli s kuřecím masem, hříbková omáčka se smetanou a jarní cibulkou, parmazán** 175Kč
 
 ## STÁLÁ NABÍDKA
