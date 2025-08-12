@@ -3,15 +3,15 @@ title: Denní menu
 ---
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
-* **Dršťková polévka** 30Kč
+* **Brokolicový krém s krutony a zakysanou smetanou** 30Kč
 * **Hrachová s paprikovou klobásou** 30Kč
 
 ## HLAVNÍ JÍDLA
 
-* **Vepřové v mrkvi, šťouchané brambory** 165Kč
-* **Rozlítaný španělský vepřový ptáček, pečená jasmínová rýže** 165Kč
-* **Pečené kuřecí paličky marinované v podmáslí, bramborová kaše, restované fazolky s pancettou a česnekem** 165Kč
-* **Trhané vepřové maso v BBQ omáčce, americké brambory, salát coleslaw**175Kč
+* **Pečený vepřový bok, dušené zelí, bramborový knedlík** 165Kč
+* **Masové kuličky v rajské omáčce, těstoviny fusilli ** 165Kč
+* **Pečené kuřecí paličky, vařené brambory, čedarová omáčka s jalapeños papričkami** 165Kč
+* **Quesadilla s trhaným vepřovým masem, rajčaty, variace sýra, anglická slanina, blue cheese dresink**175Kč
 
 ## STÁLÁ NABÍDKA
 
@@ -22,7 +22,7 @@ title: Denní menu
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTANĚ – 500ml
 
-* **Dršťková polévka nebo Hrachová s paprikovou klobásou** 75Kč
+* **Brokolicový krém s krutony a zakysanou smetanou nebo hrachová s paprikovou klobásou** 75Kč
 ## ZVÝHODNĚNÉ NÁPOJE K HLAVNÍMU JÍDLU
 
 * **Točená malinovka 0,3/0,5l** 30/45Kč
