@@ -9,7 +9,7 @@ title: Denní menu
 ## HLAVNÍ JÍDLA
 
 * **Pečený vepřový bok, dušené zelí, bramborový knedlík** 165Kč
-* **Masové kuličky v rajské omáčce, těstoviny fusilli ** 165Kč
+* **Masové kuličky v rajské omáčce, těstoviny fusilli** 165Kč
 * **Pečené kuřecí paličky, vařené brambory, čedarová omáčka s jalapeños papričkami** 165Kč
 * **Quesadilla s trhaným vepřovým masem, rajčaty, variace sýra, anglická slanina, blue cheese dresink**175Kč
 
