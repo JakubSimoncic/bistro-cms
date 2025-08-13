@@ -11,7 +11,7 @@ title: Denní menu
 * **Hovězí koprová omáčka, domácí houskový knedlík** 175Kč
 * **Halušky s uzeným masem, zelím a cibulkou** 165Kč
 * **Opečená jaternice, vařené brambory v páře, kysané zelí, hořčice** 165Kč
-* **Domácí sekaná pečeně, máslová bramborová kaše, kysela okurka**165Kč
+* **Domácí sekaná pečeně, máslová bramborová kaše, kyselá okurka**165Kč
 
 ## STÁLÁ NABÍDKA
 
