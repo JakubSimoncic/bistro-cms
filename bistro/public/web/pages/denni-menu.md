@@ -3,15 +3,15 @@ title: Denní menu
 ---
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
-* **Brokolicový krém s krutony a zakysanou smetanou** 30Kč
-* **Hrachová s paprikovou klobásou** 30Kč
+* **Slepičí vývar s masem, zeleninou a jáhlami** 30Kč
+* **Frankfurtská polévka** 30Kč
 
 ## HLAVNÍ JÍDLA
 
-* **Pečený vepřový bok, dušené zelí, bramborový knedlík** 165Kč
-* **Masové kuličky v rajské omáčce, těstoviny fusilli** 165Kč
-* **Pečené kuřecí paličky, vařené brambory, čedarová omáčka s jalapeños papričkami** 165Kč
-* **Quesadilla s trhaným vepřovým masem, rajčaty, variace sýra, anglická slanina, blue cheese dresink**175Kč
+* **Hovězí koprová omáčka, domácí houskový knedlík** 165Kč
+* **Halušky s uzeným masem, zelím a cibulkou** 165Kč
+* **Opečená jaternice, vařené brambory v páře, kysané zelí, hořčice** 165Kč
+* **Domácí sekaná pečeně, máslová bramborová kaše, kysela okurka**165Kč
 
 ## STÁLÁ NABÍDKA
 
@@ -22,7 +22,7 @@ title: Denní menu
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTANĚ – 500ml
 
-* **Brokolicový krém s krutony a zakysanou smetanou nebo hrachová s paprikovou klobásou** 75Kč
+* **Slepičí vývar s masem, zeleninou a jáhlami nebo Frankfurtská polévka** 75Kč
 ## ZVÝHODNĚNÉ NÁPOJE K HLAVNÍMU JÍDLU
 
 * **Točená malinovka 0,3/0,5l** 30/45Kč
