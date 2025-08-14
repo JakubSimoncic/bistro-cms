@@ -3,15 +3,15 @@ title: Denní menu
 ---
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
-* **Slepičí vývar s masem, zeleninou a jáhlami** 30Kč
-* **Frankfurtská polévka** 30Kč
+* **Fazolová polévka s klobásou** 30Kč
+* **Frankfurtská polévka s párkem** 30Kč
 
 ## HLAVNÍ JÍDLA
 
 * **Hovězí koprová omáčka, domácí houskový knedlík** 175Kč
-* **Halušky s uzeným masem, zelím a cibulkou** 165Kč
+* **Vepřové na slanině, pečená jasmínová rýže** 165Kč
 * **Opečená jaternice, vařené brambory v páře, kysané zelí, hořčice** 165Kč
-* **Domácí sekaná pečeně, máslová bramborová kaše, kyselá okurka**165Kč
+* **Tagliatelle s kuřecím masem, cuketou, sušené rajčaty, červenou cibulí, vínem, česnekem a parmazánem**175Kč
 
 ## STÁLÁ NABÍDKA
 
@@ -22,7 +22,7 @@ title: Denní menu
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTANĚ – 500ml
 
-* **Slepičí vývar s masem, zeleninou a jáhlami nebo Frankfurtská polévka** 75Kč
+* **Fazolová s klobásou nebo Frankfurtská párkem** 75Kč
 ## ZVÝHODNĚNÉ NÁPOJE K HLAVNÍMU JÍDLU
 
 * **Točená malinovka 0,3/0,5l** 30/45Kč
