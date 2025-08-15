@@ -17,11 +17,12 @@ collections:
     create: false
     files:
       - file: "bistro/public/web/pages/denni-menu.md"
-        label: "Denní menu"
+        label: "Denní menu CZ"
         name: "denni_menu_2025_07_29"
         fields:
           - { label: "Titulek", name: "title", widget: "string" }
           - { label: "Obsah", name: "body", widget: "markdown" }
+
 
 
 
