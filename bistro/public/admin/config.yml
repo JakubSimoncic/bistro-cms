@@ -23,6 +23,9 @@ collections:
           - { label: "Titulek", name: "title", widget: "string" }
           - { label: "Obsah", name: "body", widget: "markdown" }
 
-
-
-
+      - file: "bistro/public/web/pages/menu-en.md"
+        label: "Denní menu EN"
+        name: "denni_menu_en"
+        fields:
+          - { label: "Titulek", name: "title", widget: "string" }
+          - { label: "Obsah", name: "body", widget: "markdown" }
