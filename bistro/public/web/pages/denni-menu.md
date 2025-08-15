@@ -1,5 +1,5 @@
 ---
-title: Denní menu
+title: Denní menu CZ
 ---
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
