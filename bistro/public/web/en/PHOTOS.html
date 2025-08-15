@@ -1,0 +1,368 @@
+<!DOCTYPE html>
+<html lang="cs">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="View the photo gallery of Bistra Florenc in Prague | exterior, interior, ready-made meals, baguettes and desserts captured in beautiful pictures.">
+        <meta name="keywords" content="photos, Bistro Florenc, Praha Florenc, gallery, interior bistro, food česká kuchyně, baguettes, desserts, Karlín, Prague, food photography">
+
+        <!-- Canonical URL -->
+        <link rel="canonical" href="https://www.bistroflorenc.cz/web/en/PHOTOS.html">
+        
+        <!-- Běžná favicon -->
+        <link rel="icon" href="/favicon.ico" type="image/x-icon">
+        <link rel="icon" href="/favicon.png" type="image/png">
+
+        <!-- Pro mobilní zařízení -->
+        <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+        <link rel="icon" sizes="192x192" href="/android-chrome-192x192.png">
+        <link rel="icon" sizes="512x512" href="/android-chrome-512x512.png">
+        <meta name="msapplication-TileImage" content="/mstile-150x150.png">
+
+        <!-- OG tagy -->
+        <meta property="og:title" content="Bistro Florenc | Photos">
+        <meta property="og:description" content="View the photo gallery of Bistra Florenc in Prague | exterior, interior, ready-made meals, baguettes and desserts captured in beautiful pictures.">
+        <meta property="og:type" content="website">
+        <meta property="og:url" content="https://www.bistroflorenc.cz/web/en/PHOTOS.html">
+        <meta property="og:image" content="https://www.bistroflorenc.cz/web/LOGO2.png">
+        <meta property="og:locale" content="cs_CZ">
+
+        <!-- Twitter -->
+        <meta name="twitter:card" content="summary_large_image">
+        <meta name="twitter:title" content="Bistro Florenc | photos">
+        <meta name="twitter:description" content="View the photo gallery of Bistra Florenc in Prague | exterior, interior, ready-made meals, baguettes and desserts captured in beautiful pictures.">
+        <meta name="twitter:image" content="https://www.bistroflorenc.cz/web/LOGO2.png">
+
+              <script type="application/ld+json">
+              {
+                "@context": "https://schema.org",
+                "@type": "Restaurant",
+                "name": "Bistro Florenc",
+                "image": "https://www.bistroflorenc.cz/web/LOGO.png",
+                "address": {
+                  "@type": "PostalAddress",
+                  "streetAddress": "Křižíkova 254/5",
+                  "addressLocality": "Praha 8, Karlín",
+                  "postalCode": "186 00",
+                  "addressCountry": "CZ"
+                },
+                "telephone": "+420777770905",
+                "url": "https://www.bistroflorenc.cz",
+                "openingHours": [
+                  "Mo-Fr 08:00-20:00",
+                  "Sa-Su 10:00-19:00"
+                ],
+                "priceRange": "$",
+                "servesCuisine": "Czech, European",
+                  "sameAs": [
+                      "https://www.facebook.com/people/Bistro-Flo-renc/61574468493739/",
+                      "https://www.instagram.com/bistro_florenc"
+                    ]
+                }
+              </script>
+
+        <title>Bistro Florenc | PHOTOGALLERY</title>
+        <style>
+            body {
+                margin: 0;
+                padding: 0;
+                font-family: Arial, Helvetica, sans-serif;
+                color:#0F3825
+            }
+            header {
+                position: fixed;
+                width: 100%;
+                top: 0;
+                left: 0;
+                display: flex;
+                justify-content: space-between;
+                align-items: center;
+                padding: 15px 20px;
+                background: #0F3825;
+                box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+                z-index: 1000;
+            }
+            .logo {
+                    margin-left: 20px;
+            }
+            .logo img {
+                height: 120px;
+            }
+            #menu-toggle {
+                display: none;
+                font-size: 30px;
+                background: none;
+                border: none;
+                cursor: pointer;
+                color: #F5F1E3;
+            }
+            nav {
+                display: flex;
+                align-items: center;
+                margin-right: 50px;
+                background: #0F3825;
+            }
+            nav a {
+                color: #F5F1E3;
+                text-decoration: none;
+                margin: 0 15px;
+                font-size: 20px;
+                text-transform: uppercase;
+                font-weight: bold;
+                transition: color 0.3s;
+                text-align: center;
+            }
+            nav a:hover {
+                color: #d4a373;
+                text-decoration: underline;
+            }
+            .vlajka {
+                display: flex;
+                gap: 10px;
+                align-items: center;
+                margin-left: 100px;
+            }
+
+            .vlajka a {
+                display: inline-block;
+                border-radius: 50%;
+                overflow: hidden;
+                width: 40px;
+                height: 40px;
+                box-shadow: 0 2px 6px rgba(0,0,0,0.3);
+                transition: transform 0.3s, box-shadow 0.3s;
+            }
+
+            .vlajka a img {
+                width: 100%;
+                height: 100%;
+                object-fit: cover;
+                display: block;
+            }
+
+            .vlajka a:hover {
+                transform: scale(1.1);
+                box-shadow: 0 4px 12px rgba(0,0,0,0.4);
+            }
+            @media (max-width: 768px) {
+                .logo img {
+                    height: 80px;
+                }
+                .vlajka {
+                    display: flex;  
+                    justify-content: center;
+                    align-items: center;
+                    text-align: center;
+                    gap: 30px;
+                    box-shadow: none;
+                    margin: 0;
+                    padding: 0;
+                    background: none;
+                }
+                .vlajka a {
+                    width: 30px;
+                    height: 30px;
+                    border-radius: 50%;
+                    display: flex;
+                    overflow: hidden;
+                    justify-content: center;
+                    align-items: center;
+                    background: none;
+                    box-shadow: none;
+                }
+                .vlajka img {
+                    width: 100%;
+                    height: 100%;
+                    border-radius: 50%;
+                    object-fit: cover;
+                    display: block;
+                }
+                #menu-toggle {
+                    display: block;
+                    position: absolute;
+                    margin-right: 30px;
+                    top: 15px;
+                    right: 20px;
+                    margin-left: 20px;
+                }
+                nav {
+                    display: none;
+                    flex-direction: column;
+                    position: absolute;
+                    top: 100px;
+                    left: 0;
+                    width: 100%;
+                    background: #0F3825;
+                    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+                    text-align: center;
+                    overflow-x: hidden;
+                    padding-left: 0;
+                    padding-right: 0;
+                    max-width: none;
+                }
+                nav a {
+                    padding: 15px 0;
+                    display: block;
+                    color: #F5F1E3;
+                    margin: 0 auto;
+                    text-align: center;
+                    width: 100%;
+                    max-width: 300px;
+                }
+                nav.show {
+                    display: flex;
+                }
+            }
+            main {
+                padding-top: 160px;
+                text-align: center;
+                margin-left: 30px;
+                margin-right: 30px;
+                background-color: #FFFFFF;
+                }
+            .galerie {
+                display: grid;
+                grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+                gap: 30px;
+                margin-top: 60px;
+            }
+            .galerie-img {
+                width: 100%;
+                height: 250px;
+                border-radius: 10px;
+                object-fit: cover;
+                transition: 0.3s ease-in-out;
+            }
+            .galerie-img:hover {
+                transform: scale(1.1);
+            }
+            h1 {
+                font-size: 60px;
+                margin-top: 20px;
+                margin-bottom: 20px;
+                color: #0F3825;
+            }
+            .lightbox {
+                position: fixed;
+                top: 0;
+                left: 0;
+                width: 100%;
+                height: 100%;
+                background: rgba(0, 0, 0, 0.8);
+                display: none;
+                justify-content: center;
+                align-items: center;
+                z-index: 2000;
+            }
+            .lightbox img {
+                max-width: 90%;
+                max-height: 80vh;
+                border-radius: 10px;
+            }
+            .lightbox .close {
+                position: absolute;
+                top: 20px;
+                right: 30px;
+                font-size: 80px;
+                color: white;
+                cursor: pointer;
+                background: none;
+                border: none;
+            }
+            .arrow {
+                position: absolute;
+                top: 50%;
+                transform: translateY(-50%);
+                font-size: 80px;
+                color: white;
+                cursor: pointer;
+                background: none;
+                border: none;
+                padding: 20px;
+            }
+            .arrow-left {
+                left: 20px;
+            }
+            .arrow-right {
+                right: 20px;
+            }
+        </style>
+    </head>
+    <body>
+        <header>
+            <div class="logo">
+                <a href="index.html">
+                    <img src="/public/web/LOGO.png" alt="BISTRO FLORENC" loading="lazy">
+                </a>
+            </div>
+            <button id="menu-toggle">☰</button>
+            <nav id="nav-menu">
+                <a href="ABOUT_US.html">ABOUT US</a>
+                <a href="DAILY_MENU.html">DAILY MENU</a>
+                <a href="OUR_OFFER.html">OUR OFFER</a>
+                <a href="CONTACT.html">CONTACT</a>
+                <a href="PHOTOS.html">PHOTOS</a>
+                <div class="vlajka">
+                    <a href="/public/web/index.html"><img src="/public/web/vlajka_CZ.png" alt="CZ" loading="lazy"></a>
+                    <a href="/public/web/en/index.html"><img src="/public/web/vlajka_GB.png" alt="EN" loading="lazy"></a>
+                </div>
+            </nav>
+        </header>
+        <main>
+            <h1>PHOTOS</h1>
+            <div class="galerie">
+                <img class="galerie-img" src="/public/web/exterier.jpg" alt="View from outside on Bistro Florenc" loading="lazy" onclick="openLightbox(this)">
+                <img class="galerie-img" src="/public/web/slide1.jpg" alt="interior of Bistro Florenc" loading="lazy" onclick="openLightbox(this)">
+                <img class="galerie-img" src="/public/web/slide2.jpg" alt="Bistro Florenc in Karlín" loading="lazy" onclick="openLightbox(this)">
+                <img class="galerie-img" src="/public/web/slide3.jpg" alt="modern establishment Bistro Florenc in Prague Florenc" loading="lazy" onclick="openLightbox(this)">
+                <img class="galerie-img" src="/public/web/kava.jpg" alt="freshly made espreso" loading="lazy" onclick="openLightbox(this)">
+                <img class="galerie-img" src="/public/web/schiacciata.jpg" alt="crunchy schiacciata filled with smoked meat" loading="lazy" onclick="openLightbox(this)">
+                <img class="galerie-img" src="/public/web/jidlo_1.jpg" alt="tortilla filled with chicken and melting cheese" loading="lazy" onclick="openLightbox(this)">
+                <img class="galerie-img" src="/public/web/jidlo_4.jpg" alt="beef goulash with potato pancakes" loading="lazy" onclick="openLightbox(this)">
+                <img class="galerie-img" src="/public/web/jidlo_5.jpg" alt="chicken breast with potato kroketami" loading="lazy" onclick="openLightbox(this)">
+                <img class="galerie-img" src="/public/web/jidlo_6.jpg" alt="cooked codfish" loading="lazy" onclick="openLightbox(this)">
+                <img class="galerie-img" src="/public/web/jidlo_8.jpg" alt="steak" loading="lazy" onclick="openLightbox(this)">
+                <img class="galerie-img" src="/public/web/jidlo_10.jpg" alt="tortilla filled with chicken and grilled vegetables" loading="lazy" onclick="openLightbox(this)">
+                <img class="galerie-img" src="/public/web/jidlo_11.jpg" alt="grilled duck breast" loading="lazy" onclick="openLightbox(this)">
+                <img class="galerie-img" src="/public/web/jidlo_12.jpg" alt="fileted pork tenderloin steak" loading="lazy" onclick="openLightbox(this)">
+                <img class="galerie-img" src="/public/web/jidlo_13.jpg" alt="cheeseburger with french fries" loading="lazy" onclick="openLightbox(this)">
+            </div>
+            <div id="lightbox" class="lightbox">
+                <button class="close" onclick="closeLightbox()">&times;</button>
+                <button class="arrow arrow-left" onclick="changeImage(-1)">&#10094;</button>
+                <img id="lightbox-img">
+                <button class="arrow arrow-right" onclick="changeImage(1)">&#10095;</button>
+            </div>
+        </main>
+        <script>
+            let images = document.querySelectorAll(".galerie-img");
+            let currentIndex = 0;
+            
+            function openLightbox(imgElement) {
+                currentIndex = Array.from(images).indexOf(imgElement);
+                document.getElementById("lightbox-img").src = imgElement.src;
+                document.getElementById("lightbox").style.display = "flex";
+            }
+
+            function closeLightbox() {
+                document.getElementById("lightbox").style.display = "none";
+            }
+            
+            function changeImage(direction) {
+                currentIndex = (currentIndex + direction + images.length) % images.length;
+                document.getElementById("lightbox-img").src = images[currentIndex].src;
+            }
+            
+            document.addEventListener("keydown", function(event) {
+                if (document.getElementById("lightbox").style.display === "flex") {
+                    if (event.key === "ArrowRight") changeImage(1);
+                    if (event.key === "ArrowLeft") changeImage(-1);
+                    if (event.key === "Escape") closeLightbox();
+                }
+            });
+            document.getElementById("menu-toggle").addEventListener("click", function() {
+            document.getElementById("nav-menu").classList.toggle("show");
+            });
+        </script>
+    </body>
+</html>
