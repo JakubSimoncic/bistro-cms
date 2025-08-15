@@ -4,14 +4,14 @@ title: Denní menu CZ
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
 * **Hrachová s klobásou** 30Kč
-* **Kuřecí vývar s fritátovými nudlemi ** 30Kč
+* **Kuřecí vývar s fritátovými nudlemi** 30Kč
 
 ## HLAVNÍ JÍDLA
 
 * **Domácí sekaná, bramborová kaše, okurka** 155Kč
 * **Kuřecí nudličky po sečuánsku, pečená jasmínová rýže** 165Kč
-* **Masové kuličky v rajské omáčce a těstovinami/rýže ** 165Kč
-* **Quesadilla s trhaným vepřovým masem, rajčata, variace sýra, anglická slanina, zakysaná smetana **175Kč
+* **Masové kuličky v rajské omáčce a těstovinami/rýže** 165Kč
+* **Quesadilla s trhaným vepřovým masem, rajčata, variace sýra, anglická slanina, zakysaná smetana**175Kč
 
 ## STÁLÁ NABÍDKA
 
