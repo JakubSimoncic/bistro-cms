@@ -18,7 +18,7 @@ collections:
     files:
       - file: "bistro/public/web/pages/denni-menu.md"
         label: "Denní menu CZ"
-        name: "denni_menu_2025_07_29"
+        name: "denni_menu_cz"
         fields:
           - { label: "Titulek", name: "title", widget: "string" }
           - { label: "Obsah", name: "body", widget: "markdown" }
@@ -29,3 +29,4 @@ collections:
         fields:
           - { label: "Titulek", name: "title", widget: "string" }
           - { label: "Obsah", name: "body", widget: "markdown" }
+
