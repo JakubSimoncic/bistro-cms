@@ -1,7 +1,7 @@
 ---
 title: Denní menu - EN
 ---
-## DISCOUNTED SMALL SOUP WITH MAIN DISH– 250ml:
+## DISCOUNTED SMALL SOUP WITH MAIN DISH (250ml):
 
 * **Pea Soup with Sausage** 30CZK
 * **Chicken Broth with Sliced Pancake Noodles** 30CZK
@@ -20,7 +20,7 @@ title: Denní menu - EN
 * **Fried Cheese, French Fries and Tartar Sauce** 165CZK
 * **Double Bacon Cheeseburger (grilled beef paty, bacon fat, cheddar cheese, mayonnaise, tomato slices, onion and lettuce in a sesame bun), served with French Fries** 255CZK
 
-## SOUP ORDERED SEPARATELY– 500ml:
+## SOUP ORDERED SEPARATELY (500ml):
 
 * **ea Soup with Sausage or Chicken Broth with Sliced Pancake Noodles** 75CZK
 
