@@ -18,7 +18,7 @@ title: Denní menu - EN
 * **Beef goulash with onions and homemade dumplings** 175 CZK
 * **Chicken schnitzel, potato salad and lemon** 165 CZK
 * **Fried Cheese, French Fries and Tartar sauce** 165 CZK
-* **Double Bacon Cheeseburger (grilled beef paty, bacon fat, cheddar cheese, mayonnaise, tomato slices, onion and lettuce in a sesame bun), served with French Fries** 255CZK
+* **Double Bacon Cheeseburger (grilled beef paty, bacon, cheddar cheese, mayonnaise, tomato slices, onion and lettuce in a sesame bun), served with French Fries** 255 CZK
 
 ## SOUP ORDERED SEPARATELY - 500ml
 
