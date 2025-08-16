@@ -3,8 +3,8 @@ title: Denní menu CZ
 ---
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
-* **Čočková polévka s klobásou** 30Kč
-* **Frankfurtská polévka s párkem** 30Kč
+* **Čočková polévka s klobásou** 30 Kč
+* **Frankfurtská polévka s párkem** 30 Kč
 
 ## HLAVNÍ JÍDLA
 
