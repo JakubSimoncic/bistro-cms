@@ -116,10 +116,67 @@
             color: #d4a373;
             text-decoration: underline;
         }
+            .vlajka {
+                display: flex;
+                gap: 10px;
+                align-items: center;
+                margin-left: 100px;
+            }
+
+            .vlajka a {
+                display: inline-block;
+                border-radius: 50%;
+                overflow: hidden;
+                width: 40px;
+                height: 40px;
+                box-shadow: 0 2px 6px rgba(0,0,0,0.3);
+                transition: transform 0.3s, box-shadow 0.3s;
+            }
+
+            .vlajka a img {
+                width: 100%;
+                height: 100%;
+                object-fit: cover;
+                display: block;
+            }
+
+            .vlajka a:hover {
+                transform: scale(1.1);
+                box-shadow: 0 4px 12px rgba(0,0,0,0.4);
+            }
         @media (max-width: 768px) {
             .logo img {
                 height: 80px;
             }
+                .vlajka {
+                    display: flex;  
+                    justify-content: center;
+                    align-items: center;
+                    text-align: center;
+                    gap: 30px;
+                    box-shadow: none;
+                    margin: 0;
+                    padding: 0;
+                    background: none;
+                }
+                .vlajka a {
+                    width: 30px;
+                    height: 30px;
+                    border-radius: 50%;
+                    display: flex;
+                    overflow: hidden;
+                    justify-content: center;
+                    align-items: center;
+                    background: none;
+                    box-shadow: none;
+                }
+                .vlajka img {
+                    width: 100%;
+                    height: 100%;
+                    border-radius: 50%;
+                    object-fit: cover;
+                    display: block;
+                }
             #menu-toggle {
                 display: block;
                 position: absolute;
@@ -223,6 +280,10 @@
                 <a href="NASE_NABIDKA.html">NAŠE NABÍDKA</a>
                 <a href="KONTAKT.html">KONTAKT</a>
                 <a href="GALERIE.html">GALERIE</a>
+                <div class="vlajka">
+                    <a href="index.html"><img src="vlajka_CZ.png" alt="CZ" loading="lazy"></a>
+                    <a href="/web/en/index.html"><img src="vlajka_GB.png" alt="EN" loading="lazy"></a>
+                </div>
             </nav>
         </header>
         <main>
@@ -277,6 +338,7 @@
         </script>
     </body>
 </html>
+
 
 
 
