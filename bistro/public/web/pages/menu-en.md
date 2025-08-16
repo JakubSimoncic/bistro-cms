@@ -3,15 +3,15 @@ title: Denní menu - EN
 ---
 ## DISCOUNTED SMALL SOUP WITH MAIN DISH - 250ml
 
-* **Pea soup with sausage** 30CZK
-* **Chicken broth with sliced pancake noodles** 30CZK
+* **Lentil soup with sausage** 30CZK
+* **Frankfurter soup with sausage** 30CZK
 
 ## MAIN COURSES
 
-* **Homemade meatloaf, mashed potatoes and pickles** 155CZK
-* **Sichuan-style chicken strips with baked jasmine rice** 165CZK
-* **Baked meatballs wih tomato sauce and pasta or rice** 165CZK
-* **Pork Quesadilla (pulled pork meat, tomatoes, bacon fat and cheese mix wrapped in flour tortilla) and sour cream** 175CZK
+* **Chicken drumsticks with cheddar sauce and roasted potatoes** 165CZK
+* **Pork meat with bacon sauce and roasted jasmine rice** 165CZK
+* **Roasted pork meat with stewed cabbage and potato dumplings** 165CZK
+* **Pork meat in carrots and mashed potatoes** 165CZK
 
 ## EVERY DAY STANDARD MENU
 
@@ -22,7 +22,7 @@ title: Denní menu - EN
 
 ## SOUP ORDERED SEPARATELY - 500ml
 
-* **Pea soup with sausage or chicken broth with sliced pancake noodles** 75CZK
+* **Lentil soup with sausage or frankfurter soup with sausage** 75CZK
 
 ## DISCOUNTED DRINKS WITH MAIN COURSE
 
