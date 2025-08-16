@@ -1,32 +1,32 @@
 ---
 title: Denní menu - EN
 ---
-## SMALL SOUP WITH THE MAIN COURSE – 250ml
+## DISCOUNTED SMALL SOUP WITH MAIN DISH– 250ml:
 
-* **Jihočeská kulajda** 30Kč
-* **Thajská kuřecí polévka** 30Kč
+* **Pea Soup with Sausage** 30CZK
+* **Chicken Broth with Sliced Pancake Noodles** 30CZK
 
-## HLAVNÍ JÍDLA
+## MAIN COURSES:
 
-* **Segedínský guláš a domácí houskový knedlík** 165Kč
-* **Vepřová roláda plněná masovou fáší a šťouchané brambory** 165Kč
-* **Pečené kuřecí stehno, dušené červené zelí a domácí karlovarský knedlík** 165Kč
-* **Kuřecí gyros, smažené hranolky a zelný salátek** 175Kč
+* **Homemade Meatloaf, Mashed Potatoes and Pickles** 155CZK
+* **Sichuan-style Chicken Strips, Baked Jasmine Rice** 165CZK
+* **Meatballs wih Tomato Sauce and Pasta or Rice** 165CZK
+* **Pork Quesadilla (Pulled Pork meat, Tomatoes, Bacon fat, and Cheese Mix wrapped in flour tortilla) and Sour Cream** 175CZK
 
-## STÁLÁ NABÍDKA
+## EVERY DAY STANDARD MENU:
 
-* **Hovězí guláš s cibulkou a beraním rohem, domácí houskový knedlík** 175Kč
-* **Kuřecí řízek, bramborový salát a citron** 165Kč
-* **Smažený sýr, hranolky a tatarská omáčka** 165Kč
-* **Bacon Cheeseburger (180g grilované hovězí maso, sýr čedar, anglická slanina, majonéza, plátky rajčat, cibulka a salát v sezamové housce) a smažené hranolky** 255Kč
+* **Beef goulash with onions and homemade dumplings** 175CZK
+* **Chicken schnitzel, potato salad and lemon** 165CZK
+* **Fried Cheese, French Fries and Tartar Sauce** 165CZK
+* **Double Bacon Cheeseburger (grilled beef paty, bacon fat, cheddar cheese, mayonnaise, tomato slices, onion and lettuce in a sesame bun), served with French Fries** 255CZK
 
-## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTANĚ – 500ml
+## SOUP ORDERED SEPARATELY– 500ml:
 
-* **Jihočeská kulajda nebo Thajská kuřecí polévka** 75Kč
+* **ea Soup with Sausage or Chicken Broth with Sliced Pancake Noodles** 75CZK
 
-## ZVÝHODNĚNÉ NÁPOJE K HLAVNÍMU JÍDLU
+## DISCOUNTED DRINKS WITH MAIN COURSE:
 
-* **Točená malinovka 0,3/0,5l** 30/45Kč
-* **Točená kofola 0,3/0,5l** 35/50Kč
-* **Domácí limonády (bezinka, malina, zázvor, citronáda)** 55Kč
-* **Kohoutková voda s citronem, mátou a ledem** 25Kč
+* **"Malinovka"- draft raspberry soda 0,3/0,5l** 30/45CZK
+* **Draft Kofola 0,3/0,5l** 35/50CZK
+* **Homemade lemonades (Raspberry, Elderflower, Dragon Fruit & Raspberry, Sea Buckthorn, Ginger or Clasic lemonade)** 55CZK
+* **Tap water with lemon, mint and ice** 25CZK
