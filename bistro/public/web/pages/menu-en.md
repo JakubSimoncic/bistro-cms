@@ -8,7 +8,7 @@ title: Denní menu - EN
 
 ## MAIN COURSES
 
-* **Chicken drumsticks with cheddar sauce and roasted potatoes** 165CZK
+* **Chicken drumsticks with cheddar sauce and roasted potatoes** 165 CZK
 * **Pork meat with bacon sauce and roasted jasmine rice** 165CZK
 * **Roasted pork belly meat with stewed cabbage and potato dumplings** 165CZK
 * **Pork meat in carrots and mashed potatoes** 165CZK
