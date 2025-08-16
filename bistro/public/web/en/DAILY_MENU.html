@@ -119,7 +119,7 @@
                 color: #d4a373;
                 text-decoration: underline;
             }
-                        .vlajka {
+            .vlajka {
                 display: flex;
                 gap: 10px;
                 align-items: center;
@@ -471,12 +471,12 @@
         <header>
             <div class="logo screen-only">
                 <a href="index.html">
-                    <img src="/public/web/LOGO.png" alt="BISTRO FLORENC" loading="lazy">
+                    <img src="/web/LOGO.png" alt="BISTRO FLORENC" loading="lazy">
                 </a>
             </div>
             <div class="print-only">
                 <div class="logo">
-                    <img src="/public/web/LOGO2.png" alt="BISTRO FLORENC" loading="lazy">
+                    <img src="/web/LOGO2.png" alt="BISTRO FLORENC" loading="lazy">
                 </div>
                 <div>
                     <h1>DAILY MENU</h1>
@@ -490,8 +490,8 @@
                 <a href="CONTACT.html">CONTACT</a>
                 <a href="PHOTOS.html">PHOTOS</a>
                 <div class="vlajka">
-                    <a href="/public/web/index.html"><img src="/public/web/vlajka_CZ.png" alt="CZ" loading="lazy"></a>
-                    <a href="/public/web/en/index.html"><img src="/public/web/vlajka_GB.png" alt="EN" loading="lazy"></a>
+                    <a href="/web/index.html"><img src="/web/vlajka_CZ.png" alt="CZ" loading="lazy"></a>
+                    <a href="index.html"><img src="/web/vlajka_GB.png" alt="EN" loading="lazy"></a>
                 </div>
             </nav>  
         </header>
@@ -505,7 +505,7 @@
             document.getElementById('menu-toggle').addEventListener('click', function() {
                 document.getElementById('nav-menu').classList.toggle('show');
             });
-             fetch('/public/web/pages/menu-en.md')
+             fetch('/web/pages/menu-en.md')
         .then(response => response.text())
         .then(markdown => {
             const content = markdown.replace(/^---[\s\S]*?---\s*/, '');
@@ -530,4 +530,5 @@
           });
         </script>
     </body>
+
 </html>
