@@ -3,15 +3,15 @@ title: Denní menu CZ
 ---
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
-* **Čočková polévka s klobásou** 30 Kč
-* **Frankfurtská polévka s párkem** 30 Kč
+* **Gulášová polévka** 30 Kč
+* **Uzená česneková polévka se sýrem a krutony** 30 Kč
 
 ## HLAVNÍ JÍDLA
 
-* **Kuřecí paličky s čedarovou omáčkou, opečený brambor** 165 Kč
-* **Vepřová plec na slanině, pečená jasmínová rýže** 165 Kč
-* **Pečený bok, dušené zelí, bramborový knedlík** 165 Kč
-* **Vepřové maso v mrkvi, šťouchané brambory**165 Kč
+* **Pečené vepřové koleno, špenát a bramborový knedlík** 165 Kč
+* **Srbské vepřová rizoto se sýrem, kyselá okurka** 165 Kč
+* **Smažený hermelín plněný šunkou, brambory vařené v páře a tatarská omáčka** 165 Kč
+* **Špagety Carbonara s parmazánem**175 Kč
 
 ## STÁLÁ NABÍDKA
 
@@ -22,7 +22,7 @@ title: Denní menu CZ
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTANĚ – 500ml
 
-* **Čočková polévka s klobásou nebo Frankfurtská polévka s párkem** 75 Kč
+* **Gulášová polévka nebo uzená česneková polévka se sýrem a krutony** 75 Kč
 ## ZVÝHODNĚNÉ NÁPOJE K HLAVNÍMU JÍDLU
 
 * **Točená malinovka 0,3/0,5l** 30/45 Kč
