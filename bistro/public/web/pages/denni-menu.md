@@ -11,7 +11,7 @@ title: Denní menu CZ
 * **Pečené vepřové koleno, špenát a bramborový knedlík** 165 Kč
 * **Srbské vepřová rizoto se sýrem, kyselá okurka** 165 Kč
 * **Smažený hermelín plněný šunkou, brambory vařené v páře a tatarská omáčka** 165 Kč
-* **Špagety Carbonara s parmazánem** 175 Kč
+* **Špagety Carbonara  (pancetta, žloutek, smetana a parmazán)** 175 Kč
 
 ## STÁLÁ NABÍDKA
 
