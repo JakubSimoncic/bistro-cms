@@ -11,7 +11,7 @@ title: Denní menu - EN
 * **Roasted pork knuckle, spinach and potato dumplings** 165 CZK
 * **Serbian pork risotto with cheese, pickles** 165 CZK
 * **Fried camembert stuffed with ham, steamed potatoes and Tartar Sauce** 165 CZK
-* **Spaghetti Carbonara with Parmesan cheese** 175 CZK
+* **Spaghetti Carbonara with Parmesan Cheese** 175 CZK
 
 ## EVERY DAY STANDARD MENU
 
