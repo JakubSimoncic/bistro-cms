@@ -3,15 +3,15 @@ title: Denní menu - EN
 ---
 ## DISCOUNTED SMALL SOUP WITH MAIN DISH - 250ml
 
-* **Lentil soup with sausage** 30 CZK
-* **Frankfurter soup with sausage** 30 CZK
+* **Goulash soup** 30 CZK
+* **Smoked garlic soup with cheese and croutons** 30 CZK
 
 ## MAIN COURSES
 
-* **Chicken drumsticks with cheddar sauce and roasted potatoes** 165 CZK
-* **Pork meat with bacon sauce and roasted jasmine rice** 165 CZK
-* **Roasted pork belly meat with stewed cabbage and potato dumplings** 165 CZK
-* **Pork meat in carrots and mashed potatoes** 165 CZK
+* **Roasted pork knuckle, spinach and potato dumplings** 165 CZK
+* **Serbian pork risotto with cheese, pickles** 165 CZK
+* **Fried camembert stuffed with ham, steamed potatoes and Tartar Sauce** 165 CZK
+* **Spaghetti Carbonara with Parmesan cheese** 175 CZK
 
 ## EVERY DAY STANDARD MENU
 
@@ -22,7 +22,7 @@ title: Denní menu - EN
 
 ## SOUP ORDERED SEPARATELY - 500ml
 
-* **Lentil soup with sausage or frankfurter soup with sausage** 75 CZK
+* **Goulash soup or smoked garlic soup with cheese and croutons** 75 CZK
 
 ## DISCOUNTED DRINKS WITH MAIN COURSE
 
