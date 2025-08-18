@@ -10,7 +10,7 @@ title: Denní menu CZ
 
 * **Hovězí cikánská pečeně, pečená jasmínová rýže** 175 Kč
 * **Plněný bramborový knedlík uzeným masem, dušené zelí, smažená cibulka a vídeňská cibulka** 165 Kč
-* **Zapečené francouzské brambory, kyselá okurka** 165 Kč
+* **Zapečené francouzské brambory s uzeným masem, kyselá okurka** 165 Kč
 * **Pečené koleno, hořčice, křen, beraní rohy a pečivo** 165 Kč
 
 ## STÁLÁ NABÍDKA
