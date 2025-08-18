@@ -63,7 +63,7 @@
 
         <title>Bistro Florenc | Daily menu</title>
         <style>
-            body {  margin: 0;
+                        body {  margin: 0;
                 padding: 0;
                 font-family: Arial, Helvetica, sans-serif;
                 color:#0F3825
@@ -150,7 +150,7 @@
             span {
                 width: 50px;
                 color: #000000;
-            } 
+            }
             @media (max-width: 768px) {
                 .logo img {
                     height: 80px;
@@ -190,6 +190,17 @@
                     margin-right: 30px;
                     top: 15px;
                     right: 20px;
+                }  
+                            @media (max-width: 768px) {
+                .logo img {
+                    height: 80px;
+                }
+                #menu-toggle {
+                    display: block;
+                    position: absolute;
+                    margin-right: 30px;
+                    top: 15px;
+                    right: 20px;
                 }
                 nav {
                     display: none;
@@ -218,62 +229,53 @@
                 nav.show {
                     display: flex;
                 }
-                li {
-                    flex-direction: column;
-                    align-items: flex-start;
-
+            }
+                nav.show {
+                    display: flex;
                 }
-                li > span {
-                    margin-top: 5px;
+                }
+                main {
+                    background-color: #FFFFFF;
+                }
+                footer{
+                    padding-top: 140px;
+                    max-width: 768px;
+                    margin: 0 auto;
+                    background-color: #FFFFFF;
+                    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+                    padding-left: 5%;
+                    padding-right: 5%;
+                }
+                h1 {
+                        font-size: 60px;
+                        font-weight: bold;
+                        margin-bottom: 0px;
+                        text-align: center;
+                        color: #0F3825;
+                }
+                h2 {
+                    font-size: 27px;
+                    margin-top: 50px;
+                    margin-bottom: -10px;
                     text-align: left;
-                    margin-left: 0;
+                    margin-left: 37px;
+                    min-width: 0px;
+                    color: #0F3825;
                 }
-            }
-            nav.show {
-                display: flex;
-            }
-            main {
-                background-color: #FFFFFF;
-            }
-            footer{
-                padding-top: 140px;
-                max-width: 768px;
-                margin: 0 auto;
-                background-color: #FFFFFF;
-                box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-                padding-left: 5%;
-                padding-right: 5%;
-            }
-            h1 {
-                font-size: 60px;
-                font-weight: bold;
-                margin-bottom: 0px;
-                text-align: center;
-                color: #0F3825;
-            }
-            h2 {
-                font-size: 27px;
-                margin-top: 50px;
-                margin-bottom: -10px;
-                text-align: left;
-                margin-left: 37px;
-                min-width: 0px;
-                color: #0F3825;
-            }
-            h3 {
-                font-size: 30px;
-                margin-top: 30px;
-                margin-bottom: 0px;
-            }
-            h4 {
-                color: #000000;
-                margin-top: 0px;
-                margin-bottom: 10px;
-            }
-            h5 {
-                text-align: center;
-                font-size: 25px;
-            }
+                h3 {
+                    font-size: 30px;
+                    margin-top: 30px;
+                    margin-bottom: 0px;
+                }
+                h4 {
+                    color: #000000;
+                    margin-top: 0px;
+                    margin-bottom: 10px;
+                }
+                h5 {
+                    text-align: center;
+                    font-size: 25px;
+                }
 
             /* Mezery mezi sekcemi menu */
             section, ul {
@@ -322,6 +324,19 @@
                 text-align: left;
                 font-weight: bold;
                 font-style: italic;
+            }
+            /* Responzivita */
+            @media (max-width: 764px) {
+                li {
+                    flex-direction: column;
+                    align-items: flex-start;
+
+                }
+                li > span {
+                    margin-top: 5px;
+                    text-align: left;
+                    margin-left: 0;
+                }
             }
 
             /* Tiskové styly */
@@ -532,5 +547,6 @@
     </body>
 
 </html>
+
 
 
