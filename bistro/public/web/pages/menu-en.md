@@ -9,9 +9,9 @@ title: Denní menu - EN
 ## MAIN COURSES
 
 * **Beef meat with Gypsy sauce, baked jasmine rice** 165 CZK
-* **Stuffed potato dumpling with smoked meat, stewed cabbage, fried onion and Vienna onion** 165 CZK
-* **Baked French potatoes with smoked meat and pickles** 165 CZK
-* **Roasted pork knuckle, mustard, horseradish, ram horns and pastry** 175 CZK
+* **Stuffed potato dumpling with smoked meat, stewed cabbage, sautéed onion and Vienna onion** 165 CZK
+* **Baked potatoes with smoked meat and eggs, pickles** 165 CZK
+* **Roasted pork knuckle, mustard, horseradish, peppres and pastry** 175 CZK
 
 ## EVERY DAY STANDARD MENU
 
