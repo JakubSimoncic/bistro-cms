@@ -11,7 +11,7 @@ title: Denní menu CZ
 * **Smažené žampiony, brambory vařené v páře a tatarská omáčka** 155 Kč
 * **Kuřecí paličky na paprice a těstoviny tagliatelle** 165 Kč
 * **Cikánská vepřová plec a pečená jasmínová rýže** 165 Kč
-* **Trhané kuřecí maso v naší BBQ omáčce, smažené hranolky a česnekový dip** 165 Kč
+* **Trhané kuřecí maso v naší BBQ omáčce, smažené hranolky a česnekový dip** 175 Kč
 
 ## STÁLÁ NABÍDKA
 
