@@ -3,15 +3,15 @@ title: Denní menu CZ
 ---
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
-* **Gulášová polévka** 30 Kč
-* **Kulajda** 30 Kč
+* **Dršťková polévka** 30 Kč
+* **Francouzská cibulačka s bylinkovými krutony a parmazánem** 30 Kč
 
 ## HLAVNÍ JÍDLA
 
-* **Smažené žampiony, brambory vařené v páře a tatarská omáčka** 155 Kč
-* **Kuřecí paličky na paprice a těstoviny tagliatelle** 165 Kč
-* **Cikánská vepřová plec a pečená jasmínová rýže** 165 Kč
-* **Trhané kuřecí maso v naší BBQ omáčce, smažené hranolky a česnekový dip** 175 Kč
+* **Smažený holandský řízek, máslová bramborová kaše a kyselá okurka** 165 Kč
+* **Vepřové výpečky, zelí a bramborový knedlík** 165 Kč
+* **Katův šleh s vepřovým masem a bramboráčky** 165 Kč
+* **Tagliatelle s kuřecím masem, smetanou, listovým špenátem, česnekem a parmazánem** 175 Kč
 
 ## STÁLÁ NABÍDKA
 
@@ -22,7 +22,7 @@ title: Denní menu CZ
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTANĚ – 500ml
 
-* **Gulášová polévka nebo kulajda** 75 Kč
+* **Dršťková polévka nebo francouzská cibulačka s bylinkovými krutony a parmazánem** 75 Kč
 ## ZVÝHODNĚNÉ NÁPOJE K HLAVNÍMU JÍDLU
 
 * **Točená malinovka 0,3/0,5l** 30/45 Kč
