@@ -11,7 +11,7 @@ title: Denní menu CZ
 * **Smažený holandský řízek, máslová bramborová kaše a kyselá okurka** 165 Kč
 * **Vepřové výpečky, zelí a bramborový knedlík** 165 Kč
 * **Katův šleh s vepřovým masem a bramboráčky** 165 Kč
-* **Tagliatelle s kuřecí masem, smetanou, listovým špenátem, česnekem a parmazánem** 175 Kč
+* **Tagliatelle s kuřecím masem, smetanou, listovým špenátem, česnekem a parmazánem** 175 Kč
 
 ## STÁLÁ NABÍDKA
 
