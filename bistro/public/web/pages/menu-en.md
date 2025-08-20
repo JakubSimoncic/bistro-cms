@@ -3,15 +3,15 @@ title: Denní menu - EN
 ---
 ## DISCOUNTED SMALL SOUP WITH MAIN DISH - 250ml
 
-* **"Goulash soup** 30 CZK
-* **"Kulajda"- creamy dill soup with potatoes and mushrooms** 30 CZK
+* **Triplet soup** 30 CZK
+* **French onion soup with herb croutons and parmesan cheese** 30 CZK
 
 ## MAIN COURSES
 
-* **Fried mushrooms, steamed potatoes and tartar sauce** 155 CZK
-* **Chicken drumsticks with creamy-pepper sauce and tagliatelle pasta** 165 CZK
-* **Pork meat with Gypsy sauce and baked jasmine rice** 165 CZK
-* **Pulled chicken in our BBQ sauce, French Fries and garlic dip** 175 CZK
+* **Fried schnitzel from minced meat, mashed potatoes and pickles** 155 CZK
+* **Roast pork meat, cabbage and potato dumplings** 165 CZK
+* **Spicy pork meat with vegetables and potato pancakes** 165 CZK
+* **Tagliatelle with chicken meat, cream, leaf spinach, garlic and parmesan cheese** 175 CZK
 
 ## EVERY DAY STANDARD MENU
 
@@ -22,7 +22,7 @@ title: Denní menu - EN
 
 ## SOUP ORDERED SEPARATELY - 500ml
 
-* **Goulash soup or kulajda** 75 CZK
+* **Triplet Soup or French onion soup with herb croutons and parmesan cheese** 75 CZK
 
 ## DISCOUNTED DRINKS WITH MAIN COURSE
 
