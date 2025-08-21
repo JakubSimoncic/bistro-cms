@@ -8,9 +8,9 @@ title: Denní menu - EN
 
 ## MAIN COURSES
 
-* **Smoked pork meat with horseradish sauce and homemade dumpling** 165 CZK
+* **Smoked pork meat with horseradish sauce and homemade dumplings** 165 CZK
 * **Pork meat with creamy-pepper sauce and Penne pasta** 165 CZK
-* **Roasted pork knee, white cabbage and potato dumpling** 165 CZK
+* **Roasted pork knee, white cabbage and potato dumplings** 165 CZK
 * **Wrap with chicken meat, vegetables, cheese and garlic dressing, served with French Fries** 175 CZK
 
 ## EVERY DAY STANDARD MENU
