@@ -4,14 +4,14 @@ title: Denní menu - EN
 ## DISCOUNTED SMALL SOUP WITH MAIN DISH - 250ml
 
 * **Triplet soup** 30 CZK
-* **French onion soup with herb croutons and parmesan cheese** 30 CZK
+* **"Kulajda"- creamy dill soup with potatoes and mushrooms** 30 CZK
 
 ## MAIN COURSES
 
-* **Fried schnitzel from minced meat, mashed potatoes and pickles** 155 CZK
-* **Roast pork meat, cabbage and potato dumplings** 165 CZK
-* **Spicy pork meat with vegetables and potato pancakes** 165 CZK
-* **Tagliatelle with chicken meat, cream, leaf spinach, garlic and parmesan cheese** 175 CZK
+* **Smoked pork meat with horseradish sauce and homemade dumpling** 165 CZK
+* **Pork meat with creamy-pepper sauce and Penne pasta** 165 CZK
+* **Roasted pork knee, white cabbage and potato dumpling** 165 CZK
+* **Wrap with chicken meat, vegetables, cheese and garlic dressing, served with French Fries** 175 CZK
 
 ## EVERY DAY STANDARD MENU
 
@@ -22,7 +22,7 @@ title: Denní menu - EN
 
 ## SOUP ORDERED SEPARATELY - 500ml
 
-* **Triplet Soup or French onion soup with herb croutons and parmesan cheese** 75 CZK
+* **Triplet Soup or "Kulajda"- creamy dill soup with potatoes and mushrooms** 75 CZK
 
 ## DISCOUNTED DRINKS WITH MAIN COURSE
 
