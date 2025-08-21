@@ -4,14 +4,14 @@ title: Denní menu CZ
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
 * **Dršťková polévka** 30 Kč
-* **Francouzská cibulačka s bylinkovými krutony a parmazánem** 30 Kč
+* **Jihočeská kulajda** 30 Kč
 
 ## HLAVNÍ JÍDLA
 
-* **Smažený holandský řízek, máslová bramborová kaše a kyselá okurka** 165 Kč
-* **Vepřové výpečky, zelí a bramborový knedlík** 165 Kč
-* **Katův šleh s vepřovým masem a bramboráčky** 165 Kč
-* **Tagliatelle s kuřecím masem, smetanou, listovým špenátem, česnekem a parmazánem** 175 Kč
+* **Uzená vepřová krkovice s křenovou omáčkou a karlovarským knedlíkem** 165 Kč
+* **Vepřové na paprice a těstoviny Penne** 165 Kč
+* **Pečené vepřové koleno, bílé zelí a bramborový knedlík** 165 Kč
+* **Wrap s kuřecím masem, zeleninou, variací sýrů a česnekovým dresinkem, podáváme se smaženými hranolkami** 175 Kč
 
 ## STÁLÁ NABÍDKA
 
@@ -22,7 +22,7 @@ title: Denní menu CZ
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTANĚ – 500ml
 
-* **Dršťková polévka nebo francouzská cibulačka s bylinkovými krutony a parmazánem** 75 Kč
+* **Dršťková polévka nebo jihočeská kulajda** 75 Kč
 ## ZVÝHODNĚNÉ NÁPOJE K HLAVNÍMU JÍDLU
 
 * **Točená malinovka 0,3/0,5l** 30/45 Kč
