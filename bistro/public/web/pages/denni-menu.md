@@ -9,7 +9,7 @@ title: Denní menu CZ
 ## HLAVNÍ JÍDLA
 
 * **Uzená vepřová krkovice s křenovou omáčkou a karlovarským knedlíkem** 165 Kč
-* **Vepřové na paprice a těstoviny Penne** 165 Kč
+* **Vepřové na paprice a těstoviny penne** 165 Kč
 * **Pečené vepřové koleno, bílé zelí a bramborový knedlík** 165 Kč
 * **Wrap s kuřecím masem, zeleninou, variací sýrů a česnekovým dresinkem, podáváme se smaženými hranolkami** 175 Kč
 
