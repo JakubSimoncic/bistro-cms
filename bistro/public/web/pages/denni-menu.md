@@ -11,7 +11,7 @@ title: Denní menu CZ
 * **Smažený holandský řízek, vařené brambory a kyselá okurka** 165 Kč
 * **Francouzské brambory s uzeným masem, kyselá okurka** 165 Kč
 * **Vepřové na paprice a domácí houskový knedlík** 165 Kč
-* **Vepřové výpečky, bílé zelí a karlovarský knedlík** 175 Kč
+* **Vepřové výpečky, bílé dušené zelí a karlovarský knedlík** 165 Kč
 
 ## STÁLÁ NABÍDKA
 
