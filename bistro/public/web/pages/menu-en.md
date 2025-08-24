@@ -4,14 +4,14 @@ title: Denní menu - EN
 ## DISCOUNTED SMALL SOUP WITH MAIN DISH - 250ml
 
 * **Borsch soup with sour cream** 30 CZK
-* **"Kulajda"- dill-creamy soup with potatoes and mushrooms** 30 CZK
+* **Pea cream with herb croutons** 30 CZK
 
 ## MAIN COURSES
 
-* **Pork meat with creamy-pepper sauce and homemade dumplings** 165 CZK
-* **Smoked pork meat, cabbage and dumplings** 165 CZK
-* **Pulled pork meat in BBQ sauce, French Fries and Tartar Sauce** 175 CZK
-* **Grilled Wrap with chicken meat, vegetables, cheese and garlic dresink, French Fries** 175 CZK
+* **Pork Szeged goulash and homemade dumplings** 165 CZK
+* **Fried chicken strips, mashed potatoes and BBQ mayonnaise** 165CZK
+* **"Halušky"- Czech gnotchi with smoked meat, cabbage and onion** 165 CZK
+* **Spaghetti Aglio Olio e Peperoncino, parmesan cheese** 165 CZK
 
 ## EVERY DAY STANDARD MENU
 
@@ -22,7 +22,7 @@ title: Denní menu - EN
 
 ## SOUP ORDERED SEPARATELY - 500ml
 
-* **Borsch soup with sour cream or kulajda** 75 CZK
+* **Borsch soup with sour cream or pea cream with herb croutons** 75 CZK
 
 ## DISCOUNTED DRINKS WITH MAIN COURSE
 
