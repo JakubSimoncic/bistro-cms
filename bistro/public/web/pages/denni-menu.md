@@ -8,9 +8,9 @@ title: Denní menu CZ
 
 ## HLAVNÍ JÍDLA
 
-* **Smažený holandský řízek, vařené brambory a kyselá okurka** 165 Kč
-* **Francouzské brambory s uzeným masem, kyselá okurka** 165 Kč
 * **Vepřové na paprice a domácí houskový knedlík** 165 Kč
+* **Uzená vepřová krkovice, křenová omáčka a karlovarský knedlík** 165 Kč
+* **Trhané vepřové maso, smažené hranolky a tatarská omáčka** 175 Kč
 * **Vepřové výpečky, bílé dušené zelí a karlovarský knedlík** 165 Kč
 
 ## STÁLÁ NABÍDKA
