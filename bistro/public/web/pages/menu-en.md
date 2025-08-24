@@ -8,10 +8,10 @@ title: Denní menu - EN
 
 ## MAIN COURSES
 
-* **Fried schnitzel from minced meat, boiled potatoes and pickles** 165 CZK
-* **Baked potatoes with smoked meat and eggs, pickles** 165 CZK
 * **Pork meat with creamy-pepper sauce and homemade dumplings** 165 CZK
-* **Pork roast meat, white cabbage and homemade dumplings** 165 CZK
+* **Smoked pork meat, cabbage and dumplings** 165 CZK
+* **Pulled pork meat in BBQ sauce, French Fries and Tartar Sauce** 175 CZK
+* **Grilled Wrap with chicken meat, vegetables, cheese and garlic dresink, French Fries** 175 CZK
 
 ## EVERY DAY STANDARD MENU
 
