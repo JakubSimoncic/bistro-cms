@@ -10,8 +10,8 @@ title: Denní menu CZ
 
 * **Vepřové na paprice a domácí houskový knedlík** 165 Kč
 * **Uzená vepřová krkovice, křenová omáčka a karlovarský knedlík** 165 Kč
-* **Trhané vepřové maso, smažené hranolky a tatarská omáčka** 175 Kč
-* **Vepřové výpečky, bílé dušené zelí a karlovarský knedlík** 165 Kč
+* **Trhané vepřové maso v BBQ omáčce, smažené hranolky a tatarská omáčka** 175 Kč
+* **Grilovaný Wrap s kuřecím masem, zeleninou, variací sýrů a česnekovým dresinkem, smažené hranolky** 175 Kč
 
 ## STÁLÁ NABÍDKA
 
