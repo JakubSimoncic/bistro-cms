@@ -3,15 +3,15 @@ title: Denní menu - EN
 ---
 ## DISCOUNTED SMALL SOUP WITH MAIN DISH - 250ml
 
-* **Borsch soup with sour cream** 30 CZK
-* **Pea cream with herb croutons** 30 CZK
+* **Goulash soup** 30 CZK
+* **Chicken broth with meat, vegetables and noodles** 30 CZK
 
 ## MAIN COURSES
 
-* **Pork Szeged goulash and homemade dumplings** 165 CZK
-* **Fried chicken strips, mashed potatoes and BBQ mayonnaise** 165CZK
-* **"Halušky"- Czech gnotchi with smoked meat, cabbage and onion** 165 CZK
-* **Spaghetti Aglio Olio e Peperoncino, parmesan cheese** 165 CZK
+* **Baked pasta with smoked meat and eggs, pickles** 165 CZK
+* **Beef Chilli con Carne with beans and baked jasmine rice, decorated with fried tortilla and spring onion** 165CZK
+* **Baked pork meat, red cabbage and variety of dumplings** 165 CZK
+* **Quesadilla with pulled pork meat, BBQ mayonnaise, variety of cheeses, tomatoes and arugula** 175 CZK
 
 ## EVERY DAY STANDARD MENU
 
@@ -22,7 +22,7 @@ title: Denní menu - EN
 
 ## SOUP ORDERED SEPARATELY - 500ml
 
-* **Borsch soup with sour cream or pea cream with herb croutons** 75 CZK
+* **Goulash soup or chicken broth with meat, vegetables and noodles** 75 CZK
 
 ## DISCOUNTED DRINKS WITH MAIN COURSE
 
@@ -31,4 +31,4 @@ title: Denní menu - EN
 * **Homemade lemonades (raspberry, elderflower, dragon fruit & raspberry, sea buckthorn, ginger or clasic lemonade)** 55 CZK
 * **Tap water with lemon, mint and ice** 25 CZK
 
-***The offer is valid on monday 25.8. from 10:30 AM until closing time or while supplies last.***
+***The offer is valid on tuesday 26.8. from 10:30 AM until closing time or while supplies last.***
