@@ -11,7 +11,7 @@ title: Denní menu CZ
 * **Zapečené šunkofleky s uzeným masem, kyselá okurka** 165 Kč
 * **Hovězí Chilli con Carne s fazolemi a pečená jasmínová rýže, zdobené smaženou tortillou a jarní cibulka** 185 Kč
 * **Selská vepřová krkovička, červené zelí a variace knedlíků (houskový a karlovarský knedlík)** 165 Kč
-* **Quesadilla s trhaným vepřovým masem, BBQ majonézou, variací sýrů, rajčaty a rukolou)** 165 Kč
+* **Quesadilla s trhaným vepřovým masem, BBQ majonézou, variací sýrů, rajčaty a rukolou, malé hranolky** 175 Kč
 
 ## STÁLÁ NABÍDKA
 
