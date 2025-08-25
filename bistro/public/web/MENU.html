@@ -531,21 +531,10 @@
             document.getElementById('menu-content').innerHTML = 'Nepodařilo se načíst denní menu.';
             console.error(error);
         });
-            
-          document.addEventListener("DOMContentLoaded", function() {
-            const dny = ["Neděli", "Pondělí", "Úterý", "Středu", "Čtvrtek", "Pátek", "Sobotu"];
-            
-            const dnes = new Date();
-            const denVTydnu = dny[dnes.getDay()];
-            const denVMesici = dnes.getDate();
-            const mesic = dnes.getMonth() + 1; // měsíce jsou 0–11
-            
-            const datumText = `Nabídka je platná na ${denVTydnu.toLowerCase()} ${denVMesici}.${mesic}. od 10:30 do zavírací hodiny nebo do vyprodání.`;
-            document.getElementById("datum").textContent = datumText;
-          });
         </script>
     </body>
 </html>
+
 
 
 
