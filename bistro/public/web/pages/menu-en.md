@@ -9,7 +9,7 @@ title: Denní menu - EN
 ## MAIN COURSES
 
 * **Baked pasta with smoked meat and eggs, pickles** 165 CZK
-* **Beef Chilli con Carne with beans and baked jasmine rice, decorated with fried tortilla and spring onion** 165CZK
+* **Beef Chilli con Carne with beans and baked jasmine rice, decorated with fried tortilla and spring onion** 185CZK
 * **Baked pork meat, red cabbage and variety of dumplings** 165 CZK
 * **Quesadilla with pulled pork meat, BBQ mayonnaise, variety of cheeses, tomatoes and arugula, small French Fries** 175 CZK
 
