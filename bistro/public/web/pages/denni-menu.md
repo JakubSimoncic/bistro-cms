@@ -3,15 +3,15 @@ title: Denní menu CZ
 ---
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
-* **Boršč se zakysanou smetanou** 30 Kč
-* **Hráškový krém s bylinkovými krutony** 30 Kč
+* **Gulášová polévka** 30 Kč
+* **Kuřecí vývar s masem, zeleninou a celestýnskými nudlemi** 30 Kč
 
 ## HLAVNÍ JÍDLA
 
-* **Segedínský guláš a domácí houskový knedlík** 165 Kč
-* **Smažené kuřecí stripsy, šťouchané brambory a BBQ majonéza** 165 Kč
-* **Halušky s uzeným masem, zelím a cibulkou** 165 Kč
-* **Špagety Aglio Olio e Peperoncino, parmazán** 165 Kč
+* **Zapečené šunkofleky s uzeným masem, kyselá okurka** 165 Kč
+* **Hovězí Chilli con Carne s fazolemi a pečená jasmínová rýže, zdobené smaženou tortillou a jarní cibulka** 185 Kč
+* **Selská vepřová krkovička, červené zelí a variace knedlíků (houskový a karlovarský knedlík)** 165 Kč
+* **Quesadilla s trhaným vepřovým masem, BBQ majonézou, variací sýrů, rajčaty a rukolou)** 165 Kč
 
 ## STÁLÁ NABÍDKA
 
@@ -22,7 +22,7 @@ title: Denní menu CZ
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTANĚ – 500ml
 
-* **Boršč se zakysanou smetanou nebo hráškový krém s bylinkovými krutony** 75 Kč
+* **Gulášová polévka nebo kuřecí vývar s masem, zeleninou a celestýnskými nudlemi** 75 Kč
 ## ZVÝHODNĚNÉ NÁPOJE K HLAVNÍMU JÍDLU
 
 * **Točená malinovka 0,3/0,5l** 30/45 Kč
@@ -30,4 +30,4 @@ title: Denní menu CZ
 * **Domácí limonády (bezinka, malina, zázvor, citronáda)** 55 Kč
 * **Kohoutková voda s citronem, mátou a ledem** 25 Kč
 
-***Nabídka je platná na pondělí 25.8. od 10:30 do zavírací hodiny nebo do vyprodání.***
+***Nabídka je platná na úterý 26.8. od 10:30 do zavírací hodiny nebo do vyprodání.***
