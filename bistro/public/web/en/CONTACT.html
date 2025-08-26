@@ -307,8 +307,9 @@
             document.getElementById('menu-toggle').addEventListener('click', function() {
                 document.getElementById('nav-menu').classList.toggle('show');
             });
-			    // >>> Scroll efekt pro hlavičku s prahem
-    let lastScroll = 0;
+    // >>> Scroll efekt pro hlavičku s prahem
+    const header = document.querySelector("header");    
+	let lastScroll = 0;
     const delta = 50; // hlavička reaguje jen při větším scrollu
     window.addEventListener("scroll", () => {
         const currentScroll = window.pageYOffset;
@@ -329,6 +330,7 @@
     </body>
 
 </html>
+
 
 
 
