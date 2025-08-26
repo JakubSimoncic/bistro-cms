@@ -81,6 +81,7 @@
             background: #0F3825;
             box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
             z-index: 1000;
+            transition: transform 0.7s ease;
         }
         .logo {
                 margin-left: 20px;
@@ -335,9 +336,28 @@
             console.log("✅ Menu přepnuto!");
         });
     });
+                // >>> Scroll efekt pro hlavičku s prahem
+    let lastScroll = 0;
+    const delta = 200; // hlavička reaguje jen při větším scrollu
+    window.addEventListener("scroll", () => {
+        const currentScroll = window.pageYOffset;
+
+        if (Math.abs(currentScroll - lastScroll) < delta) return;
+
+        if (currentScroll > lastScroll && currentScroll > 100) {
+            // scroll dolů → skrýt hlavičku
+            header.style.transform = "translateY(-100%)";
+        } else {
+            // scroll nahoru → zobrazit hlavičku
+            header.style.transform = "translateY(0)";
+        }
+
+        lastScroll = currentScroll;
+    });
         </script>
     </body>
 </html>
+
 
 
 
