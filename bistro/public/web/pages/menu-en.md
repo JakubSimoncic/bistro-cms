@@ -9,7 +9,7 @@ title: Denní menu - EN
 ## MAIN COURSES
 
 * **Baked pasta with smoked meat and eggs, pickles** 165 CZK
-* **Baked pork meat, red cabbage and potato dumplings** 185 CZK
+* **Baked pork meat, red cabbage and potato dumplings** 165 CZK
 * **Pork cheeks in red wine and mashed potatoes** 165 CZK
 * **Beef Stroganoff noodles and baked jasmine rice** 175 CZK
 
