@@ -11,7 +11,7 @@ title: Denní menu - EN
 * **Fried schnitzel from minced meat, mashed potatoes and coleslaw with horseradish** 165 CZK
 * **Szeged pork goulash and homemade dumplings** 165 CZK
 * **Beef Stroganoff noodles and baked jasmine rice** 175 CZK
-* **Spaghetti with chicken meat, mushrooms, cream, red onion, parmesan and arugula** 175 CZK
+* **Spaghetti with chicken meat, mushrooms, cream, red onion, parmesan cheese and arugula** 175 CZK
 
 ## EVERY DAY STANDARD MENU
 
