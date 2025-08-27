@@ -3,15 +3,15 @@ title: Denní menu CZ
 ---
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
-* **Gulášová polévka** 30 Kč
-* **Hráškový krém s bylinkovými krutony** 30 Kč
+* **Staročeská bramboračka** 30 Kč
+* **Dýňový krém se zakysanou smetanou** 30 Kč
 
 ## HLAVNÍ JÍDLA
 
-* **Zapečené šunkofleky s uzeným masem, kyselá okurka** 165 Kč
-* **Selská vepřová krkovice, červené zelí a bramborový knedlík** 165 Kč
-* **Vepřová líčka na červeném víně a bramborová kaše** 165 Kč
+* **Smažený karbanátek, máslová bramborová kaše a zelný salátek s křenem** 165 Kč
+* **Segedínský vepřový guláš a domácí houskový knedlík** 165 Kč
 * **Hovězí nudličky Stroganoff, pečená jasmínová rýže** 175 Kč
+* **Špagety s kuřecím masem, hříbky, smetanou, červenou cibulkou, parmazánem a rukolou** 175 Kč
 
 ## STÁLÁ NABÍDKA
 
@@ -22,7 +22,7 @@ title: Denní menu CZ
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTANĚ – 500ml
 
-* **Gulášová polévka nebo hráškový krém s bylinkovými krutony** 75 Kč
+* **Staročeská bramboračka nebo dýňový krém se zakysanou smetanou** 75 Kč
 ## ZVÝHODNĚNÉ NÁPOJE K HLAVNÍMU JÍDLU
 
 * **Točená malinovka 0,3/0,5l** 30/45 Kč
@@ -30,4 +30,4 @@ title: Denní menu CZ
 * **Domácí limonády (bezinka, malina, zázvor, citronáda)** 55 Kč
 * **Kohoutková voda s citronem, mátou a ledem** 25 Kč
 
-***Nabídka je platná na středu 27.8. od 10:30 do zavírací hodiny nebo do vyprodání.***
+***Nabídka je platná ve čtvrtek 28.8. od 10:30 do zavírací hodiny nebo do vyprodání.***
