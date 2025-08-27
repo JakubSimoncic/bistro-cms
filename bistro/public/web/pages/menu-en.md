@@ -3,15 +3,15 @@ title: Denní menu - EN
 ---
 ## DISCOUNTED SMALL SOUP WITH MAIN DISH - 250ml
 
-* **Goulash soup** 30 CZK
-* **Pea cream with herb croutons** 30 CZK
+* **Old Bohemian potato soup** 30 CZK
+* **Pumpkin cream with sour cream** 30 CZK
 
 ## MAIN COURSES
 
-* **Baked pasta with smoked meat and eggs, pickles** 165 CZK
-* **Baked pork meat, red cabbage and potato dumplings** 165 CZK
-* **Pork cheeks in red wine and mashed potatoes** 165 CZK
+* **Fried schnitzel from minced meat, mashed potatoes and coleslaw with horseradish** 165 CZK
+* **Szeged pork goulash and homemade dumplings** 165 CZK
 * **Beef Stroganoff noodles and baked jasmine rice** 175 CZK
+* **Spaghetti with chicken meat, mushrooms, cream, red onion, parmesan and arugula** 175 CZK
 
 ## EVERY DAY STANDARD MENU
 
@@ -22,7 +22,7 @@ title: Denní menu - EN
 
 ## SOUP ORDERED SEPARATELY - 500ml
 
-* **Goulash soup or pea cream with herb croutons** 75 CZK
+* **Old Bohemian potato soup or pumpkin cream with sour cream** 75 CZK
 
 ## DISCOUNTED DRINKS WITH MAIN COURSE
 
@@ -31,4 +31,4 @@ title: Denní menu - EN
 * **Homemade lemonades (raspberry, elderflower, dragon fruit & raspberry, sea buckthorn, ginger or clasic lemonade)** 55 CZK
 * **Tap water with lemon, mint and ice** 25 CZK
 
-***The offer is valid on wednesday 27.8. from 10:30 AM until closing time or while supplies last.***
+***The offer is valid on thuesday 28.8. from 10:30 AM until closing time or while supplies last.***
