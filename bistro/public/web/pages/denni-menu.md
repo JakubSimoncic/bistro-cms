@@ -10,8 +10,8 @@ title: Denní menu CZ
 
 * **Rozlítaný vepřový španělský ptáček a pečená jasmínová rýže** 165 Kč
 * **Smažený karbanátek, máslová bramborová kaše a zelný salátek s křenem** 165 Kč
-* **Grilovaný hermelín balený v anglické slanině, americké brambory a BBQ majonéza** 175 Kč
-* **Houbové halušky s kuřecím masem, červenou cibulkou a kapkou smetany** 175 Kč
+* **Grilovaný hermelín balený v anglické slanině, americké brambory a BBQ majonéza** 165 Kč
+* **Houbové halušky s kuřecím masem, červenou cibulkou a kapkou smetany** 165 Kč
 
 ## STÁLÁ NABÍDKA
 
@@ -30,4 +30,4 @@ title: Denní menu CZ
 * **Domácí limonády (bezinka, malina, zázvor, citronáda)** 55 Kč
 * **Kohoutková voda s citronem, mátou a ledem** 25 Kč
 
-***Nabídka je platná ve pátek 29.8. od 10:30 do zavírací hodiny nebo do vyprodání.***
+***Nabídka je platná v pátek 29.8. od 10:30 do zavírací hodiny nebo do vyprodání.***
