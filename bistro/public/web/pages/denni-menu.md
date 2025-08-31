@@ -3,15 +3,15 @@ title: Denní menu CZ
 ---
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
-* **Hráškový krém se zakysanou smetanou** 30 Kč
-* **Zelňačka s uzeninou** 30 Kč
+* **Dýňový krém se zakysanou smetanou** 30 Kč
+* **Staročeská bramboračka** 30 Kč
 
 ## HLAVNÍ JÍDLA
 
-* **Rozlítaný vepřový španělský ptáček a domácí houskový knedlík** 165 Kč
-* **Hovězí nudličky Stroganoff a pečená jasmínová rýže** 175 Kč
-* **Zapečené šunkofleky s uzeným masem, zelný salátek s křenem** 165 Kč
-* **Hovězí Chilli con Carne s fazolemi, smažené hranolky** 165 Kč
+* **Selská vepřová krkovice, červené zelí a bramborový knedlík** 165 Kč
+* **Segedínský guláš, domácí houskový knedlík ** 165 Kč
+* **Uzený jazyk, křenová omáčka, domácí houskový knedlík** 165 Kč
+* **Wrap s trhaným vepřovým masem, hranolky** 175 Kč
 
 ## STÁLÁ NABÍDKA
 
@@ -30,4 +30,4 @@ title: Denní menu CZ
 * **Domácí limonády (bezinka, malina, zázvor, citronáda)** 55 Kč
 * **Kohoutková voda s citronem, mátou a ledem** 25 Kč
 
-***Nabídka je platná v sobotu 30.8. od 10:30 do zavírací hodiny nebo do vyprodání.***
+***Nabídka je platná v nedělí 31.8. od 10:30 do zavírací hodiny nebo do vyprodání.***
