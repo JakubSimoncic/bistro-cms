@@ -9,7 +9,7 @@ title: Denní menu CZ
 ## HLAVNÍ JÍDLA
 
 * **Selská vepřová krkovice, červené zelí a bramborový knedlík** 165 Kč
-* **Segedínský guláš, domácí houskový knedlík ** 165 Kč
+* **Segedínský guláš, domácí houskový knedlík** 165 Kč
 * **Uzený jazyk, křenová omáčka, domácí houskový knedlík** 165 Kč
 * **Wrap s trhaným vepřovým masem, hranolky** 175 Kč
 
