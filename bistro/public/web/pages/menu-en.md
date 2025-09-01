@@ -9,7 +9,7 @@ title: Denní menu - EN
 ## MAIN COURSES
 
 * **Baked pork meat, stewed cabbage and potato dumplings** 165 CZK
-* **Roasted chicken leg, mashed potatoes and pickles** 165 CZK
+* **Roasted chicken thigh, mashed potatoes and pickles** 165 CZK
 * **Beef Stroganoff noodles and baked jasmine rice** 175 CZK
 * **Spicy meat mixture with vegetables in big potato pancake** 165 CZK
 
