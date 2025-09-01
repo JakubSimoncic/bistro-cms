@@ -3,15 +3,15 @@ title: Denní menu - EN
 ---
 ## DISCOUNTED SMALL SOUP WITH MAIN DISH - 250ml
 
-* **Cabbage soup with sausage** 30 CZK
-* **Chickpea soup with pancetta** 30 CZK
+* **Frankfurter soup with sausage** 30 CZK
+* **Broccoli cream with herb croutons** 30 CZK
 
 ## MAIN COURSES
 
-* **Pork meat with mushroom sauce and baked jasmine rice** 165 CZK
-* **"Cmunda" - smoked pork meat and cabbage in potato pancake** 165 CZK
-* **Fried cauliflower, boiled potatoes and tartar sauce** 165 CZK
-* **Tagalliette pasta with bacon, tomatoes, spring onions, white wine, red onion, garlic and parmesan cheese** 175 CZK
+* **Baked pork meat, stewed cabbage and potato dumplings** 165 CZK
+* **Roasted chicken leg, mashed potatoes and pickles** 165 CZK
+* **Beef Stroganoff noodles and baked jasmine rice** 175 CZK
+* **Spicy meat mixture with vegetables in big potato pancake** 165 CZK
 
 ## EVERY DAY STANDARD MENU
 
@@ -22,7 +22,7 @@ title: Denní menu - EN
 
 ## SOUP ORDERED SEPARATELY - 500ml
 
-* **Cabbage soup with sausage or chickpea soup with pancetta** 75 CZK
+* **Frankfurter soup with sausage or broccoli cream with herb croutons** 75 CZK
 
 ## DISCOUNTED DRINKS WITH MAIN COURSE
 
@@ -31,4 +31,4 @@ title: Denní menu - EN
 * **Homemade lemonades (raspberry, elderflower, dragon fruit & raspberry, sea buckthorn, ginger or clasic lemonade)** 55 CZK
 * **Tap water with lemon, mint and ice** 25 CZK
 
-***The offer is valid on Monday 1.9. from 10:30 AM until closing time or while supplies last.***
+***The offer is valid on Tuesday 2.9. from 10:30 AM until closing time or while supplies last.***
