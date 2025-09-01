@@ -10,7 +10,7 @@ title: Denní menu CZ
 
 * **Vepřové na houbách a pečená jasmínová rýže** 165 Kč
 * **Cmunda po kaplicku (uzené maso a zelí v bramboráku)** 165 Kč
-* **Smažený květák, vařené brambory a tatarská omáčka** 165 Kč
+* **Smažený květák, brambory vařené v páře a tatarská omáčka** 165 Kč
 * **Těstoviny tagliatelle s anglickou slaninou, rajčaty, jarní cibulkou, bílým vínem, červenou cibulkou, česnekem a parmazánem** 175 Kč
 
 ## STÁLÁ NABÍDKA
