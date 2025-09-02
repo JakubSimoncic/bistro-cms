@@ -9,9 +9,9 @@ title: Denní menu CZ
 ## HLAVNÍ JÍDLA
 
 * **Drůbeží játra na slanině a pečená jasmínová rýže** 155 Kč
-* **Mexické Burritos (rýže, hovězí mleté maso, fazole, rajče a sýr čedar v grilované tortille) a zakysaná smetana s pažitkou** 165 Kč
+* **Mexické Burritos (rýže, hovězí mleté maso, fazole, rajče a sýr čedar v grilované tortille), zakysaná smetana s pažitkou** 165 Kč
 * **Hovězí krk na česneku, listový špenát a bramborový knedlík** 175 Kč
-* **Kuřecí nudličky Gyros , smažené hranolky a zelný salátek s křenem** 175 Kč
+* **Kuřecí nudličky Gyros, smažené hranolky a zelný salátek s křenem** 175 Kč
 
 ## STÁLÁ NABÍDKA
 
