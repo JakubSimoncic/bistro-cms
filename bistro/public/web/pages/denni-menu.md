@@ -10,7 +10,7 @@ title: Denní menu CZ
 
 * **Moravský vrabec, dušené zelí a bramborový knedlík** 165 Kč
 * **Staročeské pečené kuřecí stehno, máslová bramborová kaše a kyselá okurka** 165 Kč
-* **Kuřecí nudličky Stroganoff a pečená jasmínová rýže** 175 Kč
+* **Kuřecí nudličky Stroganoff a pečená jasmínová rýže** 165 Kč
 * **Pikantní masová směs se zeleninou v bramboráku** 165 Kč
 
 ## STÁLÁ NABÍDKA
