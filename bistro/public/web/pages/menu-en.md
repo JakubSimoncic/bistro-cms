@@ -8,7 +8,7 @@ title: Denní menu - EN
 
 ## MAIN COURSES
 
-* **Poultry liveres on bacon and baked jasmine rice** 155 CZK
+* **Poultry livers on bacon and baked jasmine rice** 155 CZK
 * **Mexican Burritos (rice, minced beef meat, beans, tomato and cheddar cheese in grilled tortilla), sour cream with chives** 165 CZK
 * **Beef meat with garlic, spinach leaves and potato dumplings** 175 CZK
 * **Chicken Gyros meat, French Fries and cabbage salad with horseradish** 175 CZK
