@@ -3,15 +3,15 @@ title: Denní menu - EN
 ---
 ## DISCOUNTED SMALL SOUP WITH MAIN DISH - 250ml
 
+* **Cabbage soup with sausage** 30 CZK
 * **Frankfurter soup with sausage** 30 CZK
-* **Broccoli cream with herb croutons** 30 CZK
 
 ## MAIN COURSES
 
-* **Baked pork meat, stewed cabbage and potato dumplings** 165 CZK
-* **Roasted chicken thigh, mashed potatoes and pickles** 165 CZK
-* **Chicken Stroganoff noodles and baked jasmine rice** 165 CZK
-* **Spicy meat mixture with vegetables in big potato pancake** 165 CZK
+* **Poultry liveres on bacon and baked jasmine rice** 155 CZK
+* **Mexican Burritos (rice, minced beef meat, beans, tomato and cheddar cheese in grilled tortilla), sour cream with chives** 165 CZK
+* **Beef meat with garlic, spinach leaves and potato dumplings** 175 CZK
+* **Chicken Gyros meat, French Fries and cabbage salad with horseradish** 175 CZK
 
 ## EVERY DAY STANDARD MENU
 
@@ -22,7 +22,7 @@ title: Denní menu - EN
 
 ## SOUP ORDERED SEPARATELY - 500ml
 
-* **Frankfurter soup with sausage or broccoli cream with herb croutons** 75 CZK
+* **Cabbage soup with sausage or Frankfurter soup with sausage** 75 CZK
 
 ## DISCOUNTED DRINKS WITH MAIN COURSE
 
@@ -31,4 +31,4 @@ title: Denní menu - EN
 * **Homemade lemonades (raspberry, elderflower, dragon fruit & raspberry, sea buckthorn, ginger or clasic lemonade)** 55 CZK
 * **Tap water with lemon, mint and ice** 25 CZK
 
-***The offer is valid on Tuesday 2.9. from 10:30 AM until closing time or while supplies last.***
+***The offer is valid on Wednesday 3.9. from 10:30 AM until closing time or while supplies last.***
