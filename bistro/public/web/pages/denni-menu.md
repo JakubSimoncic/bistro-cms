@@ -10,7 +10,7 @@ title: Denní menu CZ
 
 * **Kapustový karbanátek s mletým masem, bramborová kaše a kyselá okurka** 165 Kč
 * **Vepřové maso na houbách, pečená jasmínová rýže** 165 Kč
-* **Halušky s uzeným masem, zelím a restovanou cibulkou** 175 Kč
+* **Halušky s uzeným masem, zelím a restovanou cibulkou** 165 Kč
 * **Špagety Carbonara (pancetta, česnek, žloutek a parmazán)** 175 Kč
 
 ## STÁLÁ NABÍDKA
