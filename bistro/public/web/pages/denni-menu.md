@@ -3,15 +3,15 @@ title: Denní menu CZ
 ---
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
+* **Dršťková polévka** 30 Kč
 * **Valašská kyselice s paprikovou klobásou** 30 Kč
-* **Frankfurtská polévka s uzeninou** 30 Kč
 
 ## HLAVNÍ JÍDLA
 
-* **Drůbeží játra na slanině a pečená jasmínová rýže** 155 Kč
-* **Mexické Burritos (rýže, hovězí mleté maso, fazole, rajče a sýr čedar v grilované tortille), zakysaná smetana s pažitkou** 165 Kč
-* **Hovězí krk na česneku, listový špenát a bramborový knedlík** 175 Kč
-* **Kuřecí nudličky Gyros, smažené hranolky a zelný salátek s křenem** 175 Kč
+* **Kapustový karbanátek s mletým masem, bramborová kaše a kyselá okurka** 165 Kč
+* **Vepřové maso na houbách, pečená jasmínová rýže** 165 Kč
+* **Halušky s uzeným masem, zelím a restovanou cibulkou** 175 Kč
+* **Špagety Carbonara (pancetta, česnek, žloutek a parmazán)** 175 Kč
 
 ## STÁLÁ NABÍDKA
 
@@ -22,7 +22,7 @@ title: Denní menu CZ
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTANĚ – 500ml
 
-* **Valašská kyselice s paprikovou klobásou nebo frankfurtská polévka s uzeninou** 75 Kč
+* **Dršťková polévka nebo valašská kyselice s paprikovou klobásou** 75 Kč
 ## ZVÝHODNĚNÉ NÁPOJE K HLAVNÍMU JÍDLU
 
 * **Točená malinovka 0,3/0,5l** 30/45 Kč
@@ -30,4 +30,4 @@ title: Denní menu CZ
 * **Domácí limonády (bezinka, malina, zázvor, citronáda)** 55 Kč
 * **Kohoutková voda s citronem, mátou a ledem** 25 Kč
 
-***Nabídka je platná ve středu 3.9. od 10:30 do zavírací hodiny nebo do vyprodání.***
+***Nabídka je platná ve čtvrtek 4.9. od 10:30 do zavírací hodiny nebo do vyprodání.***
