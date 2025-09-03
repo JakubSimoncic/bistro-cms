@@ -11,7 +11,7 @@ title: Denní menu - EN
 * **Fried meatball from minced meat and cabbage, mashed potatoes and pickles** 165 CZK
 * **Pork meat with mushrooms and baked jasmine rice** 165 CZK
 * **"Halušky" Czech potato Gnocchi with smoked meat, cabbage and roasted onion** 165 CZK
-* **Spaghetti Carbonara (pancetta, garlic, egg yolk and parmesan)** 175 CZK
+* **Spaghetti Carbonara (pancetta, garlic, egg yolk and parmesan cheese)** 175 CZK
 
 ## EVERY DAY STANDARD MENU
 
