@@ -4,14 +4,14 @@ title: Denní menu - EN
 ## DISCOUNTED SMALL SOUP WITH MAIN DISH - 250ml
 
 * **Triplet soup** 30 CZK
-* **Cabbage soup with sausage** 30 CZK
+* **Broccoli cream with herb croutons** 30 CZK
 
 ## MAIN COURSES
 
+* **Curry chicken noodles with leek and baked jasmine rice** 165 CZK
 * **Fried meatball from minced meat and cabbage, mashed potatoes and pickles** 165 CZK
-* **Pork meat with mushrooms and baked jasmine rice** 165 CZK
-* **"Halušky" Czech potato Gnocchi with smoked meat, cabbage and roasted onion** 165 CZK
-* **Spaghetti Carbonara (pancetta, garlic, egg yolk and parmesan cheese)** 175 CZK
+* **Baked pork bag stuffed with English bacon and sauerkraut, baked potatoes with onions** 165 CZK
+* **Spaghetti with chicken meat, pancetta, onion, bell pepper, garlic, arugula and parmesan cheese** 175 CZK
 
 ## EVERY DAY STANDARD MENU
 
@@ -22,7 +22,7 @@ title: Denní menu - EN
 
 ## SOUP ORDERED SEPARATELY - 500ml
 
-* **Triplet soup or cabbage soup with sausage** 75 CZK
+* **Triplet soup or broccoli cream with herb croutons** 75 CZK
 
 ## DISCOUNTED DRINKS WITH MAIN COURSE
 
@@ -31,4 +31,4 @@ title: Denní menu - EN
 * **Homemade lemonades (raspberry, elderflower, dragon fruit & raspberry, sea buckthorn, ginger or clasic lemonade)** 55 CZK
 * **Tap water with lemon, mint and ice** 25 CZK
 
-***The offer is valid on Thursday 4.9. from 10:30 AM until closing time or while supplies last.***
+***The offer is valid on Friday 5.9. from 10:30 AM until closing time or while supplies last.***
