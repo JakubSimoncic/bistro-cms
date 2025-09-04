@@ -10,7 +10,7 @@ title: Denní menu CZ
 
 * **Kuřecí nudličky na kari s pórkem a pečená jasmínová rýže** 165 Kč
 * **Smažený kapustový karbanátek s mletým masem, bramborová kaše a kyselá okurka** 165 Kč
-* **Vepřový měšec plněný anglickou slaninou a kyselým zelím, pečené brambory s cibulí** 165 Kč
+* **Pečený vepřový měšec plněný anglickou slaninou a kyselým zelím, pečené brambory s cibulí** 165 Kč
 * **Špagety s kuřecím masem, pancettou, cibulí, paprikou, česnekem, rukolou a parmazánem** 175 Kč
 
 ## STÁLÁ NABÍDKA
