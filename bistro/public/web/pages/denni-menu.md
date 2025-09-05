@@ -9,7 +9,7 @@ title: Denní menu CZ
 ## HLAVNÍ JÍDLA
 
 * **Kuřecí nudličky Stroganoff a pečená jasmínová rýže** 165 Kč
-* **Moravský vrabec, listový salát a domácí houskový knedlík** 165 Kč
+* **Moravský vrabec, listový špenát a domácí houskový knedlík** 165 Kč
 * **Halušky s uzeným masem, zelím a restovanou cibulkou** 165 Kč
 * **Pikantní masová směs se zeleninou a smažené hranolky** 165 Kč
 
