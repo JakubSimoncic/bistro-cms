@@ -3,15 +3,15 @@ title: Denní menu - EN
 ---
 ## DISCOUNTED SMALL SOUP WITH MAIN DISH - 250ml
 
-* **Frankfurter soup with sausage** 30 CZK
-* **Cabagge soup with sausage** 30 CZK
+* **Tripe soup** 30 CZK
+* **Wallachian sour soup** 30 CZK
 
 ## MAIN COURSES
 
-* **Chicken Stroganoff noodles and baked jasmine rice** 165 CZK
-* **Baked pork meat, leaf spinach and homemade dumplings** 165 CZK
-* **"Halušky"- Czech gnocchi with smoked meat, cabbage and fried onions** 165 CZK
-* **Spicy meat mixture with vegetables and French Fries** 165 CZK
+* **Minced sirloin in cream sauce, homemade bread dumpling, cranberry target** 165 CZK
+* **Drawn beef neck in BBQ sauce, American potatoes** 165 CZK
+* **Wrap (with chicken or pulled pork), fries** 165 CZK
+* **Fusilli with chicken, curry sauce, leek and parmesan** 165 CZK
 
 ## EVERY DAY STANDARD MENU
 
