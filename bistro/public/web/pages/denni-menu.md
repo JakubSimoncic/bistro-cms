@@ -3,15 +3,15 @@ title: Denní menu CZ
 ---
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
-* **Frankfurtská polévka s uzeninou** 30 Kč
-* **Zelňačka s uzeninou** 30 Kč
+* **Dršťková polévka** 30 Kč
+* **Valašská kyselice** 30 Kč
 
 ## HLAVNÍ JÍDLA
 
-* **Kuřecí nudličky Stroganoff a pečená jasmínová rýže** 165 Kč
-* **Moravský vrabec, listový špenát a domácí houskový knedlík** 165 Kč
-* **Halušky s uzeným masem, zelím a restovanou cibulkou** 165 Kč
-* **Pikantní masová směs se zeleninou a smažené hranolky** 165 Kč
+* **Sekaná svíčková na smetaně, domácí houskový knedlík, brusinkový terč** 165 Kč
+* **Trhaný hovězí krk v BBQ omáčce, americké brambory** 175 Kč
+* **Wrap (Caesar s kuřecím masem nebo trhané vepřové maso a nebo BBQ kuřecí maso), hranolky** 175 Kč
+* **Fusilli s kuřecím masem, kari omáčkou, pórkem a parmazánem** 175 Kč
 
 ## STÁLÁ NABÍDKA
 
