@@ -10,7 +10,7 @@ title: Denní menu CZ
 
 * **Sekaná svíčková na smetaně, domácí houskový knedlík, brusinkový terč** 165 Kč
 * **Trhaný hovězí krk v BBQ omáčce, americké brambory** 175 Kč
-* **Wrap (Caesar s kuřecím masem nebo trhané vepřové maso a nebo BBQ kuřecí maso), hranolky** 175 Kč
+* **Wrap (s kuřecím masem nebo trhaným vepřovým masem), hranolky** 175 Kč
 * **Fusilli s kuřecím masem, kari omáčkou, pórkem a parmazánem** 175 Kč
 
 ## STÁLÁ NABÍDKA
