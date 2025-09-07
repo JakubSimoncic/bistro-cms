@@ -3,15 +3,15 @@ title: Denní menu CZ
 ---
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
-* **Dršťková polévka** 30 Kč
-* **Valašská kyselice** 30 Kč
+* **Gulášovka** 30 Kč
+* **Květáková s vejcem** 30 Kč
 
 ## HLAVNÍ JÍDLA
 
-* **Sekaná svíčková na smetaně, domácí houskový knedlík** 165 Kč
-* **Trhaný hovězí krk v BBQ omáčce, americké brambory** 175 Kč
-* **Wrap (s kuřecím masem nebo trhaným vepřovým masem), hranolky** 175 Kč
-* **Fusilli s kuřecím masem, kari omáčkou, pórkem a parmazánem** 175 Kč
+* **Kuřecí rizoto s hráškem a kukuřicí, sýr a okurka** 155 Kč
+* **Pečené vepřové koleno na pivě s bramborovou kaši** 165 Kč
+* **Svíčková na smetaně, domácí houskový knedlík, brusinkový terč** 175 Kč
+* **Fusilli s kuřecím masem, hříbky, smetanou a parmazánem** 175 Kč
 
 ## STÁLÁ NABÍDKA
 
@@ -22,7 +22,7 @@ title: Denní menu CZ
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTANĚ – 500ml
 
-* **Frankfurtská polévka s uzeninou nebo zelňačka s uzeninou** 75 Kč
+* **Gulášovka nebo květáková s vejcem** 75 Kč
 ## ZVÝHODNĚNÉ NÁPOJE K HLAVNÍMU JÍDLU
 
 * **Točená malinovka 0,3/0,5l** 30/45 Kč
