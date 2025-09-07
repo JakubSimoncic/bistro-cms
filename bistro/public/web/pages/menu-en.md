@@ -8,7 +8,7 @@ title: Denní menu - EN
 
 ## MAIN COURSES
 
-* **Minced sirloin in cream sauce, homemade bread dumpling, cranberry target** 165 CZK
+* **Minced sirloin in cream sauce, homemade bread dumpling** 165 CZK
 * **Drawn beef neck in BBQ sauce, American potatoes** 165 CZK
 * **Wrap (with chicken or pulled pork), fries** 165 CZK
 * **Fusilli with chicken, curry sauce, leek and parmesan** 165 CZK
