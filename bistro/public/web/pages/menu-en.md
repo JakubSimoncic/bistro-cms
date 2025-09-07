@@ -3,15 +3,15 @@ title: Denní menu - EN
 ---
 ## DISCOUNTED SMALL SOUP WITH MAIN DISH - 250ml
 
-* **Tripe soup** 30 CZK
-* **Wallachian sour soup** 30 CZK
+* **Goulash soup** 30 CZK
+* **Cauliflower soup with egg** 30 CZK
 
 ## MAIN COURSES
 
-* **Minced sirloin in cream sauce, homemade bread dumpling** 165 CZK
-* **Drawn beef neck in BBQ sauce, American potatoes** 175 CZK
-* **Wrap (with chicken or pulled pork), fries** 175 CZK
-* **Fusilli with chicken, curry sauce, leek and parmesan** 175 CZK
+* **Chicken risotto with peas and corn, cheese and cucumber** 155 CZK
+* **Beer-braised pork knuckle with mashed potatoes** 165 CZK
+* **Sirloin in cream, homemade bread dumpling** 175 CZK
+* **Fusilli with chicken, mushrooms, cream and parmesan** 175 CZK
 
 ## EVERY DAY STANDARD MENU
 
@@ -22,7 +22,7 @@ title: Denní menu - EN
 
 ## SOUP ORDERED SEPARATELY - 500ml
 
-* **Tripe soup or Wallachian sour soup** 75 CZK
+* **Goulash soup or Cauliflower soup with egg** 75 CZK
 
 ## DISCOUNTED DRINKS WITH MAIN COURSE
 
