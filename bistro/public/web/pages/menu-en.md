@@ -9,9 +9,9 @@ title: Denní menu - EN
 ## MAIN COURSES
 
 * **Minced sirloin in cream sauce, homemade bread dumpling** 165 CZK
-* **Drawn beef neck in BBQ sauce, American potatoes** 165 CZK
-* **Wrap (with chicken or pulled pork), fries** 165 CZK
-* **Fusilli with chicken, curry sauce, leek and parmesan** 165 CZK
+* **Drawn beef neck in BBQ sauce, American potatoes** 175 CZK
+* **Wrap (with chicken or pulled pork), fries** 175 CZK
+* **Fusilli with chicken, curry sauce, leek and parmesan** 175 CZK
 
 ## EVERY DAY STANDARD MENU
 
@@ -22,7 +22,7 @@ title: Denní menu - EN
 
 ## SOUP ORDERED SEPARATELY - 500ml
 
-* **Frankfurter soup with sausage or cabagge soup with sausage** 75 CZK
+* **Tripe soup or Wallachian sour soup** 75 CZK
 
 ## DISCOUNTED DRINKS WITH MAIN COURSE
 
