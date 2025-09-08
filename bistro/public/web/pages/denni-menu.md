@@ -4,14 +4,14 @@ title: Denní menu CZ
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
 * **Gulášovka** 30 Kč
-* **Květáková s vejcem** 30 Kč
+* **Drůbeží vývar s hráškem, rýží a vejcem** 30 Kč
 
 ## HLAVNÍ JÍDLA
 
-* **Kuřecí rizoto s hráškem a kukuřicí, sýr a okurka** 155 Kč
-* **Pečené vepřové koleno na pivě s bramborovou kaši** 165 Kč
-* **Hovězí svíčková na smetaně, domácí houskový knedlík, brusinkový terč** 175 Kč
-* **Fusilli s kuřecím masem, hříbky, smetanou a parmazánem** 175 Kč
+* **Štěpánská hovězí pečeně, jasmínová rýže ** 175 Kč
+* **Pečené kuřecí křídla na medu, chilli a limetě, americké brambory a zakysaná smetana** 175 Kč
+* **Savojský vepřový řízek, máslová bramborová kaše, citron a okurka** 175 Kč
+* **Fusilli s kuřecím masem, listovým špenátem, smetanou a parmazánem** 175 Kč
 
 ## STÁLÁ NABÍDKA
 
@@ -22,7 +22,7 @@ title: Denní menu CZ
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTANĚ – 500ml
 
-* **Gulášovka nebo květáková s vejcem** 75 Kč
+* **Gulášovka nebo Drůbeží vývar s hráškem, rýží a vejcem** 75 Kč
 ## ZVÝHODNĚNÉ NÁPOJE K HLAVNÍMU JÍDLU
 
 * **Točená malinovka 0,3/0,5l** 30/45 Kč
@@ -30,4 +30,4 @@ title: Denní menu CZ
 * **Domácí limonády (bezinka, malina, zázvor, citronáda)** 55 Kč
 * **Kohoutková voda s citronem, mátou a ledem** 25 Kč
 
-***Nabídka je platná v pondělí 8.9. od 10:30 do zavírací hodiny nebo do vyprodání.***
+***Nabídka je platná v úterý 9.9. od 10:30 do zavírací hodiny nebo do vyprodání.***
