@@ -4,14 +4,14 @@ title: Denní menu - EN
 ## DISCOUNTED SMALL SOUP WITH MAIN DISH - 250ml
 
 * **Goulash soup** 30 CZK
-* **Cauliflower soup with egg** 30 CZK
+* **Poultry broth with peas, rice and egg** 30 CZK
 
 ## MAIN COURSES
 
-* **Chicken risotto with peas and corn, cheese and cucumber** 155 CZK
-* **Beer-braised pork knuckle with mashed potatoes** 165 CZK
-* **Beef sirloin in cream, homemade bread dumpling** 175 CZK
-* **Fusilli with chicken, mushrooms, cream and parmesan** 175 CZK
+* **Štěpánská roast beef, jasmine rice** 175 CZK
+* **Roasted chicken wings with honey, chili and lime, American potatoes and sour cream** 175 CZK
+* **Savoy pork schnitzel, buttery mashed potatoes, lemon and cucumber** 175 CZK
+* **Fusilli with chicken, leaf spinach, cream and parmesan** 175 CZK
 
 ## EVERY DAY STANDARD MENU
 
@@ -22,7 +22,7 @@ title: Denní menu - EN
 
 ## SOUP ORDERED SEPARATELY - 500ml
 
-* **Goulash soup or Cauliflower soup with egg** 75 CZK
+* **Goulash soup or Poultry broth with peas, rice and egg** 75 CZK
 
 ## DISCOUNTED DRINKS WITH MAIN COURSE
 
@@ -31,4 +31,4 @@ title: Denní menu - EN
 * **Homemade lemonades (raspberry, elderflower, dragon fruit & raspberry, sea buckthorn, ginger or clasic lemonade)** 55 CZK
 * **Tap water with lemon, mint and ice** 25 CZK
 
-***The offer is valid on Monday 8.9. from 10:30 AM until closing time or while supplies last.***
+***The offer is valid on Tuesday 9.9. from 10:30 AM until closing time or while supplies last.***
