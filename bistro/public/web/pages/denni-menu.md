@@ -8,7 +8,7 @@ title: Denní menu CZ
 
 ## HLAVNÍ JÍDLA
 
-* **Štěpánská hovězí pečeně, jasmínová rýže ** 175 Kč
+* **Štěpánská hovězí pečeně, jasmínová rýže** 175 Kč
 * **Pečené kuřecí křídla na medu, chilli a limetě, americké brambory a zakysaná smetana** 175 Kč
 * **Savojský vepřový řízek, máslová bramborová kaše, citron a okurka** 175 Kč
 * **Fusilli s kuřecím masem, listovým špenátem, smetanou a parmazánem** 175 Kč
