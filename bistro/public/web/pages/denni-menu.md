@@ -10,7 +10,7 @@ title: Denní menu CZ
 
 * **Kuřecí rizoto s hráškem a kukuřicí, sýr a okurka** 155 Kč
 * **Pečené vepřové koleno na pivě s bramborovou kaši** 165 Kč
-* **Svíčková na smetaně, domácí houskový knedlík, brusinkový terč** 175 Kč
+* **Hovězí svíčková na smetaně, domácí houskový knedlík, brusinkový terč** 175 Kč
 * **Fusilli s kuřecím masem, hříbky, smetanou a parmazánem** 175 Kč
 
 ## STÁLÁ NABÍDKA
