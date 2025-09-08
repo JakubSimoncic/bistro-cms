@@ -10,7 +10,7 @@ title: Denní menu - EN
 
 * **Chicken risotto with peas and corn, cheese and cucumber** 155 CZK
 * **Beer-braised pork knuckle with mashed potatoes** 165 CZK
-* **Sirloin in cream, homemade bread dumpling** 175 CZK
+* **Beef sirloin in cream, homemade bread dumpling** 175 CZK
 * **Fusilli with chicken, mushrooms, cream and parmesan** 175 CZK
 
 ## EVERY DAY STANDARD MENU
