@@ -11,7 +11,7 @@ title: Denní menu - EN
 * **Szechuan chicken noodles, baked jasmine rice** 165 CZK
 * **Fried chicken Cordon bleu, mashed potatoes, lemon** 175 CZK
 * **Beef dill sauce, homemade bread dumpling** 175 CZK
-* **Grilled camembert wrapped in English bacon, baked potatoes with spring onions, BBQ mayonnaise** 175 CZK
+* **Grilled camembert wrapped in English bacon, baked potatoes with spring onions, BBQ mayonnaise** 165 CZK
 
 ## EVERY DAY STANDARD MENU
 
