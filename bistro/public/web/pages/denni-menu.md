@@ -4,14 +4,14 @@ title: Denní menu CZ
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
 * **Maďarská fazolová s klobásou** 30 Kč
-* **Květáková s vejcem** 30 Kč
+* **Krémová cibulačka s krutony a parmazánem** 30 Kč
 
 ## HLAVNÍ JÍDLA
 
-* **Kuřecí rizoto s hráškem, kukuřici, sýrem a okurkou** 155 Kč
-* **Holandský řízek, bramborová kaše, okurka** 165 Kč
-* **Hovězí svíčková na smetaně, brusinkový terč** 175 Kč
-* **BBQ quesadilla s trhaným hovězím masem, sýrem, jalapeños papričkami, koriandrem a rajčaty** 185 Kč
+* **Kuřecí nudličky po sečuánské, pečená jasmínova rýže** 165 Kč
+* **Smažený kuřecí Cordon bleu, bramborová kaše, citron** 175 Kč
+* **Hovězí koprová omáčka, domácí houskový knedlík** 175 Kč
+* **Grilovaný hermelín baleny v anglické slanině, pečené brambory s jarní cibulkou, BBQ majonéza** 175 Kč
 
 ## STÁLÁ NABÍDKA
 
@@ -22,7 +22,7 @@ title: Denní menu CZ
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTANĚ – 500ml
 
-* **Maďarská fazolová s klobásou nebo Květáková s vejcem** 75 Kč
+* **Maďarská fazolová s klobásou nebo Krémová cibulačka s krutony a parmazánem** 75 Kč
 ## ZVÝHODNĚNÉ NÁPOJE K HLAVNÍMU JÍDLU
 
 * **Točená malinovka 0,3/0,5l** 30/45 Kč
@@ -30,4 +30,4 @@ title: Denní menu CZ
 * **Domácí limonády (bezinka, malina, zázvor, citronáda)** 55 Kč
 * **Kohoutková voda s citronem, mátou a ledem** 25 Kč
 
-***Nabídka platí ve středu 10.9. od 10:30 do zavírací hodiny nebo do vyprodání.***
+***Nabídka platí ve čtvrtek 11.9. od 10:30 do zavírací hodiny nebo do vyprodání.***
