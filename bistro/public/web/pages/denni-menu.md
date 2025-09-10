@@ -8,7 +8,7 @@ title: Denní menu CZ
 
 ## HLAVNÍ JÍDLA
 
-* **Kuřecí nudličky po sečuánské, pečená jasmínova rýže** 165 Kč
+* **Kuřecí nudličky po sečuánské, pečená jasmínová rýže** 165 Kč
 * **Smažený kuřecí Cordon bleu, bramborová kaše, citron** 175 Kč
 * **Hovězí koprová omáčka, domácí houskový knedlík** 175 Kč
 * **Grilovaný hermelín baleny v anglické slanině, pečené brambory s jarní cibulkou, BBQ majonéza** 175 Kč
