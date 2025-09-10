@@ -8,7 +8,7 @@ title: Denní menu CZ
 
 ## HLAVNÍ JÍDLA
 
-* **Kuřecí rizoto s hráškem, kukuřici, sýrem ou okurka** 155 Kč
+* **Kuřecí rizoto s hráškem, kukuřici, sýrem a okurkou** 155 Kč
 * **Holandský řízek, bramborová kaše, okurka** 165 Kč
 * **Hovězí svíčková na smetaně, brusinkový terč** 175 Kč
 * **BBQ quesadilla s trhaným hovězím masem, sýrem, jalapeños papričkami, koriandrem a rajčaty** 185 Kč
