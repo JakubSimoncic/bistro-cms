@@ -4,14 +4,14 @@ title: Denní menu - EN
 ## DISCOUNTED SMALL SOUP WITH MAIN DISH - 250ml
 
 * **Hungarian bean and sausage soup** 30 CZK
-* **Cauliflower and egg soup** 30 CZK
+* **Creamy onion stew with croutons and parmesan** 30 CZK
 
 ## MAIN COURSES
 
-* **Chicken risotto with peas, corn, cheese and cucumber** 155 CZK
-* **Dutch schnitzel, mashed potatoes, cucumber** 165 CZK
-* **Beef tenderloin in cream, cranberry sauce** 175 CZK
-* **BBQ quesadilla with pulled beef, cheese, jalapeño peppers, coriander and tomatoes** 185 CZK
+* **Szechuan chicken noodles, baked jasmine rice** 165 CZK
+* **Fried chicken Cordon bleu, mashed potatoes, lemon** 175 CZK
+* **Beef dill sauce, homemade bread dumpling** 175 CZK
+* **Grilled camembert wrapped in English bacon, baked potatoes with spring onions, BBQ mayonnaise** 175 CZK
 
 ## EVERY DAY STANDARD MENU
 
@@ -22,7 +22,7 @@ title: Denní menu - EN
 
 ## SOUP ORDERED SEPARATELY - 500ml
 
-* **Hungarian bean and sausage soup or Cauliflower and egg soup** 75 CZK
+* **Hungarian bean and sausage soup or Creamy onion stew with croutons and parmesan** 75 CZK
 
 ## DISCOUNTED DRINKS WITH MAIN COURSE
 
