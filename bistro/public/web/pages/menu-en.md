@@ -3,15 +3,15 @@ title: Denní menu - EN
 ---
 ## DISCOUNTED SMALL SOUP WITH MAIN DISH - 250ml
 
-* **Hungarian bean and sausage soup** 30 CZK
+* **Borscht with sour cream** 30 CZK
 * **Creamy onion stew with croutons and parmesan** 30 CZK
 
 ## MAIN COURSES
 
-* **Szechuan chicken noodles, baked jasmine rice** 165 CZK
-* **Fried chicken Cordon bleu, mashed potatoes, lemon** 175 CZK
-* **Beef dill sauce, homemade bread dumpling** 175 CZK
-* **Grilled camembert wrapped in English bacon, baked potatoes with spring onions, BBQ mayonnaise** 165 CZK
+* **Pasta with smoked ham, pickled cucumber** 165 CZK
+* **Fried cheese skewer, roasted potatoes, tartar sauce** 175 CZK
+* **Szeged goulash, homemade bread dumpling** 175 CZK
+* **Roasted pork neck, sautéed beans with pancetta, garlic, and onion, mashed potatoes** 175 CZK
 
 ## EVERY DAY STANDARD MENU
 
@@ -22,7 +22,7 @@ title: Denní menu - EN
 
 ## SOUP ORDERED SEPARATELY - 500ml
 
-* **Hungarian bean and sausage soup or Creamy onion stew with croutons and parmesan** 75 CZK
+* **Borscht with sour cream or Creamy onion stew with croutons and parmesan** 75 CZK
 
 ## DISCOUNTED DRINKS WITH MAIN COURSE
 
@@ -31,4 +31,4 @@ title: Denní menu - EN
 * **Homemade lemonades (raspberry, elderflower, dragon fruit & raspberry, sea buckthorn, ginger or clasic lemonade)** 55 CZK
 * **Tap water with lemon, mint and ice** 25 CZK
 
-***The offer is valid on Wednesday 10.9. from 10:30 AM until closing time or while supplies last.***
+***The offer is valid on Friday 12.9. from 10:30 AM until closing time or while supplies last.***
