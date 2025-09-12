@@ -30,4 +30,4 @@ title: Denní menu CZ
 * **Domácí limonády (bezinka, malina, zázvor, citronáda)** 55 Kč
 * **Kohoutková voda s citronem, mátou a ledem** 25 Kč
 
-***Nabídka platí ve pátek 12.9. od 10:30 do zavírací hodiny nebo do vyprodání.***
+***Nabídka platí ve sobota 13.9. od 10:30 do zavírací hodiny nebo do vyprodání.***
