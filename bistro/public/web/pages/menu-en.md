@@ -3,15 +3,15 @@ title: Denní menu - EN
 ---
 ## DISCOUNTED SMALL SOUP WITH MAIN DISH - 250ml
 
-* **Potato soup** 30 CZK
-* **Hungarian bean soup with sausage** 30 CZK
+* **Borscht with sour cream** 30 CZK
+* **Creamy onion soup with croutons** 30 CZK
 
 ## MAIN COURSES
 
-* **Pasta with smoked ham, pickled cucumber** 165 CZK
-* **Stepánska roast beef, baked jasmine rice** 175 CZK
-* **Dill sauce with smoked tongue, homemade bread dumplings or boiled potatoes** 165 CZK
-* **Wrap with pulled pork, vegetables, cheese and garlic dressing, fries** 185 CZK
+* **Pasta with smoked ham, pickled cucumber** 155 CZK
+* **Szechuan chicken noodles, roasted potatoes** 165 CZK
+* **Szeged goulash, homemade bread dumplings** 165 CZK
+* **Roasted pork knuckle, stewed cabbage, dumpling variations** 175 CZK
 
 ## EVERY DAY STANDARD MENU
 
@@ -22,7 +22,7 @@ title: Denní menu - EN
 
 ## SOUP ORDERED SEPARATELY - 500ml
 
-* **Potato soup or Hungarian bean soup with sausage** 75 CZK
+* **Borscht with sour cream or Creamy onion soup with croutons** 75 CZK
 
 ## DISCOUNTED DRINKS WITH MAIN COURSE
 
