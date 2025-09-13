@@ -11,7 +11,7 @@ title: Denní menu - EN
 * **Pasta with smoked ham, pickled cucumber** 155 CZK
 * **Szechuan chicken noodles, roasted potatoes** 165 CZK
 * **Szeged goulash, homemade bread dumplings** 165 CZK
-* **Roasted pork knuckle, stewed cabbage, dumpling variations** 175 CZK
+* **Roasted pork knuckle, stewed cabbage, dumpling variations** 165 CZK
 
 ## EVERY DAY STANDARD MENU
 
