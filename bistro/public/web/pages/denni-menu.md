@@ -11,7 +11,7 @@ title: Denní menu CZ
 * **Zapečené šunkofleky s uzeným masem, okurka** 155 Kč
 * **Kuřecí nudličky po sečuánsku, opečené brambory** 165 Kč
 * **Segedínský guláš, domácí houskový knedlík** 165 Kč
-* **Pečené vepřové koleno, dušené hlávkové zelí, variace knedlíku** 175 Kč
+* **Pečené vepřové koleno, dušené hlávkové zelí, variace knedlíku** 165 Kč
 
 ## STÁLÁ NABÍDKA
 
