@@ -3,15 +3,15 @@ title: Denní menu CZ
 ---
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
-* **Bramboračka** 30 Kč
-* **Maďarská fazolová s klobásou** 30 Kč
+* **Boršč se zakysanou smetanu** 30 Kč
+* **Krémová cibulačka s krutony** 30 Kč
 
 ## HLAVNÍ JÍDLA
 
-* **Zapečené šunkofleky s uzeným masem, kyselá okurka** 165 Kč
-* **Hovězí štěpánská pečeně, pečená jasmínová rýže** 175 Kč
-* **Koprová omáčka s uzeným jazykem, domácí houskový knedlík nebo vařené brambory** 165 Kč
-* **Wrap s trhaným vepřovým masem, zeleninou, variace sýru a česnekovým dresinkem, hranolky** 185 Kč
+* **Zapečené šunkofleky s uzeným masem, okurka** 155 Kč
+* **Kuřecí nudličky po sečuánsku, opečené brambory ** 165 Kč
+* **Segedínský guláš, domácí houskový knedlík** 165 Kč
+* **Pečené vepřové koleno, dušené hlávkové zelí, variace knedlíku** 175 Kč
 
 ## STÁLÁ NABÍDKA
 
@@ -22,7 +22,7 @@ title: Denní menu CZ
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTANĚ – 500ml
 
-* **Bramboračka nebo Maďarská fazolová s klobásou** 75 Kč
+* **Boršč se zakysanou smetanu nebo krémová cibulačka s krutony** 75 Kč
 ## ZVÝHODNĚNÉ NÁPOJE K HLAVNÍMU JÍDLU
 
 * **Točená malinovka 0,3/0,5l** 30/45 Kč
