@@ -3,15 +3,15 @@ title: Denní menu - EN
 ---
 ## DISCOUNTED SMALL SOUP WITH MAIN DISH - 250ml
 
-* **Borscht with sour cream** 30 CZK
-* **Creamy onion soup with croutons** 30 CZK
+* **Potato soup** 30 CZK
+* **Smoked garlic with egg** 30 CZK
 
 ## MAIN COURSES
 
-* **Pasta with smoked ham, pickled cucumber** 155 CZK
-* **Szechuan chicken noodles, roasted potatoes** 165 CZK
-* **Szeged goulash, homemade bread dumplings** 165 CZK
-* **Roasted pork knuckle, stewed cabbage, dumpling variations** 165 CZK
+* **Pork roast, stewed cabbage, potato dumpling** 165 CZK
+* **Fried chicken strips in cornflakes, mashed potatoes** 165 CZK
+* **Roast beef with tomato sauce, homemade bread dumpling** 175 CZK
+* **Spaghetti Aglio olio pepperoncino, parmesan** 165 CZK
 
 ## EVERY DAY STANDARD MENU
 
@@ -22,7 +22,7 @@ title: Denní menu - EN
 
 ## SOUP ORDERED SEPARATELY - 500ml
 
-* **Borscht with sour cream or Creamy onion soup with croutons** 75 CZK
+* **Potato soup or smoked garlic with egg** 75 CZK
 
 ## DISCOUNTED DRINKS WITH MAIN COURSE
 
