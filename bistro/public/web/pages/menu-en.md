@@ -31,4 +31,4 @@ title: Denní menu - EN
 * **Homemade lemonades (raspberry, elderflower, dragon fruit & raspberry, sea buckthorn, ginger or clasic lemonade)** 55 CZK
 * **Tap water with lemon, mint and ice** 25 CZK
 
-***The offer is valid on Saturday 13.9. from 10:30 AM until closing time or while supplies last.***
+***The offer is valid on Monday 15.9. from 10:30 AM until closing time or while supplies last.***
