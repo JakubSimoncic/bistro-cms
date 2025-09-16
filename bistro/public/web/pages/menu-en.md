@@ -3,15 +3,15 @@ title: Denní menu - EN
 ---
 ## DISCOUNTED SMALL SOUP WITH MAIN DISH - 250ml
 
-* **Potato soup** 30 CZK
+* **Kulajda- creamy dill soup with potatoes and mushrooms** 30 CZK
 * **Smoked garlic with egg** 30 CZK
 
 ## MAIN COURSES
 
-* **Pork roast, stewed cabbage, potato dumpling** 165 CZK
-* **Fried chicken strips in cornflakes, mashed potatoes** 165 CZK
-* **Roast beef with tomato sauce, homemade bread dumpling** 175 CZK
-* **Spaghetti Aglio olio pepperoncino, parmesan** 165 CZK
+* **Pork roast meat, stewed cabbage and homemade dumplings** 165 CZK
+* **Spicy meat mixture with vegetables and potato pancakes** 165 CZK
+* **Sour lentil mash, pepper sausage, ox eye and pickles** 165 CZK
+* **Spaghetti Bolognese with minced meat and parmesan cheese** 165 CZK
 
 ## EVERY DAY STANDARD MENU
 
@@ -22,7 +22,7 @@ title: Denní menu - EN
 
 ## SOUP ORDERED SEPARATELY - 500ml
 
-* **Potato soup or smoked garlic with egg** 75 CZK
+* **Kulajda soup or smoked garlic with egg** 75 CZK
 
 ## DISCOUNTED DRINKS WITH MAIN COURSE
 
@@ -31,4 +31,4 @@ title: Denní menu - EN
 * **Homemade lemonades (raspberry, elderflower, dragon fruit & raspberry, sea buckthorn, ginger or clasic lemonade)** 55 CZK
 * **Tap water with lemon, mint and ice** 25 CZK
 
-***The offer is valid on Monday 15.9. from 10:30 AM until closing time or while supplies last.***
+***The offer is valid on Tuesday 16.9. from 10:30 AM until closing time or while supplies last.***
