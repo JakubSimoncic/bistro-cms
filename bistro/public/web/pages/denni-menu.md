@@ -11,7 +11,7 @@ title: Denní menu CZ
 * **Vepřové výpečky, dušené hlávkové zelí, houskový knedlík** 165 Kč
 * **Pikantní masová směs se zeleninou a bramboráčky** 165 Kč
 * **Čočka na kyselo, papriková klobása, volské oko a okurka** 165 Kč
-* **Boloňské špagety s mletým masem a parmazánem** 165 Kč
+* **Boloňské špagety s mletým masem a parmazánem** 175 Kč
 
 ## STÁLÁ NABÍDKA
 
