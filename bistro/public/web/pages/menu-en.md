@@ -4,7 +4,7 @@ title: Denní menu - EN
 ## DISCOUNTED SMALL SOUP WITH MAIN DISH - 250ml
 
 * **Kulajda- creamy dill soup with potatoes and mushrooms** 30 CZK
-* **Smoked garlic with egg** 30 CZK
+* **Smoked garlic soup with egg** 30 CZK
 
 ## MAIN COURSES
 
@@ -22,7 +22,7 @@ title: Denní menu - EN
 
 ## SOUP ORDERED SEPARATELY - 500ml
 
-* **Kulajda soup or smoked garlic with egg** 75 CZK
+* **Kulajda soup or smoked garlic soup with egg** 75 CZK
 
 ## DISCOUNTED DRINKS WITH MAIN COURSE
 
