@@ -11,7 +11,7 @@ title: Denní menu - EN
 * **Pork roast meat, stewed cabbage and homemade dumplings** 165 CZK
 * **Spicy meat mixture with vegetables and potato pancakes** 165 CZK
 * **Sour lentil mash, pepper sausage, ox eye and pickles** 165 CZK
-* **Spaghetti Bolognese with minced meat and parmesan cheese** 165 CZK
+* **Spaghetti Bolognese with minced meat and parmesan cheese** 175 CZK
 
 ## EVERY DAY STANDARD MENU
 
