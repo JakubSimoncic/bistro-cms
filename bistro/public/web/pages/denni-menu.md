@@ -4,7 +4,7 @@ title: Denní menu CZ
 ## ZVÝHODNĚNÁ NABÍDKA DNE (polévka + hl. jídlo)
 
 * **Menu 1: Polévka + Smažený karbanátek, máslová bramborová kaše, okurka** 185 Kč
-* **Menu 1: Polévka + Plněný paprikový lusk s rajskou omáčkou, houskový knedlík** 195 Kč
+* **Menu 1: Polévka + Plněný paprikový lusk s rajskou omáčkou a domácí houskový knedlík** 195 Kč
 
 ### MALÁ POLÉVKA – 250ml
 
@@ -28,11 +28,5 @@ title: Denní menu CZ
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTANĚ – 500ml
 
 * **Čočková polévka s klobásou nebo zelňačka s paprikovou klobásou** 75 Kč
-## ZVÝHODNĚNÉ NÁPOJE K HLAVNÍMU JÍDLU
-
-* **Točená malinovka 0,3/0,5l** 30/45 Kč
-* **Točená kofola 0,3/0,5l** 35/50 Kč
-* **Domácí limonády (bezinka, malina, zázvor, citronáda)** 55 Kč
-* **Kohoutková voda s citronem, mátou a ledem** 25 Kč
 
 ***Nabídka platí na čtvrtek 18.9. od 10:30 do zavírací hodiny nebo do vyprodání.***
