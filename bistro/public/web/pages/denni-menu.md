@@ -3,8 +3,8 @@ title: Denní menu CZ
 ---
 ## ZVÝHODNĚNÁ NABÍDKA DNE (polévka + hl. jídlo)
 
-* **Menu 1: Polévka + Smažený karbanátek, máslová bramborová kaše, okurka** 185 Kč
-* **Menu 2 Polévka + Plněný paprikový lusk s rajskou omáčkou a 
+* **MENU 1: Polévka + Smažený karbanátek, máslová bramborová kaše, okurka** 185 Kč
+* **MENU 2 Polévka + Plněný paprikový lusk s rajskou omáčkou a 
 domácí houskový knedlík** 195 Kč
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
