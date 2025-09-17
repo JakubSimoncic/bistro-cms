@@ -6,7 +6,7 @@ title: Denní menu CZ
 * **Menu 1: Polévka + Smažený karbanátek, máslová bramborová kaše, okurka** 185 Kč
 * **Menu 1: Polévka + Plněný paprikový lusk s rajskou omáčkou a domácí houskový knedlík** 195 Kč
 
-### MALÁ POLÉVKA – 250ml
+## MALÁ POLÉVKA – 250ml
 
 * **Čočková polévka s klobásou** 40 Kč
 * **Zelňačka s paprikovou klobásou** 40 Kč
