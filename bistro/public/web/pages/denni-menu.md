@@ -1,17 +1,22 @@
 ---
 title: Denní menu CZ
 ---
-## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
+## ZVÝHODNĚNÁ NABÍDKA DNE (polévka + hl. jídlo)
 
-* **Zelňačka s paprikovou klobásou** 30 Kč
-* **Jihočeská kulajda** 30 Kč
+* **Menu 1: Polévka + Smažený karbanátek, máslová bramborová kaše, kyselá okurka** 185 Kč
+* **Menu 1: Polévka + Plněný paprikový lusk s rajskou omáčkou a domácí houskový knedlík** 195 Kč
+
+### MALÁ POLÉVKA – 250ml
+
+* **Čočková polévka s klobásou** 40 Kč
+* **Zelňačka s paprikovou klobásou** 40 Kč
 
 ## HLAVNÍ JÍDLA
 
-* **Smažený květák, vařené brambory  a tatarská omáčka** 155 Kč
+* **Smažený karbanátek, máslová bramborová kaše, kyselá okurka** 165 Kč
 * **Plněný bramborový knedlík uzeným masem, dušené bílé zelí, restovaná a vídeňská cibulka** 165 Kč
-* **Hovězí znojemská pečeně a pečená jasmínová rýže** 175 Kč
-* **Grilovaná tortilla plněná kuřecími stripsy, čedarem, anglickou slaninou, ledovým salátem, rajčaty a bylinkovým dresinkem, smažené hranolky** 175 Kč
+* **Plněný paprikový lusk s rajskou omáčkou a domácí houskový knedlík** 175 Kč
+* **Těstoviny fusilli s kuřecím masem, pancettou, česnekem, rajčaty, bazalkovým pestem a parmazánem** 175 Kč
 
 ## STÁLÁ NABÍDKA
 
@@ -22,7 +27,7 @@ title: Denní menu CZ
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTANĚ – 500ml
 
-* **Zelňačka s paprikovou klobásou nebo jihočeská kulajda** 75 Kč
+* **Čočková polévka s klobásou nebo zelňačka s paprikovou klobásou** 75 Kč
 ## ZVÝHODNĚNÉ NÁPOJE K HLAVNÍMU JÍDLU
 
 * **Točená malinovka 0,3/0,5l** 30/45 Kč
@@ -30,4 +35,4 @@ title: Denní menu CZ
 * **Domácí limonády (bezinka, malina, zázvor, citronáda)** 55 Kč
 * **Kohoutková voda s citronem, mátou a ledem** 25 Kč
 
-***Nabídka platí ve středu 17.9. od 10:30 do zavírací hodiny nebo do vyprodání.***
+***Nabídka platí na čtvrtek 18.9. od 10:30 do zavírací hodiny nebo do vyprodání.***
