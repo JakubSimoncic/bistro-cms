@@ -24,7 +24,7 @@ domácí houskový knedlík** 195 Kč
 * **Hovězí guláš s cibulkou a beraním rohem, domácí houskový knedlík** 185 Kč
 * **Kuřecí řízek, bramborový salát a citron** 175 Kč
 * **Smažený sýr, hranolky a tatarská omáčka** 175 Kč
-* **Grilovaná pšeničná tortilla dle výběru a smažené hranolky** 175 Kč
+* **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 175 Kč
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTANĚ – 500ml
 
