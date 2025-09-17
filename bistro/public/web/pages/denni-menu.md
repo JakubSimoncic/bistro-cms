@@ -29,4 +29,5 @@ title: Denní menu CZ
 
 * **Čočková polévka s klobásou nebo zelňačka s paprikovou klobásou** 75 Kč
 
+
 ***Nabídka platí na čtvrtek 18.9. od 10:30 do zavírací hodiny nebo do vyprodání.***
