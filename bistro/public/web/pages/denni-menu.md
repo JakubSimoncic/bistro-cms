@@ -7,7 +7,7 @@ title: Denní menu CZ
 * **Menu 2 Polévka + Plněný paprikový lusk s rajskou omáčkou a 
 domácí houskový knedlík** 195 Kč
 
-## ZVÝHODNĚNÁ MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
+## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
 * **Čočková polévka s klobásou** 35 Kč
 * **Zelňačka s paprikovou klobásou** 35 Kč
