@@ -1,17 +1,22 @@
 ---
 title: Denní menu - EN
 ---
+## SPECIAL OFFER OF THE DAY (soup + main course)
+
+* **MENU 1: Soup + Fried meatball, mashed potatoes, pickles** 185 CZK
+* **MENU 2: Soup + Baked pepper pod stuffed with minced meat, tomato sauce and homemade dumplings** 195 CZK
+
 ## DISCOUNTED SMALL SOUP WITH MAIN DISH - 250ml
 
-* **Cabbage soup with pepper sausage** 30 CZK
-* **Kulajda- creamy dill soup with potatoes and mushrooms** 30 CZK
+* **Lentil soup with sausage** 35 CZK
+* **Cabbage soup with pepper sausage** 35 CZK
 
 ## MAIN COURSES
 
-* **Fried cauliflower, boiled potatoes and Tartar Sauce** 155 CZK
+* **Fried meatball, mashed potatoes, pickles** 165 CZK
 * **Stuffed potato dumpling with smoked meat, stewed white cabbage, sautéed and fried onions** 165 CZK
-* **Roast beef meat with beef sauce and baked jasmine rice** 175 CZK
-* **Grilled tortilla stuffed with chicken strips, cheddar cheese, bacon, lettuce, tomatoes and herb dressing, served with French Fries** 175 CZK
+* **Baked pepper pod stuffed with minced meat, tomato sauce and homemade dumplings** 175 CZK
+* **Fusilli with chicken meat, pancetta, garlic, tomatoes, basil pesto and parmesan cheese** 175 CZK
 
 ## EVERY DAY STANDARD MENU
 
@@ -22,13 +27,7 @@ title: Denní menu - EN
 
 ## SOUP ORDERED SEPARATELY - 500ml
 
-* **Kulajda soup or smoked garlic soup with egg** 75 CZK
+* **Lentil soup with sausage or cabbage soup with pepper sausage** 75 CZK
 
-## DISCOUNTED DRINKS WITH MAIN COURSE
 
-* **"Malinovka"- draft raspberry soda 0,3/0,5l** 30/45 CZK
-* **Draft Kofola 0,3/0,5l** 35/50 CZK
-* **Homemade lemonades (raspberry, elderflower, dragon fruit & raspberry, sea buckthorn, ginger or clasic lemonade)** 55 CZK
-* **Tap water with lemon, mint and ice** 25 CZK
-
-***The offer is valid on Wednesday 17.9. from 10:30 AM until closing time or while supplies last.***
+***The offer is valid on Tuesday 18.9. from 10:30 AM until closing time or while supplies last.***
