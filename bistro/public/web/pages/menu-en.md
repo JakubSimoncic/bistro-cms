@@ -4,7 +4,7 @@ title: Denní menu - EN
 ## SPECIAL OFFER OF THE DAY (soup + main course)
 
 * **MENU 1: Soup + Fried mushrooms, boiled potatoes and Tartar Sauce** 175 CZK
-* **MENU 2: Soup + Beef meat, beef sauce with eggs and sausage, baked jasmine rice** 195 CZK
+* **MENU 2: Soup + Baked pepper pod stuffed with minced meat, tomato sauce and homemade dumplings** 195 CZK
 
 ## DISCOUNTED SMALL SOUP WITH MAIN DISH - 250ml
 
@@ -14,8 +14,8 @@ title: Denní menu - EN
 ## MAIN COURSES
 
 * **Fried mushrooms, boiled potatoes and Tartar Sauce** 155 CZK
+* **Pork meat and sauce with eggs, bacon and sausage, baked jasmine rice** 165 CZK
 * **Baked pepper pod stuffed with minced meat, tomato sauce and homemade dumplings** 175 CZK
-* **Beef meat, beef sauce with eggs and sausage, baked jasmine rice** 175 CZK
 * **Fusilli pasta with chicken meat, curry sauce, spring onion and parmesan cheese** 175 CZK
 
 ## EVERY DAY STANDARD MENU
