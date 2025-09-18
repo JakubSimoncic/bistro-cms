@@ -3,21 +3,20 @@ title: Denní menu CZ
 ---
 ## ZVÝHODNĚNÁ NABÍDKA DNE (polévka + hl. jídlo)
 
-* **MENU 1: Polévka + Smažený karbanátek, máslová bramborová kaše, okurka** 185 Kč
-* **MENU 2: Polévka + Plněný paprikový lusk s rajskou omáčkou a 
-domácí houskový knedlík** 195 Kč
+* **MENU 1: Polévka + Smažené žampiony, vařené brambory a tatarská omáčka** 175 Kč
+* **MENU 2: Polévka + Rozlítaný španělský ptáček a pečená jasmínová rýže** 195 Kč
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
+* **Dršťková polévka** 35 Kč
 * **Čočková polévka s klobásou** 35 Kč
-* **Zelňačka s paprikovou klobásou** 35 Kč
 
 ## HLAVNÍ JÍDLA
 
-* **Smažený karbanátek, máslová bramborová kaše, kyselá okurka** 165 Kč
-* **Plněný bramborový knedlík uzeným masem, dušené bílé zelí, restovaná a vídeňská cibulka** 165 Kč
-* **Plněný paprikový lusk s rajskou omáčkou a domácí houskový knedlík** 175 Kč
-* **Těstoviny fusilli s kuřecím masem, pancettou, česnekem, rajčaty, bazalkovým pestem a parmazánem** 175 Kč
+* **Smažené žampiony, vařené brambory a tatarská omáčka** 155 Kč
+* **Plněný paprikový lusk mletým masem, rajská omáčka a domácí houskový knedlík** 175 Kč
+* **Rozlítaný španělský ptáček a pečená jasmínová rýže** 175 Kč
+* **Těstoviny fusilli s kuřecím masem, kari omáčkou, jarní cibulkou a parmazánem** 175 Kč
 
 ## STÁLÁ NABÍDKA
 
@@ -28,7 +27,7 @@ domácí houskový knedlík** 195 Kč
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTANĚ – 500ml
 
-* **Čočková polévka s klobásou nebo zelňačka s paprikovou klobásou** 75 Kč
+* **Dršťková polévka nebo čočková polévka s klobásou** 75 Kč
 
 
-***Nabídka platí na čtvrtek 18.9. od 10:30 do zavírací hodiny nebo do vyprodání.***
+***Nabídka platí v pátek 19.9. od 10:30 do zavírací hodiny nebo do vyprodání.***
