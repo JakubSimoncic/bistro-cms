@@ -4,7 +4,7 @@ title: Denní menu CZ
 ## ZVÝHODNĚNÁ NABÍDKA DNE (polévka + hl. jídlo)
 
 * **MENU 1: Polévka + Smažené žampiony, vařené brambory a tatarská omáčka** 175 Kč
-* **MENU 2: Polévka + Rozlítaný španělský ptáček a pečená jasmínová rýže** 195 Kč
+* **MENU 2: Polévka + Plněný paprikový lusk mletým masem, rajská omáčka a domácí houskový knedlík** 195 Kč
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
@@ -14,8 +14,8 @@ title: Denní menu CZ
 ## HLAVNÍ JÍDLA
 
 * **Smažené žampiony, vařené brambory a tatarská omáčka** 155 Kč
-* **Plněný paprikový lusk mletým masem, rajská omáčka a domácí houskový knedlík** 175 Kč
-* **Rozlítaný španělský ptáček a pečená jasmínová rýže** 175 Kč
+* **Rozlítaný španělský vepřový ptáček a pečená jasmínová rýže** 165 Kč
+* **Plněný paprikový lusk mletým masem, rajská omáčka a domácí houskový knedlík** 165 Kč
 * **Těstoviny fusilli s kuřecím masem, kari omáčkou, jarní cibulkou a parmazánem** 175 Kč
 
 ## STÁLÁ NABÍDKA
