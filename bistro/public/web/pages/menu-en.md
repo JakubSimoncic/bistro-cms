@@ -3,20 +3,20 @@ title: Denní menu - EN
 ---
 ## SPECIAL OFFER OF THE DAY (soup + main course)
 
-* **MENU 1: Soup + Fried mushrooms, boiled potatoes and Tartar Sauce** 175 CZK
-* **MENU 2: Soup + Baked pepper pod stuffed with minced meat, tomato sauce and homemade dumplings** 195 CZK
+* **MENU 1: Soup + Pork meat and sauce with eggs, bacon and sausage, baked jasmine rice** 185 CZK
+* **MENU 2: Soup + Spaghetti Bolognese with minced beef and topped with cheese** 195 CZK
 
 ## DISCOUNTED SMALL SOUP WITH MAIN DISH - 250ml
 
 * **Triplet soup** 35 CZK
-* **Lentil soup with sausage** 35 CZK
+* **Potato soup** 35 CZK
 
 ## MAIN COURSES
 
-* **Fried mushrooms, boiled potatoes and Tartar Sauce** 155 CZK
 * **Pork meat and sauce with eggs, bacon and sausage, baked jasmine rice** 165 CZK
-* **Baked pepper pod stuffed with minced meat, tomato sauce and homemade dumplings** 175 CZK
-* **Fusilli pasta with chicken meat, curry sauce, spring onion and parmesan cheese** 175 CZK
+* **Spicy meat mixture with vegetables and fried potato pancakes** 165 CZK
+* **Fried meatball, roasted potatoes, mustard and pickes** 165 CZK
+* **Spaghetti Bolognese with minced beef and topped with cheese** 175 CZK
 
 ## EVERY DAY STANDARD MENU
 
@@ -30,4 +30,4 @@ title: Denní menu - EN
 * **Triplet soup or lentil soup with sausage** 75 CZK
 
 
-***The offer is valid on Friday 19.9. from 10:30 AM until closing time or while supplies last.***
+***The offer is valid on Saturday 20.9. from 10:30 AM until closing time or while supplies last.***
