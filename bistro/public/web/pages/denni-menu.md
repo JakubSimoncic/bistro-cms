@@ -9,7 +9,7 @@ title: Denní menu CZ
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
 * **Čočková polévka** 35 Kč
-* **zelňačka s klobásou** 35 Kč
+* **Zelňačka s klobásou** 35 Kč
 
 ## HLAVNÍ JÍDLA
 
