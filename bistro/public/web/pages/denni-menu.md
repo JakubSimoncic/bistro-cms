@@ -3,20 +3,20 @@ title: Denní menu CZ
 ---
 ## ZVÝHODNĚNÁ NABÍDKA DNE (polévka + hl. jídlo)
 
-* **MENU 1: Polévka + Rozlítaný španělský vepřový ptáček a pečená jasmínová rýže** 185 Kč
-* **MENU 2: Polévka + Boloňské špagety s hovězím mletým masem a sypané sýrem** 195 Kč
+* **MENU 1: Polévka + Vepřové výpečky, dušené bílé zelí a domácí houskový knedlík** 185 Kč
+* **MENU 2: Polévka + Hovězí rajská pečeně a těstoviny fusilli** 195 Kč
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
-* **Dršťková polévka** 35 Kč
-* **Bramboračka** 35 Kč
+* **Čočková polévka** 35 Kč
+* **zelňačka s klobásou** 35 Kč
 
 ## HLAVNÍ JÍDLA
 
-* **Rozlítaný španělský vepřový ptáček a pečená jasmínová rýže** 165 Kč
+* **Vepřové výpečky, dušené bílé zelí a domácí houskový knedlík** 165 Kč
 * **Pikantní masová směs se zeleninou a smažené bramboráčky** 165 Kč
-* **Smažený karbanátek, opečené brambory, hořčice a okurka** 165 Kč
-* **Boloňské špagety s hovězím mletým masem a sypané sýrem** 175 Kč
+* **Smažený karbanátek, vařené brambory a kyselá okurka** 165 Kč
+* **Hovězí rajská pečeně a těstoviny fusilli** 175 Kč
 
 ## STÁLÁ NABÍDKA
 
@@ -27,7 +27,7 @@ title: Denní menu CZ
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTANĚ – 500ml
 
-* **Dršťková polévka nebo bramboračka** 75 Kč
+* **Čočková polévka nebo zelňačka s klobásou** 75 Kč
 
 
-***Nabídka platí v sobotu 20.9. od 10:30 do zavírací hodiny nebo do vyprodání.***
+***Nabídka platí v neděle 21.9. od 10:30 do zavírací hodiny nebo do vyprodání.***
