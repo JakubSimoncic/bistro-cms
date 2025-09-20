@@ -14,7 +14,7 @@ title: Denní menu CZ
 ## HLAVNÍ JÍDLA
 
 * **Vepřové výpečky, dušené bílé zelí a domácí houskový knedlík** 165 Kč
-* **Pikantní masová směs se zeleninou a smažené bramboráčky** 165 Kč
+* **Smažený karbanátek, vařené brambory a kyselá okurka** 165 Kč
 * **Grilovaná kuřecí tortilla (kuřecí stripsy, česnekový dresink, variace sýrů, rajčata a ledový salát)** 175 Kč
 * **Hovězí rajská pečeně a těstoviny fusilli** 175 Kč
 
