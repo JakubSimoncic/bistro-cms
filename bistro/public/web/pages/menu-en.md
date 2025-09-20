@@ -3,20 +3,20 @@ title: Denní menu - EN
 ---
 ## SPECIAL OFFER OF THE DAY (soup + main course)
 
-* **MENU 1: Soup + Pork meat and sauce with eggs, bacon and sausage, baked jasmine rice** 185 CZK
-* **MENU 2: Soup + Spaghetti Bolognese with minced beef and topped with cheese** 195 CZK
+* **MENU 1: Soup + Pork roast meat, white cabbage and homemade dumplings** 185 CZK
+* **MENU 2: Soup + Beef meat with tamoto sauce and fusilli** 195 CZK
 
 ## DISCOUNTED SMALL SOUP WITH MAIN DISH - 250ml
 
-* **Triplet soup** 35 CZK
-* **Potato soup** 35 CZK
+* **Lentil soup** 35 CZK
+* **Cabbage soup with sausage** 35 CZK
 
 ## MAIN COURSES
 
-* **Pork meat and sauce with eggs, bacon and sausage, baked jasmine rice** 165 CZK
-* **Spicy meat mixture with vegetables and fried potato pancakes** 165 CZK
-* **Fried meatball, roasted potatoes, mustard and pickes** 165 CZK
-* **Spaghetti Bolognese with minced beef and topped with cheese** 175 CZK
+* **Pork roast meat, white cabbage and homemade dumplings** 165 CZK
+* **Fried meatball from minced meat, boiled potatoes and pickles** 165 CZK
+* **Grilled chicken tortilla (chicken strips, garlic dressing, cheese variations, tomatoes and iceberg lettuce)** 165 CZK
+* **Beef meat with tamoto sauce and fusilli** 175 CZK
 
 ## EVERY DAY STANDARD MENU
 
@@ -27,7 +27,7 @@ title: Denní menu - EN
 
 ## SOUP ORDERED SEPARATELY - 500ml
 
-* **Triplet soup or lentil soup with sausage** 75 CZK
+* **Lentil soup or cabbage soup with sausage** 75 CZK
 
 
-***The offer is valid on Saturday 20.9. from 10:30 AM until closing time or while supplies last.***
+***The offer is valid on Sunday 21.9. from 10:30 AM until closing time or while supplies last.***
