@@ -15,7 +15,7 @@ title: Denní menu CZ
 
 * **Vepřové výpečky, dušené bílé zelí a domácí houskový knedlík** 165 Kč
 * **Pikantní masová směs se zeleninou a smažené bramboráčky** 165 Kč
-* **Grilovaná kuřecí tortilla (kuřecí stripsy, česnekový dresink, variace sýrů, rajčata a ledový salát) ** 165 Kč
+* **Grilovaná kuřecí tortilla (kuřecí stripsy, česnekový dresink, variace sýrů, rajčata a ledový salát)** 165 Kč
 * **Hovězí rajská pečeně a těstoviny fusilli** 175 Kč
 
 ## STÁLÁ NABÍDKA
