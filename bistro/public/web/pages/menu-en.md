@@ -15,7 +15,7 @@ title: Denní menu - EN
 
 * **Pork roast meat, white cabbage and homemade dumplings** 165 CZK
 * **Fried meatball from minced meat, boiled potatoes and pickles** 165 CZK
-* **Grilled chicken tortilla (chicken strips, garlic dressing, cheese variations, tomatoes and iceberg lettuce)** 175 CZK
+* **Grilled chicken tortilla (chicken strips, garlic dressing, cheese variations, tomatoes and iceberg lettuce) and French Fries** 175 CZK
 * **Beef meat with tamoto sauce and fusilli** 175 CZK
 
 ## EVERY DAY STANDARD MENU
