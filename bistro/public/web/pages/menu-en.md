@@ -16,7 +16,7 @@ title: Denní menu - EN
 * **Serbian pork risotto topped with smoked cheese, pickles** 165 CZK
 * **Pork meat with mushrooms sauce and fusilli** 165 CZK
 * **Roasted chicken leg ala pheasant, spinach and homemade dumplings** 175 CZK
-* **Fried camembert cheese, boiled potatoes and tartar sauce** 175 CZK
+* **Grilled stuffed wheat tortilla of your choice and French Fries** 175 CZK
 
 ## EVERY DAY STANDARD MENU
 
