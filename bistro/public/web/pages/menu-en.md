@@ -23,7 +23,7 @@ title: Denní menu - EN
 * **Beef goulash with onions and homemade dumplings** 185 CZK
 * **Chicken schnitzel, potato salad and lemon** 175 CZK
 * **Fried Cheese, French Fries and Tartar sauce** 175 CZK
-* **Grilled stuffed wheat tortilla of your choice and French Fries** 175CZK
+* **Grilled stuffed wheat tortilla of your choice and French Fries** 175 CZK
 
 ## SOUP ORDERED SEPARATELY - 500ml
 
