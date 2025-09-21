@@ -3,17 +3,17 @@ title: Denní menu - EN
 ---
 ## SPECIAL OFFER OF THE DAY (soup + main course)
 
-* **MENU 1: Soup + Pork roast meat, white cabbage and homemade dumplings** 185 CZK
-* **MENU 2: Soup + Beef meat with tamoto sauce and fusilli** 195 CZK
+* **MENU 1: Soup + Serbian pork risotto topped with smoked cheese, pickles** 185 CZK
+* **MENU 2: Soup + Fried camembert cheese, boiled potatoes and tartar sauce** 195 CZK
 
 ## DISCOUNTED SMALL SOUP WITH MAIN DISH - 250ml
 
-* **Lentil soup** 35 CZK
 * **Cabbage soup with sausage** 35 CZK
+* **Creamy garlic soup with chicken meat** 35 CZK
 
 ## MAIN COURSES
 
-* **Pork roast meat, white cabbage and homemade dumplings** 165 CZK
+* **Serbian pork risotto topped with smoked cheese, pickles** 165 CZK
 * **Fried meatball from minced meat, boiled potatoes and pickles** 165 CZK
 * **Grilled chicken tortilla (chicken strips, garlic dressing, cheese variations, tomatoes and iceberg lettuce) and French Fries** 175 CZK
 * **Beef meat with tamoto sauce and fusilli** 175 CZK
@@ -23,11 +23,11 @@ title: Denní menu - EN
 * **Beef goulash with onions and homemade dumplings** 185 CZK
 * **Chicken schnitzel, potato salad and lemon** 175 CZK
 * **Fried Cheese, French Fries and Tartar sauce** 175 CZK
-* **Grilled filled wheat tortilla of your choice and French Fries** 175CZK
+* **Fried camembert cheese, boiled potatoes and tartar sauce** 175CZK
 
 ## SOUP ORDERED SEPARATELY - 500ml
 
-* **Lentil soup or cabbage soup with sausage** 75 CZK
+* **Cabbage soup with sausage or creamy garlic soup with chicken meat** 75 CZK
 
 
-***The offer is valid on Sunday 21.9. from 10:30 AM until closing time or while supplies last.***
+***The offer is valid on Monday 22.9. from 10:30 AM until closing time or while supplies last.***
