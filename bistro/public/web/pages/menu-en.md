@@ -14,9 +14,9 @@ title: Denní menu - EN
 ## MAIN COURSES
 
 * **Serbian pork risotto topped with smoked cheese, pickles** 165 CZK
-* **Fried meatball from minced meat, boiled potatoes and pickles** 165 CZK
-* **Grilled chicken tortilla (chicken strips, garlic dressing, cheese variations, tomatoes and iceberg lettuce) and French Fries** 175 CZK
-* **Beef meat with tamoto sauce and fusilli** 175 CZK
+* **Pork meat with mushrooms sauce and fusilli** 165 CZK
+* **Roasted chicken leg ala pheasant, spinach and homemade dumplings** 175 CZK
+* **Fried camembert cheese, boiled potatoes and tartar sauce** 175 CZK
 
 ## EVERY DAY STANDARD MENU
 
