@@ -3,20 +3,20 @@ title: Denní menu CZ
 ---
 ## ZVÝHODNĚNÁ NABÍDKA DNE (polévka + hl. jídlo)
 
-* **MENU 1: Polévka + Vepřové výpečky, dušené bílé zelí a domácí houskový knedlík** 185 Kč
-* **MENU 2: Polévka + Hovězí rajská pečeně a těstoviny fusilli** 195 Kč
+* **MENU 1: Polévka + Srbské rizoto s vepřovým masem a sypané uzeným sýrem, kyselá okurka** 185 Kč
+* **MENU 2: Polévka + Smažený hermelín, vařené brambory a tatarská omáčka** 195 Kč
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
-* **Čočková polévka** 35 Kč
-* **Zelňačka s klobásou** 35 Kč
+* **Kapustová polévka s klobásou** 35 Kč
+* **Krémová česnečka s kuřecím masem** 35 Kč
 
 ## HLAVNÍ JÍDLA
 
-* **Vepřové výpečky, dušené bílé zelí a domácí houskový knedlík** 165 Kč
-* **Smažený karbanátek, vařené brambory a kyselá okurka** 165 Kč
-* **Grilovaná kuřecí tortilla (kuřecí stripsy, česnekový dresink, variace sýrů, rajčata a ledový salát)a malá porce hranolek** 175 Kč
-* **Hovězí rajská pečeně a těstoviny fusilli** 175 Kč
+* **Srbské rizoto s vepřovým masem a sypané uzeným sýrem, kyselá okurka** 165 Kč
+* **Vepřové na žampionech a těstoviny fusilli** 165 Kč
+* **Pečené kuřecí stehno ala bažant, špenát a houskový knedlík** 165 Kč
+* **Smažený hermelín, vařené brambory a tatarská omáčka** 175 Kč
 
 ## STÁLÁ NABÍDKA
 
@@ -27,7 +27,7 @@ title: Denní menu CZ
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTANĚ – 500ml
 
-* **Čočková polévka nebo zelňačka s klobásou** 75 Kč
+* **Kapustová polévka s klobásou nebo krémová česnečka s kuřecím masem** 75 Kč
 
 
-***Nabídka platí v neděli 21.9. od 10:30 do zavírací hodiny nebo do vyprodání.***
+***Nabídka platí v pondělí 22.9. od 10:30 do zavírací hodiny nebo do vyprodání.***
