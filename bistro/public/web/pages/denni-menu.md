@@ -1,7 +1,7 @@
 ---
 title: Denní menu CZ
 ---
-## ZVÝHODNĚNÁ NABÍDKA DNE (polévka + hl. jídlo)
+## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)
 
 * **MENU 1: Polévka + Srbské rizoto s vepřovým masem a sypané uzeným sýrem, kyselá okurka** 185 Kč
 * **MENU 2: Polévka + Smažený hermelín, vařené brambory a tatarská omáčka** 195 Kč
