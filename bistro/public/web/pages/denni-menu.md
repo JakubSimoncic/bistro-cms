@@ -5,7 +5,6 @@ title: Denní menu CZ
 
 * **MENU 1: Polévka + Srbské rizoto s vepřovým masem a sypané uzeným sýrem, kyselá okurka** 185 Kč
 * **MENU 2: Polévka + Smažený hermelín, vařené brambory a tatarská omáčka** 195 Kč
-
 * **JÍDLO TÝDNE: Buřtgluláš s chlebem** 125 Kč
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
