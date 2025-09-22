@@ -6,7 +6,7 @@ title: Denní menu - EN
 * **MENU 1: Soup + Serbian pork risotto topped with smoked cheese, pickles** 185 CZK
 * **MENU 2: Soup + Fried camembert cheese, boiled potatoes and tartar sauce** 195 CZK
 * 
-* ** MEAL OF THE WEEK: Spicy sausage and potato goulash, served with bread
+* ** MEAL OF THE WEEK: Spicy sausage and potato goulash, served with bread** 125 CZK
 
 ## DISCOUNTED SMALL SOUP WITH MAIN DISH - 250ml
 
