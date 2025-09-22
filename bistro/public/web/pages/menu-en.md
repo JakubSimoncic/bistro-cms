@@ -4,9 +4,9 @@ title: Denní menu - EN
 ## SPECIAL OFFER OF THE DAY (soup + main course)
 
 * **MENU 1: Soup + Serbian pork risotto topped with smoked cheese, pickles** 185 CZK
-* **MENU 2: Polévka + Fried camembert cheese, boiled potatoes and tartar sauce** 195 Kč
+* **MENU 2: Polévka + Fried camembert cheese, boiled potatoes and tartar sauce** 195 CZK
 * 
-* **MEAL OF THE WEEK: Spicy sausage and potato goulash, served with bread** 125 Kč
+* **MEAL OF THE WEEK: Spicy sausage and potato goulash, served with bread** 125 CZK
 
 ## DISCOUNTED SMALL SOUP WITH MAIN DISH - 250ml
 
