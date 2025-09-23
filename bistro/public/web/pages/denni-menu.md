@@ -3,22 +3,22 @@ title: Denní menu CZ
 ---
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)
 
-* **MENU 1: Polévka + Pečený vepřový bok na pivě, hlávkové zelí a bramborový knedlík** 175 Kč
-* **MENU 2: Polévka + Kuřecí nudličky na červeném kari a zelenině, pečená jasmínová rýže** 185 Kč
+* **MENU 1: Polévka + Francouzské brambory s uzeným masem, kyselá okurka** 175 Kč
+* **MENU 2: Polévka + Vepřová plec na žampionech a domácí houskový knedlík** 185 Kč
 * 
 * **JÍDLO TÝDNE: Pikantní buřtguláš s chlebem** 125 Kč
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
 * **Gulášová polévka** 35 Kč
-* **Kapustová polévka s uherskou klobásou** 35 Kč
+* **Špenátový krém s kuřecím masem a krutony** 35 Kč
 
 ## HLAVNÍ JÍDLA
 
-* **Pečený vepřový bok na pivě, hlávkové zelí a bramborový knedlík** 155 Kč
-* **Kuřecí nudličky na červeném kari a zelenině, pečená jasmínová rýže** 165 Kč
-* **Savojský vepřový řízek, šťouchané brambory, okurka** 175 Kč
-* **Špagety Carbonara (pancetta, česnek, žloutek a parmazán)** 175 Kč
+* **Francouzské brambory s uzeným masem, kyselá okurka** 155 Kč
+* **Smažený holandský řízek, bramborová kaše a kyselá okurka** 165 Kč
+* **Vepřová plec na žampionech a domácí houskový knedlík** 165 Kč
+* **Špagety s uherskou klobásou, papričkami Jalapeños, pórkem, červenou cibulkou, česnekem, rajčaty a parmazánem** 175 Kč
 
 ## STÁLÁ NABÍDKA
 
@@ -29,7 +29,7 @@ title: Denní menu CZ
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTANĚ – 500ml
 
-* **Gulášová polévka nebo kapustová polévka s uherskou klobásou** 75 Kč
+* **Gulášová polévka nebo špenátový krém s kuřecím masem a krutony** 75 Kč
 
 
-***Nabídka platí na úterý 23.9. od 10:30 do zavírací hodiny nebo do vyprodání.***
+***Nabídka platí ve středu 24.9. od 10:30 do zavírací hodiny nebo do vyprodání.***
