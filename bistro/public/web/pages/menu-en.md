@@ -3,22 +3,22 @@ title: Denní menu - EN
 ---
 ## SPECIAL OFFER OF THE DAY (soup + main course)
 
-* **MENU 1: Soup + Pork belly meat baked on beer, cabbage and potato dumplings** 175 CZK
-* **MENU 2: Polévka + Chicken noodles with red curry and vegetables, baked jasmine rice** 195 CZK
+* **MENU 1: Soup + Baked potatoes with smoked meat and eggs, pickles** 175 CZK
+* **MENU 2: Soup + Pork meat with mushroom sauce and homemade dumplings** 195 CZK
 * 
 * **MEAL OF THE WEEK: Spicy goulash from sausage and potatoes, served with bread** 125 CZK
 
 ## DISCOUNTED SMALL SOUP WITH MAIN DISH - 250ml
 
 * **Goulash soup** 35 CZK
-* **Cabbage soup with Hungarian sausage** 35 CZK
+* **Spinach cream with chicken meat and croutons** 35 CZK
 
 ## MAIN COURSES
 
-* **Pork belly meat baked on beer, cabbage and potato dumplings** 155 CZK
-* **Chicken noodles with red curry and vegetables, roasted jasmine rice** 165 CZK
-* **Savoy pork fried schnitzel, mashed potatoes, pickles** 175 CZK
-* **Spaghetti Carbonara (pancetta, garlic, egg yolk and parmesan cheese)** 175 CZK
+* **Baked potatoes with smoked meat and eggs, pickles** 155 CZK
+* **Fried schnitzel from minced meat, mashed potatoes and pickles** 165 CZK
+* **Pork meat with mushroom sauce and homemade dumplings** 165 CZK
+* **Spaghetti with Hungarian sausage, jalapeños, leek, red onion, garlic, tomatoes and parmesan cheese** 175 CZK
 
 ## EVERY DAY STANDARD MENU
 
@@ -29,7 +29,7 @@ title: Denní menu - EN
 
 ## SOUP ORDERED SEPARATELY - 500ml
 
-* **Goulash soup or cabbage soup with Hungarian sausage** 75 CZK
+* **Goulash soup or spinach cream with chicken meat and croutons** 75 CZK
 
 
-***The offer is valid on Tuesday 23.9. from 10:30 AM until closing time or while supplies last.***
+***The offer is valid on Wednesday 24.9. from 10:30 AM until closing time or while supplies last.***
