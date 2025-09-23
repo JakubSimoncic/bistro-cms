@@ -16,8 +16,8 @@ title: Denní menu CZ
 ## HLAVNÍ JÍDLA
 
 * **Pečený vepřový bok na pivě, hlávkové zelí a bramborový knedlík** 155 Kč
-* **Savojský vepřový řízek, šťouchané brambory, okurka** 165 Kč
 * **Kuřecí nudličky na červeném kari a zelenině, pečená jasmínová rýže** 165 Kč
+* **Savojský vepřový řízek, šťouchané brambory, okurka** 175 Kč
 * **Špagety Carbonara (pancetta, česnek, žloutek a parmazán)** 175 Kč
 
 ## STÁLÁ NABÍDKA
