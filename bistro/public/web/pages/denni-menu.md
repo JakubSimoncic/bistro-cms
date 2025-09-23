@@ -3,22 +3,22 @@ title: Denní menu CZ
 ---
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)
 
-* **MENU 1: Polévka + Srbské rizoto s vepřovým masem a sypané uzeným sýrem, kyselá okurka** 185 Kč
-* **MENU 2: Polévka + Smažený hermelín, vařené brambory a tatarská omáčka** 195 Kč
+* **MENU 1: Polévka + Pečený vepřový bok na pivě, hlávkové zelí a bramborový knedlík** 175 Kč
+* **MENU 2: Polévka + Kuřecí nudličky na červeném kari a zelenině, pečená jasmínová rýže** 185 Kč
 * 
-* **JÍDLO TÝDNE: Buřtgluláš s chlebem** 125 Kč
+* **JÍDLO TÝDNE: Pikantní buřtguláš s chlebem** 125 Kč
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
-* **Kapustová polévka s klobásou** 35 Kč
-* **Krémová česnečka s kuřecím masem** 35 Kč
+* **Gulášová polévka** 35 Kč
+* **Kapustová polévka s uherskou klobásou** 35 Kč
 
 ## HLAVNÍ JÍDLA
 
-* **Srbské rizoto s vepřovým masem a sypané uzeným sýrem, kyselá okurka** 165 Kč
-* **Vepřové na žampionech a těstoviny fusilli** 165 Kč
-* **Pečené kuřecí stehno ala bažant, špenát a houskový knedlík** 165 Kč
-* **Smažený hermelín, vařené brambory a tatarská omáčka** 175 Kč
+* **Pečený vepřový bok na pivě, hlávkové zelí a bramborový knedlík** 155 Kč
+* **Savojský vepřový řízek, šťouchané brambory, okurka** 165 Kč
+* **Kuřecí nudličky na červeném kari a zelenině, pečená jasmínová rýže** 165 Kč
+* **Špagety Carbonara (pancetta, česnek, žloutek a parmazán)** 175 Kč
 
 ## STÁLÁ NABÍDKA
 
@@ -29,7 +29,7 @@ title: Denní menu CZ
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTANĚ – 500ml
 
-* **Kapustová polévka s klobásou nebo krémová česnečka s kuřecím masem** 75 Kč
+* **Gulášová polévka nebo kapustová polévka s uherskou klobásou** 75 Kč
 
 
-***Nabídka platí v pondělí 22.9. od 10:30 do zavírací hodiny nebo do vyprodání.***
+***Nabídka platí na úterý 22.9. od 10:30 do zavírací hodiny nebo do vyprodání.***
