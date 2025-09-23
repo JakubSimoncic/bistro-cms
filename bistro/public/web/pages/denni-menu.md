@@ -32,4 +32,4 @@ title: Denní menu CZ
 * **Gulášová polévka nebo kapustová polévka s uherskou klobásou** 75 Kč
 
 
-***Nabídka platí na úterý 22.9. od 10:30 do zavírací hodiny nebo do vyprodání.***
+***Nabídka platí na úterý 23.9. od 10:30 do zavírací hodiny nebo do vyprodání.***
