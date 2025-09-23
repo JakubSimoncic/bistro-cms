@@ -16,8 +16,8 @@ title: Denní menu - EN
 ## MAIN COURSES
 
 * **Pork belly meat baked on beer, cabbage and potato dumplings** 155 CZK
-* **Savoy pork fried schnitzel, mashed potatoes, pickles** 165 CZK
 * **Chicken noodles with red curry and vegetables, roasted jasmine rice** 165 CZK
+* **Savoy pork fried schnitzel, mashed potatoes, pickles** 175 CZK
 * **Spaghetti Carbonara (pancetta, garlic, egg yolk and parmesan cheese)** 175 CZK
 
 ## EVERY DAY STANDARD MENU
