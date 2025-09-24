@@ -3,7 +3,7 @@ title: Denní menu - EN
 ---
 ## SPECIAL OFFER OF THE DAY (soup + main course)
 
-* **MENU 1: Soup + Fried schnitzel from minced meat, mashed potatoes and pickles** 185 CZK
+* **MENU 1: Soup + Fried schnitzel from minced pork meat, mashed potatoes and pickles** 185 CZK
 * **MENU 2: Soup + Roasted chicken drumsticks, Dijon sauce and mashed potatoes** 185 CZK
 * 
 * **MEAL OF THE WEEK: Spicy goulash from sausage and potatoes, served with bread** 125 CZK
@@ -16,7 +16,7 @@ title: Denní menu - EN
 ## MAIN COURSES
 
 * **Pork meat with bacon sauce and baked jasmine rice** 165 CZK
-* **Fried schnitzel from minced meat, mashed potatoes and pickles** 165 CZK
+* **Fried schnitzel from minced pork meat, mashed potatoes and pickles** 165 CZK
 * **Roasted chicken drumsticks, Dijon sauce and mashed potatoes** 165 CZK
 * **Fusilli with pork meat, Quattro Formaggi sauce and spring onion** 175 CZK
 
