@@ -18,7 +18,7 @@ title: Denní menu - EN
 * **Pork meat, meat saouce with bacon and baked jasmine rice** 165 CZK
 * **Stuffed cabbage leaf with minced meat, mashed potatoes and tartar sauce** 165 CZK
 * **"Halušky"- Czech potatoe gnocchi with smoked meat, cabbage and fried onion** 165 CZK
-* **Fusilli pasta with chicken meat, mushrooms, cream, onion, white wine, and parmesan cheese** 175 CZK
+* **Fusilli pasta with chicken meat, mushrooms, cream, white wine, and parmesan cheese** 175 CZK
 
 ## EVERY DAY STANDARD MENU
 
