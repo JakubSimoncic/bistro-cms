@@ -18,7 +18,7 @@ title: Denní menu CZ
 * **Vepřová plec na slanině a pečená jasmínová rýže** 165 Kč
 * **Plněný kapustový list mletým masem, šťouchaný brambor a tatarská omáčka** 165 Kč
 * **Halušky s uzeným masem, zelím a cibulkou** 165 Kč
-* **Těstoviny Fusilli s kuřecím masem, hříbky, smetanou, jarní cibulkou, bílým vínem, a parmazánem** 175 Kč
+* **Těstoviny Fusilli s kuřecím masem, hříbky, smetanou, bílým vínem, a parmazánem** 175 Kč
 
 ## STÁLÁ NABÍDKA
 
