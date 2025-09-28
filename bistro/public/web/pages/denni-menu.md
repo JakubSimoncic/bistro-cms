@@ -3,22 +3,22 @@ title: Denní menu CZ
 ---
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)
 
-* **MENU 1: Polévka + Kuřecí paličky na paprice a těstoviny fusilli** 185 Kč
-* **MENU 2: Polévka + Hovězí pečeně na žampionech a domácí houskový knedlík** 195 Kč
+* **MENU 1: Polévka + Kuřecí paličky s dijonskou omáčkou a těstoviny fusilli** 185 Kč
+* **MENU 2: Polévka + Rozlítaný vepřový španělský ptáček a jasmínová rýže** 195 Kč
 * 
 * **JÍDLO TÝDNE: Pikantní buřtguláš s chlebem** 125 Kč
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
-* **Mexická rajčatová polévka se zeleninou, zakysanou smetanou a smaženou tortillou** 35 Kč
-* **Špenátový krém s kuřecím masem a krutony** 35 Kč
+* **Frankfurtská polévka** 35 Kč
+* **Kapustová polévka s uherskou klobásou** 35 Kč
 
 ## HLAVNÍ JÍDLA
 
-* **Kuřecí paličky na paprice a těstoviny fusilli** 165 Kč
-* **Halušky s uzeným masem a zelím a restovaná cibulka** 165 Kč
-* **Kuřecí nudličky na červeném kari se zeleninou a kokosovým mlékem a pečená jasmínová rýže** 165 Kč
-* **Hovězí pečeně na žampionech a domácí houskový knedlík** 175 Kč
+* **Kuřecí paličky s dijonskou omáčkou a těstoviny fusilli** 165 Kč
+* **Grilovaný hermelín, vařené brambory a tatarská omáčka** 175 Kč
+* **Rozlítaný vepřový španělský ptáček a jasmínová rýže** 175 Kč
+* **Grilovaná tortilla s trhaným vepřovým masem a smažené hranolky** 175 Kč
 
 ## STÁLÁ NABÍDKA
 
@@ -29,7 +29,7 @@ title: Denní menu CZ
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTANĚ – 500ml
 
-* **Mexická rajčatová polévka se zeleninou nebo špenátový krém s kuřecím masem a krutony** 75 Kč
+* **Frankfurtská polévka nebo kapustová polévka s uherskou klobásou** 75 Kč
 
 
-***Nabídka platí v sobotu 27.9. od 10:30 do zavírací hodiny nebo do vyprodání.***
+***Nabídka platí v neděli 28.9. od 10:30 do zavírací hodiny nebo do vyprodání.***
