@@ -16,7 +16,7 @@ title: Denní menu CZ
 ## HLAVNÍ JÍDLA
 
 * **Kuřecí paličky s dijonskou omáčkou a těstoviny fusilli** 165 Kč
-* **Rozlítaný vepřový španělský ptáček a jasmínová rýže** 165 Kč
+* **Rozlítaný vepřový španělský ptáček a jasmínová rýže** 175 Kč
 * **Grilovaný hermelín, vařené brambory a tatarská omáčka** 175 Kč
 * **Grilovaná tortilla s trhaným vepřovým masem a smažené hranolky** 175 Kč
 
