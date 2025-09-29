@@ -5,7 +5,7 @@ title: Denní menu - EN
 
 * **MENU 1: Soup + Baked pork meat, white cabbage and homemade dumplings** 185 CZK
 * **MENU 2: Soup + Roast beef meat, meat sauce with paprika and baked jasmine rice** 195 CZK
-* 
+
 * **MEAL OF THE WEEK: Pork meat with creamy pepper sauce and fusilli pasta** 135 CZK
 
 ## DISCOUNTED SMALL SOUP WITH MAIN DISH - 250ml
