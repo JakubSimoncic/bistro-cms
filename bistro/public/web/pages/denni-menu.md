@@ -4,7 +4,7 @@ title: Denní menu CZ
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)
 
 * **MENU 1: Polévka + Cmunda po kaplicku (uzená krkovička a dušené hlávkové zelí v bramboráku)** 185 Kč
-* **MENU 2: Polévka + CCikánská hovězí pečeně, pečená jasmínová rýže** 195 Kč
+* **MENU 2: Polévka + Cikánská hovězí pečeně, pečená jasmínová rýže** 195 Kč
 * 
 * **JÍDLO TÝDNE: Vepřové na paprice a těstoviny fusilli** 135 Kč
 
