@@ -6,7 +6,7 @@ title: Denní menu CZ
 * **MENU 1: Polévka + Moravský vrabec, dušené bíle zelí, domácí houskový knedlík** 185 Kč
 * **MENU 2: Polévka + Cikánská hovězí pečeně, pečená jasmínová rýže** 195 Kč
 * 
-* **JÍDLO TÝDNE: Vepřové na paprice a těstoviny farfalle** 135 Kč
+* **JÍDLO TÝDNE: Vepřové na paprice a těstoviny fusilli** 135 Kč
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
@@ -15,7 +15,7 @@ title: Denní menu CZ
 
 ## HLAVNÍ JÍDLA
 
-* **Moravský vrabec, dušené bíle zelí, domácí houskový knedlík** 165 Kč
+* **Moravský vrabec, dušené hlávkové bílé zelí, domácí houskový knedlík** 165 Kč
 * **Smažená treska, máslová bramborová kaše, citron** 175 Kč
 * **Cikánská hovězí pečeně, pečená jasmínová rýže** 175 Kč
 * **Špagety Aglio Olio a Pepperoncino (česnek, olivový olej, papričky, petrželka a parmazán)** 165 Kč
