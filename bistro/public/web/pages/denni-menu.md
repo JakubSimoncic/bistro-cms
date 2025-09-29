@@ -4,9 +4,9 @@ title: Denní menu CZ
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)
 
 * **MENU 1: Polévka + Moravský vrabec, dušené bíle zelí, domácí houskový knedlík** 185 Kč
-* **MENU 2: Polévka + Rozlítaný vepřový španělský ptáček a jasmínová rýže** 195 Kč
+* **MENU 2: Polévka + Cikánská hovězí pečeně, pečená jasmínová rýže** 195 Kč
 * 
-* **JÍDLO TÝDNE: Pikantní buřtguláš s chlebem** 125 Kč
+* **JÍDLO TÝDNE: Vepřové na paprice a těstoviny farfalle** 135 Kč
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
@@ -16,9 +16,9 @@ title: Denní menu CZ
 ## HLAVNÍ JÍDLA
 
 * **Moravský vrabec, dušené bíle zelí, domácí houskový knedlík** 165 Kč
-* **Rozlítaný vepřový španělský ptáček a jasmínová rýže** 175 Kč
-* **Grilovaný hermelín, vařené brambory a tatarská omáčka** 175 Kč
-* **Grilovaná tortilla s trhaným vepřovým masem a smažené hranolky** 175 Kč
+* **Smažená treska, máslová bramborová kaše, citron** 175 Kč
+* **Cikánská hovězí pečeně, pečená jasmínová rýže** 175 Kč
+* **Špagety Aglio Olio a Pepperoncino (česnek, olivový olej, papričky, petrželka a parmazán)** 165 Kč
 
 ## STÁLÁ NABÍDKA
 
@@ -32,4 +32,4 @@ title: Denní menu CZ
 * **Frankfurtská polévka s párkem nebo bramborový krém s bylinkovými krutony** 75 Kč
 
 
-***Nabídka platí v neděli 28.9. od 10:30 do zavírací hodiny nebo do vyprodání.***
+***Nabídka platí v pondělí 29.9. od 10:30 do zavírací hodiny nebo do vyprodání.***
