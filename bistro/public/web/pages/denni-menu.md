@@ -18,7 +18,7 @@ title: Denní menu CZ
 * **Moravský vrabec, dušené hlávkové bílé zelí, domácí houskový knedlík** 165 Kč
 * **Smažená treska, máslová bramborová kaše, citron** 175 Kč
 * **Cikánská hovězí pečeně, pečená jasmínová rýže** 175 Kč
-* **Špagety Aglio Olio a Pepperoncino (česnek, olivový olej, papričky, petrželka a parmazán)** 165 Kč
+* **Špagety Aglio Olio e Pepperoncino (česnek, olivový olej, papričky, petrželka a parmazán)** 165 Kč
 
 ## STÁLÁ NABÍDKA
 
