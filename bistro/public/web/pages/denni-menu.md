@@ -3,22 +3,22 @@ title: Denní menu CZ
 ---
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)
 
-* **MENU 1: Polévka + Cmunda po kaplicku (uzená krkovička a dušené hlávkové zelí v bramboráku)** 185 Kč
+* **MENU 1: Polévka + Zapečené šunkofleky, kyselá okurka** 185 Kč
 * **MENU 2: Polévka + Cikánská hovězí pečeně, pečená jasmínová rýže** 195 Kč
 * 
 * **JÍDLO TÝDNE: Vepřové na paprice a těstoviny fusilli** 135 Kč
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
-* **Kuřecí vývar s masem, zeleninou a vaječným drobením** 35 Kč
+* **Boršč se zakysanou smetanou** 35 Kč
 * **Dršťková polévka** 35 Kč
 
 ## HLAVNÍ JÍDLA
 
-* **Cmunda po kaplicku (uzená krkovička a dušené hlávkové zelí v bramboráku)** 165 Kč
-* **Vepřový plátek ve slaninové omáčce, špenát a bramborový knedlík** 165 Kč
-* **Cikánská hovězí pečeně, pečená jasmínová rýže** 175 Kč
-* **Špagety s kuřecím masem, paprikou, pórkem a cibulí v pikantní rajčatové omáčce a sypané parmazánem** 175 Kč
+* **Zapečené šunkofleky, kyselá okurka** 165 Kč
+* **Vepřové kostky ve slaninové omáčce s česnekem, kmínem a žampiony, domácí houskový knedlík** 165 Kč
+* **Smažený karbanátek, bramborová kaše, kyselá okurka** 165 Kč
+* **Minutková kuřecí pánev se zeleninou a drcenými rajčaty, pečená rýže nebo rýže** 175 Kč
 
 ## STÁLÁ NABÍDKA
 
@@ -29,7 +29,7 @@ title: Denní menu CZ
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTANĚ – 500ml
 
-* **Kuřecí vývar s masem, zeleninou a vaječným drobením nebo dršťková polévka** 75 Kč
+* **Boršč se zakysanou smetanou nebo dršťková polévka** 75 Kč
 
 
-***Nabídka platí v úterý 30.9. od 10:30 do zavírací hodiny nebo do vyprodání.***
+***Nabídka platí ve středu 1.10. od 10:30 do zavírací hodiny nebo do vyprodání.***
