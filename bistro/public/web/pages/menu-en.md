@@ -17,7 +17,7 @@ title: Denní menu - EN
 
 * **"Šunkofleky"- baked pasta with smoked pork meat and eggs, pickels** 165 CZK
 * **Fried schnitzel from minced meat, mashed potatoes, pickles** 165 CZK
-* **Roast pork meat in bacon sauce with garlic, cumin and mushrooms, homemade dumpling** 165 CZK
+* **Roast pork meat in bacon sauce with garlic, cumin and mushrooms, homemade dumplings** 165 CZK
 * **Chicken pan with vegetables and crushed tomatoes, baked rice or French Fries** 175 CZK
 
 ## EVERY DAY STANDARD MENU
