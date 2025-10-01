@@ -11,7 +11,7 @@ title: Denní menu - EN
 ## DISCOUNTED SMALL SOUP WITH MAIN DISH - 250ml
 
 * **Borsch soup with sour cream** 35 CZK
-* **Triple soup** 35 CZK
+* **Spinach cream with croutons** 35 CZK
 
 ## MAIN COURSES
 
