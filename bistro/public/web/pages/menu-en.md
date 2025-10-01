@@ -3,22 +3,22 @@ title: Denní menu - EN
 ---
 ## SPECIAL OFFER OF THE DAY (soup + main course)
 
-* **MENU 1: Soup + "Cmunda" (smoked pork meat and stewed cabbage in potato pancake)** 185 CZK
-* **MENU 2: Soup + Roast beef meat, meat sauce with paprika and baked jasmine rice** 195 CZK
+* **MENU 1: Soup + "Šunkofleky"- baked pasta with smoked pork meat and eggs, pickels** 185 CZK
+* **MENU 2: Soup + Roast pork meat in bacon sauce with garlic, cumin and mushrooms, homemade dumpling** 185 CZK
 * 
 * **MEAL OF THE WEEK: Pork meat with creamy pepper sauce and fusilli pasta** 135 CZK
 
 ## DISCOUNTED SMALL SOUP WITH MAIN DISH - 250ml
 
-* **Chicken broth with meat, vegetables and egg crumbles** 35 CZK
+* **Borsch soup with sour cream** 35 CZK
 * **Triple soup** 35 CZK
 
 ## MAIN COURSES
 
-* **"Cmunda" (smoked pork meat and stewed cabbage in potato pancake)** 165 CZK
-* **Pork meat in bacon sauce, spinach and potato dumplings** 165 CZK
-* **Roast beef meat, meat sauce with paprika and baked jasmine rice** 175 CZK
-* **Spaghetti with chicken meat, peppers, leeks and onions in spicy tomato sauce and sprinkled with parmesan cheese** 175 CZK
+* **"Šunkofleky"- baked pasta with smoked pork meat and eggs, pickels** 165 CZK
+* **Fried schnitzel from minced meat, mashed potatoes, pickles** 165 CZK
+* **Roast pork meat in bacon sauce with garlic, cumin and mushrooms, homemade dumpling** 165 CZK
+* **Chicken pan with vegetables and crushed tomatoes, baked rice or French Fries** 175 CZK
 
 ## EVERY DAY STANDARD MENU
 
@@ -29,7 +29,7 @@ title: Denní menu - EN
 
 ## SOUP ORDERED SEPARATELY - 500ml
 
-* **Chicken broth with meat, vegetables and egg crumbles or Triple soup** 75 CZK
+* **Borsch soup with sour cream or Triple soup** 75 CZK
 
 
-***The offer is valid on Tuesday 30.9. from 10:30 AM until closing time or while supplies last.***
+***The offer is valid on Wednesday 1.10. from 10:30 AM until closing time or while supplies last.***
