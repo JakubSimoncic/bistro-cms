@@ -4,7 +4,7 @@ title: Denní menu CZ
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)
 
 * **MENU 1: Polévka + Zapečené šunkofleky, kyselá okurka** 185 Kč
-* **MENU 2: Polévka + Vepřové kostky ve špekové omáčce s česnekem, kmínem a žampiony, domácí houskový knedlík** 195 Kč
+* **MENU 2: Polévka + Vepřové kostky ve špekové omáčce s česnekem, kmínem a žampiony, domácí houskový knedlík** 185 Kč
 * 
 * **JÍDLO TÝDNE: Vepřové na paprice a těstoviny fusilli** 135 Kč
 
