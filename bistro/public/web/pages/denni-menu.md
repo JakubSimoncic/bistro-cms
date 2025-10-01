@@ -3,22 +3,21 @@ title: Denní menu CZ
 ---
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)
 
-* **MENU 1: Polévka + Zapečené šunkofleky, kyselá okurka** 185 Kč
-* **MENU 2: Polévka + Vepřové kostky ve špekové omáčce s česnekem, kmínem a žampiony, domácí houskový knedlík** 185 Kč
+* **MENU 1: Polévka + Vepřová roláda plněná žemlovou nádivkou s uzeninou, hráškem a uzeným sýrem, vařené brambory** 185 Kč
+* **MENU 2: Polévka + Kuřecí rizoto s hráškem, kukuřicí a sypané sýrem, kyselá okurka** 185 Kč
 * 
 * **JÍDLO TÝDNE: Vepřové na paprice a těstoviny fusilli** 135 Kč
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
-
-* **Boršč se zakysanou smetanou** 35 Kč
-* **Špenátový krém s krutony** 35 Kč
+* **Hovězí vývar s masem, zeleninou a vaječným drobením** 35 Kč
+* **Rybí polévka s opečenou houskou** 35 Kč
 
 ## HLAVNÍ JÍDLA
 
-* **Zapečené šunkofleky, kyselá okurka** 165 Kč
-* **Smažený karbanátek, bramborová kaše, kyselá okurka** 165 Kč
-* **Vepřové kostky ve špekové omáčce s česnekem, kmínem a žampiony, domácí houskový knedlík** 165 Kč
-* **Minutková kuřecí pánev se zeleninou a drcenými rajčaty, pečená rýže nebo smažené hranolky** 175 Kč
+* **Vepřová roláda plněná žemlovou nádivkou s uzeninou, hráškem a uzeným sýrem, vařené brambory** 165 Kč
+* **Kuřecí Gyros, smažené hranolky a tzatziki** 175 Kč
+* **Kuřecí rizoto s hráškem, kukuřicí a sypané sýrem, kyselá okurka** 165 Kč
+* **Špagety s kuřecím masem, zeleninou, kari omáčkou a parmazánem** 175 Kč
 
 ## STÁLÁ NABÍDKA
 
@@ -29,7 +28,7 @@ title: Denní menu CZ
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTANĚ – 500ml
 
-* **Boršč se zakysanou smetanou nebo dršťková polévka** 75 Kč
+* **Hovězí vývar s masem, zeleninou a vaječným drobením nebo rybí polévka s opečenou houskou** 75 Kč
 
 
-***Nabídka platí ve středu 1.10. od 10:30 do zavírací hodiny nebo do vyprodání.***
+***Nabídka platí ve čtvrtek 2.10. od 10:30 do zavírací hodiny nebo do vyprodání.***
