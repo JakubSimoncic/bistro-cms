@@ -18,7 +18,7 @@ title: Denní menu CZ
 * **Zapečené šunkofleky, kyselá okurka** 165 Kč
 * **Vepřové kostky ve slaninové omáčce s česnekem, kmínem a žampiony, domácí houskový knedlík** 165 Kč
 * **Smažený karbanátek, bramborová kaše, kyselá okurka** 165 Kč
-* **Minutková kuřecí pánev se zeleninou a drcenými rajčaty, pečená rýže nebo rýže** 175 Kč
+* **Minutková kuřecí pánev se zeleninou a drcenými rajčaty, pečená rýže nebo smažené hranolky** 175 Kč
 
 ## STÁLÁ NABÍDKA
 
