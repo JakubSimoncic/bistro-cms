@@ -3,7 +3,7 @@ title: Denní menu CZ
 ---
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)
 
-* **MENU 1: Polévka + Vepřové kOstky na žampionech, pečená jasmínová rýže** 185 Kč
+* **MENU 1: Polévka + Vepřové kostky na žampionech, pečená jasmínová rýže** 185 Kč
 * **MENU 2: Polévka + Svíčková na smetaně, domácí houskový knedlík a brusinkový terč** 195 Kč
 * 
 * **JÍDLO TÝDNE: Vepřové na paprice a těstoviny fusilli** 135 Kč
@@ -14,7 +14,7 @@ title: Denní menu CZ
 
 ## HLAVNÍ JÍDLA
 
-* **Vepřové kOstky na žampionech, pečená jasmínová rýže** 165 Kč
+* **Vepřové kostky na žampionech, pečená jasmínová rýže** 165 Kč
 * **Svíčková na smetaně, domácí houskový knedlík a brusinkový terč** 175 Kč
 * **Pečená vepřová plec, dušené zelí a bramborový knedlík** 165 Kč
 * **Grilovaná kuřecí medailonky, omáčka Quattro Formaggi a smažené hranolky** 185 Kč
