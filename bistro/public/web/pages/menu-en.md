@@ -3,7 +3,7 @@ title: Denní menu - EN
 ---
 ## SPECIAL OFFER OF THE DAY (soup + main course)
 
-* **MENU 1: Soup + Pork meat with mushrooms sauce and baked jasmine rice** 185 CZK
+* **MENU 1: Soup + Pork meat with mushroom sauce and baked jasmine rice** 185 CZK
 * **MENU 2: Soup + "Svíčková"- Beef sirloin in cream sauce and homemade dumplings** 195 CZK
 * 
 * **MEAL OF THE WEEK: Pork meat with creamy pepper sauce and fusilli pasta** 135 CZK
