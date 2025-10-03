@@ -3,25 +3,22 @@ title: Denní menu - EN
 ---
 ## SPECIAL OFFER OF THE DAY (soup + main course)
 
-* **MENU 1: Soup + Pork roulade stuffed with sausage, peas and smoked cheese, boiled potatoes** 185 CZK
-* **MENU 2: Soup + Chicken risotto with peas, corn and cheese, pickles** 185 CZK
+* **MENU 1: Soup + Pork meat with mushrooms sauce and baked jasmine rice** 185 CZK
+* **MENU 2: Soup + "Svíčková"- Beef sirloin in cream sauce and homemade dumplings** 195 CZK
 * 
 * **MEAL OF THE WEEK: Pork meat with creamy pepper sauce and fusilli pasta** 135 CZK
 
 ## DISCOUNTED SMALL SOUP WITH MAIN DISH - 250ml
 
-* **Beef broth with meat, vegetables and egg crumbles** 35 CZK
-* **Fish soup with toasted bun** 35 CZK
+* **Goulash soup** 35 CZK
+* **Borsch with sour cream** 35 CZK
 
 ## MAIN COURSES
 
-* **Pork roulade stuffed with sausage, peas and smoked cheese, boiled potatoes** 165 CZK
-* **Chicken Gyros, French Fries and tzatziki** 175 CZK
-* **Chicken risotto with peas, corn and topped with cheese, pickles** 165 CZK
-* **Spaghetti with chicken meat, vegetables, curry sauce and parmesan cheese** 175 CZK
-
-## EVERY DAY STANDARD MENU
-
+* **Pork meat with mushrooms sauce and baked jasmine rice** 165 CZK
+* **"Svíčková"- Beef sirloin in cream sauce and homemade dumplings** 175 CZK
+* **Roasted pork meat, stewed cabbage and potato dumplings** 165 CZK
+* **Grilled chicken medallions, Quattro Formaggi sauce and French Fries** 175 CZK
 * **Beef goulash with onions and homemade dumplings** 185 CZK
 * **Chicken schnitzel, potato salad and lemon** 175 CZK
 * **Fried Cheese, French Fries and Tartar sauce** 175 CZK
@@ -29,7 +26,7 @@ title: Denní menu - EN
 
 ## SOUP ORDERED SEPARATELY - 500ml
 
-* **Beef broth with meat, vegetables and Fish soup with toasted bun** 75 CZK
+* **Goulash soup or Borsch soup with sour cream** 75 CZK
 
 
-***The offer is valid on Thursday 2.10. from 10:30 AM until closing time or while supplies last.***
+***The offer is valid on Friday 3.10. from 10:30 AM until closing time or while supplies last.***
