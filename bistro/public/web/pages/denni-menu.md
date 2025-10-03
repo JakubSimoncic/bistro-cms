@@ -16,7 +16,7 @@ title: Denní menu CZ
 
 * **Vepřové kostky na žampionech, pečená jasmínová rýže** 165 Kč
 * **Svíčková na smetaně, domácí houskový knedlík a brusinkový terč** 175 Kč
-* **Pečená vepřová plec, dušené zelí a bramborový knedlík** 165 Kč
+* **Pečené vepřové maso po selsku, dušené zelí a bramborový knedlík** 165 Kč
 * **Grilovaná kuřecí medailonky, omáčka Quattro Formaggi a smažené hranolky** 185 Kč
 * **Hovězí guláš s cibulkou a beraním rohem, domácí houskový knedlík** 185 Kč
 * **Kuřecí řízek, bramborový salát a citron** 175 Kč
