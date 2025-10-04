@@ -26,4 +26,4 @@ title: Denní menu CZ
 * **Boršč se zakysanou smetanou nebo rybí polévka s krutony** 75 Kč
 
 
-***Nabídka platí v neděli 5.10. od 10:30 do zavírací hodiny nebo do vyprodání.***
+***Nabídka platí v neděli 6.10. od 10:30 do zavírací hodiny nebo do vyprodání.***
