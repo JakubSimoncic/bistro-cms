@@ -27,4 +27,4 @@ title: Denní menu - EN
 * **Potato soup or Fish soup with croutons** 75 CZK
 
 
-***The offer is valid on Friday 5.10. from 10:30 AM until closing time or while supplies last.***
+***The offer is valid on Sunday 6.10. from 10:30 AM until closing time or while supplies last.***
