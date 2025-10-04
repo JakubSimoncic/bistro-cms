@@ -5,13 +5,11 @@ title: Denní menu - EN
 
 * **MENU 1: Soup + Smoked pork meat and cabbage in a potato pancake** 185 CZK
 * **MENU 2: Soup + Chicken risotto with peas, corn and topped with cheese** 185 CZK
-* 
-* **MEAL OF THE WEEK: Pork meat with creamy pepper sauce and fusilli pasta** 135 CZK
 
 ## DISCOUNTED SMALL SOUP WITH MAIN DISH - 250ml
 
 * **Potato soup** 35 CZK
-* **Borsch with sour cream** 35 CZK
+* **Fish soup with croutons** 35 CZK
 
 ## MAIN COURSES
 
@@ -26,7 +24,7 @@ title: Denní menu - EN
 
 ## SOUP ORDERED SEPARATELY - 500ml
 
-* **Potato soup or Borsch with sour cream** 75 CZK
+* **Potato soup or Fish soup with croutons** 75 CZK
 
 
 ***The offer is valid on Friday 5.10. from 10:30 AM until closing time or while supplies last.***
