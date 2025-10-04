@@ -3,22 +3,22 @@ title: Denní menu - EN
 ---
 ## SPECIAL OFFER OF THE DAY (soup + main course)
 
-* **MENU 1: Soup + Pork meat with mushroom sauce and baked jasmine rice** 185 CZK
-* **MENU 2: Soup + "Svíčková"- Beef sirloin in cream sauce and homemade dumplings** 195 CZK
+* **MENU 1: Soup + Baked pasta with smoked meat and eggs, pickles** 185 CZK
+* **MENU 2: Soup + "Sekaná svíčková"- meat loaf in vegetable creamy sauce and homemade dumplings** 185 CZK
 * 
 * **MEAL OF THE WEEK: Pork meat with creamy pepper sauce and fusilli pasta** 135 CZK
 
 ## DISCOUNTED SMALL SOUP WITH MAIN DISH - 250ml
 
-* **Goulash soup** 35 CZK
-* **Borsch with sour cream** 35 CZK
+* **Frankfurt soup with sausage and potatoes** 35 CZK
+* **Spicy Mexican soup** 35 CZK
 
 ## MAIN COURSES
 
-* **Pork meat with mushrooms sauce and baked jasmine rice** 165 CZK
-* **"Svíčková"- Beef sirloin in cream sauce and homemade dumplings** 175 CZK
+* **Baked pasta with smoked meat and eggs, pickles** 165 CZK
+* **"Sekaná svíčková"- "Svíčková"- meat loaf in vegetable creamy sauce and homemade dumplings** 165 CZK
 * **Roasted pork meat, stewed cabbage and potato dumplings** 165 CZK
-* **Grilled chicken medallions, Quattro Formaggi sauce and French Fries** 175 CZK
+* **Bolognese spaghetti with minced beef meat and topped with cheese** 175 CZK
 * **Beef goulash with onions and homemade dumplings** 185 CZK
 * **Chicken schnitzel, potato salad and lemon** 175 CZK
 * **Fried Cheese, French Fries and Tartar sauce** 175 CZK
@@ -26,7 +26,7 @@ title: Denní menu - EN
 
 ## SOUP ORDERED SEPARATELY - 500ml
 
-* **Goulash soup or Borsch soup with sour cream** 75 CZK
+* **Frankfurt soup with sausage and potatoes or Spicy Mexican soup** 75 CZK
 
 
-***The offer is valid on Friday 3.10. from 10:30 AM until closing time or while supplies last.***
+***The offer is valid on Saturday 4.10. from 10:30 AM until closing time or while supplies last.***
