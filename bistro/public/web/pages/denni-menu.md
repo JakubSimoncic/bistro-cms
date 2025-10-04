@@ -15,8 +15,8 @@ title: Denní menu CZ
 ## HLAVNÍ JÍDLA
 
 * **Cmunda po kaplicku (uzené vepřové maso a zelí v bramboráku)** 165 Kč
-* **Kuřecí rizoto s hráškem, kukuřicí a sypané sýrem** 165 Kč
 * **Smažený karbanátek, vařené brambory a kyselá okurka** 165 Kč
+* **Kuřecí rizoto s hráškem, kukuřicí a sypané sýrem** 165 Kč
 * **Špagety s kuřecím masem, kari omáčkou a parmazánem** 175 Kč
 * **Hovězí guláš s cibulkou a beraním rohem, domácí houskový knedlík** 185 Kč
 * **Kuřecí řízek, bramborový salát a citron** 175 Kč
