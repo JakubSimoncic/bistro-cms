@@ -3,22 +3,22 @@ title: Denní menu - EN
 ---
 ## SPECIAL OFFER OF THE DAY (soup + main course)
 
-* **MENU 1: Soup + Baked pasta with smoked meat and eggs, pickles** 185 CZK
-* **MENU 2: Soup + "Sekaná svíčková"- meat loaf in vegetable creamy sauce and homemade dumplings** 185 CZK
+* **MENU 1: Soup + Smoked pork meat and cabbage in a potato pancake** 185 CZK
+* **MENU 2: Soup + Chicken risotto with peas, corn and topped with cheese** 185 CZK
 * 
 * **MEAL OF THE WEEK: Pork meat with creamy pepper sauce and fusilli pasta** 135 CZK
 
 ## DISCOUNTED SMALL SOUP WITH MAIN DISH - 250ml
 
-* **Frankfurt soup with sausage and potatoes** 35 CZK
-* **Spicy Mexican soup** 35 CZK
+* **Potato soup** 35 CZK
+* **Borsch with sour cream** 35 CZK
 
 ## MAIN COURSES
 
-* **Baked pasta with smoked meat and eggs, pickles** 165 CZK
-* **"Sekaná svíčková"- "Svíčková"- meat loaf in vegetable creamy sauce and homemade dumplings** 165 CZK
-* **Roasted pork meat, stewed cabbage and potato dumplings** 165 CZK
-* **Bolognese spaghetti with minced beef meat and topped with cheese** 175 CZK
+* **Smoked pork meat and cabbage in a potato pancake** 165 CZK
+* **Fried schnitzel from minced meat, boiled potatoes and pickles** 165 CZK
+* **Chicken risotto with peas, corn and topped with cheese** 165 CZK
+* **Spaghetti with chicken meat, curry sauce and parmesan cheese** 175 CZK
 * **Beef goulash with onions and homemade dumplings** 185 CZK
 * **Chicken schnitzel, potato salad and lemon** 175 CZK
 * **Fried Cheese, French Fries and Tartar sauce** 175 CZK
@@ -26,7 +26,7 @@ title: Denní menu - EN
 
 ## SOUP ORDERED SEPARATELY - 500ml
 
-* **Frankfurt soup with sausage and potatoes or Spicy Mexican soup** 75 CZK
+* **Potato soup or Borsch with sour cream** 75 CZK
 
 
-***The offer is valid on Saturday 4.10. from 10:30 AM until closing time or while supplies last.***
+***The offer is valid on Friday 5.10. from 10:30 AM until closing time or while supplies last.***
