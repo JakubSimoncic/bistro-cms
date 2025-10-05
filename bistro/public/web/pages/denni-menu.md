@@ -12,7 +12,7 @@ title: Denní menu CZ
 
 ## HLAVNÍ JÍDLA
 
-* **Vepřové maso (plec a bůček), kysané zelí, bramborový knedlík** 165 Kč
+* **Pečené vepřové maso, kysané zelí, bramborový knedlík** 165 Kč
 * **Smažený karbanátek, vařené brambory a kyselá okurka** 165 Kč
 * **-** 0 Kč
 * **Špagety s kuřecím masem, kari omáčkou a parmazánem** 175 Kč
