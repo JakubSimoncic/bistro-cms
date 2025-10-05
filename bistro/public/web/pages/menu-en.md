@@ -4,7 +4,7 @@ title: Denní menu - EN
 ## SPECIAL OFFER OF THE DAY (soup + main course)
 
 * **MENU 1: Soup + Fried schnitzel from minced meat, boiled potatoes and pickles** 185 CZK
-* **MENU 2: Soup + Fried schnitzel from minced meat, boiled potatoes and pickles** 185 CZK
+* **MENU 2: Soup + Beef goulash with bread** 185 CZK
 
 ## DISCOUNTED SMALL SOUP WITH MAIN DISH - 250ml
 
