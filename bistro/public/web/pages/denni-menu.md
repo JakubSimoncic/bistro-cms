@@ -4,11 +4,11 @@ title: Denní menu CZ
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)
 
 * **MENU 1: Polévka + Smažený karbanátek, vařené brambory a kyselá okurka** 185 Kč
-* **MENU 2: Polévka + Smažený karbanátek, vařené brambory a kyselá okurka** 185 KČ
+* **MENU 2: Polévka + Hovězí guláš s cibulkou a beraním rohem, chleba** 185 KČ
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 * **Dršťková** 35 Kč
-* **Špenátový krém s krutoný** 35 Kč
+* **Špenátový krém s krutony** 35 Kč
 
 ## HLAVNÍ JÍDLA
 
