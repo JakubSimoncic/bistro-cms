@@ -3,20 +3,20 @@ title: Denní menu - EN
 ---
 ## SPECIAL OFFER OF THE DAY (soup + main course)
 
-* **MENU 1: Soup + Fried schnitzel from minced meat, boiled potatoes and pickles** 185 CZK
-* **MENU 2: Soup + Beef goulash with bread** 185 CZK
+* **MENU 1: Soup + Baked creamy potatoes with pork roast meat and cheese** 185 CZK
+* **MENU 2: Soup + Beef meat with garlic, leaf spinach and potato dumplings** 185 CZK
 
 ## DISCOUNTED SMALL SOUP WITH MAIN DISH - 250ml
 
-* **Tripe soup** 35 CZK
-* **Spinach cream with croutons** 35 CZK
+* **Cabbage soup with sausage** 35 CZK
+* **Creamy onion soup with chicken meat, croutons and cheese** 35 CZK
 
 ## MAIN COURSES
 
-* **Pork (shoulder and belly), sauerkraut, potato dumpling** 165 CZK
-* **Fried schnitzel from minced meat, boiled potatoes and pickles** 165 CZK
-* **-** 0 CZK
-* **Spaghetti with chicken meat, curry sauce and parmesan cheese** 175 CZK
+* **Baked creamy potatoes with pork roast meat and cheese** 165 CZK
+* **Roasted wild chicken leg, boiled potatoes and cabbage salad** 165 CZK
+* **Spaghetti bolognese with minced beef meat and parmesan cheese** 175 CZK
+* **Beef meat with garlic, leaf spinach and potato dumplings** 175 CZK
 * **Beef goulash with onions and homemade dumplings** 185 CZK
 * **Chicken schnitzel, potato salad and lemon** 175 CZK
 * **Fried Cheese, French Fries and Tartar sauce** 175 CZK
@@ -24,7 +24,7 @@ title: Denní menu - EN
 
 ## SOUP ORDERED SEPARATELY - 500ml
 
-* **Tripe soup or Spinach cream with croutons** 75 CZK
+* **Cabbage soup with sausage or Creamy onion soup with chicken meat, croutons and cheese** 75 CZK
 
 
-***The offer is valid on Sunday 6.10. from 10:30 AM until closing time or while supplies last.***
+***The offer is valid on Monday 7.10. from 10:30 AM until closing time or while supplies last.***
