@@ -23,7 +23,7 @@ title: Denní menu CZ
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTATNĚ – 500ml
 
-* **Zelná polévka s klobásou nebo krémová cibulačka s kuřecím masem, krutony a sýremy** 75 Kč
+* **Zelná polévka s klobásou nebo krémová cibulačka s kuřecím masem, krutony a sýrem** 75 Kč
 
 
 ***Nabídka platí v pondělí 7.10. od 10:30 do zavírací hodiny nebo do vyprodání.***
