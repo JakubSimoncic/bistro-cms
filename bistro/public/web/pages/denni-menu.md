@@ -3,19 +3,19 @@ title: Denní menu CZ
 ---
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)
 
-* **MENU 1: Polévka + Smažený karbanátek, vařené brambory a kyselá okurka** 185 Kč
-* **MENU 2: Polévka + Hovězí guláš s cibulkou a beraním rohem, chleba** 185 KČ
+* **MENU 1: Polévka + Zapečené smetanové brambory s vepřovou pečení a sýrem** 185 Kč
+* **MENU 2: Polévka + Hovězí na česneku, listový špenát a bramborový knedlík** 185 KČ
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
-* **Dršťková** 35 Kč
-* **Špenátový krém s krutony** 35 Kč
+* **Zelná polévka s klobásou** 35 Kč
+* **Krémová cibulačka s kuřecím masem, krutony a sýrem** 35 Kč
 
 ## HLAVNÍ JÍDLA
 
-* **Pečené vepřové maso, kysané zelí, bramborový knedlík** 165 Kč
-* **Smažený karbanátek, vařené brambory a kyselá okurka** 165 Kč
-* **-** 0 Kč
-* **Špagety s kuřecím masem, kari omáčkou a parmazánem** 175 Kč
+* **Zapečené smetanové brambory s vepřovou pečení a sýrem** 165 Kč
+* **Pečené kuřecí stehno na divoko, vařené brambory a zelný salátek** 165 Kč
+* **Boloňské špagety s hovězím mletým masem a sypané parmazánem** 175 Kč
+* **Hovězí na česneku, listový špenát a bramborový knedlík** 175 Kč
 * **Hovězí guláš s cibulkou a beraním rohem, domácí houskový knedlík** 185 Kč
 * **Kuřecí řízek, bramborový salát a citron** 175 Kč
 * **Smažený sýr, hranolky a tatarská omáčka** 175 Kč
@@ -23,7 +23,7 @@ title: Denní menu CZ
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTATNĚ – 500ml
 
-* **Dršťková nebo špenátová s krutony** 75 Kč
+* **Zelná polévka s klobásou nebo krémová cibulačka s kuřecím masem, krutony a sýremy** 75 Kč
 
 
-***Nabídka platí v neděli 6.10. od 10:30 do zavírací hodiny nebo do vyprodání.***
+***Nabídka platí v pondělí 7.10. od 10:30 do zavírací hodiny nebo do vyprodání.***
