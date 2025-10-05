@@ -4,7 +4,7 @@ title: Denní menu - EN
 ## SPECIAL OFFER OF THE DAY (soup + main course)
 
 * **MENU 1: Soup + Baked creamy potatoes with pork roast meat and cheese** 185 CZK
-* **MENU 2: Soup + Beef meat with garlic, leaf spinach and potato dumplings** 185 CZK
+* **MENU 2: Soup + Beef meat with garlic, leaf spinach and potato dumplings** 195 CZK
 
 ## DISCOUNTED SMALL SOUP WITH MAIN DISH - 250ml
 
@@ -27,4 +27,4 @@ title: Denní menu - EN
 * **Cabbage soup with sausage or Creamy onion soup with chicken meat, croutons and cheese** 75 CZK
 
 
-***The offer is valid on Monday 7.10. from 10:30 AM until closing time or while supplies last.***
+***The offer is valid on Monday 6.10. from 10:30 AM until closing time or while supplies last.***
