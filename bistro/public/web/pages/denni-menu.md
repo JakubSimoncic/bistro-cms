@@ -8,8 +8,8 @@ title: Denní menu CZ
 * 
 * **JÍDLO TÝDNE: Drůbeží játra na cibulce, pečená jasmínová rýže** 135 Kč
 
-## 
- MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
+## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
+
 * **Zelná polévka s klobásou** 35 Kč
 * **Krémová cibulačka s kuřecím masem, krutony a sýrem** 35 Kč
 
