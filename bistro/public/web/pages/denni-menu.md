@@ -3,7 +3,7 @@ title: Denní menu CZ
 ---
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)
 
-* **MENU 1: Polévka + Cmunda po kaplicku (uzené vepřové maso a zelí v bramboráku)** 185 Kč
+* **MENU 1: Polévka + Smažený karbanátek, vařené brambory a kyselá okurka** 185 Kč
 * **MENU 2: Polévka + Kuřecí rizoto s hráškem, kukuřicí a sypané sýrem** 185 KČ
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
@@ -12,7 +12,7 @@ title: Denní menu CZ
 
 ## HLAVNÍ JÍDLA
 
-* **Cmunda po kaplicku (uzené vepřové maso a zelí v bramboráku)** 165 Kč
+* **Vepřové maso (plec a bůček), kysané zelí, bramborový knedlík** 165 Kč
 * **Smažený karbanátek, vařené brambory a kyselá okurka** 165 Kč
 * **Kuřecí rizoto s hráškem, kukuřicí a sypané sýrem** 165 Kč
 * **Špagety s kuřecím masem, kari omáčkou a parmazánem** 175 Kč
