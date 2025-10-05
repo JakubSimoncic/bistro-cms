@@ -26,4 +26,4 @@ title: Denní menu CZ
 * **Zelná polévka s klobásou nebo krémová cibulačka s kuřecím masem, krutony a sýrem** 75 Kč
 
 
-***Nabídka platí v pondělí 7.10. od 10:30 do zavírací hodiny nebo do vyprodání.***
+***Nabídka platí v pondělí 6.10. od 10:30 do zavírací hodiny nebo do vyprodání.***
