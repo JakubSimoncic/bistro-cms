@@ -8,7 +8,7 @@ title: Denní menu - EN
 
 ## DISCOUNTED SMALL SOUP WITH MAIN DISH - 250ml
 
-* **Potato soup** 35 CZK
+* **Boršč with sour cream** 35 CZK
 * **Fish soup with croutons** 35 CZK
 
 ## MAIN COURSES
