@@ -3,7 +3,7 @@ title: Denní menu - EN
 ---
 ## SPECIAL OFFER OF THE DAY (soup + main course)
 
-* **MENU 1: Soup + Smoked pork meat and cabbage in a potato pancake** 185 CZK
+* **MENU 1: Soup + Fried schnitzel from minced meat, boiled potatoes and pickles** 185 CZK
 * **MENU 2: Soup + Chicken risotto with peas, corn and topped with cheese** 185 CZK
 
 ## DISCOUNTED SMALL SOUP WITH MAIN DISH - 250ml
@@ -13,7 +13,7 @@ title: Denní menu - EN
 
 ## MAIN COURSES
 
-* **Smoked pork meat and cabbage in a potato pancake** 165 CZK
+* **Pork (shoulder and belly), sauerkraut, potato dumpling** 165 CZK
 * **Fried schnitzel from minced meat, boiled potatoes and pickles** 165 CZK
 * **Chicken risotto with peas, corn and topped with cheese** 165 CZK
 * **Spaghetti with chicken meat, curry sauce and parmesan cheese** 175 CZK
