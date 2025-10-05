@@ -4,9 +4,12 @@ title: Denní menu CZ
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)
 
 * **MENU 1: Polévka + Zapečené smetanové brambory s vepřovou pečení a sýrem** 185 Kč
-* **MENU 2: Polévka + Hovězí na česneku, listový špenát a bramborový knedlík** 195 KČ
+* **MENU 2: Polévka + Hovězí na česneku, listový špenát a bramborový knedlík** 195 Kč
+* 
+* **JÍDLO TÝDNE: Drůbeží játra na cibulce, pečená jasmínová rýže** 135 Kč
 
-## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
+## 
+ MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 * **Zelná polévka s klobásou** 35 Kč
 * **Krémová cibulačka s kuřecím masem, krutony a sýrem** 35 Kč
 
