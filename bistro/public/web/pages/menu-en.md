@@ -6,7 +6,7 @@ title: Denní menu - EN
 * **MENU 1: Soup + Baked creamy potatoes with pork roast meat and cheese** 185 CZK
 * **MENU 2: Soup + Beef meat with garlic, leaf spinach and potato dumplings** 195 CZK
 * 
-* **MEAL OF THE WEEK: Poultry livers with onions and sauce, baked jasmine rice** 135 CZK
+* **MEAL OF THE WEEK: Poultry livers with onions, baked jasmine rice** 135 CZK
 
 ## DISCOUNTED SMALL SOUP WITH MAIN DISH - 250ml
 
