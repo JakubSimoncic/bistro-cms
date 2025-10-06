@@ -3,7 +3,7 @@ title: Denní menu - EN
 ---
 ## SPECIAL OFFER OF THE DAY (soup + main course)
 
-* **MENU 1: Soup + Hamburg pork leg and bun dumpling** 185 CZK
+* **MENU 1: Soup + Pork meat with creamy vegetable souce and homemade dumplings** 185 CZK
 * **MENU 2: Soup + Bolognese lasagne with minced beef meat and cheese béchamel** 195 CZK
 * 
 * **MEAL OF THE WEEK: Poultry livers with onions, baked jasmine rice** 135 CZK
@@ -15,7 +15,7 @@ title: Denní menu - EN
 
 ## MAIN COURSES
 
-* **Hamburg pork leg and bun dumpling** 165 CZK
+* **Pork meat with creamy vegetable souce and homemade dumplings** 165 CZK
 * **Bolognese lasagne with minced beef meat and cheese béchamel** 175 CZK
 * **Fish and chips with lime mayonnaise** 185 CZK
 * **Fusilli pasta with chicken meat, mushrooms, leek, red onion, white wine and parmesan cheese** 175 CZK
