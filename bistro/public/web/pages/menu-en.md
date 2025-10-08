@@ -3,7 +3,7 @@ title: Denní menu - EN
 ---
 ## SPECIAL OFFER OF THE DAY (soup + main course)
 
-* **MENU 1: Soup + Roasted chicken thigh ala pheasant, stewed red cabbage, potato dumpling** 185 CZK
+* **MENU 1: Soup + Roasted chicken thigh ala pheasant, stewed red cabbage, potato dumplings** 185 CZK
 * **MENU 2: Soup + Szeged pork goulash, homemade dumplings** 185 CZK
 * 
 * **MEAL OF THE WEEK: Poultry livers with onions, baked jasmine rice** 135 CZK
@@ -16,7 +16,7 @@ title: Denní menu - EN
 ## MAIN COURSES
 
 * **Grilled wine sausage, steamed potatoes and tartar sauce** 165 CZK
-* **Roasted chicken thigh ala pheasant, stewed red cabbage, potato dumpling** 165 CZK
+* **Roasted chicken thigh ala pheasant, stewed red cabbage, potato dumplings** 165 CZK
 * **Szeged pork goulash, homemade dumplings** 165 CZK
 * **Fried chicken strips, baked potatoes with onion and garlic, garlic dip** 175 CZK
 * **Beef goulash with onions and homemade dumplings** 185 CZK
