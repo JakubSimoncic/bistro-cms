@@ -15,7 +15,7 @@ title: Denní menu CZ
 
 ## HLAVNÍ JÍDLA
 
-* **Grilovaná vinná klobása, brambory vařené v páře a tatarská omáčka** 165 Kč
+* **Grilovaná vinná klobása, brambory vařené v páře, hořčice a zelný salátek** 165 Kč
 * **Pečené kuřecí stehno ala bažant, červené dušené hlávkové zelí a bramborový knedlík** 165 Kč
 * **Segedínský vepřový guláš, domácí houskový knedlík** 165 Kč
 * **Smažené kuřecí stripsy, pečené brambory s cibulí a česnekem, česnekový dip** 175 Kč
