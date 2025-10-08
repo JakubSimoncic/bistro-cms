@@ -3,22 +3,22 @@ title: Denní menu - EN
 ---
 ## SPECIAL OFFER OF THE DAY (soup + main course)
 
-* **MENU 1: Soup + Pork meat with creamy vegetable souce and homemade dumplings** 185 CZK
-* **MENU 2: Soup + Bolognese lasagne with minced beef meat and cheese béchamel** 195 CZK
+* **MENU 1: Soup + Roasted chicken thigh ala pheasant, stewed red cabbage, potato dumpling** 185 CZK
+* **MENU 2: Soup + Szeged pork goulash, homemade dumplings** 185 CZK
 * 
 * **MEAL OF THE WEEK: Poultry livers with onions, baked jasmine rice** 135 CZK
 
 ## DISCOUNTED SMALL SOUP WITH MAIN DISH - 250ml
 
 * **Frankfurt soup with sausage** 35 CZK
-* **Chicken broth with meat, vegetables and liver rice** 35 CZK
+* **Leek cream with croutons** 35 CZK
 
 ## MAIN COURSES
 
-* **Pork meat with creamy vegetable souce and homemade dumplings** 165 CZK
-* **Bolognese lasagne with minced beef meat and cheese béchamel** 175 CZK
-* **Fish and chips with lime mayonnaise** 185 CZK
-* **Fusilli pasta with chicken meat, mushrooms, leek, red onion, white wine and parmesan cheese** 175 CZK
+* **Grilled wine sausage, steamed potatoes and tartar sauce** 165 CZK
+* **Roasted chicken thigh ala pheasant, stewed red cabbage, potato dumpling** 165 CZK
+* **Szeged pork goulash, homemade dumplings** 165 CZK
+* **Fried chicken strips, baked potatoes with onion and garlic, garlic dip** 175 CZK
 * **Beef goulash with onions and homemade dumplings** 185 CZK
 * **Chicken schnitzel, potato salad and lemon** 175 CZK
 * **Fried Cheese, French Fries and Tartar sauce** 175 CZK
