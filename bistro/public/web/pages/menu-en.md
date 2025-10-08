@@ -11,7 +11,7 @@ title: Denní menu - EN
 ## DISCOUNTED SMALL SOUP WITH MAIN DISH - 250ml
 
 * **Frankfurt soup with sausage** 35 CZK
-* **Leek cream with croutons** 35 CZK
+* **Leek creamy soup with croutons** 35 CZK
 
 ## MAIN COURSES
 
@@ -26,7 +26,7 @@ title: Denní menu - EN
 
 ## SOUP ORDERED SEPARATELY - 500ml
 
-* **Frankfurt soup with sausage or Chicken broth with meat, vegetables and liver rice** 75 CZK
+* **Frankfurt soup with sausage or Leek creamy soup with croutons** 75 CZK
 
 
-***The offer is valid on Tuesday 7.10. from 10:30 AM until closing time or while supplies last.***
+***The offer is valid on Wednesday 8.10. from 10:30 AM until closing time or while supplies last.***
