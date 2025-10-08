@@ -15,7 +15,7 @@ title: Denní menu CZ
 
 ## HLAVNÍ JÍDLA
 
-* **Uzený vepřový jazyk, křenová omáčka a karlovarský knedlík** 165 Kč
+* **Uzený vepřový jazyk s křenovou omáčkou a karlovarským knedlíkem** 165 Kč
 * **Pečený vepřový bůček na pivě s medem a chilli, šťouchané brambory a zelný salátek** 165 Kč
 * **Smažený hermelín plněný šunkou, vařené brambory a tatarská omáčka** 175 Kč
 * **Boloňské Lasagne s mletým masem a italskou rajčatovou omáčkou** 175 Kč
