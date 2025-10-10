@@ -3,7 +3,7 @@ title: Denní menu - EN
 ---
 ## SPECIAL OFFER OF THE DAY (soup + main course)
 
-* **MENU 1: Soup + Pork belly roasted in beer with honey and chili, mashed potatoes and cabbage salad ** 185 CZK
+* **MENU 1: Soup + Pork belly roasted in beer with honey and chili, mashed potatoes and cabbage salad** 185 CZK
 * **MENU 2: Soup + Beef Chilli con Carne and baked jasmine rice** 195 CZK
 * 
 * **MEAL OF THE WEEK: Poultry livers with onions, baked jasmine rice** 135 CZK
