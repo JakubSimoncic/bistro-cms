@@ -3,7 +3,7 @@ title: Denní menu - EN
 ---
 ## SPECIAL OFFER OF THE DAY (soup + main course)
 
-* **MENU 1: Soup + Pork belli roasted in beer with honey and chili, mashed potatoes and cabbage salad** 185 CZK
+* **MENU 1: Soup + Pork belly roasted in beer with honey and chili, mashed potatoes and cabbage salad** 185 CZK
 * **MENU 2: Soup + Beef Chilli con Carne and baked jasmine rice** 195 CZK
 * 
 * **MEAL OF THE WEEK: Poultry livers with onions, baked jasmine rice** 135 CZK
@@ -26,7 +26,7 @@ title: Denní menu - EN
 
 ## SOUP ORDERED SEPARATELY - 500ml
 
-* **Lentil soup with smoked meat or Kulajda- dill creamy soup with potatoes** 75 CZK
+* **Lentil soup with smoked meat or Kulajda- dill creamy soup** 75 CZK
 
 
 ***The offer is valid on Friday 10.10. from 10:30 AM until closing time or while supplies last.***
