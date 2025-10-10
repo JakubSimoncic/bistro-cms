@@ -16,7 +16,7 @@ title: Denní menu - EN
 ## MAIN COURSES
 
 * **Halušky- Czech potatoe gnocchi with smoked meat, cabbage and roasted onions** 165 CZK
-* **Fried wine sausage and potato salad** 165 CZK
+* **Fried wine sausage and potato slad** 165 CZK
 * **Pork belly roasted in beer with honey and chili, mashed potatoes and cabbage salad** 165 CZK
 * **Beef Chilli con Carne and baked jasmine rice** 175 CZK
 * **Beef goulash with onions and homemade dumplings** 185 CZK
