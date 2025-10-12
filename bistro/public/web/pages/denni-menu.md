@@ -18,7 +18,7 @@ title: Denní menu CZ
 * **Pečená vepřová roláda plněná pancettou a čedarem, pepřová omáčka a opečené brambory** 165 Kč
 * **Kuřecí nudličky na kari s pórkem, pečená jasmínová rýže** 165 Kč
 * **Moravský vrabec, dušené hlávkové zelí a bramborový knedlík** 165 Kč
-* **Špagety Carbonara (žloutek, pancetta, parmazán)** 175 Kč
+* **Špagety Carbonara (žloutek, česnek, pancetta, parmazán)** 175 Kč
 * **Hovězí guláš s cibulkou a beraním rohem, domácí houskový knedlík** 185 Kč
 * **Kuřecí řízek, bramborový salát a citron** 175 Kč
 * **Smažený sýr, hranolky a tatarská omáčka** 175 Kč
