@@ -3,8 +3,8 @@ title: Denní menu CZ
 ---
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)
 
-* **MENU 1: Polévka + Pečená vepřová roláda plněná pancettou a čedarem, pepřová omáčka a opečené brambory** 185 Kč
-* **MENU 2: Polévka + Moravský vrabec, dušené hlávkové zelí a bramborový knedlík** 185 Kč
+* **MENU 1: Polévka + Moravský vrabec, dušené hlávkové zelí a bramborový knedlík** 185 Kč
+* **MENU 2: Polévka + Pečená vepřová roláda plněná pancettou a čedarem, pepřová omáčka a opečené brambory** 195 Kč
 * 
 * **JÍDLO TÝDNE: Smažený květák, opečené brambory a tatarská omáčka** 135 Kč
 
@@ -15,10 +15,10 @@ title: Denní menu CZ
 
 ## HLAVNÍ JÍDLA
 
-* **Pečená vepřová roláda plněná pancettou a čedarem, pepřová omáčka a opečené brambory** 165 Kč
-* **Kuřecí nudličky na kari s pórkem, pečená jasmínová rýže** 165 Kč
 * **Moravský vrabec, dušené hlávkové zelí a bramborový knedlík** 165 Kč
-* **Špagety Carbonara (žloutek, česnek, pancetta, parmazán)** 175 Kč
+* **Kuřecí nudličky na kari s pórkem, pečená jasmínová rýže** 165 Kč
+* **Pečená vepřová roláda plněná pancettou a čedarem, pepřová omáčka a opečené brambory** 175 Kč
+* **Špagety Carbonara (pancetta, česnek, žloutek a parmazán)** 175 Kč
 * **Hovězí guláš s cibulkou a beraním rohem, domácí houskový knedlík** 185 Kč
 * **Kuřecí řízek, bramborový salát a citron** 175 Kč
 * **Smažený sýr, hranolky a tatarská omáčka** 175 Kč
