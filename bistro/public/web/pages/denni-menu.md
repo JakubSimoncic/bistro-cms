@@ -3,22 +3,22 @@ title: Denní menu CZ
 ---
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)
 
-* **MENU 1: Polévka + Pečené kuřecí stehno s hříbkovým přelivem a šťouchané brambory nebo pečená jasmínová rýže** 185 Kč
-* **MENU 2: Polévka + Boloňské lasagne s hovězím mletým masem a rajčatová omáčka** 195 Kč
+* **MENU 1: Polévka + Pečená vepřová roláda plněná pancettou a čedarem, pepřová omáčka a opečené brambory** 185 Kč
+* **MENU 2: Polévka + Moravský vrabec, dušené hlávkové zelí a bramborový knedlík** 185 Kč
 * 
-* **JÍDLO TÝDNE: Drůbeží játra na cibulce, pečená jasmínová rýže** 135 Kč
+* **JÍDLO TÝDNE: Smažený květák, opečené brambory a tatarská omáčka** 135 Kč
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
-* **Zelná polévka s uzeninou** 35 Kč
-* **Jihočeská kulajda** 35 Kč
+* **Gulášová polévka** 35 Kč
+* **Česnečka se sýrem a krutony** 35 Kč
 
 ## HLAVNÍ JÍDLA
 
-* **Uzený vepřový jazyk, křenová omáčka a karlovarský knedlík** 165 Kč
-* **Hamburská vepřová kýta a domácí houskový knedlík** 165 Kč
-* **Pečené kuřecí stehno s hříbkovým přelivem a šťouchané brambory nebo jasmínová pečená rýže** 165 Kč
-* **Boloňské lasagne s hovězím mletým masem a rajčatová omáčka** 175 Kč
+* **Pečená vepřová roláda plněná pancettou a čedarem, pepřová omáčka a opečené brambory** 165 Kč
+* **Kuřecí nudličky na kari s pórkem, pečená jasmínová rýže** 165 Kč
+* **Moravský vrabec, dušené hlávkové zelí a bramborový knedlík** 165 Kč
+* **Špagety Carbonara (žloutek, pancetta, parmazán)** 175 Kč
 * **Hovězí guláš s cibulkou a beraním rohem, domácí houskový knedlík** 185 Kč
 * **Kuřecí řízek, bramborový salát a citron** 175 Kč
 * **Smažený sýr, hranolky a tatarská omáčka** 175 Kč
@@ -26,7 +26,7 @@ title: Denní menu CZ
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTATNĚ – 500ml
 
-* **Zelná polévka s uzeninou nebo jihočeská kulajda** 75 Kč
+* **Gulášová polévka nebo česnečka se sýrem a krutony** 75 Kč
 
 
-***Nabídka platí v neděli 12.10. od 10:30 do zavírací hodiny nebo do vyprodání.***
+***Nabídka platí v pondělí 13.10. od 10:30 do zavírací hodiny nebo do vyprodání.***
