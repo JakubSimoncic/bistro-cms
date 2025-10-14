@@ -16,7 +16,7 @@ title: Denní menu CZ
 ## HLAVNÍ JÍDLA
 
 * **Pikantní kuřecí směs v bramboráku se zeleninou** 165 Kč
-* ** Opečená domácí sekaná a bramborový salát ** 165 Kč
+* **Opečená domácí sekaná a bramborový salát ** 165 Kč
 * **Rajská omáčka s hovězím masem, domácí houskový knedlík** 175 Kč
 * **Italské hříbkové rizoto s filírovanou vepřovou panenkou a parmazánem** 185 Kč
 * **Hovězí guláš s cibulkou a beraním rohem, domácí houskový knedlík** 185 Kč
@@ -26,7 +26,7 @@ title: Denní menu CZ
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTATNĚ – 500ml
 
-* ** Dršťková polévka nebo hráškový krém s bylinkovými krutony** 75 Kč
+* **Dršťková polévka nebo hráškový krém s bylinkovými krutony** 75 Kč
 
 
 ***Nabídka platí ve středu 15.10. od 10:30 do zavírací hodiny nebo do vyprodání.***
