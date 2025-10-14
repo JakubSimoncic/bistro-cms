@@ -16,7 +16,7 @@ title: Denní menu - EN
 ## MAIN COURSES
 
 * **Spicy chicken mixture with vegetables in a potato pancake** 165 CZK
-* **Homemade roast meatloaf and potato salad ** 165 CZK
+* **Homemade roast meatloaf and potato salad** 165 CZK
 * **Tomato sauce with beef meat, homemade dumplings** 175 CZK
 * **Italian mushroom risotto with filleted pork tenderloin meat and parmesan cheese** 185 CZK
 * **Beef goulash with onion and ram's horn, homemade bread dumpling** 185 CZK
@@ -26,6 +26,6 @@ title: Denní menu - EN
 
 ## LARGE SOUP ORDERED SEPARATELY – 500ml
 
-* ** Triplet soup or pea cream with herb croutons** 75 CZK
+* **Triplet soup or pea cream with herb croutons** 75 CZK
 
 ***Offer valid on Wednesday 15.10. from 10:30 until closing time or while stocks last.***
