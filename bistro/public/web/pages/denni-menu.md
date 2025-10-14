@@ -15,7 +15,7 @@ title: Denní menu CZ
 
 ## HLAVNÍ JÍDLA
 
-* **Moravský vrabec, dušené hlávkové zelí a variace knedlíků (karlovarský a houskový)** 165 Kč
+* **Moravský vrabec, dušené bílé hlávkové zelí a variace knedlíků (karlovarský a houskový)** 165 Kč
 * **Smažený holandský řízek, máslová bramborová kaše a okurka** 165 Kč
 * **Rajská omáčka s hovězím masem, domácí houskový knedlík** 175 Kč
 * **Špagety s kuřecím masem, anglickou slaninou, rajčatovou omáčkou, cibulí, rukolou a parmazánem** 175 Kč
