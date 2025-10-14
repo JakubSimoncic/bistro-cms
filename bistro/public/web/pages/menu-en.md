@@ -19,7 +19,7 @@ title: Denní menu - EN
 * **Homemade roast meatloaf and potato salad** 165 CZK
 * **Tomato sauce with beef meat, homemade dumplings** 175 CZK
 * **Italian mushroom risotto with filleted pork tenderloin and parmesan cheese** 185 CZK
-* **Beef goulash with onion and, homemade dumpling** 185 CZK
+* **Beef goulash with onion and pepper, homemade dumplings** 185 CZK
 * **Fried chicken schnitzel, potato salad and lemon** 175 CZK
 * **Fried cheese, French Fries and Tartar Sauce** 175 CZK
 * **Grilled stuffed tortilla of your choice and French Fries** 175 CZK
