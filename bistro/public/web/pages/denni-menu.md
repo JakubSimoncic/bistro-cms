@@ -18,7 +18,7 @@ title: Denní menu CZ
 * **Trhané vepřové maso v naší BBQ omáčce, americké brambory a salát coleslaw** 175 Kč
 * **Srbské vepřové rizoto sypené sýrem a kyselá okurka** 165 Kč
 * **Koprová omáčka s hovězím masem, domácí houskový knedlík** 175 Kč
-* **Fusilli s kuřecím masem, kari omáčkou, paprikou, pórkem a parmazánem** 185 Kč
+* **Těstoviny fusilli s kuřecím masem, kari omáčkou, paprikou, pórkem a parmazánem** 175 Kč
 * **Hovězí guláš s cibulkou a beraním rohem, domácí houskový knedlík** 185 Kč
 * **Kuřecí řízek, bramborový salát a citron** 175 Kč
 * **Smažený sýr, hranolky a tatarská omáčka** 175 Kč
