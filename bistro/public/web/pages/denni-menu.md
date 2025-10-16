@@ -3,22 +3,22 @@ title: Denní menu CZ
 ---
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)
 
-* **MENU 1: Polévka + Srbské vepřové rizoto sypené sýrem a kyselá okurka** 185 Kč
-* **MENU 2: Polévka + Koprová omáčka s hovězím masem, domácí houskový knedlík** 195 Kč
+* **MENU 1: Polévka + Pikantní kuřecí směs se zeleninou v bramboráku** 185 Kč
+* **MENU 2: Polévka + Masový špíz (kuřecí maso, vepřová panenka, klobása, cibule, slanina a paprika) šťouchané brambory a čedarová omáčka** 195 Kč
 * 
 * **JÍDLO TÝDNE: Smažený květák, opečené brambory a tatarská omáčka** 135 Kč
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
-* **Dršťková polévka** 35 Kč
-* **Fazolová polévka s mletým masem** 35 Kč
+* **Staročeská bramboračka** 35 Kč
+* **Dýňový krém s kokosovým mlékem a krutony** 35 Kč
 
 ## HLAVNÍ JÍDLA
 
-* **Trhané vepřové maso v naší BBQ omáčce, americké brambory a salát coleslaw** 175 Kč
-* **Srbské vepřové rizoto sypené sýrem a kyselá okurka** 165 Kč
 * **Koprová omáčka s hovězím masem, domácí houskový knedlík** 175 Kč
-* **Těstoviny fusilli s kuřecím masem, kari omáčkou, paprikou, pórkem a parmazánem** 175 Kč
+* **Pikantní kuřecí směs se zeleninou v bramboráku** 165 Kč
+* **Hovězí krk na česneku, listový špenát a bramborový knedlík** 175 Kč
+* **Masový špíz (kuřecí maso, vepřová panenka, klobása, slanina, cibule a paprika) šťouchané brambory a čedarová omáčka** 175 Kč
 * **Hovězí guláš s cibulkou a beraním rohem, domácí houskový knedlík** 185 Kč
 * **Kuřecí řízek, bramborový salát a citron** 175 Kč
 * **Smažený sýr, hranolky a tatarská omáčka** 175 Kč
@@ -26,7 +26,7 @@ title: Denní menu CZ
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTATNĚ – 500ml
 
-* **Dršťková polévka nebo fazolová polévka s mletým masem** 75 Kč
+* **Staročeská bramboračka nebo dýňový krém s kokosovým mlékem a krutony** 75 Kč
 
 
-***Nabídka platí ve čtvrtek 16.10. od 10:30 do zavírací hodiny nebo do vyprodání.***
+***Nabídka platí ve pátek 17.10. od 10:30 do zavírací hodiny nebo do vyprodání.***
