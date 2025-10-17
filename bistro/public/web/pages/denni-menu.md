@@ -18,7 +18,7 @@ title: Denní menu CZ
 * **Kuřecí nudičky na kari s pórkem a pečená jasmínová rýže** 175 Kč
 * **Hovězí krk na česneku, listový špenát a bramborový knedlík** 175 Kč
 * **Koprová omáčka s hovězím masem a domácí houskový knedlík** 175 Kč
-* **BBQ  Wrap a smažené hranolky** 175 Kč
+* **BBQ Wrap (kuřecí prsa, BBQ omáčka, sýry čedar a gouda, salát a smažené hranolky)** 175 Kč
 * **Hovězí guláš s cibulkou a beraním rohem, domácí houskový knedlík** 185 Kč
 * **Kuřecí řízek, bramborový salát a citron** 175 Kč
 * **Smažený sýr, hranolky a tatarská omáčka** 175 Kč
