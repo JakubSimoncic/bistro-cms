@@ -6,7 +6,7 @@ title: Denní menu CZ
 * **MENU 1: Polévka + Segedínský vepřový guláš a domácí houskový knedlík** 185 Kč
 * **MENU 2: Polévka + Pikantní masová směs (kuřecí a vepřové maso se zeleninou) a bramboráčky** 195 Kč
 * 
-* **JÍDLO TÝDNE: Smažený květák, opečené brambory a tatarská omáčka** 135 Kč
+* ****
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
