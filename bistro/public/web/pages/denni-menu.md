@@ -18,7 +18,7 @@ title: Denní menu CZ
 * **Segedínský guláš a domácí houskový knedlík** 165 Kč
 * **Kuřecí nudičky na kari s pórkem a pečená jasmínová rýže** 165 Kč
 * **Pikantní masová směs (kuřecí a vepřové maso se zeleninou) a bramboráčky** 175 Kč
-* **BBQ kuřecí Quesadilla (kuřecí maso, BBQ omáčka, rajčata, ledový salát a variace sýrů), zakysaná smetana a malé hranolky ** 185 Kč
+* **BBQ kuřecí Quesadilla (kuřecí maso, BBQ omáčka, rajčata, ledový salát a variace sýrů), zakysaná smetana a malé hranolky** 185 Kč
 * **Hovězí guláš s cibulkou a beraním rohem, domácí houskový knedlík** 185 Kč
 * **Kuřecí řízek, bramborový salát a citron** 175 Kč
 * **Smažený sýr, hranolky a tatarská omáčka** 175 Kč
