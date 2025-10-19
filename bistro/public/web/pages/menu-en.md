@@ -6,7 +6,7 @@ title: Denní menu - EN
 * **MENU 1: Soup + Potato dumpling tuffed with smoked meat, stewed cabbage, sautéed onion and fried onion** 185 CZK
 * **MENU 1: Soup + Pork meat in meat sauce with smoked meat, bacon and eggs, served with baked rice** 185 CZK
 *
-* **DISH OF THE WEEK: Spicy goulash from smoked meat with bread**
+* **DISH OF THE WEEK: Spicy goulash from smoked meat with bread** 135 CZK
 
 ## SMALL SOUP FOR THE MAIN COURSE – 250ml
 
