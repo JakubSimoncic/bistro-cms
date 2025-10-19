@@ -3,7 +3,7 @@ title: Denní menu CZ
 ---
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)
 
-## MENU 1: Polévka + Plněný knedlík uzeným masem, dušené hlávkové zelí, cibulka a vídeňská cibulka** 185 Kč
+* **MENU 1: Polévka + Plněný knedlík uzeným masem, dušené hlávkové zelí, cibulka a vídeňská cibulka** 185 Kč
 * **MENU 2: Polévka + Rozlítaný vepřový ptáček a pečená jasmínová rýže** 185 Kč
 
 * **Pikantní buřtguláš s chlebem** 135 Kč
