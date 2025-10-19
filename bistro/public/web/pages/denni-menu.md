@@ -3,7 +3,7 @@ title: Denní menu CZ
 ---
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)
 
-* **MENU: Polévka + Hovězí krk na česneku, listový špenát a bramborový knedlík** 195 Kč
+* **MENU: Polévka + Hovězí krk na česneku, listový špenát a domácí houskový knedlík** 195 Kč
 
 * ****
 
@@ -14,7 +14,7 @@ title: Denní menu CZ
 
 ## HLAVNÍ JÍDLA
 
-* **Hovězí krk na česneku, listový špenát a bramborový knedlík** 175 Kč
+* **Hovězí krk na česneku, listový špenát a domácí houskový knedlík** 175 Kč
 * **Kuřecí nudličky na kari s pórkem a pečená jasmínová rýže** 165 Kč
 * **BBQ kuřecí Quesadilla (kuřecí maso, BBQ omáčka, rajčata, ledový salát a variace sýrů), zakysaná smetana a malé hranolky** 185 Kč
 * **Hovězí guláš s cibulkou a beraním rohem, domácí houskový knedlík** 185 Kč
