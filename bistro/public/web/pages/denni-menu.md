@@ -15,7 +15,7 @@ title: Denní menu CZ
 ## HLAVNÍ JÍDLA
 
 * **Hovězí krk na česneku, listový špenát a bramborový knedlík** 175 Kč
-* **Pikantní masová směs (kuřecí a vepřové maso se zeleninou) a bramboráčky** 175 Kč
+* **Kuřecí nudličky na kari s pórkem a pečená jasmínová rýže** 165 Kč
 * **BBQ kuřecí Quesadilla (kuřecí maso, BBQ omáčka, rajčata, ledový salát a variace sýrů), zakysaná smetana a malé hranolky** 185 Kč
 * **Hovězí guláš s cibulkou a beraním rohem, domácí houskový knedlík** 185 Kč
 * **Kuřecí řízek, bramborový salát a citron** 175 Kč
