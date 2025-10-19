@@ -4,7 +4,7 @@ title: Denní menu CZ
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)
 
 * **MENU: Polévka + Hovězí krk na česneku, listový špenát a bramborový knedlík** 195 Kč
- 
+
 * ****
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
