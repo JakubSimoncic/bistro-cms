@@ -3,20 +3,22 @@ title: Denní menu - EN
 ---
 ## SPECIAL OFFER (soup + main course)
 
-* **MENU 1: Soup + Beef meat with garlic, spinach and homemade dumplings** 195 CZK
-
-* ****
+* **MENU 1: Soup + Potato dumpling tuffed with smoked meat, stewed cabbage, sautéed onion and fried onion** 185 CZK
+* **MENU 1: Soup + Pork meat in meat sauce with smoked meat, bacon and eggs, served with baked rice** 185 CZK
+*
+* **DISH OF THE WEEK: Spicy goulash from smoked meat with bread**
 
 ## SMALL SOUP FOR THE MAIN COURSE – 250ml
 
-* **Creamy onion soup with croutons and parmesan cheese** 35 CZK
-* **Garlic soup with smoked meat, croutons and cheese** 35 CZK
+* **Borsch with sour cream** 35 CZK
+* **Beef broth with vegetables and liver rice** 35 CZK
 
 ## MAIN COURSES
 
-* **Beef meat with garlic, spinach and homemade dumplings** 175 CZK
-* **Chicken noodles with creamy curry sauce and leek, baked jasmine rice** 165 CZK
-* **BBQ chicken Quesadilla (chicken meat, BBQ sauce, tomatoes, iceberg lettuce and cheese variations), sour cream and small French Fries** 185 CZK
+* **Savoy fried pork schnitzel, mashed potatoes and lemon** 175 CZK
+* **Potato dumpling tuffed with smoked meat, stewed cabbage, sautéed onion and fried onion** 165 CZK
+* **Pork meat in meat sauce with smoked meat, bacon and eggs, served with baked rice** 165 CZK
+* **Spaghetti Aglio Olio e Peperoncino with parmesan cheese** 175 CZK
 * **Beef goulash with onion and pepper, homemade dumplings** 185 CZK
 * **Fried chicken schnitzel, potato salad and lemon** 175 CZK
 * **Fried cheese, French Fries and Tartar Sauce** 175 CZK
@@ -24,6 +26,6 @@ title: Denní menu - EN
 
 ## LARGE SOUP ORDERED SEPARATELY – 500ml
 
-* **Garlic soup with smoked meat, croutons and cheese or Creamy onion soup with croutons and parmesan cheese** 75 CZK
+* **Borsch with sour cream and cheese or Beef broth with vegetables and liver rice** 75 CZK
 
-***Offer is valid on Sunday 19.10. from 10:30 until closing time or while stocks last.***
+***Offer is valid on Monday 20.10. from 10:30 until closing time or while stocks last.***
