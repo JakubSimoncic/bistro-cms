@@ -4,7 +4,7 @@ title: Denní menu - EN
 ## SPECIAL OFFER (soup + main course)
 
 * **MENU 1: Soup + Potato dumpling tuffed with smoked meat, stewed cabbage, sautéed onion and fried onion** 185 CZK
-* **MENU 1: Soup + Pork meat in meat sauce with smoked meat, bacon and eggs, served with baked rice** 185 CZK
+* **MENU 1: Soup + Pork meat in meat sauce with smoked meat, bacon and eggs, served with rice** 185 CZK
 *
 * **DISH OF THE WEEK: Spicy goulash from smoked meat with bread** 135 CZK
 
@@ -17,7 +17,7 @@ title: Denní menu - EN
 
 * **Savoy fried pork schnitzel, mashed potatoes and lemon** 175 CZK
 * **Potato dumpling tuffed with smoked meat, stewed cabbage, sautéed onion and fried onion** 165 CZK
-* **Pork meat in meat sauce with smoked meat, bacon and eggs, served with baked rice** 165 CZK
+* **Pork meat in meat sauce with smoked meat, bacon and eggs, served with rice** 165 CZK
 * **Spaghetti Aglio Olio e Peperoncino with parmesan cheese** 175 CZK
 * **Beef goulash with onion and pepper, homemade dumplings** 185 CZK
 * **Fried chicken schnitzel, potato salad and lemon** 175 CZK
