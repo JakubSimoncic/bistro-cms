@@ -5,8 +5,8 @@ title: Denní menu CZ
 
 * **MENU 1: Polévka + Plněný knedlík uzeným masem, dušené hlávkové zelí, cibulka a vídeňská cibulka** 185 Kč
 * **MENU 2: Polévka + Rozlítaný vepřový ptáček a pečená jasmínová rýže** 185 Kč
-
-* **Pikantní buřtguláš s chlebem** 135 Kč
+* 
+* **JÍDLO TÝDNE: Pikantní buřtguláš s chlebem** 135 Kč
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
