@@ -16,7 +16,7 @@ title: Denní menu CZ
 ## HLAVNÍ JÍDLA
 
 * **Smažená kuřecí kapsa plněná anglickou slaninou a hermelínem, opečené brambory a BBQ omáčka** 175 Kč
-* **Wrap s trhaným vepřovým masem, sýrem čedar, papričkami Jalapenos a česnekovou majonézou, smažené hranolky a zakysaná smetana** 175 Kč
+* **Wrap s trhaným vepřovým masem, sýrem čedar, papričkami Jalapeňos a česnekovou majonézou, smažené hranolky a zakysaná smetana** 175 Kč
 * **Rozlítaný vepřový ptáček a pečená jasmínová rýže** 165 Kč
 * **Špagety s kuřecím masem, listovým špenátem, smetanou a parmazánem** 175 Kč
 * **Hovězí guláš s cibulkou a beraním rohem, domácí houskový knedlík** 185 Kč
@@ -26,7 +26,7 @@ title: Denní menu CZ
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTATNĚ – 500ml
 
-* **Boršč se zakysanou smetanou nebo Jihočeská kulajda** 75 Kč
+* **Boršč se zakysanou smetanou nebo jihočeská kulajda** 75 Kč
 
 
 ***Nabídka platí v úterý 21.10. od 10:30 do zavírací hodiny nebo do vyprodání.***
