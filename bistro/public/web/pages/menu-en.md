@@ -16,7 +16,7 @@ title: Denní menu - EN
 ## MAIN COURSES
 
 * **Fried chicken pocket stuffed with bacon and camembert cheese, roasted potatoes and BBQ sauce** 175 CZK
-* **Wrap with pulled pork meat, cheddar cheese, Jalapenos and garlic mayonnaise, French Fries and sour cream** 175 CZK
+* **Wrap with pulled pork meat, cheddar cheese, Jalapeňos and garlic mayonnaise, French Fries and sour cream** 175 CZK
 * **Pork meat in meat sauce with smoked meat, bacon and eggs, served with rice** 165 CZK
 * **Spaghetti with chicken meat, spinach, cream and parmesan cheese** 175 CZK
 * **Beef goulash with onion and pepper, homemade dumplings** 185 CZK
