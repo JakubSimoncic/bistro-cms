@@ -18,7 +18,7 @@ title: Denní menu CZ
 * **Svíčková na smetaně, domácí houskový knedlík a brusinkový terč** 185 Kč
 * **Smažené žampiony, vařené brambory a tatarská omáčka** 155 Kč
 * **Vepřové výpečky, dušené hlávkové bílé zelí a bramborový knedlík** 165 Kč
-* **Grilovaná filírovaná vepřová panenka, čedarová omáčka a restavoné brambory s jarní cibulkou** 185 Kč
+* **Grilovaná filírovaná vepřová panenka, čedarová omáčka a restavoné brambory s jarní cibulkou** 195 Kč
 * **Hovězí guláš s cibulkou a beraním rohem, domácí houskový knedlík** 185 Kč
 * **Kuřecí řízek, bramborový salát a citron** 175 Kč
 * **Smažený sýr, hranolky a tatarská omáčka** 175 Kč
