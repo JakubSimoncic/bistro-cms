@@ -26,6 +26,6 @@ title: Denní menu - EN
 
 ## LARGE SOUP ORDERED SEPARATELY – 500ml
 
-* **Cabbage soup with sausage and cheese or Dill creamy soup with potatoes and mushrooms** 75 CZK
+* **Cabbage soup with sausage or Dill creamy soup with potatoes and mushrooms** 75 CZK
 
 ***Offer is valid on Wednesday 22.10. from 10:30 until closing time or while stocks last.***
