@@ -10,7 +10,7 @@ title: Denní menu - EN
 
 ## SMALL SOUP FOR THE MAIN COURSE – 250ml
 
-* **Borsch with sour cream** 35 CZK
+* **Cabbage soup with sausage** 35 CZK
 * **Dill creamy soup with potatoes and mushrooms** 35 CZK
 
 ## MAIN COURSES
@@ -26,6 +26,6 @@ title: Denní menu - EN
 
 ## LARGE SOUP ORDERED SEPARATELY – 500ml
 
-* **Borsch with sour cream and cheese or Dill creamy soup with potatoes and mushrooms** 75 CZK
+* **Cabbage soup with sausage and cheese or Dill creamy soup with potatoes and mushrooms** 75 CZK
 
 ***Offer is valid on Wednesday 22.10. from 10:30 until closing time or while stocks last.***
