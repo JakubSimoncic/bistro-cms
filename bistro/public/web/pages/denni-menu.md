@@ -16,9 +16,9 @@ title: Denní menu CZ
 ## HLAVNÍ JÍDLA
 
 * **Vepřové na houbách a pečená jasmínová rýže** 165 Kč
-* **Polévka + Plněný bramborový knedlík uzeným masem, dušené bílé hlávkové zelí, cibulka a vídeňská cibulka** 165 Kč
+* **Plněný bramborový knedlík uzeným masem, dušené bílé hlávkové zelí, cibulka a vídeňská cibulka** 165 Kč
 * **Smažený karbanátek, bramborová kaše a kyselá okurka** 165 Kč
-* **Kuřecí křídla v BBQ omáčce, zelný salát coleslaw a smažené hranolky** 185 Kč
+* **Kuřecí křídla v BBQ omáčce, zelný salát coleslaw a smažené hranolky** 175 Kč
 * **Hovězí guláš s cibulkou a beraním rohem, domácí houskový knedlík** 185 Kč
 * **Kuřecí řízek, bramborový salát a citron** 175 Kč
 * **Smažený sýr, hranolky a tatarská omáčka** 175 Kč
