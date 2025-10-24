@@ -11,7 +11,7 @@ title: Denní menu - EN
 ## SMALL SOUP FOR THE MAIN COURSE – 250ml
 
 * **Beef broth with meat, vegetables and liver rice** 35 CZK
-* **Lentil soup with sausage** 35 CZK
+* **Tripe soup** 35 CZK
 
 ## MAIN COURSES
 
@@ -26,6 +26,6 @@ title: Denní menu - EN
 
 ## LARGE SOUP ORDERED SEPARATELY – 500ml
 
-* **Beef broth with meat, vegetables and liver rice or Lentil soup with sausage** 75 CZK
+* **Beef broth with meat, vegetables and liver rice or Tripe soup** 75 CZK
 
 ***Offer is valid on Saturday 25.10. from 10:30 until closing time or while stocks last.***
