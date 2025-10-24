@@ -15,7 +15,7 @@ title: Denní menu CZ
 
 ## HLAVNÍ JÍDLA
 
-* **Smažený karbanátek, vařené brambory, hořčice a cibulka** 165 Kč
+* **Zapečené šunkofleky s uzeným masem, kyselá okurka** 165 Kč
 * **Rozlítaný vepřový španělský ptáček a dušená jasmínová rýže** 165 Kč
 * **BBQ pečená kuřecí křídla, salátek Coleslaw, smažené hranolky nebo šťouchané brambory** 175 Kč
 * **Svíčková na smetaně, domácí houskový knedlík a brusinkový terč** 185 Kč
