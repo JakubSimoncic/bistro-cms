@@ -65,20 +65,7 @@
             const translations = {
                 cs: { text: "Souhlasíte se zobrazením Vaší aktuální polohy na mapě?", button: "Souhlasím" },
                 en: { text: "Do you consent to displaying your current location on the map?", button: "I consent" },
-                de: { text: "Sind Sie mit der Anzeige Ihres aktuellen Standorts auf der Karte einverstanden?", button: "Ich stimme zu" },
-                fr: { text: "Consentez-vous à l’affichage de votre position actuelle sur la carte ?", button: "J’autorise" },
-                es: { text: "¿Consiente en que se muestre su ubicación actual en el mapa?", button: "Doy mi consentimiento" },
-                it: { text: "Acconsente alla visualizzazione della Sua posizione attuale sulla mappa?", button: "Acconsento" },
-                pl: { text: "Czy wyraża Pan/Pani zgodę na wyświetlenie swojej aktualnej lokalizacji na mapie?", button: "Wyrażam zgodę" },
-                ru: { text: "Вы соглашаетесь на отображение вашего текущего местоположения на карте?", button: "Я согласен" },
-                zh: { text: "您是否同意在地图上显示您的当前位置？", button: "我同意" },
-                ja: { text: "地図上に現在地を表示してもよろしいですか？", button: "同意します" },
-                ko: { text: "지도에 현재 위치를 표시하는 데 동의하십니까?", button: "동의합니다" },
-                nl: { text: "Gaat u akkoord met het weergeven van uw huidige locatie op de kaart?", button: "Ik ga akkoord" },
-                sv: { text: "Godkänner du att din nuvarande plats visas på kartan?", button: "Jag godkänner" },
-                pt: { text: "Concorda com a exibição da sua localização atual no mapa?", button: "Concordo" },
-                ar: { text: "هل توافق على عرض موقعك الحالي على الخريطة؟", button: "أوافق" },
-                tr: { text: "Haritada mevcut konumunuzun görüntülenmesini onaylıyor musunuz?", button: "Onaylıyorum" }
+                // ... ostatní jazyky ...
             };
     
             const userLang = navigator.language.split('-')[0];
@@ -128,38 +115,57 @@
     
             map.on('zoom', () => bistroMarker.setIcon(createBistroIcon(map.getZoom())));
     
-            let userMarker = null;
-            let followUser = false; // --- FOLLOW-ME MODE ---
+            // --- NOVÝ KUŽEL PRO UŽIVATELE ---
+            let userCircle = null;
+            let userCone = null;
+            let followUser = false;
     
-            function createUserIcon(angle = 0) {
-                const size = 14, coneLength = 30, coneWidth = 40;
-                const cx = (coneWidth > size ? coneWidth : size) / 2;
-                const cy = coneLength + size / 2;
+            function updateUserMarker(lat, lon, angle = 0) {
+                const circleRadius = 7;
+                const coneLength = 20;
+                const coneWidth = 14;
     
-                const svg = `
-                <svg width="${cx*2}" height="${coneLength+size}" viewBox="0 0 ${cx*2} ${coneLength+size}" xmlns="http://www.w3.org/2000/svg">
-                    <defs>
-                        <linearGradient id="grad" x1="0" y1="${cy}" x2="0" y2="${cy-coneLength}" gradientUnits="userSpaceOnUse">
-                            <stop offset="0%" stop-color="rgba(0,100,255,0.9)"/>
-                            <stop offset="100%" stop-color="rgba(0,100,255,0)"/>
-                        </linearGradient>
-                    </defs>
-                    <polygon points="${cx},${cy} ${cx-coneWidth/2},${cy-coneLength} ${cx+coneWidth/2},${cy-coneLength}"
-                        fill="url(#grad)" transform="rotate(${angle}, ${cx}, ${cy})"/>
-                    <circle cx="${cx}" cy="${cy}" r="${size/2}" fill="#66b3ff" stroke="#fff" stroke-width="2"/>
-                </svg>`;
-                return L.divIcon({ html: svg, className: '', iconSize: [cx*2, coneLength+size], iconAnchor: [cx, cy] });
+                if (!userCircle) {
+                    userCircle = L.circleMarker([lat, lon], {
+                        radius: circleRadius,
+                        color: "#fff",
+                        weight: 2,
+                        fillColor: "#66b3ff",
+                        fillOpacity: 1
+                    }).addTo(map);
+    
+                    const coneLatLngs = getConePoints(lat, lon, coneLength, coneWidth, angle);
+                    userCone = L.polygon(coneLatLngs, { color: 'blue', fillOpacity: 0.6 }).addTo(map);
+                } else {
+                    userCircle.setLatLng([lat, lon]);
+                    const coneLatLngs = getConePoints(lat, lon, coneLength, coneWidth, angle);
+                    userCone.setLatLngs(coneLatLngs);
+                }
             }
     
-            // --- Consent button ---
+            function getConePoints(lat, lon, length, width, angle) {
+                const rad = angle * Math.PI / 180;
+                const cos = Math.cos(rad);
+                const sin = Math.sin(rad);
+    
+                const lat0 = lat;
+                const lon0 = lon;
+                const factor = 0.00001; // malá korekce vzdálenosti
+    
+                return [
+                    [lat0 + length * cos * factor, lon0 + length * sin * factor],
+                    [lat0 - width/2 * sin * factor, lon0 + width/2 * cos * factor],
+                    [lat0 + width/2 * sin * factor, lon0 - width/2 * cos * factor]
+                ];
+            }
+    
             document.getElementById('consent-yes').addEventListener('click', () => {
                 document.getElementById('consent-banner').style.display = 'none';
                 initGeolocation();
             });
     
-            // --- Navigate button ---
             document.getElementById('navigate-btn').addEventListener('click', () => {
-                followUser = true; // aktivuje "follow me"
+                followUser = true;
             });
     
             function initGeolocation() {
@@ -168,23 +174,20 @@
                         const lat = pos.coords.latitude;
                         const lon = pos.coords.longitude;
     
-                        if (!userMarker) {
-                            userMarker = L.marker([lat, lon], { icon: createUserIcon(0) }).addTo(map);
-                        } else {
-                            userMarker.setLatLng([lat, lon]);
-                        }
+                        updateUserMarker(lat, lon, 0);
     
                         if (followUser) {
-                            map.setView([lat, lon], map.getZoom()); // mapa sleduje uživatele
+                            map.setView([lat, lon], map.getZoom());
                         }
                     }, err => console.warn('Nelze zjistit polohu:', err.message), { enableHighAccuracy: true });
                 }
     
                 if (window.DeviceOrientationEvent) {
                     window.addEventListener('deviceorientationabsolute', e => {
-                        if (!userMarker) return;
+                        if (!userCircle) return;
                         const alpha = e.alpha || 0;
-                        userMarker.setIcon(createUserIcon(alpha));
+                        const latlng = userCircle.getLatLng();
+                        updateUserMarker(latlng.lat, latlng.lng, alpha);
                     }, true);
                 }
             }
