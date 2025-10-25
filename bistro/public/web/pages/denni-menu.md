@@ -10,8 +10,8 @@ title: Denní menu CZ
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
+* **Boršč se zakysanou smetanou** 35 Kč
 * **Čočková polévka s uzeninou** 35 Kč
-* **Dršťková polévka** 35 Kč
 
 ## HLAVNÍ JÍDLA
 
