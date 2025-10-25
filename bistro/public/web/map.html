@@ -1,186 +1,223 @@
 <!doctype html>
 <html lang="cs">
-<head>
-<meta charset="utf-8" />
-<meta name="viewport" content="width=device-width,initial-scale=1"/>
-<title>Map Bistro Florenc</title>
-<link href="https://unpkg.com/maplibre-gl@2.4.0/dist/maplibre-gl.css" rel="stylesheet"/>
-<style>
-html, body, #map { height:100%; margin:0; padding:0; }
-
-#consent-banner {
-    position: fixed; bottom:0; left:0; right:0;
-    background:#222; color:#fff; padding:10px;
-    text-align:center; z-index:9999; font-family:sans-serif;
-}
-#consent-banner button {
-    margin-left:10px; padding:5px 10px; cursor:pointer;
-}
-#consent-banner button:hover { scale:1.05; background-color:#4ff749; }
-
-#navigate-btn {
-    position: fixed; top:30px; right:30px;
-    z-index:9999; padding:10px 15px;
-    font-size:16px; background-color:#222;
-    color:#fff; border:2px solid #fff;
-    border-radius:8px; cursor:pointer;
-}
-#navigate-btn:hover { scale:1.05; }
-#navigate-btn:active { background-color:#555; }
-</style>
-</head>
-<body>
-
-<div id="consent-banner">
-    <span id="consent-text"></span>
-    <button id="consent-yes"></button>
-</div>
-
-<div id="map"></div>
-<button id="navigate-btn">Navigovat</button>
-
-<script src="https://unpkg.com/maplibre-gl@2.4.0/dist/maplibre-gl.js"></script>
-<script>
-// --- Překlady ---
-const translations = {
-    cs: { text:"Souhlasíte se zobrazením Vaší aktuální polohy na mapě?", button:"Souhlasím" },
-    en: { text:"Do you consent to displaying your current location on the map?", button:"I consent" }
-};
-const userLang = navigator.language.split('-')[0];
-const lang = translations[userLang]?userLang:'en';
-document.getElementById('consent-text').textContent = translations[lang].text;
-document.getElementById('consent-yes').textContent = translations[lang].button;
-
-// --- Inicializace mapy ---
-const map = new maplibregl.Map({
-    container: 'map',
-    style: 'https://demotiles.maplibre.org/style.json',
-    center: [14.4399,50.0896],
-    zoom: 18,
-    pitch: 0,
-    bearing: 0
-});
-
-// --- Přidání navigační trasy ---
-const route = [
-    [14.4405633,50.0894811],
-    [14.4404008,50.0895775],
-    [14.4401647,50.0900086],
-    [14.4398969,50.0899431],
-    [14.4398225,50.0900994],
-    [14.4400336,50.0901481]
-];
-map.on('load', () => {
-    map.addSource('route', {
-        'type':'geojson',
-        'data':{
-            'type':'Feature',
-            'geometry':{
-                'type':'LineString',
-                'coordinates': route
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width,initial-scale=1"/>
+        <title>Map Bistro Florenc</title>
+        <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"/>
+        <style>
+            html, body, #map {
+                height:100%;
+                margin:0;
+                padding:0;
             }
-        }
-    });
-    map.addLayer({
-        'id':'route-line',
-        'type':'line',
-        'source':'route',
-        'layout': {'line-join':'round','line-cap':'round'},
-        'paint': {'line-color':'blue','line-width':4}
-    });
-});
-
-// --- Bistro marker ---
-const bistroLatLng = [14.4400336,50.0901481];
-const bistroPng = 'LOGO2.png';
-const bistroMarker = document.createElement('div');
-bistroMarker.style.width='35px';
-bistroMarker.style.height='35px';
-bistroMarker.style.border='3px solid black';
-bistroMarker.style.borderRadius='50%';
-bistroMarker.style.backgroundColor='white';
-bistroMarker.style.overflow='hidden';
-bistroMarker.style.display='flex';
-bistroMarker.style.alignItems='center';
-bistroMarker.style.justifyContent='center';
-const img = document.createElement('img');
-img.src=bistroPng;
-img.style.width='100%'; img.style.height='100%'; img.style.objectFit='cover';
-bistroMarker.appendChild(img);
-new maplibregl.Marker(bistroMarker).setLngLat(bistroLatLng).addTo(map);
-
-// --- Kuželový marker uživatele ---
-let userMarkerEl = document.createElement('div');
-userMarkerEl.style.width='16px'; userMarkerEl.style.height='33px';
-userMarkerEl.innerHTML = `
-<svg width="16" height="33" xmlns="http://www.w3.org/2000/svg" style="overflow:visible;">
-  <defs>
-    <linearGradient id="grad" x1="0" y1="0" x2="0" y2="25" gradientUnits="userSpaceOnUse">
-      <stop offset="0%" stop-color="rgba(0,100,255,0.7)"/>
-      <stop offset="100%" stop-color="rgba(0,100,255,0)"/>
-    </linearGradient>
-  </defs>
-  <polygon points="8,33 0,8 16,8" fill="url(#grad)"/>
-  <circle cx="8" cy="33" r="8" fill="#66b3ff" stroke="#fff" stroke-width="2"/>
-</svg>`;
-let userMarker = new maplibregl.Marker({element:userMarkerEl, anchor:'bottom'}).setLngLat([14.4399,50.0896]);
-
-let followUser = false;
-
-// --- Consent button ---
-document.getElementById('consent-yes').addEventListener('click', ()=>{
-    document.getElementById('consent-banner').style.display='none';
-    initGeolocation();
-});
-
-// --- Navigate button ---
-document.getElementById('navigate-btn').addEventListener('click', ()=>{
-    followUser=true;
-    // Plynulý 3D naklonění mapy
-    map.easeTo({pitch:60,bearing:0,duration:2000});
-});
-
-function initGeolocation(){
-    if(navigator.geolocation){
-        navigator.geolocation.watchPosition(pos=>{
-            const lat = pos.coords.latitude;
-            const lon = pos.coords.longitude;
-            const newLngLat = [lon,lat];
-
-            // --- První umístění markeru ---
-            if(!userMarker.getLngLat){
-                userMarker.setLngLat(newLngLat).addTo(map);
-            } else {
-                // --- Plynulý přesun ---
-                const start = userMarker.getLngLat();
-                const duration = 1000;
-                const startTime = performance.now();
-                function animate(time){
-                    const t = Math.min((time-startTime)/duration,1);
-                    const lng = start.lng + (newLngLat[0]-start.lng)*t;
-                    const lat = start.lat + (newLngLat[1]-start.lat)*t;
-                    userMarker.setLngLat([lng,lat]);
-                    if(t<1) requestAnimationFrame(animate);
+            
+            #consent-banner {
+                position: fixed;
+                bottom: 0;
+                left: 0;
+                right: 0;
+                background: #222;
+                color: #fff;
+                padding: 10px;
+                text-align: center;
+                z-index: 9999;
+                font-family: sans-serif;
+            }
+            #consent-banner button {
+                margin-left:10px;
+                padding:5px 10px;
+                cursor:pointer;
+            }
+            #consent-banner button:hover {
+                scale: 1.05;
+                background-color: #4ff749;
+            }
+    
+            #navigate-btn {
+                position: fixed;
+                top: 30px;
+                right: 30px;
+                z-index: 9999;
+                padding: 10px 15px;
+                font-size: 16px;
+                background-color: #222;
+                color: #fff;
+                border: 2px solid #fff;
+                border-radius: 8px;
+                cursor: pointer;
+            }
+            #navigate-btn:hover { scale: 1.05; }
+            #navigate-btn:active { background-color: #555; }
+        </style>
+    </head>
+    <body>
+        <div id="consent-banner">
+            <span id="consent-text"></span>
+            <button id="consent-yes"></button>
+        </div>
+    
+        <div id="map"></div>
+        <button id="navigate-btn">Navigovat</button>
+    
+        <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+        <script>
+            const translations = {
+                cs: { text: "Souhlasíte se zobrazením Vaší aktuální polohy na mapě?", button: "Souhlasím" },
+                en: { text: "Do you consent to displaying your current location on the map?", button: "I consent" }
+            };
+            const userLang = navigator.language.split('-')[0];
+            const lang = translations[userLang] ? userLang : 'en';
+            document.getElementById('consent-text').textContent = translations[lang].text;
+            document.getElementById('consent-yes').textContent = translations[lang].button;
+    
+            // --- Map setup ---
+            const map = L.map('map').setView([50.0896, 14.4399], 18);
+            L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+                maxZoom: 20,
+                attribution: '&copy; OpenStreetMap'
+            }).addTo(map);
+    
+            const route = [
+                [50.0894811, 14.4405633],
+                [50.0895775, 14.4404008],
+                [50.0900086, 14.4401647],
+                [50.0899431, 14.4398969],
+                [50.0900994, 14.4398225],
+                [50.0901481, 14.4400336]
+            ];
+            L.polyline(route, { color: 'blue', weight: 5 }).addTo(map);
+            map.fitBounds(route);
+    
+            const bistroLatLng = [50.0901481, 14.4400336];
+            const bistroPng = 'LOGO2.png';
+            let bistroMarker = L.marker(bistroLatLng, { icon: createBistroIcon(map.getZoom()) }).addTo(map);
+    
+            function createBistroIcon(zoom) {
+                const size = 35 * (zoom / 18);
+                const html = `
+                    <div style="
+                        width:${size}px; height:${size}px;
+                        border-radius:50%;
+                        border:3px solid black;
+                        background-color:white;
+                        overflow:hidden;
+                        display:flex;
+                        align-items:center;
+                        justify-content:center;
+                    ">
+                        <img src="${bistroPng}" style="width:100%; height:100%; object-fit:cover;">
+                    </div>`;
+                return L.divIcon({ html: html, className: '', iconSize: [size, size], iconAnchor: [size / 2, size / 2] });
+            }
+    
+            map.on('zoom', () => bistroMarker.setIcon(createBistroIcon(map.getZoom())));
+    
+            let userMarker = null;
+            let followUser = false;
+    
+            // ✅ Upravená verze kuželu, který se nezanořuje do mapy
+            function createUserIcon(angle = 0) {
+                const circleRadius = 8;
+                const coneHeight = 25;
+                const coneWidth = 16;
+            
+                // Celková výška ikonky = výška kuželu + poloměr kruhu
+                const totalHeight = coneHeight + circleRadius * 2;
+                const cx = coneWidth / 2; // střed X
+            
+                // SVG: kužel začíná u středu kruhu (cx, cy kruhu)
+                const svg = `
+                    <svg width="${coneWidth}" height="${totalHeight}" xmlns="http://www.w3.org/2000/svg" style="overflow:visible;">
+                        <defs>
+                            <linearGradient id="grad" x1="0" y1="0" x2="0" y2="${coneHeight}" gradientUnits="userSpaceOnUse">
+                                <stop offset="0%" stop-color="rgba(0,100,255,0.7)"/>
+                                <stop offset="100%" stop-color="rgba(0,100,255,0)"/>
+                            </linearGradient>
+                        </defs>
+            
+                        <!-- kužel, který má základnu ve středu kruhu -->
+                        <polygon 
+                            points="${cx},${totalHeight - circleRadius} ${cx - coneWidth/2},${totalHeight - circleRadius - coneHeight} ${cx + coneWidth/2},${totalHeight - circleRadius - coneHeight}"
+                            fill="url(#grad)"
+                            transform="rotate(${angle}, ${cx}, ${totalHeight - circleRadius})"
+                        />
+            
+                        <!-- kruh -->
+                        <circle 
+                            cx="${cx}" 
+                            cy="${totalHeight - circleRadius}" 
+                            r="${circleRadius}" 
+                            fill="#66b3ff" 
+                            stroke="#fff" 
+                            stroke-width="2"
+                        />
+                    </svg>
+                `;
+                
+                return L.divIcon({
+                    html: svg,
+                    className: '',
+                    iconSize: [coneWidth, totalHeight],
+                    iconAnchor: [cx, totalHeight - circleRadius], // ukotvení do středu kruhu
+                    pane: 'overlayPane'
+                });
+            }
+    
+            // --- Consent button ---
+            document.getElementById('consent-yes').addEventListener('click', () => {
+                document.getElementById('consent-banner').style.display = 'none';
+                initGeolocation();
+            });
+    
+            // --- Navigate button ---
+            document.getElementById('navigate-btn').addEventListener('click', () => {
+                followUser = true;
+            });
+            
+            function initGeolocation() {
+                if (navigator.geolocation) {
+                    navigator.geolocation.watchPosition(pos => {
+                        const lat = pos.coords.latitude;
+                        const lon = pos.coords.longitude;
+                        const newLatLng = L.latLng(lat, lon);
+            
+                        // --- poprvé vytvoří marker ---
+                        if (!userMarker) {
+                            userMarker = L.marker(newLatLng, { icon: createUserIcon(0) }).addTo(map);
+                        } 
+                        else {
+                            // --- plynulý přechod ---
+                            const duration = 1000; // délka animace v ms
+                            const start = performance.now();
+                            const startLatLng = userMarker.getLatLng();
+            
+                            function animate(time) {
+                                const t = Math.min((time - start) / duration, 1); // průběh 0–1
+                                const latInterpol = startLatLng.lat + (newLatLng.lat - startLatLng.lat) * t;
+                                const lngInterpol = startLatLng.lng + (newLatLng.lng - startLatLng.lng) * t;
+                                userMarker.setLatLng([latInterpol, lngInterpol]);
+            
+                                if (t < 1) requestAnimationFrame(animate);
+                            }
+                            requestAnimationFrame(animate);
+                        }
+            
+                        // --- sledování uživatele ---
+                        if (followUser) map.setView(newLatLng, map.getZoom());
+                    }, 
+                    err => console.warn('Nelze zjistit polohu:', err.message),
+                    { enableHighAccuracy: true });
                 }
-                requestAnimationFrame(animate);
+            
+                if (window.DeviceOrientationEvent) {
+                    window.addEventListener('deviceorientationabsolute', e => {
+                        if (!userMarker) return;
+                        const alpha = e.alpha || 0;
+                        userMarker.setIcon(createUserIcon(alpha));
+                    }, true);
+                }
             }
-
-            // --- Sledování uživatele ---
-            if(followUser){
-                map.easeTo({center:newLngLat, duration:500});
-            }
-
-        },err=>console.warn('Nelze zjistit polohu:',err.message),
-        {enableHighAccuracy:true});
-    }
-
-    if(window.DeviceOrientationEvent){
-        window.addEventListener('deviceorientationabsolute', e=>{
-            const alpha = e.alpha||0;
-            userMarkerEl.style.transform = `rotate(${alpha}deg)`;
-        },true);
-    }
-}
-</script>
-</body>
+        </script>
+    </body>
 </html>
