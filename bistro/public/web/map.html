@@ -134,7 +134,7 @@
             function createUserIcon(angle = 0) {
                 const size = 14, coneLength = 30, coneWidth = 40;
                 const cx = (coneWidth > size ? coneWidth : size) / 2;
-                const cy = coneLength + size / 2;
+                const cy = coneLength;
     
                 const svg = `
                 <svg width="${cx*2}" height="${coneLength+size}" viewBox="0 0 ${cx*2} ${coneLength+size}" xmlns="http://www.w3.org/2000/svg">
@@ -191,3 +191,4 @@
         </script>
     </body>
 </html>
+
