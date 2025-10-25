@@ -132,24 +132,36 @@
             let followUser = false; // --- FOLLOW-ME MODE ---
     
             function createUserIcon(angle = 0) {
-                const size = 14, coneLength = 30, coneWidth = 40;
-                const cx = (coneWidth > size ? coneWidth : size) / 2;
-                const cy = coneLength;
-    
+                const circleRadius = 14;       // průměr kruhu
+                const coneLength = 30;         // délka trojúhelníku
+                const coneWidth = 40;          // šířka trojúhelníku
+            
+                const width = coneWidth + 4;   // trochu prostoru kolem SVG
+                const height = coneLength + circleRadius*2 + 4;
+                const cx = width / 2;
+                const cy = circleRadius + coneLength; // anchor přesně u středu kruhu
+            
                 const svg = `
-                <svg width="${cx*2}" height="${coneLength+size}" viewBox="0 0 ${cx*2} ${coneLength+size}" xmlns="http://www.w3.org/2000/svg">
+                <svg width="${width}" height="${height}" viewBox="0 0 ${width} ${height}" xmlns="http://www.w3.org/2000/svg">
                     <defs>
-                        <linearGradient id="grad" x1="0" y1="${cy}" x2="0" y2="${cy-coneLength}" gradientUnits="userSpaceOnUse">
-                            <stop offset="0%" stop-color="rgba(0,100,255,0.9)"/>
+                        <linearGradient id="grad" x1="0" y1="0" x2="0" y2="${coneLength}" gradientUnits="userSpaceOnUse">
+                            <stop offset="0%" stop-color="rgba(0,100,255,0.8)"/>
                             <stop offset="100%" stop-color="rgba(0,100,255,0)"/>
                         </linearGradient>
                     </defs>
-                    <polygon points="${cx},${cy} ${cx-coneWidth/2},${cy-coneLength} ${cx+coneWidth/2},${cy-coneLength}"
-                        fill="url(#grad)" transform="rotate(${angle}, ${cx}, ${cy})"/>
-                    <circle cx="${cx}" cy="${cy}" r="${size/2}" fill="#66b3ff" stroke="#fff" stroke-width="2"/>
+                    <polygon points="${cx},0 ${cx-coneWidth/2},${coneLength} ${cx+coneWidth/2},${coneLength}"
+                             fill="url(#grad)" transform="rotate(${angle}, ${cx}, ${cy-coneLength/2})"/>
+                    <circle cx="${cx}" cy="${cy}" r="${circleRadius}" fill="#66b3ff" stroke="#fff" stroke-width="2"/>
                 </svg>`;
-                return L.divIcon({ html: svg, className: '', iconSize: [cx*2, coneLength+size], iconAnchor: [cx, cy] });
+            
+                return L.divIcon({
+                    html: svg,
+                    className: '',
+                    iconSize: [width, height],
+                    iconAnchor: [cx, cy]
+                });
             }
+
     
             // --- Consent button ---
             document.getElementById('consent-yes').addEventListener('click', () => {
@@ -191,4 +203,5 @@
         </script>
     </body>
 </html>
+
 
