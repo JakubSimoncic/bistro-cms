@@ -49,6 +49,12 @@
         }
         #navigate-btn:hover { scale: 1.05; }
         #navigate-btn:active { background-color: #555; }
+
+        /* Přidá plynulý přechod při změně perspektivy */
+        #map {
+            transition: transform 0.8s ease;
+            transform-origin: center bottom;
+        }
     </style>
 </head>
 <body>
@@ -115,6 +121,7 @@
 
         let userMarker = null;
         let followUser = false;
+        let is3D = false; // přidáno
 
         // ✅ Upravená verze kuželu, který se nezanořuje do mapy
         function createUserIcon(angle = 0) {
@@ -122,11 +129,9 @@
             const coneHeight = 25;
             const coneWidth = 16;
         
-            // Celková výška ikonky = výška kuželu + poloměr kruhu
             const totalHeight = coneHeight + circleRadius * 2;
-            const cx = coneWidth / 2; // střed X
+            const cx = coneWidth / 2;
         
-            // SVG: kužel začíná u středu kruhu (cx, cy kruhu)
             const svg = `
                 <svg width="${coneWidth}" height="${totalHeight}" xmlns="http://www.w3.org/2000/svg" style="overflow:visible;">
                     <defs>
@@ -135,15 +140,11 @@
                             <stop offset="100%" stop-color="rgba(0,100,255,0)"/>
                         </linearGradient>
                     </defs>
-        
-                    <!-- kužel, který má základnu ve středu kruhu -->
                     <polygon 
                         points="${cx},${totalHeight - circleRadius} ${cx - coneWidth/2},${totalHeight - circleRadius - coneHeight} ${cx + coneWidth/2},${totalHeight - circleRadius - coneHeight}"
                         fill="url(#grad)"
                         transform="rotate(${angle}, ${cx}, ${totalHeight - circleRadius})"
                     />
-        
-                    <!-- kruh -->
                     <circle 
                         cx="${cx}" 
                         cy="${totalHeight - circleRadius}" 
@@ -159,7 +160,7 @@
                 html: svg,
                 className: '',
                 iconSize: [coneWidth, totalHeight],
-                iconAnchor: [cx, totalHeight - circleRadius], // ukotvení do středu kruhu
+                iconAnchor: [cx, totalHeight - circleRadius],
                 pane: 'overlayPane'
             });
         }
@@ -173,6 +174,14 @@
         // --- Navigate button ---
         document.getElementById('navigate-btn').addEventListener('click', () => {
             followUser = true;
+            const mapDiv = document.getElementById('map');
+
+            if (!is3D) {
+                mapDiv.style.transform = 'perspective(800px) rotateX(45deg)';
+            } else {
+                mapDiv.style.transform = 'none';
+            }
+            is3D = !is3D;
         });
         
         function initGeolocation() {
@@ -182,18 +191,15 @@
                     const lon = pos.coords.longitude;
                     const newLatLng = L.latLng(lat, lon);
         
-                    // --- poprvé vytvoří marker ---
                     if (!userMarker) {
                         userMarker = L.marker(newLatLng, { icon: createUserIcon(0) }).addTo(map);
-                    } 
-                    else {
-                        // --- plynulý přechod ---
-                        const duration = 1000; // délka animace v ms
+                    } else {
+                        const duration = 1000;
                         const start = performance.now();
                         const startLatLng = userMarker.getLatLng();
         
                         function animate(time) {
-                            const t = Math.min((time - start) / duration, 1); // průběh 0–1
+                            const t = Math.min((time - start) / duration, 1);
                             const latInterpol = startLatLng.lat + (newLatLng.lat - startLatLng.lat) * t;
                             const lngInterpol = startLatLng.lng + (newLatLng.lng - startLatLng.lng) * t;
                             userMarker.setLatLng([latInterpol, lngInterpol]);
@@ -203,7 +209,6 @@
                         requestAnimationFrame(animate);
                     }
         
-                    // --- sledování uživatele ---
                     if (followUser) map.setView(newLatLng, map.getZoom());
                 }, 
                 err => console.warn('Nelze zjistit polohu:', err.message),
