@@ -10,7 +10,7 @@ title: Denní menu CZ
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
-* **Hovězí vývar s masem, zeleninou a játrovou rýží** 35 Kč
+* **Hovězí vývar s masem, zeleninou a rýží** 35 Kč
 * **Dršťková polévka** 35 Kč
 
 ## HLAVNÍ JÍDLA
@@ -26,7 +26,7 @@ title: Denní menu CZ
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTATNĚ – 500ml
 
-* **Hovězí vývar s masem, zeleninou a játrovou rýží nebo dršťková polévka** 75 Kč
+* **Hovězí vývar s masem, zeleninou a rýží nebo dršťková polévka** 75 Kč
 
 
 ***Nabídka platí v sobotu 25.10. od 10:30 do zavírací hodiny nebo do vyprodání.***
