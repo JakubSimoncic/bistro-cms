@@ -121,10 +121,12 @@
             const circleRadius = 8;
             const coneHeight = 25;
             const coneWidth = 16;
+        
+            // Celková výška ikonky = výška kuželu + poloměr kruhu
             const totalHeight = coneHeight + circleRadius * 2;
-            const cx = coneWidth / 2;
-            const cy = coneHeight;
-
+            const cx = coneWidth / 2; // střed X
+        
+            // SVG: kužel začíná u středu kruhu (cx, cy kruhu)
             const svg = `
                 <svg width="${coneWidth}" height="${totalHeight}" xmlns="http://www.w3.org/2000/svg" style="overflow:visible;">
                     <defs>
@@ -133,18 +135,32 @@
                             <stop offset="100%" stop-color="rgba(0,100,255,0)"/>
                         </linearGradient>
                     </defs>
-                    <polygon points="${cx},${coneHeight} ${cx-coneWidth/2},0 ${cx+coneWidth/2},0"
-                        fill="url(#grad)" transform="rotate(${angle}, ${cx}, ${coneHeight/2})"/>
-                    <circle cx="${cx}" cy="${totalHeight - circleRadius}" r="${circleRadius}" fill="#66b3ff" stroke="#fff" stroke-width="2"/>
+        
+                    <!-- kužel, který má základnu ve středu kruhu -->
+                    <polygon 
+                        points="${cx},${totalHeight - circleRadius} ${cx - coneWidth/2},${totalHeight - circleRadius - coneHeight} ${cx + coneWidth/2},${totalHeight - circleRadius - coneHeight}"
+                        fill="url(#grad)"
+                        transform="rotate(${angle}, ${cx}, ${totalHeight - circleRadius})"
+                    />
+        
+                    <!-- kruh -->
+                    <circle 
+                        cx="${cx}" 
+                        cy="${totalHeight - circleRadius}" 
+                        r="${circleRadius}" 
+                        fill="#66b3ff" 
+                        stroke="#fff" 
+                        stroke-width="2"
+                    />
                 </svg>
             `;
-
+        
             return L.divIcon({
                 html: svg,
                 className: '',
                 iconSize: [coneWidth, totalHeight],
-                iconAnchor: [cx, totalHeight - circleRadius / 2], // posun, aby se kruh neponořil
-                pane: 'overlayPane' // ⬅ zajišťuje, že marker bude nad mapou
+                iconAnchor: [cx, totalHeight - circleRadius], // ukotvení do středu kruhu
+                pane: 'overlayPane'
             });
         }
 
@@ -186,3 +202,4 @@
     </script>
 </body>
 </html>
+
