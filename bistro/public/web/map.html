@@ -45,7 +45,7 @@
 
 <script src="https://unpkg.com/maplibre-gl@2.4.0/dist/maplibre-gl.js"></script>
 <script>
-// --- Překlady ---
+// Překlady
 const translations = {
     cs: { text: "Souhlasíte se zobrazením Vaší aktuální polohy na mapě?", button: "Souhlasím" },
     en: { text: "Do you consent to displaying your current location on the map?", button: "I consent" }
@@ -55,7 +55,7 @@ const lang = translations[userLang] ? userLang : 'en';
 document.getElementById('consent-text').textContent = translations[lang].text;
 document.getElementById('consent-yes').textContent = translations[lang].button;
 
-// --- MapLibre GL setup ---
+// MapLibre GL setup
 const map = new maplibregl.Map({
     container: 'map',
     style: 'https://api.maptiler.com/maps/streets/style.json?key=Pc9uiLvzyWXr8WnVXScH',
@@ -67,7 +67,7 @@ const map = new maplibregl.Map({
 });
 map.addControl(new maplibregl.NavigationControl());
 
-// --- Trasa ---
+// Trasa
 const route = {
     type: 'Feature',
     geometry: { type: 'LineString',
@@ -129,7 +129,7 @@ map.on('load', () => {
     }, labelLayerId);
 });
 
-// --- Geolokace uživatele ---
+// Geolokace uživatele
 let userMarker = null;
 let followUser = false;
 let navigating = false;
@@ -154,11 +154,15 @@ document.getElementById('navigate-btn').addEventListener('click', () => {
     }
 });
 
-// 2D a 3D tlačítka
-document.getElementById('view-2d').addEventListener('click', () => { map.easeTo({ pitch: 0, bearing: 0, duration: 1000 }); });
-document.getElementById('view-3d').addEventListener('click', () => { map.easeTo({ pitch: 60, bearing: -20, duration: 1000 }); });
+// 2D a 3D tlačítka - fungují jen mimo navigaci
+document.getElementById('view-2d').addEventListener('click', () => {
+    if (!navigating) map.easeTo({ pitch: 0, bearing: 0, duration: 1000 });
+});
+document.getElementById('view-3d').addEventListener('click', () => {
+    if (!navigating) map.easeTo({ pitch: 60, bearing: -20, duration: 1000 });
+});
 
-// Geolokace s automatickým návratem
+// Geolokace s automatickým návratem po 5 sekundách nečinnosti
 function initGeolocation() {
     if (navigator.geolocation) {
         navigator.geolocation.watchPosition(pos => {
@@ -178,11 +182,11 @@ function initGeolocation() {
             }
 
             if (followUser) {
-                // Navigace: sleduj ihned
+                // Navigace: sleduj ihned a přepni pitch/bearing
                 map.easeTo({
                     center: coords,
-                    pitch: navigating ? 60 : map.getPitch(),
-                    bearing: navigating ? -20 : map.getBearing(),
+                    pitch: 60,
+                    bearing: -20,
                     duration: 3000
                 });
             } else {
