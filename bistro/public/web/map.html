@@ -1,198 +1,168 @@
 <!doctype html>
 <html lang="cs">
 <head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width,initial-scale=1"/>
-  <title>Map Bistro Florenc 3D</title>
-  <link rel="stylesheet" href="https://unpkg.com/maplibre-gl@2.4.0/dist/maplibre-gl.css"/>
-  <style>
-    html, body, #map {
-      height:100%;
-      margin:0;
-      padding:0;
-    }
-
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1"/>
+<title>Map Bistro Florenc 3D</title>
+<link rel="stylesheet" href="https://unpkg.com/maplibre-gl@2.4.0/dist/maplibre-gl.css"/>
+<style>
+    html, body, #map { height:100%; margin:0; padding:0; }
     #consent-banner {
-      position: fixed;
-      bottom: 0;
-      left: 0;
-      right: 0;
-      background: #222;
-      color: #fff;
-      padding: 10px;
-      text-align: center;
-      z-index: 9999;
-      font-family: sans-serif;
+        position: fixed; bottom: 0; left: 0; right: 0;
+        background: #222; color: #fff; padding: 10px;
+        text-align: center; z-index: 9999; font-family: sans-serif;
     }
     #consent-banner button {
-      margin-left:10px;
-      padding:5px 10px;
-      cursor:pointer;
+        margin-left:10px; padding:5px 10px; cursor:pointer;
     }
     #consent-banner button:hover {
-      scale: 1.05;
-      background-color: #4ff749;
+        scale: 1.05; background-color: #4ff749;
     }
-
     #navigate-btn {
-      position: fixed;
-      top: 30px;
-      right: 30px;
-      z-index: 9999;
-      padding: 10px 15px;
-      font-size: 16px;
-      background-color: #222;
-      color: #fff;
-      border: 2px solid #fff;
-      border-radius: 8px;
-      cursor: pointer;
+        position: fixed; top: 30px; right: 30px; z-index: 9999;
+        padding: 10px 15px; font-size: 16px; background-color: #222;
+        color: #fff; border: 2px solid #fff; border-radius: 8px; cursor: pointer;
     }
     #navigate-btn:hover { scale: 1.05; }
     #navigate-btn:active { background-color: #555; }
-  </style>
+</style>
 </head>
 <body>
-  <div id="consent-banner">
+<div id="consent-banner">
     <span id="consent-text"></span>
     <button id="consent-yes"></button>
-  </div>
+</div>
 
-  <div id="map"></div>
-  <button id="navigate-btn">Navigovat</button>
+<div id="map"></div>
+<button id="navigate-btn">Navigovat</button>
 
-  <script src="https://unpkg.com/maplibre-gl@2.4.0/dist/maplibre-gl.js"></script>
-  <script>
-    // --- Překlady ---
-    const translations = {
-      cs: { text: "Souhlasíte se zobrazením Vaší aktuální polohy na mapě?", button: "Souhlasím" },
-      en: { text: "Do you consent to displaying your current location on the map?", button: "I consent" }
-    };
-    const userLang = navigator.language.split('-')[0];
-    const lang = translations[userLang] ? userLang : 'en';
-    document.getElementById('consent-text').textContent = translations[lang].text;
-    document.getElementById('consent-yes').textContent = translations[lang].button;
+<script src="https://unpkg.com/maplibre-gl@2.4.0/dist/maplibre-gl.js"></script>
+<script>
+// --- Překlady ---
+const translations = {
+    cs: { text: "Souhlasíte se zobrazením Vaší aktuální polohy na mapě?", button: "Souhlasím" },
+    en: { text: "Do you consent to displaying your current location on the map?", button: "I consent" }
+};
+const userLang = navigator.language.split('-')[0];
+const lang = translations[userLang] ? userLang : 'en';
+document.getElementById('consent-text').textContent = translations[lang].text;
+document.getElementById('consent-yes').textContent = translations[lang].button;
 
-    // --- MapLibre 3D mapa ---
-    const map = new maplibregl.Map({
-      container: 'map',
-      style: 'https://api.maptiler.com/maps/streets/style.json?key=Pc9uiLvzyWXr8WnVXScH',
-      center: [14.4400336, 50.0901481],
-      zoom: 18,
-      pitch: 60,
-      bearing: -20,
-      antialias: true
-    });
+// --- MapLibre GL setup ---
+const map = new maplibregl.Map({
+    container: 'map',
+    style: 'https://api.maptiler.com/maps/streets/style.json?key=Pc9uiLvzyWXr8WnVXScH',
+    center: [14.4400336, 50.0901481],
+    zoom: 18,
+    pitch: 0,     // výchozí 2D
+    bearing: 0,   // výchozí 2D
+    antialias: true
+});
+map.addControl(new maplibregl.NavigationControl());
 
-    map.addControl(new maplibregl.NavigationControl());
-
-    // --- Přidání 3D budov ---
-    map.on('load', () => {
-      const layers = map.getStyle().layers;
-      let labelLayerId;
-      for (let i = 0; i < layers.length; i++) {
-        if (layers[i].type === 'symbol' && layers[i].layout['text-field']) {
-          labelLayerId = layers[i].id;
-          break;
-        }
-      }
-
-      map.addLayer({
-        id: '3d-buildings',
-        source: 'openmaptiles',
-        'source-layer': 'building',
-        type: 'fill-extrusion',
-        minzoom: 15,
-        paint: {
-          'fill-extrusion-color': '#aaa',
-          'fill-extrusion-height': ['get', 'height'],
-          'fill-extrusion-base': ['get', 'min_height'],
-          'fill-extrusion-opacity': 0.6
-        }
-      }, labelLayerId);
-
-      // --- Trasa ---
-      const route = {
-        type: 'Feature',
-        geometry: {
-          type: 'LineString',
-          coordinates: [
+// --- Trasa ---
+const route = {
+    type: 'Feature',
+    geometry: {
+        type: 'LineString',
+        coordinates: [
             [14.4405633, 50.0894811],
             [14.4404008, 50.0895775],
             [14.4401647, 50.0900086],
             [14.4398969, 50.0899431],
             [14.4398225, 50.0900994],
             [14.4400336, 50.0901481]
-          ]
-        }
-      };
-
-      map.addSource('route', {
-        type: 'geojson',
-        data: route
-      });
-
-      map.addLayer({
+        ]
+    }
+};
+map.on('load', () => {
+    // Vrstva trasy
+    map.addSource('route', { type: 'geojson', data: route });
+    map.addLayer({
         id: 'route-line',
         type: 'line',
         source: 'route',
         layout: { 'line-cap': 'round', 'line-join': 'round' },
         paint: { 'line-color': '#0066ff', 'line-width': 5 }
-      });
+    });
 
-      // --- Bistro Florenc (logo marker) ---
-      const bistroEl = document.createElement('div');
-      const img = document.createElement('img');
-      img.src = 'LOGO2.png';
-      img.style.width = '35px';
-      img.style.height = '35px';
-      img.style.borderRadius = '50%';
-      img.style.border = '3px solid black';
-      img.style.background = 'white';
-      img.style.objectFit = 'cover';
-      bistroEl.appendChild(img);
+    // Bistro Florenc (logo marker)
+    const bistroEl = document.createElement('div');
+    const img = document.createElement('img');
+    img.src = 'LOGO2.png';
+    img.style.width = '35px';
+    img.style.height = '35px';
+    img.style.borderRadius = '50%';
+    img.style.border = '3px solid black';
+    img.style.background = 'white';
+    img.style.objectFit = 'cover';
+    bistroEl.appendChild(img);
 
-      new maplibregl.Marker(bistroEl)
+    new maplibregl.Marker(bistroEl)
         .setLngLat([14.4400336, 50.0901481])
         .addTo(map);
-    });
 
-    // --- Geolokace uživatele ---
-    let userMarker = null;
-    let followUser = false;
-
-    document.getElementById('consent-yes').addEventListener('click', () => {
-      document.getElementById('consent-banner').style.display = 'none';
-      initGeolocation();
-    });
-
-    document.getElementById('navigate-btn').addEventListener('click', () => {
-      followUser = true;
-      map.easeTo({ pitch: 60, bearing: -20, zoom: 18 });
-    });
-
-    function initGeolocation() {
-      if (navigator.geolocation) {
-        navigator.geolocation.watchPosition(pos => {
-          const lat = pos.coords.latitude;
-          const lon = pos.coords.longitude;
-          const coords = [lon, lat];
-
-          if (!userMarker) {
-            const el = document.createElement('div');
-            el.style.width = '16px';
-            el.style.height = '16px';
-            el.style.background = '#007bff';
-            el.style.borderRadius = '50%';
-            el.style.border = '2px solid white';
-            userMarker = new maplibregl.Marker(el).setLngLat(coords).addTo(map);
-          } else {
-            userMarker.setLngLat(coords);
-          }
-
-          if (followUser) map.easeTo({ center: coords, pitch: 60, bearing: -20 });
-        }, err => console.warn('Nelze zjistit polohu:', err.message), { enableHighAccuracy: true });
-      }
+    // 3D budovy
+    const layers = map.getStyle().layers;
+    let labelLayerId;
+    for (let i = 0; i < layers.length; i++) {
+        if (layers[i].type === 'symbol' && layers[i].layout['text-field']) {
+            labelLayerId = layers[i].id;
+            break;
+        }
     }
-  </script>
+    map.addLayer({
+        id: '3d-buildings',
+        source: 'openmaptiles',
+        'source-layer': 'building',
+        type: 'fill-extrusion',
+        minzoom: 15,
+        paint: {
+            'fill-extrusion-color': '#aaa',
+            'fill-extrusion-height': ['get', 'height'],
+            'fill-extrusion-base': ['get', 'min_height'],
+            'fill-extrusion-opacity': 0.6
+        }
+    }, labelLayerId);
+});
+
+// --- Geolokace uživatele ---
+let userMarker = null;
+let followUser = false;
+
+document.getElementById('consent-yes').addEventListener('click', () => {
+    document.getElementById('consent-banner').style.display = 'none';
+    initGeolocation();
+});
+
+document.getElementById('navigate-btn').addEventListener('click', () => {
+    followUser = true;
+    map.easeTo({ pitch: 60, bearing: -20, zoom: 18 }); // přepne do 3D
+});
+
+function initGeolocation() {
+    if (navigator.geolocation) {
+        navigator.geolocation.watchPosition(pos => {
+            const lat = pos.coords.latitude;
+            const lon = pos.coords.longitude;
+            const coords = [lon, lat];
+
+            if (!userMarker) {
+                const el = document.createElement('div');
+                el.style.width = '16px';
+                el.style.height = '16px';
+                el.style.background = '#007bff';
+                el.style.borderRadius = '50%';
+                el.style.border = '2px solid white';
+                userMarker = new maplibregl.Marker(el).setLngLat(coords).addTo(map);
+            } else {
+                userMarker.setLngLat(coords);
+            }
+
+            if (followUser) map.easeTo({ center: coords, pitch: 60, bearing: -20 });
+        }, err => console.warn('Nelze zjistit polohu:', err.message), { enableHighAccuracy: true });
+    }
+}
+</script>
 </body>
 </html>
