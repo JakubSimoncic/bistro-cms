@@ -23,12 +23,8 @@
         background-color: #222; color: #fff;
         border: 2px solid #fff; border-radius: 8px; cursor:pointer;
     }
-    #navigate-btn, #view-3d {
-        right: 50px;
-    }
-    #view-2d {
-        right: 110px;
-    }
+    #navigate-btn, #view-3d { right: 50px; }
+    #view-2d { right: 110px; }
     #navigate-btn:hover, #view-2d:hover, #view-3d:hover { scale: 1.05; }
     #navigate-btn:active, #view-2d:active, #view-3d:active { background-color: #555; }
 
@@ -74,8 +70,7 @@ map.addControl(new maplibregl.NavigationControl());
 // --- Trasa ---
 const route = {
     type: 'Feature',
-    geometry: {
-        type: 'LineString',
+    geometry: { type: 'LineString',
         coordinates: [
             [14.4405633, 50.0894811],
             [14.4404008, 50.0895775],
@@ -90,9 +85,7 @@ const route = {
 map.on('load', () => {
     map.addSource('route', { type: 'geojson', data: route });
     map.addLayer({
-        id: 'route-line',
-        type: 'line',
-        source: 'route',
+        id: 'route-line', type: 'line', source: 'route',
         layout: { 'line-cap': 'round', 'line-join': 'round' },
         paint: { 'line-color': '#0066ff', 'line-width': 5 }
     });
@@ -140,6 +133,7 @@ map.on('load', () => {
 let userMarker = null;
 let followUser = false;
 let navigating = false;
+let returnTimeout = null;
 
 // Consent
 document.getElementById('consent-yes').addEventListener('click', () => {
@@ -150,27 +144,21 @@ document.getElementById('consent-yes').addEventListener('click', () => {
 // Navigace
 document.getElementById('navigate-btn').addEventListener('click', () => {
     if (!navigating) {
-        navigating = true;
-        followUser = true;
+        navigating = true; followUser = true;
         map.easeTo({ pitch: 60, bearing: -20, zoom: 18, duration: 3000 });
         document.getElementById('navigate-btn').textContent = 'Ukončit navigaci';
     } else {
-        navigating = false;
-        followUser = false;
+        navigating = false; followUser = false;
         map.easeTo({ pitch: 0, bearing: 0, zoom: 18, duration: 3000 });
         document.getElementById('navigate-btn').textContent = 'Navigovat';
     }
 });
 
 // 2D a 3D tlačítka
-document.getElementById('view-2d').addEventListener('click', () => {
-    map.easeTo({ pitch: 0, bearing: 0, duration: 1000 });
-});
-document.getElementById('view-3d').addEventListener('click', () => {
-    map.easeTo({ pitch: 60, bearing: -20, duration: 1000 });
-});
+document.getElementById('view-2d').addEventListener('click', () => { map.easeTo({ pitch: 0, bearing: 0, duration: 1000 }); });
+document.getElementById('view-3d').addEventListener('click', () => { map.easeTo({ pitch: 60, bearing: -20, duration: 1000 }); });
 
-// Geolokace
+// Geolokace s automatickým návratem
 function initGeolocation() {
     if (navigator.geolocation) {
         navigator.geolocation.watchPosition(pos => {
@@ -190,20 +178,24 @@ function initGeolocation() {
             }
 
             if (followUser) {
+                // Navigace: sleduj ihned
                 map.easeTo({
                     center: coords,
                     pitch: navigating ? 60 : map.getPitch(),
                     bearing: navigating ? -20 : map.getBearing(),
                     duration: 3000
                 });
+            } else {
+                // Reset timeout pro návrat mapy k uživateli po 5 sekundách
+                if (returnTimeout) clearTimeout(returnTimeout);
+                returnTimeout = setTimeout(() => {
+                    map.easeTo({ center: coords, duration: 1000 });
+                }, 5000);
             }
+
         }, err => console.warn('Nelze zjistit polohu:', err.message), { enableHighAccuracy: true });
     }
 }
 </script>
 </body>
 </html>
-
-
-
-
