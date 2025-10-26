@@ -3,22 +3,22 @@ title: Denní menu - EN
 ---
 ## SPECIAL OFFER (soup + main course)
 
-* **MENU 1: Soup + Pork meat with mushroom sauce and baked jasmine rice** 185 CZK
-* **MENU 2: Soup + Fried schnitzel from minced meat, mashed potatos and pickles** 185 CZK
+* **MENU 1: Soup + Roasted pork knuckle and mashed potatoes** 185 CZK
+* **MENU 2: Soup + Beef roast meat with gypsy sauce and baked jasmine rice** 195 CZK
 *
-* **DISH OF THE WEEK: Spicy goulash from smoked meat with bread** 135 CZK
+* **DISH OF THE WEEK: Pork meat with bacon sauce and baked jasmine rice** 135 CZK
 
 ## SMALL SOUP FOR THE MAIN COURSE – 250ml
 
-* **Borsch with sour cream** 35 CZK
-* **Lentil soup with sausage** 35 CZK
+* **Triplet soup** 35 CZK
+* **Garlic soup with cheese and croutons** 35 CZK
 
 ## MAIN COURSES
 
-* **Pork roast meat, stewed cabbage and variation of dumplings** 165 CZK
-* **Beef Stroganoff noodles and steamed jasmine rice** 175 CZK
-* **Pork meat with mushroom sauce and baked jasmine rice** 165 CZK
-* **Fried schnitzel from minced meat, mashed potatos and pickles** 165 CZK
+* **"Halušky"- Czech gnocchi with smoked meat, cabbage and roasted onion** 165 CZK
+* **Roasted pork knuckle and mashed potatoes** 165 CZK
+* **Beef roast meat with gypsy sauce and baked jasmine rice** 175 CZK
+* **Spaghetti Carbonara (pancetta, garlic, egg yolk and parmesan cheese)** 175 CZK
 * **Beef goulash with onion and pepper, homemade dumplings** 185 CZK
 * **Fried chicken schnitzel, potato salad and lemon** 175 CZK
 * **Fried cheese, French Fries and Tartar Sauce** 175 CZK
@@ -26,6 +26,6 @@ title: Denní menu - EN
 
 ## LARGE SOUP ORDERED SEPARATELY – 500ml
 
-* **Borsch with sour cream or Lentil soup with sausage** 75 CZK
+* **Triplet soup or Garlic soup with cheese and croutons** 75 CZK
 
-***Offer is valid on Sunday 26.10. from 10:30 until closing time or while stocks last.***
+***Offer is valid on Monday 27.10. from 10:30 until closing time or while stocks last.***
