@@ -3,51 +3,29 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1"/>
-  <title>Map Bistro Florenc 3D</title>
+  <title>Bistro Florenc 3D mapa</title>
   <link rel="stylesheet" href="https://unpkg.com/maplibre-gl@2.4.0/dist/maplibre-gl.css"/>
   <style>
-    html, body, #map {
-      height:100%;
-      margin:0;
-      padding:0;
-    }
+    html, body, #map { height:100%; margin:0; padding:0; }
     #consent-banner {
-      position: fixed;
-      bottom: 0;
-      left: 0;
-      right: 0;
-      background: #222;
-      color: #fff;
-      padding: 10px;
-      text-align: center;
-      z-index: 9999;
-      font-family: sans-serif;
+      position: fixed; bottom: 0; left: 0; right: 0;
+      background: #222; color: #fff; padding: 10px;
+      text-align: center; z-index: 9999; font-family: sans-serif;
     }
     #consent-banner button {
-      margin-left:10px;
-      padding:5px 10px;
-      cursor:pointer;
+      margin-left:10px; padding:5px 10px; cursor:pointer;
     }
     #consent-banner button:hover {
-      scale: 1.05;
-      background-color: #4ff749;
+      scale: 1.05; background-color: #4ff749;
     }
-
     #navigate-btn {
-      position: fixed;
-      top: 30px;
-      right: 30px;
-      z-index: 9999;
-      padding: 10px 15px;
-      font-size: 16px;
-      background-color: #222;
-      color: #fff;
-      border: 2px solid #fff;
-      border-radius: 8px;
-      cursor: pointer;
+      position: fixed; top: 30px; right: 30px;
+      z-index: 9999; padding: 10px 15px;
+      font-size: 16px; background-color: #222;
+      color: #fff; border: 2px solid #fff;
+      border-radius: 8px; cursor: pointer;
     }
     #navigate-btn:hover { scale: 1.05; }
-    #navigate-btn:active { background-color: #555; }
   </style>
 </head>
 <body>
@@ -75,10 +53,10 @@
     const map = new maplibregl.Map({
       container: 'map',
       style: 'https://api.maptiler.com/maps/streets/style.json?key=Pc9uiLvzyWXr8WnVXScH',
-      center: [14.4399, 50.0896],
-      zoom: 18,
-      pitch: 60,   // naklonění pro 3D efekt
-      bearing: -20, // natočení kamery
+      center: [14.4399, 50.0896], // Florenc
+      zoom: 17,
+      pitch: 60,
+      bearing: -20,
       antialias: true
     });
 
@@ -95,10 +73,9 @@
         }
       }
 
-      // Vrstva s 3D budovami
       map.addLayer({
         'id': '3d-buildings',
-        'source': 'openmaptiles', // zdroj je součástí stylu MapTileru
+        'source': 'openmaptiles',
         'source-layer': 'building',
         'type': 'fill-extrusion',
         'minzoom': 15,
@@ -109,61 +86,44 @@
           'fill-extrusion-opacity': 0.6
         }
       }, labelLayerId);
+
+      // --- Marker Bistra Florenc ---
+      const bistro = [14.4399, 50.0896];
+      const bistroMarker = new maplibregl.Marker({ color: "#FF4500" })
+        .setLngLat(bistro)
+        .setPopup(new maplibregl.Popup().setHTML("<b>Bistro Florenc</b><br>Praha 8"))
+        .addTo(map);
     });
 
-    // --- Kužel marker pro polohu uživatele ---
-    let userMarker = null;
-    let followUser = false;
-
+    // --- Kužel marker pro uživatele ---
     function createUserIcon(angle = 0) {
-      const circleRadius = 8;
-      const coneHeight = 25;
-      const coneWidth = 16;
-      const totalHeight = coneHeight + circleRadius * 2;
-      const cx = coneWidth / 2;
-
       const svg = `
-        <svg width="${coneWidth}" height="${totalHeight}" xmlns="http://www.w3.org/2000/svg" style="overflow:visible;">
+        <svg width="20" height="30" xmlns="http://www.w3.org/2000/svg">
           <defs>
-            <linearGradient id="grad" x1="0" y1="0" x2="0" y2="${coneHeight}" gradientUnits="userSpaceOnUse">
+            <linearGradient id="grad" x1="0" y1="0" x2="0" y2="25">
               <stop offset="0%" stop-color="rgba(0,100,255,0.7)"/>
               <stop offset="100%" stop-color="rgba(0,100,255,0)"/>
             </linearGradient>
           </defs>
-          <polygon 
-            points="${cx},${totalHeight - circleRadius} ${cx - coneWidth/2},${totalHeight - circleRadius - coneHeight} ${cx + coneWidth/2},${totalHeight - circleRadius - coneHeight}"
-            fill="url(#grad)"
-            transform="rotate(${angle}, ${cx}, ${totalHeight - circleRadius})"
-          />
-          <circle 
-            cx="${cx}" 
-            cy="${totalHeight - circleRadius}" 
-            r="${circleRadius}" 
-            fill="#66b3ff" 
-            stroke="#fff" 
-            stroke-width="2"
-          />
+          <polygon points="10,30 0,10 20,10" fill="url(#grad)" />
+          <circle cx="10" cy="27" r="5" fill="#66b3ff" stroke="#fff" stroke-width="2"/>
         </svg>
       `;
-
       const el = document.createElement('div');
       el.innerHTML = svg;
-      el.style.width = coneWidth + 'px';
-      el.style.height = totalHeight + 'px';
-
       return el;
     }
 
-    // --- Consent button ---
+    let userMarker = null;
+    let followUser = false;
+
     document.getElementById('consent-yes').addEventListener('click', () => {
       document.getElementById('consent-banner').style.display = 'none';
       initGeolocation();
     });
 
-    // --- Navigate button ---
     document.getElementById('navigate-btn').addEventListener('click', () => {
       followUser = true;
-      map.easeTo({ pitch: 60, bearing: -20, zoom: 18 }); // automaticky přejde do 3D
     });
 
     function initGeolocation() {
@@ -171,31 +131,50 @@
         navigator.geolocation.watchPosition(pos => {
           const lat = pos.coords.latitude;
           const lon = pos.coords.longitude;
-          const newLngLat = [lon, lat];
+          const userPos = [lon, lat];
 
           if (!userMarker) {
-            userMarker = new maplibregl.Marker({ element: createUserIcon(0) })
-              .setLngLat(newLngLat)
+            userMarker = new maplibregl.Marker({ element: createUserIcon() })
+              .setLngLat(userPos)
               .addTo(map);
           } else {
-            userMarker.setLngLat(newLngLat);
+            userMarker.setLngLat(userPos);
           }
 
-          if (followUser) {
-            map.easeTo({ center: newLngLat, pitch: 60, bearing: -20 });
-          }
-        }, 
+          if (followUser) map.easeTo({ center: userPos });
+
+          drawRoute(userPos, [14.4399, 50.0896]); // Bistro Florenc
+        },
         err => console.warn('Nelze zjistit polohu:', err.message),
         { enableHighAccuracy: true });
       }
+    }
 
-      if (window.DeviceOrientationEvent) {
-        window.addEventListener('deviceorientationabsolute', e => {
-          if (!userMarker) return;
-          const alpha = e.alpha || 0;
-          const el = userMarker.getElement();
-          el.style.transform = `rotate(${alpha}deg)`;
-        }, true);
+    // --- Trasa mezi uživatelem a Bistrem ---
+    function drawRoute(start, end) {
+      const routeId = "user-to-bistro";
+      const routeData = {
+        "type": "FeatureCollection",
+        "features": [{
+          "type": "Feature",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [start, end]
+          }
+        }]
+      };
+
+      if (map.getSource(routeId)) {
+        map.getSource(routeId).setData(routeData);
+      } else {
+        map.addSource(routeId, { type: "geojson", data: routeData });
+        map.addLayer({
+          id: routeId,
+          type: "line",
+          source: routeId,
+          layout: { "line-join": "round", "line-cap": "round" },
+          paint: { "line-color": "#007AFF", "line-width": 5 }
+        });
       }
     }
   </script>
