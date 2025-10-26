@@ -11,7 +11,7 @@ title: Denní menu CZ
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
 * **Dršťková polévka** 35 Kč
-* **Česnečka se sýrem a krutony* 35 Kč
+* **Česnečka se sýrem a krutony** 35 Kč
 
 ## HLAVNÍ JÍDLA
 
