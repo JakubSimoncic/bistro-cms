@@ -6,27 +6,28 @@
 <title>Map Bistro Florenc 3D</title>
 <link rel="stylesheet" href="https://unpkg.com/maplibre-gl@2.4.0/dist/maplibre-gl.css"/>
 <style>
-html, body, #map { height:100%; margin:0; padding:0; }
-#consent-banner {
-    position: fixed; bottom: 0; left: 0; right: 0;
-    background: #222; color: #fff; padding: 10px;
-    text-align: center; z-index: 9999; font-family: sans-serif;
-}
-#consent-banner button { margin-left:10px; padding:5px 10px; cursor:pointer; }
-#consent-banner button:hover { scale: 1.05; background-color: #4ff749; }
+    html, body, #map { height:100%; margin:0; padding:0; }
+    #consent-banner {
+        position: fixed; bottom: 0; left: 0; right: 0;
+        background: #222; color: #fff; padding: 10px;
+        text-align: center; z-index: 9999; font-family: sans-serif;
+    }
+    #consent-banner button { margin-left:10px; padding:5px 10px; cursor:pointer; }
+    #consent-banner button:hover { scale: 1.05; background-color: #4ff749; }
 
-#navigate-btn, #view-2d, #view-3d {
-    position: fixed; z-index: 9999;
-    padding: 10px 15px; font-size: 16px;
-    background-color: #222; color: #fff;
-    border: 2px solid #fff; border-radius: 8px; cursor:pointer;
-}
-#navigate-btn, #view-3d { right: 50px; }
-#view-2d { right: 110px; }
-#navigate-btn:hover, #view-2d:hover, #view-3d:hover { scale: 1.05; }
-#navigate-btn:active, #view-2d:active, #view-3d:active { background-color: #555; }
-#navigate-btn { top: 20px; }
-#view-2d, #view-3d { top: 70px; }
+    #navigate-btn, #view-2d, #view-3d {
+        position: fixed; z-index: 9999;
+        padding: 10px 15px; font-size: 16px;
+        background-color: #222; color: #fff;
+        border: 2px solid #fff; border-radius: 8px; cursor:pointer;
+    }
+    #navigate-btn, #view-3d { right: 50px; }
+    #view-2d { right: 110px; }
+    #navigate-btn:hover, #view-2d:hover, #view-3d:hover { scale: 1.05; }
+    #navigate-btn:active, #view-2d:active, #view-3d:active { background-color: #555; }
+
+    #navigate-btn { top: 20px; }
+    #view-2d, #view-3d { top: 70px; }
 </style>
 </head>
 <body>
@@ -126,55 +127,40 @@ map.on('load', () => {
     }, labelLayerId);
 });
 
-// --- Geolokace uživatele ---
+// --- Geolokace ---
 let userMarker = null;
 let followUser = false;
 let navigating = false;
 let returnTimeout = null;
-let lastUserInteraction = Date.now();
 
-// --- Consent ---
+// Consent
 document.getElementById('consent-yes').addEventListener('click', () => {
     document.getElementById('consent-banner').style.display = 'none';
     initGeolocation();
 });
 
-// --- Navigace ---
+// Navigace
 document.getElementById('navigate-btn').addEventListener('click', () => {
     if (!navigating) {
-        navigating = true;
-        followUser = true;
+        navigating = true; followUser = true;
         map.easeTo({ pitch: 60, bearing: -20, zoom: 18, duration: 3000 });
         document.getElementById('navigate-btn').textContent = 'Ukončit navigaci';
     } else {
-        navigating = false;
-        followUser = false;
+        navigating = false; followUser = false;
         map.easeTo({ pitch: 0, bearing: 0, zoom: 18, duration: 3000 });
         document.getElementById('navigate-btn').textContent = 'Navigovat';
     }
 });
 
-// --- 2D a 3D tlačítka ---
+// 2D a 3D tlačítka
 document.getElementById('view-2d').addEventListener('click', () => {
-    lastUserInteraction = Date.now();
     map.easeTo({ pitch: 0, bearing: 0, duration: 1000 });
 });
 document.getElementById('view-3d').addEventListener('click', () => {
-    lastUserInteraction = Date.now();
     map.easeTo({ pitch: 60, bearing: -20, duration: 1000 });
 });
 
-// --- Geolokace s návratem ---
-function resetReturnTimeout(coords) {
-    if (returnTimeout) clearTimeout(returnTimeout);
-    returnTimeout = setTimeout(() => {
-        const timeSince = Date.now() - lastUserInteraction;
-        if (timeSince >= 5000) {
-            map.easeTo({ center: coords, duration: 1000 });
-        }
-    }, 5000);
-}
-
+// Geolokace s návratem pouze v navigaci
 function initGeolocation() {
     if (navigator.geolocation) {
         navigator.geolocation.watchPosition(pos => {
@@ -194,17 +180,26 @@ function initGeolocation() {
             }
 
             if (followUser) {
-                // Sleduj polohu, ale respektuj manuální změny pohledu
                 map.easeTo({
                     center: coords,
-                    pitch: navigating ? map.getPitch() : map.getPitch(),
-                    bearing: navigating ? map.getBearing() : map.getBearing(),
-                    duration: 3000
+                    pitch: navigating ? 60 : map.getPitch(),
+                    bearing: navigating ? -20 : map.getBearing(),
+                    duration: 1000
                 });
             }
 
-            // Nastav timeout pro automatický návrat po 5 sekundách
-            resetReturnTimeout(coords);
+            // Automatický návrat na marker **pouze v navigaci**
+            if (navigating) {
+                if (returnTimeout) clearTimeout(returnTimeout);
+                returnTimeout = setTimeout(() => {
+                    map.easeTo({
+                        center: coords,
+                        pitch: 60,
+                        bearing: -20,
+                        duration: 1000
+                    });
+                }, 5000);
+            }
 
         }, err => console.warn('Nelze zjistit polohu:', err.message), { enableHighAccuracy: true });
     }
