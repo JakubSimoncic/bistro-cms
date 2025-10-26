@@ -142,13 +142,13 @@ document.getElementById('navigate-btn').addEventListener('click', () => {
         // Zapnout navigaci 3D
         navigating = true;
         followUser = true;
-        map.easeTo({ pitch: 60, bearing: -20, zoom: 18 });
+        map.easeTo({ pitch: 60, bearing: -20, zoom: 18, duration: 5000 });
         document.getElementById('navigate-btn').textContent = 'Ukončit navigaci';
     } else {
         // Ukončit navigaci -> 2D
         navigating = false;
         followUser = false;
-        map.easeTo({ pitch: 0, bearing: 0, zoom: 18 });
+        map.easeTo({ pitch: 0, bearing: 0, zoom: 18, duration: 5000 });
         document.getElementById('navigate-btn').textContent = 'Navigovat';
     }
 });
@@ -172,7 +172,7 @@ function initGeolocation() {
                 userMarker.setLngLat(coords);
             }
 
-            if (followUser) map.easeTo({ center: coords, pitch: 60, bearing: -20 });
+            if (followUser) map.easeTo({ center: coords, pitch: navigating ? 60 : 0, bearing: navigating ? -20 : 0, duration: 5000 });
         }, err => console.warn('Nelze zjistit polohu:', err.message), { enableHighAccuracy: true });
     }
 }
