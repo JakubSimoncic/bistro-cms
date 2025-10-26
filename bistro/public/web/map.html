@@ -18,10 +18,16 @@
     #consent-banner button:hover { scale: 1.05; background-color: #4ff749; }
 
     #navigate-btn, #view-2d, #view-3d {
-        position: fixed; right: 50px; z-index: 9999;
+        position: fixed; z-index: 9999;
         padding: 10px 15px; font-size: 16px;
         background-color: #222; color: #fff;
         border: 2px solid #fff; border-radius: 8px; cursor:pointer;
+    }
+    #navigate-btn, #view-3d {
+        right: 50px;
+    }
+    #view-2d {
+        right: 100px;
     }
     #navigate-btn:hover, #view-2d:hover, #view-3d:hover { scale: 1.05; }
     #navigate-btn:active, #view-2d:active, #view-3d:active { background-color: #555; }
@@ -198,3 +204,4 @@ function initGeolocation() {
 </script>
 </body>
 </html>
+
