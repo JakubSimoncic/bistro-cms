@@ -15,10 +15,10 @@ title: Denní menu CZ
 
 ## HLAVNÍ JÍDLA
 
-* **Halušky s uzeným masem, zelím, cibulkou a vídeňskou cibulkou** 165 Kč
+* **Halušky s uzeným masem, zelím a restovanou cibulkou** 165 Kč
 * **Pečené vepřové koleno a bramborová kaše** 165 Kč
 * **Hovězí cikánská pečeně a pečená jasmínová rýže** 175 Kč
-* **Špagety Carbonara (žloutek, česnek, pancetta a parmazán)** 175 Kč
+* **Špagety Carbonara (pancetta, česnek, žloutek a parmazán)** 175 Kč
 * **Hovězí guláš s cibulkou a beraním rohem, domácí houskový knedlík** 185 Kč
 * **Kuřecí řízek, bramborový salát a citron** 175 Kč
 * **Smažený sýr, hranolky a tatarská omáčka** 175 Kč
