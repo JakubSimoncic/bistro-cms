@@ -12,7 +12,9 @@
         background: #222; color: #fff; padding: 10px;
         text-align: center; z-index: 9999; font-family: sans-serif;
     }
-    #consent-banner button { margin-left:10px; padding:5px 10px; cursor:pointer; }
+    #consent-banner button {
+        margin-left:10px; padding:5px 10px; cursor:pointer;
+    }
     #consent-banner button:hover { scale: 1.05; background-color: #4ff749; }
 
     #navigate-btn, #view-2d, #view-3d {
@@ -154,14 +156,10 @@ document.getElementById('navigate-btn').addEventListener('click', () => {
 });
 
 // 2D a 3D tlačítka
-document.getElementById('view-2d').addEventListener('click', () => {
-    map.easeTo({ pitch: 0, bearing: 0, duration: 1000 });
-});
-document.getElementById('view-3d').addEventListener('click', () => {
-    map.easeTo({ pitch: 60, bearing: -20, duration: 1000 });
-});
+document.getElementById('view-2d').addEventListener('click', () => { map.easeTo({ pitch: 0, bearing: 0, duration: 1000 }); });
+document.getElementById('view-3d').addEventListener('click', () => { map.easeTo({ pitch: 60, bearing: -20, duration: 1000 }); });
 
-// Geolokace s návratem pouze v navigaci a resetem při posunu mapy
+// Geolokace s automatickým návratem po nečinnosti
 function initGeolocation() {
     if (navigator.geolocation) {
         navigator.geolocation.watchPosition(pos => {
@@ -180,6 +178,7 @@ function initGeolocation() {
                 userMarker.setLngLat(coords);
             }
 
+            // --- Sleduj uživatele v navigaci ---
             if (followUser) {
                 map.easeTo({
                     center: coords,
@@ -189,8 +188,8 @@ function initGeolocation() {
                 });
             }
 
+            // --- Timeout návratu na marker v navigaci ---
             if (navigating) {
-                // Reset timeout pokaždé, když se marker aktualizuje
                 if (returnTimeout) clearTimeout(returnTimeout);
                 returnTimeout = setTimeout(() => {
                     map.easeTo({ center: coords, pitch: 60, bearing: -20, duration: 1000 });
@@ -200,7 +199,7 @@ function initGeolocation() {
         }, err => console.warn('Nelze zjistit polohu:', err.message), { enableHighAccuracy: true });
     }
 
-    // Reset timeout při jakémkoli posunu mapy uživatelem
+    // --- Reset timeout při jakémkoli pohybu mapy ---
     map.on('dragstart', () => { if (returnTimeout) clearTimeout(returnTimeout); });
     map.on('zoomstart', () => { if (returnTimeout) clearTimeout(returnTimeout); });
 }
