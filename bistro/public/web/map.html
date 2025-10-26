@@ -1,276 +1,277 @@
 <!doctype html>
 <html lang="cs">
-<head>
-<meta charset="utf-8" />
-<meta name="viewport" content="width=device-width,initial-scale=1"/>
-<title>Map Bistro Florenc 3D</title>
-<link rel="stylesheet" href="https://unpkg.com/maplibre-gl@2.4.0/dist/maplibre-gl.css"/>
-<style>
-html, body, #map { height:100%; margin:0; padding:0; }
-#consent-banner {
-    position: fixed; bottom: 0; left: 0; right: 0;
-    background: #222; color: #fff; padding: 10px;
-    text-align: center; z-index: 9999; font-family: sans-serif;
-}
-#consent-banner button {
-    margin-left:10px; padding:5px 10px; cursor:pointer;
-}
-#consent-banner button:hover { scale: 1.05; background-color: #4ff749; }
-
-#navigate-btn, #view-2d, #view-3d {
-    position: fixed; z-index: 9999;
-    padding: 10px 15px; font-size: 16px;
-    background-color: #222; color: #fff;
-    border: 2px solid #fff; border-radius: 8px; cursor:pointer;
-}
-#navigate-btn, #view-3d { right: 50px; }
-#view-2d { right: 110px; }
-#navigate-btn:hover, #view-2d:hover, #view-3d:hover { scale: 1.05; }
-#navigate-btn:active, #view-2d:active, #view-3d:active { background-color: #555; }
-
-#navigate-btn { top: 20px; }
-#view-2d, #view-3d { top: 70px; }
-</style>
-</head>
-<body>
-<div id="consent-banner">
-    <span id="consent-text"></span>
-    <button id="consent-yes"></button>
-</div>
-
-<div id="map"></div>
-<button id="navigate-btn">Navigovat</button>
-<button id="view-2d">2D</button>
-<button id="view-3d">3D</button>
-
-<script src="https://unpkg.com/maplibre-gl@2.4.0/dist/maplibre-gl.js"></script>
-<script>
-// --- Vícejazyčný systém (čeština + 20 nejpoužívanějších jazyků, fallback angličtina) ---
-const translations = {
-    cs: { consentText: "Souhlasíte se zobrazením Vaší aktuální polohy na mapě?", consentBtn: "Souhlasím", navigate: "Navigovat", stopNavigate: "Ukončit navigaci", view2d: "2D", view3d: "3D" },
-    en: { consentText: "Do you consent to displaying your current location on the map?", consentBtn: "I consent", navigate: "Navigate", stopNavigate: "Stop navigation", view2d: "2D", view3d: "3D" },
-    es: { consentText: "¿Acepta mostrar su ubicación actual en el mapa?", consentBtn: "Acepto", navigate: "Navegar", stopNavigate: "Detener navegación", view2d: "2D", view3d: "3D" },
-    fr: { consentText: "Acceptez-vous d'afficher votre position actuelle sur la carte ?", consentBtn: "J'accepte", navigate: "Naviguer", stopNavigate: "Arrêter la navigation", view2d: "2D", view3d: "3D" },
-    de: { consentText: "Stimmen Sie der Anzeige Ihres aktuellen Standorts auf der Karte zu?", consentBtn: "Ich stimme zu", navigate: "Navigieren", stopNavigate: "Navigation beenden", view2d: "2D", view3d: "3D" },
-    zh: { consentText: "您同意在地图上显示您当前的位置吗？", consentBtn: "我同意", navigate: "导航", stopNavigate: "停止导航", view2d: "2D", view3d: "3D" },
-    hi: { consentText: "क्या आप अपने वर्तमान स्थान को मानचित्र पर दिखाने की अनुमति देते हैं?", consentBtn: "मैं सहमत हूँ", navigate: "नेविगेट करें", stopNavigate: "नेविगेशन रोकें", view2d: "2D", view3d: "3D" },
-    ar: { consentText: "هل توافق على عرض موقعك الحالي على الخريطة؟", consentBtn: "أوافق", navigate: "التنقل", stopNavigate: "إيقاف التنقل", view2d: "2D", view3d: "3D" },
-    ru: { consentText: "Вы согласны с отображением вашего текущего местоположения на карте?", consentBtn: "Согласен", navigate: "Навигация", stopNavigate: "Остановить навигацию", view2d: "2D", view3d: "3D" },
-    pt: { consentText: "Você concorda em exibir sua localização atual no mapa?", consentBtn: "Concordo", navigate: "Navegar", stopNavigate: "Parar navegação", view2d: "2D", view3d: "3D" },
-    ja: { consentText: "現在地を地図に表示することに同意しますか？", consentBtn: "同意します", navigate: "ナビゲート", stopNavigate: "ナビゲーション停止", view2d: "2D", view3d: "3D" },
-    bn: { consentText: "আপনি কি আপনার বর্তমান অবস্থান মানচিত্রে প্রদর্শনের জন্য সম্মত?", consentBtn: "আমি সম্মত", navigate: "নেভিগেট করুন", stopNavigate: "নেভিগেশন বন্ধ করুন", view2d: "2D", view3d: "3D" },
-    pa: { consentText: "ਕੀ ਤੁਸੀਂ ਆਪਣੇ ਮੌਜੂਦਾ ਸਥਾਨ ਨੂੰ ਨਕਸ਼ੇ 'ਤੇ ਦਿਖਾਉਣ ਦੀ ਸਹਿਮਤੀ ਦਿੰਦੇ ਹੋ?", consentBtn: "ਮੈਂ ਸਹਿਮਤ ਹਾਂ", navigate: "ਨੈਵੀਗੇਟ ਕਰੋ", stopNavigate: "ਨੈਵੀਗੇਸ਼ਨ ਬੰਦ ਕਰੋ", view2d: "2D", view3d: "3D" },
-    jv: { consentText: "Apa sampeyan sarujuk kanggo nampilake lokasi sampeyan saiki ing peta?", consentBtn: "Aku sarujuk", navigate: "Navigasi", stopNavigate: "Berhenti navigasi", view2d: "2D", view3d: "3D" },
-    ko: { consentText: "지도에 현재 위치를 표시하는 것에 동의하십니까?", consentBtn: "동의합니다", navigate: "탐색", stopNavigate: "탐색 중지", view2d: "2D", view3d: "3D" },
-    vi: { consentText: "Bạn có đồng ý hiển thị vị trí hiện tại của mình trên bản đồ không?", consentBtn: "Tôi đồng ý", navigate: "Điều hướng", stopNavigate: "Dừng điều hướng", view2d: "2D", view3d: "3D" },
-    te: { consentText: "మీరు మీ ప్రస్తుత స్థానాన్ని మ్యాప్లో చూపించడానికి అంగీకరిస్తున్నారా?", consentBtn: "నేను అంగీకరిస్తున్నాను", navigate: "నావిగేట్ చేయండి", stopNavigate: "నావిగేషన్ ఆపు", view2d: "2D", view3d: "3D" },
-    mr: { consentText: "आप नकाशावर आपले वर्तमान स्थान दाखविण्यास सहमत आहात का?", consentBtn: "मी सहमत आहे", navigate: "नेव्हिगेट करा", stopNavigate: "नेव्हिगेशन थांबवा", view2d: "2D", view3d: "3D" },
-    ta: { consentText: "நீங்கள் உங்கள் தற்போதைய இடத்தை வரைபட்டில் காட்டுுவதற்கு ஒப்புக்கொள்கிறீர்களா?", consentBtn: "நான் ஒப்புக்கொள்கிறேன்", navigate: "வழிசெலுத்தவும்", stopNavigate: "வழிசெலுத்தலை நிறுத்தவும்", view2d: "2D", view3d: "3D" },
-    ur: { consentText: "کیا آپ اپنے موجودہ مقام کو نقشے پر دکھانے کی اجازت دیتے ہیں؟", consentBtn: "میں متفق ہوں", navigate: "نیویگیٹ کریں", stopNavigate: "نیویگیشن بند کریں", view2d: "2D", view3d: "3D" },
-    it: { consentText: "Accetti di mostrare la tua posizione attuale sulla mappa?", consentBtn: "Accetto", navigate: "Naviga", stopNavigate: "Interrompi navigazione", view2d: "2D", view3d: "3D" },
-    tr: { consentText: "Mevcut konumunuzu haritada göstermeyi kabul ediyor musunuz?", consentBtn: "Kabul ediyorum", navigate: "Navigasyon", stopNavigate: "Navigasyonu durdur", view2d: "2D", view3d: "3D" }
-};
-
-const userLang = navigator.language.split('-')[0];
-const lang = translations[userLang] ? userLang : 'en';
-
-// --- Nastavení textů ---
-document.getElementById('consent-text').textContent = translations[lang].consentText || translations['en'].consentText;
-document.getElementById('consent-yes').textContent = translations[lang].consentBtn || translations['en'].consentBtn;
-document.getElementById('navigate-btn').textContent = translations[lang].navigate || translations['en'].navigate;
-document.getElementById('view-2d').textContent = translations[lang].view2d || translations['en'].view2d;
-document.getElementById('view-3d').textContent = translations[lang].view3d || translations['en'].view3d;
-
-// --- MapLibre GL setup ---
-const map = new maplibregl.Map({
-    container: 'map',
-    style: 'https://api.maptiler.com/maps/streets/style.json?key=Pc9uiLvzyWXr8WnVXScH',
-    center: [14.4400336, 50.0901481],
-    zoom: 18,
-    pitch: 0,
-    bearing: 0,
-    antialias: true
-});
-map.addControl(new maplibregl.NavigationControl());
-
-// --- Trasa ---
-const route = {
-    type: 'Feature',
-    geometry: { type: 'LineString',
-        coordinates: [
-            [14.4405633, 50.0894811],
-            [14.4404008, 50.0895775],
-            [14.4401647, 50.0900086],
-            [14.4398969, 50.0899431],
-            [14.4398225, 50.0900994],
-            [14.4400336, 50.0901481]
-        ]
-    }
-};
-
-map.on('load', () => {
-    map.addSource('route', { type: 'geojson', data: route });
-    map.addLayer({
-        id: 'route-line', type: 'line', source: 'route',
-        layout: { 'line-cap': 'round', 'line-join': 'round' },
-        paint: { 'line-color': '#0066ff', 'line-width': 5 }
-    });
-
-    // Bistro Florenc
-    const bistroEl = document.createElement('div');
-    const img = document.createElement('img');
-    img.src = 'LOGO2.png';
-    img.style.width = '35px'; img.style.height = '35px';
-    img.style.borderRadius = '50%';
-    img.style.border = '3px solid black';
-    img.style.background = 'white';
-    img.style.objectFit = 'cover';
-    bistroEl.appendChild(img);
-
-    new maplibregl.Marker(bistroEl)
-        .setLngLat([14.4400336, 50.0901481])
-        .addTo(map);
-
-    // 3D budovy
-    const layers = map.getStyle().layers;
-    let labelLayerId;
-    for (let i = 0; i < layers.length; i++) {
-        if (layers[i].type === 'symbol' && layers[i].layout['text-field']) {
-            labelLayerId = layers[i].id;
-            break;
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width,initial-scale=1"/>
+        <title>Map Bistro Florenc 3D</title>
+        <link rel="stylesheet" href="https://unpkg.com/maplibre-gl@2.4.0/dist/maplibre-gl.css"/>
+        <style>
+        html, body, #map { height:100%; margin:0; padding:0; }
+        #consent-banner {
+            position: fixed; bottom: 0; left: 0; right: 0;
+            background: #222; color: #fff; padding: 10px;
+            text-align: center; z-index: 9999; font-family: sans-serif;
         }
-    }
-    map.addLayer({
-        id: '3d-buildings',
-        source: 'openmaptiles',
-        'source-layer': 'building',
-        type: 'fill-extrusion',
-        minzoom: 15,
-        paint: {
-            'fill-extrusion-color': '#aaa',
-            'fill-extrusion-height': ['get', 'height'],
-            'fill-extrusion-base': ['get', 'min_height'],
-            'fill-extrusion-opacity': 0.6
+        #consent-banner button {
+            margin-left:10px; padding:5px 10px; cursor:pointer;
         }
-    }, labelLayerId);
-});
-
-// --- Geolokace uživatele ---
-let userMarker = null;
-let followUser = false;
-let navigating = false;
-let returnTimer = null;
-
-// --- Reset timer při uživatelské akci ---
-function resetReturnTimer() {
-    if (!navigating) return;
-    if (returnTimer) clearTimeout(returnTimer);
-    returnTimer = setTimeout(() => {
-        if (userMarker && navigating) {
-            const coords = userMarker.getLngLat();
-            map.easeTo({ center: [coords.lng, coords.lat], duration: 1000 });
+        #consent-banner button:hover { scale: 1.05; background-color: #4ff749; }
+        
+        #navigate-btn, #view-2d, #view-3d {
+            position: fixed; z-index: 9999;
+            padding: 10px 15px; font-size: 16px;
+            background-color: #222; color: #fff;
+            border: 2px solid #fff; border-radius: 8px; cursor:pointer;
         }
-    }, 5000);
-}
-
-// Reset timer při akcích
-['dragstart', 'zoomstart'].forEach(evt => map.on(evt, resetReturnTimer));
-document.getElementById('view-2d').addEventListener('click', () => {
-    map.easeTo({ pitch: 0, bearing: 0, duration: 1000 });
-    resetReturnTimer();
-});
-document.getElementById('view-3d').addEventListener('click', () => {
-    map.easeTo({ pitch: 60, bearing: -20, duration: 1000 });
-    resetReturnTimer();
-});
-
-// --- Consent ---
-document.getElementById('consent-yes').addEventListener('click', () => {
-    document.getElementById('consent-banner').style.display = 'none';
-    initGeolocation();
-});
-
-// --- Navigace ---
-document.getElementById('navigate-btn').addEventListener('click', () => {
-    if (!navigating) {
-        navigating = true;
-        followUser = true;
-        map.easeTo({ pitch: 60, bearing: -20, zoom: 18, duration: 3000 });
-        document.getElementById('navigate-btn').textContent = translations[lang].stopNavigate || translations['en'].stopNavigate;
-        resetReturnTimer();
-    } else {
-        navigating = false;
-        followUser = false;
-        map.easeTo({ pitch: 0, bearing: 0, zoom: 18, duration: 3000 });
+        #navigate-btn, #view-3d { right: 50px; }
+        #view-2d { right: 110px; }
+        #navigate-btn:hover, #view-2d:hover, #view-3d:hover { scale: 1.05; }
+        #navigate-btn:active, #view-2d:active, #view-3d:active { background-color: #555; }
+        
+        #navigate-btn { top: 20px; }
+        #view-2d, #view-3d { top: 70px; }
+        </style>
+    </head>
+    <body>
+        <div id="consent-banner">
+            <span id="consent-text"></span>
+            <button id="consent-yes"></button>
+        </div>
+        
+        <div id="map"></div>
+        <button id="navigate-btn">Navigovat</button>
+        <button id="view-2d">2D</button>
+        <button id="view-3d">3D</button>
+        
+        <script src="https://unpkg.com/maplibre-gl@2.4.0/dist/maplibre-gl.js"></script>
+        <script>
+        // --- Vícejazyčný systém (čeština + 20 nejpoužívanějších jazyků, fallback angličtina) ---
+        const translations = {
+            cs: { consentText: "Souhlasíte se zobrazením Vaší aktuální polohy na mapě?", consentBtn: "Souhlasím", navigate: "Navigovat", stopNavigate: "Ukončit navigaci", view2d: "2D", view3d: "3D" },
+            en: { consentText: "Do you consent to displaying your current location on the map?", consentBtn: "I consent", navigate: "Navigate", stopNavigate: "Stop navigation", view2d: "2D", view3d: "3D" },
+            es: { consentText: "¿Acepta mostrar su ubicación actual en el mapa?", consentBtn: "Acepto", navigate: "Navegar", stopNavigate: "Detener navegación", view2d: "2D", view3d: "3D" },
+            fr: { consentText: "Acceptez-vous d'afficher votre position actuelle sur la carte ?", consentBtn: "J'accepte", navigate: "Naviguer", stopNavigate: "Arrêter la navigation", view2d: "2D", view3d: "3D" },
+            de: { consentText: "Stimmen Sie der Anzeige Ihres aktuellen Standorts auf der Karte zu?", consentBtn: "Ich stimme zu", navigate: "Navigieren", stopNavigate: "Navigation beenden", view2d: "2D", view3d: "3D" },
+            zh: { consentText: "您同意在地图上显示您当前的位置吗？", consentBtn: "我同意", navigate: "导航", stopNavigate: "停止导航", view2d: "2D", view3d: "3D" },
+            hi: { consentText: "क्या आप अपने वर्तमान स्थान को मानचित्र पर दिखाने की अनुमति देते हैं?", consentBtn: "मैं सहमत हूँ", navigate: "नेविगेट करें", stopNavigate: "नेविगेशन रोकें", view2d: "2D", view3d: "3D" },
+            ar: { consentText: "هل توافق على عرض موقعك الحالي على الخريطة؟", consentBtn: "أوافق", navigate: "التنقل", stopNavigate: "إيقاف التنقل", view2d: "2D", view3d: "3D" },
+            ru: { consentText: "Вы согласны с отображением вашего текущего местоположения на карте?", consentBtn: "Согласен", navigate: "Навигация", stopNavigate: "Остановить навигацию", view2d: "2D", view3d: "3D" },
+            pt: { consentText: "Você concorda em exibir sua localização atual no mapa?", consentBtn: "Concordo", navigate: "Navegar", stopNavigate: "Parar navegação", view2d: "2D", view3d: "3D" },
+            ja: { consentText: "現在地を地図に表示することに同意しますか？", consentBtn: "同意します", navigate: "ナビゲート", stopNavigate: "ナビゲーション停止", view2d: "2D", view3d: "3D" },
+            bn: { consentText: "আপনি কি আপনার বর্তমান অবস্থান মানচিত্রে প্রদর্শনের জন্য সম্মত?", consentBtn: "আমি সম্মত", navigate: "নেভিগেট করুন", stopNavigate: "নেভিগেশন বন্ধ করুন", view2d: "2D", view3d: "3D" },
+            pa: { consentText: "ਕੀ ਤੁਸੀਂ ਆਪਣੇ ਮੌਜੂਦਾ ਸਥਾਨ ਨੂੰ ਨਕਸ਼ੇ 'ਤੇ ਦਿਖਾਉਣ ਦੀ ਸਹਿਮਤੀ ਦਿੰਦੇ ਹੋ?", consentBtn: "ਮੈਂ ਸਹਿਮਤ ਹਾਂ", navigate: "ਨੈਵੀਗੇਟ ਕਰੋ", stopNavigate: "ਨੈਵੀਗੇਸ਼ਨ ਬੰਦ ਕਰੋ", view2d: "2D", view3d: "3D" },
+            jv: { consentText: "Apa sampeyan sarujuk kanggo nampilake lokasi sampeyan saiki ing peta?", consentBtn: "Aku sarujuk", navigate: "Navigasi", stopNavigate: "Berhenti navigasi", view2d: "2D", view3d: "3D" },
+            ko: { consentText: "지도에 현재 위치를 표시하는 것에 동의하십니까?", consentBtn: "동의합니다", navigate: "탐색", stopNavigate: "탐색 중지", view2d: "2D", view3d: "3D" },
+            vi: { consentText: "Bạn có đồng ý hiển thị vị trí hiện tại của mình trên bản đồ không?", consentBtn: "Tôi đồng ý", navigate: "Điều hướng", stopNavigate: "Dừng điều hướng", view2d: "2D", view3d: "3D" },
+            te: { consentText: "మీరు మీ ప్రస్తుత స్థానాన్ని మ్యాప్లో చూపించడానికి అంగీకరిస్తున్నారా?", consentBtn: "నేను అంగీకరిస్తున్నాను", navigate: "నావిగేట్ చేయండి", stopNavigate: "నావిగేషన్ ఆపు", view2d: "2D", view3d: "3D" },
+            mr: { consentText: "आप नकाशावर आपले वर्तमान स्थान दाखविण्यास सहमत आहात का?", consentBtn: "मी सहमत आहे", navigate: "नेव्हिगेट करा", stopNavigate: "नेव्हिगेशन थांबवा", view2d: "2D", view3d: "3D" },
+            ta: { consentText: "நீங்கள் உங்கள் தற்போதைய இடத்தை வரைபட்டில் காட்டுுவதற்கு ஒப்புக்கொள்கிறீர்களா?", consentBtn: "நான் ஒப்புக்கொள்கிறேன்", navigate: "வழிசெலுத்தவும்", stopNavigate: "வழிசெலுத்தலை நிறுத்தவும்", view2d: "2D", view3d: "3D" },
+            ur: { consentText: "کیا آپ اپنے موجودہ مقام کو نقشے پر دکھانے کی اجازت دیتے ہیں؟", consentBtn: "میں متفق ہوں", navigate: "نیویگیٹ کریں", stopNavigate: "نیویگیشن بند کریں", view2d: "2D", view3d: "3D" },
+            it: { consentText: "Accetti di mostrare la tua posizione attuale sulla mappa?", consentBtn: "Accetto", navigate: "Naviga", stopNavigate: "Interrompi navigazione", view2d: "2D", view3d: "3D" },
+            tr: { consentText: "Mevcut konumunuzu haritada göstermeyi kabul ediyor musunuz?", consentBtn: "Kabul ediyorum", navigate: "Navigasyon", stopNavigate: "Navigasyonu durdur", view2d: "2D", view3d: "3D" }
+        };
+        
+        const userLang = navigator.language.split('-')[0];
+        const lang = translations[userLang] ? userLang : 'en';
+        
+        // --- Nastavení textů ---
+        document.getElementById('consent-text').textContent = translations[lang].consentText || translations['en'].consentText;
+        document.getElementById('consent-yes').textContent = translations[lang].consentBtn || translations['en'].consentBtn;
         document.getElementById('navigate-btn').textContent = translations[lang].navigate || translations['en'].navigate;
-        if (returnTimer) clearTimeout(returnTimer);
-    }
-});
-// --- Smooth progress za uživatelem ---
-function updateRouteProgress(userCoords) {
-    const coords = route.geometry.coordinates;
-    let totalDist = 0;
-    let distToUser = 0;
-
-    for (let i = 1; i < coords.length; i++) {
-        const dx = coords[i][0] - coords[i-1][0];
-        const dy = coords[i][1] - coords[i-1][1];
-        const segDist = Math.sqrt(dx*dx + dy*dy);
-        totalDist += segDist;
-
-        const dxu = userCoords[0] - coords[i-1][0];
-        const dyu = userCoords[1] - coords[i-1][1];
-        const proj = ((dx*dx + dy*dy) === 0) ? 0 : ((dxu*dx + dyu*dy) / (dx*dx + dy*dy));
-        if (proj >= 0 && proj <= 1) {
-            distToUser = totalDist - segDist + proj * segDist;
-            break;
+        document.getElementById('view-2d').textContent = translations[lang].view2d || translations['en'].view2d;
+        document.getElementById('view-3d').textContent = translations[lang].view3d || translations['en'].view3d;
+        
+        // --- MapLibre GL setup ---
+        const map = new maplibregl.Map({
+            container: 'map',
+            style: 'https://api.maptiler.com/maps/streets/style.json?key=Pc9uiLvzyWXr8WnVXScH',
+            center: [14.4400336, 50.0901481],
+            zoom: 18,
+            pitch: 0,
+            bearing: 0,
+            antialias: true
+        });
+        map.addControl(new maplibregl.NavigationControl());
+        
+        // --- Trasa ---
+        const route = {
+            type: 'Feature',
+            geometry: { type: 'LineString',
+                coordinates: [
+                    [14.4405633, 50.0894811],
+                    [14.4404008, 50.0895775],
+                    [14.4401647, 50.0900086],
+                    [14.4398969, 50.0899431],
+                    [14.4398225, 50.0900994],
+                    [14.4400336, 50.0901481]
+                ]
+            }
+        };
+        
+        map.on('load', () => {
+            map.addSource('route', { type: 'geojson', data: route });
+            map.addLayer({
+                id: 'route-line', type: 'line', source: 'route',
+                layout: { 'line-cap': 'round', 'line-join': 'round' },
+                paint: { 'line-color': '#0066ff', 'line-width': 5 }
+            });
+        
+            // Bistro Florenc
+            const bistroEl = document.createElement('div');
+            const img = document.createElement('img');
+            img.src = 'LOGO2.png';
+            img.style.width = '35px'; img.style.height = '35px';
+            img.style.borderRadius = '50%';
+            img.style.border = '3px solid black';
+            img.style.background = 'white';
+            img.style.objectFit = 'cover';
+            bistroEl.appendChild(img);
+        
+            new maplibregl.Marker(bistroEl)
+                .setLngLat([14.4400336, 50.0901481])
+                .addTo(map);
+        
+            // 3D budovy
+            const layers = map.getStyle().layers;
+            let labelLayerId;
+            for (let i = 0; i < layers.length; i++) {
+                if (layers[i].type === 'symbol' && layers[i].layout['text-field']) {
+                    labelLayerId = layers[i].id;
+                    break;
+                }
+            }
+            map.addLayer({
+                id: '3d-buildings',
+                source: 'openmaptiles',
+                'source-layer': 'building',
+                type: 'fill-extrusion',
+                minzoom: 15,
+                paint: {
+                    'fill-extrusion-color': '#aaa',
+                    'fill-extrusion-height': ['get', 'height'],
+                    'fill-extrusion-base': ['get', 'min_height'],
+                    'fill-extrusion-opacity': 0.6
+                }
+            }, labelLayerId);
+        });
+        
+        // --- Geolokace uživatele ---
+        let userMarker = null;
+        let followUser = false;
+        let navigating = false;
+        let returnTimer = null;
+        
+        // --- Reset timer při uživatelské akci ---
+        function resetReturnTimer() {
+            if (!navigating) return;
+            if (returnTimer) clearTimeout(returnTimer);
+            returnTimer = setTimeout(() => {
+                if (userMarker && navigating) {
+                    const coords = userMarker.getLngLat();
+                    map.easeTo({ center: [coords.lng, coords.lat], duration: 1000 });
+                }
+            }, 5000);
         }
-    }
-
-    routeProgress = Math.min(distToUser / totalDist, 1);
-    map.setPaintProperty('route-line', 'line-gradient', [
-        'interpolate',
-        ['linear'],
-        ['line-progress'],
-        0, '#99ccff',
-        routeProgress, '#99ccff',
-        routeProgress, '#0066ff',
-        1, '#0066ff'
-    ]);
-}
-
-// --- Geolokace ---
-function initGeolocation() {
-    if (navigator.geolocation) {
-        navigator.geolocation.watchPosition(pos => {
-            const lat = pos.coords.latitude;
-            const lon = pos.coords.longitude;
-            const coords = [lon, lat];
-
-            if (!userMarker) {
-                const el = document.createElement('div');
-                el.style.width = '16px'; el.style.height = '16px';
-                el.style.background = '#007bff';
-                el.style.borderRadius = '50%';
-                el.style.border = '2px solid white';
-                userMarker = new maplibregl.Marker(el).setLngLat(coords).addTo(map);
+        
+        // Reset timer při akcích
+        ['dragstart', 'zoomstart'].forEach(evt => map.on(evt, resetReturnTimer));
+        document.getElementById('view-2d').addEventListener('click', () => {
+            map.easeTo({ pitch: 0, bearing: 0, duration: 1000 });
+            resetReturnTimer();
+        });
+        document.getElementById('view-3d').addEventListener('click', () => {
+            map.easeTo({ pitch: 60, bearing: -20, duration: 1000 });
+            resetReturnTimer();
+        });
+        
+        // --- Consent ---
+        document.getElementById('consent-yes').addEventListener('click', () => {
+            document.getElementById('consent-banner').style.display = 'none';
+            initGeolocation();
+        });
+        
+        // --- Navigace ---
+        document.getElementById('navigate-btn').addEventListener('click', () => {
+            if (!navigating) {
+                navigating = true;
+                followUser = true;
+                map.easeTo({ pitch: 60, bearing: -20, zoom: 18, duration: 3000 });
+                document.getElementById('navigate-btn').textContent = translations[lang].stopNavigate || translations['en'].stopNavigate;
+                resetReturnTimer();
             } else {
-                userMarker.setLngLat(coords);
+                navigating = false;
+                followUser = false;
+                map.easeTo({ pitch: 0, bearing: 0, zoom: 18, duration: 3000 });
+                document.getElementById('navigate-btn').textContent = translations[lang].navigate || translations['en'].navigate;
+                if (returnTimer) clearTimeout(returnTimer);
             }
-
-            if (followUser) {
-                map.easeTo({
-                    center: coords,
-                    pitch: navigating ? 60 : map.getPitch(),
-                    bearing: navigating ? -20 : map.getBearing(),
-                    duration: 1000
-                });
+        });
+        // --- Smooth progress za uživatelem ---
+        function updateRouteProgress(userCoords) {
+            const coords = route.geometry.coordinates;
+            let totalDist = 0;
+            let distToUser = 0;
+        
+            for (let i = 1; i < coords.length; i++) {
+                const dx = coords[i][0] - coords[i-1][0];
+                const dy = coords[i][1] - coords[i-1][1];
+                const segDist = Math.sqrt(dx*dx + dy*dy);
+                totalDist += segDist;
+        
+                const dxu = userCoords[0] - coords[i-1][0];
+                const dyu = userCoords[1] - coords[i-1][1];
+                const proj = ((dx*dx + dy*dy) === 0) ? 0 : ((dxu*dx + dyu*dy) / (dx*dx + dy*dy));
+                if (proj >= 0 && proj <= 1) {
+                    distToUser = totalDist - segDist + proj * segDist;
+                    break;
+                }
             }
-        }, err => console.warn('Nelze zjistit polohu:', err.message), { enableHighAccuracy: true });
-    }
-}
-</script>
-</body>
+        
+            routeProgress = Math.min(distToUser / totalDist, 1);
+            map.setPaintProperty('route-line', 'line-gradient', [
+                'interpolate',
+                ['linear'],
+                ['line-progress'],
+                0, '#99ccff',
+                routeProgress, '#99ccff',
+                routeProgress, '#0066ff',
+                1, '#0066ff'
+            ]);
+        }
+        
+        // --- Geolokace ---
+        function initGeolocation() {
+            if (navigator.geolocation) {
+                navigator.geolocation.watchPosition(pos => {
+                    const lat = pos.coords.latitude;
+                    const lon = pos.coords.longitude;
+                    const coords = [lon, lat];
+        
+                    if (!userMarker) {
+                        const el = document.createElement('div');
+                        el.style.width = '16px'; el.style.height = '16px';
+                        el.style.background = '#007bff';
+                        el.style.borderRadius = '50%';
+                        el.style.border = '2px solid white';
+                        userMarker = new maplibregl.Marker(el).setLngLat(coords).addTo(map);
+                    } else {
+                        userMarker.setLngLat(coords);
+                    }
+        
+                    // --- tady aktualizujeme postup trasy ---
+                    updateRouteProgress(coords);
+        
+                    if (followUser) {
+                        map.easeTo({
+                            center: coords,
+                            pitch: navigating ? 60 : map.getPitch(),
+                            bearing: navigating ? -20 : map.getBearing(),
+                            duration: 1000
+                        });
+                    }
+                }, err => console.warn('Nelze zjistit polohu:', err.message), { enableHighAccuracy: true });
+            }
+        }
+        </script>
+    </body>
 </html>
-
-
