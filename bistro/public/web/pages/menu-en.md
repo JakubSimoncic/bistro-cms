@@ -10,7 +10,7 @@ title: Denní menu - EN
 
 ## SMALL SOUP FOR THE MAIN COURSE – 250ml
 
-* **Triplet soup** 35 CZK
+* **Tripe soup** 35 CZK
 * **Garlic soup with cheese and croutons** 35 CZK
 
 ## MAIN COURSES
@@ -26,6 +26,6 @@ title: Denní menu - EN
 
 ## LARGE SOUP ORDERED SEPARATELY – 500ml
 
-* **Triplet soup or Garlic soup with cheese and croutons** 75 CZK
+* **Tripe soup or Garlic soup with cheese and croutons** 75 CZK
 
 ***Offer is valid on Monday 27.10. from 10:30 until closing time or while stocks last.***
