@@ -6,7 +6,7 @@ title: Denní menu CZ
 * **MENU 1: Polévka + Pečené vepřové koleno a bramborová kaše** 185 Kč
 * **MENU 2: Polévka + Hovězí cikánská pečeně a pečená jasmínová rýže** 195 Kč
 * 
-* **JÍDLO TÝDNE: Pikantní buřtguláš s chlebem** 135 Kč
+* **JÍDLO TÝDNE: Vepřové na slanině a pečená jasmínová rýže** 135 Kč
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
