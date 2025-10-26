@@ -18,15 +18,13 @@
     #consent-banner button:hover {
         scale: 1.05; background-color: #4ff749;
     }
-    #navigate-btn, #view-2d-btn {
-        position: fixed; right: 50px; z-index: 9999;
+    #navigate-btn {
+        position: fixed; top: 20px; right: 50px; z-index: 9999;
         padding: 10px 15px; font-size: 16px; background-color: #222;
         color: #fff; border: 2px solid #fff; border-radius: 8px; cursor: pointer;
     }
-    #navigate-btn { top: 20px; }
-    #view-2d-btn { top: 80px; }
-    #navigate-btn:hover, #view-2d-btn:hover { scale: 1.05; }
-    #navigate-btn:active, #view-2d-btn:active { background-color: #555; }
+    #navigate-btn:hover { scale: 1.05; }
+    #navigate-btn:active { background-color: #555; }
 </style>
 </head>
 <body>
@@ -37,7 +35,6 @@
 
 <div id="map"></div>
 <button id="navigate-btn">Navigovat</button>
-<button id="view-2d-btn">2D pohled</button>
 
 <script src="https://unpkg.com/maplibre-gl@2.4.0/dist/maplibre-gl.js"></script>
 <script>
@@ -57,8 +54,8 @@ const map = new maplibregl.Map({
     style: 'https://api.maptiler.com/maps/streets/style.json?key=Pc9uiLvzyWXr8WnVXScH',
     center: [14.4400336, 50.0901481],
     zoom: 18,
-    pitch: 0,     // výchozí 2D
-    bearing: 0,   // výchozí 2D
+    pitch: 0,
+    bearing: 0,
     antialias: true
 });
 map.addControl(new maplibregl.NavigationControl());
@@ -133,22 +130,27 @@ map.on('load', () => {
 // --- Geolokace uživatele ---
 let userMarker = null;
 let followUser = false;
+let navigating = false; // stav navigace
 
 document.getElementById('consent-yes').addEventListener('click', () => {
     document.getElementById('consent-banner').style.display = 'none';
     initGeolocation();
 });
 
-// --- Navigovat do 3D ---
 document.getElementById('navigate-btn').addEventListener('click', () => {
-    followUser = true;
-    map.easeTo({ pitch: 60, bearing: -20, zoom: 18 });
-});
-
-// --- Přepnutí zpět do 2D ---
-document.getElementById('view-2d-btn').addEventListener('click', () => {
-    followUser = false; // ukončí sledování
-    map.easeTo({ pitch: 0, bearing: 0, zoom: 18 });
+    if (!navigating) {
+        // Zapnout navigaci 3D
+        navigating = true;
+        followUser = true;
+        map.easeTo({ pitch: 60, bearing: -20, zoom: 18 });
+        document.getElementById('navigate-btn').textContent = 'Ukončit navigaci';
+    } else {
+        // Ukončit navigaci -> 2D
+        navigating = false;
+        followUser = false;
+        map.easeTo({ pitch: 0, bearing: 0, zoom: 18 });
+        document.getElementById('navigate-btn').textContent = 'Navigovat';
+    }
 });
 
 function initGeolocation() {
