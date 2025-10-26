@@ -45,15 +45,41 @@ html, body, #map { height:100%; margin:0; padding:0; }
 
 <script src="https://unpkg.com/maplibre-gl@2.4.0/dist/maplibre-gl.js"></script>
 <script>
-// --- Překlady ---
+// --- Vícejazyčný systém (čeština + 20 nejpoužívanějších jazyků, fallback angličtina) ---
 const translations = {
-    cs: { text: "Souhlasíte se zobrazením Vaší aktuální polohy na mapě?", button: "Souhlasím" },
-    en: { text: "Do you consent to displaying your current location on the map?", button: "I consent" }
+    cs: { consentText: "Souhlasíte se zobrazením Vaší aktuální polohy na mapě?", consentBtn: "Souhlasím", navigate: "Navigovat", stopNavigate: "Ukončit navigaci", view2d: "2D", view3d: "3D" },
+    en: { consentText: "Do you consent to displaying your current location on the map?", consentBtn: "I consent", navigate: "Navigate", stopNavigate: "Stop navigation", view2d: "2D", view3d: "3D" },
+    es: { consentText: "¿Acepta mostrar su ubicación actual en el mapa?", consentBtn: "Acepto" },
+    fr: { consentText: "Acceptez-vous d'afficher votre position actuelle sur la carte ?", consentBtn: "J'accepte" },
+    de: { consentText: "Stimmen Sie der Anzeige Ihres aktuellen Standorts auf der Karte zu?", consentBtn: "Ich stimme zu" },
+    zh: { consentText: "您同意在地图上显示您当前的位置吗？", consentBtn: "我同意" },
+    hi: { consentText: "क्या आप अपने वर्तमान स्थान को मानचित्र पर दिखाने की अनुमति देते हैं?", consentBtn: "मैं सहमत हूँ" },
+    ar: { consentText: "هل توافق على عرض موقعك الحالي على الخريطة؟", consentBtn: "أوافق" },
+    ru: { consentText: "Вы согласны с отображением вашего текущего местоположения на карте?", consentBtn: "Согласен" },
+    pt: { consentText: "Você concorda em exibir sua localização atual no mapa?", consentBtn: "Concordo" },
+    ja: { consentText: "現在地を地図に表示することに同意しますか？", consentBtn: "同意します" },
+    bn: { consentText: "আপনি কি আপনার বর্তমান অবস্থান মানচিত্রে প্রদর্শনের জন্য সম্মত?", consentBtn: "আমি সম্মত" },
+    pa: { consentText: "ਕੀ ਤੁਸੀਂ ਆਪਣੇ ਮੌਜੂਦਾ ਸਥਾਨ ਨੂੰ ਨਕਸ਼ੇ 'ਤੇ ਦਿਖਾਉਣ ਦੀ ਸਹਿਮਤੀ ਦਿੰਦੇ ਹੋ?", consentBtn: "ਮੈਂ ਸਹਿਮਤ ਹਾਂ" },
+    jv: { consentText: "Apa sampeyan sarujuk kanggo nampilake lokasi sampeyan saiki ing peta?", consentBtn: "Aku sarujuk" },
+    ko: { consentText: "지도에 현재 위치를 표시하는 것에 동의하십니까?", consentBtn: "동의합니다" },
+    vi: { consentText: "Bạn có đồng ý hiển thị vị trí hiện tại của mình trên bản đồ không?", consentBtn: "Tôi đồng ý" },
+    te: { consentText: "మీరు మీ ప్రస్తుత స్థానాన్ని మ్యాప్లో చూపించడానికి అంగీకరిస్తున్నారా?", consentBtn: "నేను అంగీకరిస్తున్నాను" },
+    mr: { consentText: "आप नकाशावर आपले वर्तमान स्थान दाखविण्यास सहमत आहात का?", consentBtn: "मी सहमत आहे" },
+    ta: { consentText: "நீங்கள் உங்கள் தற்போதைய இடத்தை வரைபட்டில் காட்டுுவதற்கு ஒப்புக்கொள்கிறீர்களா?", consentBtn: "நான் ஒப்புக்கொள்கிறேன்" },
+    ur: { consentText: "کیا آپ اپنے موجودہ مقام کو نقشے پر دکھانے کی اجازت دیتے ہیں؟", consentBtn: "میں متفق ہوں" },
+    it: { consentText: "Accetti di mostrare la tua posizione attuale sulla mappa?", consentBtn: "Accetto" },
+    tr: { consentText: "Mevcut konumunuzu haritada göstermeyi kabul ediyor musunuz?", consentBtn: "Kabul ediyorum" }
 };
+
 const userLang = navigator.language.split('-')[0];
 const lang = translations[userLang] ? userLang : 'en';
-document.getElementById('consent-text').textContent = translations[lang].text;
-document.getElementById('consent-yes').textContent = translations[lang].button;
+
+// --- Nastavení textů ---
+document.getElementById('consent-text').textContent = translations[lang].consentText || translations['en'].consentText;
+document.getElementById('consent-yes').textContent = translations[lang].consentBtn || translations['en'].consentBtn;
+document.getElementById('navigate-btn').textContent = translations[lang].navigate || translations['en'].navigate;
+document.getElementById('view-2d').textContent = translations[lang].view2d || translations['en'].view2d;
+document.getElementById('view-3d').textContent = translations[lang].view3d || translations['en'].view3d;
 
 // --- MapLibre GL setup ---
 const map = new maplibregl.Map({
@@ -70,8 +96,7 @@ map.addControl(new maplibregl.NavigationControl());
 // --- Trasa ---
 const route = {
     type: 'Feature',
-    geometry: {
-        type: 'LineString',
+    geometry: { type: 'LineString',
         coordinates: [
             [14.4405633, 50.0894811],
             [14.4404008, 50.0895775],
@@ -138,27 +163,25 @@ let returnTimer = null;
 
 // --- Reset timer při uživatelské akci ---
 function resetReturnTimer() {
-    if (!navigating) return; // timer platí jen v navigaci
+    if (!navigating) return;
     if (returnTimer) clearTimeout(returnTimer);
     returnTimer = setTimeout(() => {
         if (userMarker && navigating) {
             const coords = userMarker.getLngLat();
             map.easeTo({ center: [coords.lng, coords.lat], duration: 1000 });
         }
-    }, 5000); // 5 sekund nečinnosti
+    }, 5000);
 }
 
-// --- Události pro reset timeru ---
-['dragstart', 'zoomstart'].forEach(evt => {
-    map.on(evt, resetReturnTimer);
+// Reset timer při akcích
+['dragstart', 'zoomstart'].forEach(evt => map.on(evt, resetReturnTimer));
+document.getElementById('view-2d').addEventListener('click', () => {
+    map.easeTo({ pitch: 0, bearing: 0, duration: 1000 });
+    resetReturnTimer();
 });
-document.getElementById('view-2d').addEventListener('click', () => { 
-    map.easeTo({ pitch: 0, bearing: 0, duration: 1000 }); 
-    resetReturnTimer(); 
-});
-document.getElementById('view-3d').addEventListener('click', () => { 
-    map.easeTo({ pitch: 60, bearing: -20, duration: 1000 }); 
-    resetReturnTimer(); 
+document.getElementById('view-3d').addEventListener('click', () => {
+    map.easeTo({ pitch: 60, bearing: -20, duration: 1000 });
+    resetReturnTimer();
 });
 
 // --- Consent ---
@@ -170,14 +193,16 @@ document.getElementById('consent-yes').addEventListener('click', () => {
 // --- Navigace ---
 document.getElementById('navigate-btn').addEventListener('click', () => {
     if (!navigating) {
-        navigating = true; followUser = true;
+        navigating = true;
+        followUser = true;
         map.easeTo({ pitch: 60, bearing: -20, zoom: 18, duration: 3000 });
-        document.getElementById('navigate-btn').textContent = 'Ukončit navigaci';
-        resetReturnTimer(); // spustit timer při zapnutí navigace
+        document.getElementById('navigate-btn').textContent = translations[lang].stopNavigate || translations['en'].stopNavigate;
+        resetReturnTimer();
     } else {
-        navigating = false; followUser = false;
+        navigating = false;
+        followUser = false;
         map.easeTo({ pitch: 0, bearing: 0, zoom: 18, duration: 3000 });
-        document.getElementById('navigate-btn').textContent = 'Navigovat';
+        document.getElementById('navigate-btn').textContent = translations[lang].navigate || translations['en'].navigate;
         if (returnTimer) clearTimeout(returnTimer);
     }
 });
@@ -201,7 +226,6 @@ function initGeolocation() {
                 userMarker.setLngLat(coords);
             }
 
-            // Sleduj marker jen pokud je followUser aktivní
             if (followUser) {
                 map.easeTo({
                     center: coords,
