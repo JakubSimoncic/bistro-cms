@@ -17,31 +17,18 @@
     }
     #consent-banner button:hover { scale: 1.05; background-color: #4ff749; }
 
-    #navigate-btn #view-2d, #view-3d {
+    #navigate-btn, #view-2d, #view-3d {
         position: fixed; right: 50px; z-index: 9999;
         padding: 10px 15px; font-size: 16px;
         background-color: #222; color: #fff;
         border: 2px solid #fff; border-radius: 8px; cursor:pointer;
     }
-    #view-2d, #view-3d {
-        position: fixed; z-index: 9999;
-        padding: 10px 15px; font-size: 16px;
-        background-color: #222; color: #fff;
-        border: 2px solid #fff; border-radius: 8px; cursor:pointer;
-    }
-    #view-2d {
-        right: 50px
-        }
-    #view-2d {
-        right: 100px
-    }
-    
     #navigate-btn:hover, #view-2d:hover, #view-3d:hover { scale: 1.05; }
     #navigate-btn:active, #view-2d:active, #view-3d:active { background-color: #555; }
 
     #navigate-btn { top: 20px; }
     #view-2d { top: 70px; }
-    #view-3d { top: 70px; }
+    #view-3d { top: 110px; }
 </style>
 </head>
 <body>
@@ -211,7 +198,3 @@ function initGeolocation() {
 </script>
 </body>
 </html>
-
-
-
-
