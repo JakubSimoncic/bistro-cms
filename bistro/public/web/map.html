@@ -18,13 +18,15 @@
     #consent-banner button:hover {
         scale: 1.05; background-color: #4ff749;
     }
-    #navigate-btn {
-        position: fixed; top: 20px; right: 50px; z-index: 9999;
+    #navigate-btn, #view-2d-btn {
+        position: fixed; right: 50px; z-index: 9999;
         padding: 10px 15px; font-size: 16px; background-color: #222;
         color: #fff; border: 2px solid #fff; border-radius: 8px; cursor: pointer;
     }
-    #navigate-btn:hover { scale: 1.05; }
-    #navigate-btn:active { background-color: #555; }
+    #navigate-btn { top: 20px; }
+    #view-2d-btn { top: 80px; }
+    #navigate-btn:hover, #view-2d-btn:hover { scale: 1.05; }
+    #navigate-btn:active, #view-2d-btn:active { background-color: #555; }
 </style>
 </head>
 <body>
@@ -35,6 +37,7 @@
 
 <div id="map"></div>
 <button id="navigate-btn">Navigovat</button>
+<button id="view-2d-btn">2D pohled</button>
 
 <script src="https://unpkg.com/maplibre-gl@2.4.0/dist/maplibre-gl.js"></script>
 <script>
@@ -75,6 +78,7 @@ const route = {
         ]
     }
 };
+
 map.on('load', () => {
     // Vrstva trasy
     map.addSource('route', { type: 'geojson', data: route });
@@ -135,9 +139,16 @@ document.getElementById('consent-yes').addEventListener('click', () => {
     initGeolocation();
 });
 
+// --- Navigovat do 3D ---
 document.getElementById('navigate-btn').addEventListener('click', () => {
     followUser = true;
-    map.easeTo({ pitch: 60, bearing: -20, zoom: 18 }); // přepne do 3D
+    map.easeTo({ pitch: 60, bearing: -20, zoom: 18 });
+});
+
+// --- Přepnutí zpět do 2D ---
+document.getElementById('view-2d-btn').addEventListener('click', () => {
+    followUser = false; // ukončí sledování
+    map.easeTo({ pitch: 0, bearing: 0, zoom: 18 });
 });
 
 function initGeolocation() {
@@ -166,4 +177,3 @@ function initGeolocation() {
 </script>
 </body>
 </html>
-
