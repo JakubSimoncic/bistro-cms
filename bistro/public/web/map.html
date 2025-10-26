@@ -172,10 +172,11 @@ function initGeolocation() {
                 userMarker.setLngLat(coords);
             }
 
-            if (followUser) map.easeTo({ center: coords, pitch: navigating ? 60 : 0, bearing: navigating ? -20 : 0, duration: 5000 });
+            if (followUser) map.easeTo({ center: coords, pitch: navigating ? 60 : 0, bearing: navigating ? -20 : 0, duration: 3000 });
         }, err => console.warn('Nelze zjistit polohu:', err.message), { enableHighAccuracy: true });
     }
 }
 </script>
 </body>
 </html>
+
