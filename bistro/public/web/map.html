@@ -11,6 +11,7 @@
       margin:0;
       padding:0;
     }
+
     #consent-banner {
       position: fixed;
       bottom: 0;
@@ -71,21 +72,21 @@
     document.getElementById('consent-text').textContent = translations[lang].text;
     document.getElementById('consent-yes').textContent = translations[lang].button;
 
-    // --- MapLibre GL setup ---
+    // --- MapLibre 3D mapa ---
     const map = new maplibregl.Map({
       container: 'map',
       style: 'https://api.maptiler.com/maps/streets/style.json?key=Pc9uiLvzyWXr8WnVXScH',
-      center: [14.4399, 50.0896],
+      center: [14.4400336, 50.0901481],
       zoom: 18,
-      pitch: 60,   // naklonění pro 3D efekt
-      bearing: -20, // natočení kamery
+      pitch: 60,
+      bearing: -20,
       antialias: true
     });
 
     map.addControl(new maplibregl.NavigationControl());
 
+    // --- Přidání 3D budov ---
     map.on('load', () => {
-      // --- 3D budovy ---
       const layers = map.getStyle().layers;
       let labelLayerId;
       for (let i = 0; i < layers.length; i++) {
@@ -95,75 +96,78 @@
         }
       }
 
-      // Vrstva s 3D budovami
       map.addLayer({
-        'id': '3d-buildings',
-        'source': 'openmaptiles', // zdroj je součástí stylu MapTileru
+        id: '3d-buildings',
+        source: 'openmaptiles',
         'source-layer': 'building',
-        'type': 'fill-extrusion',
-        'minzoom': 15,
-        'paint': {
+        type: 'fill-extrusion',
+        minzoom: 15,
+        paint: {
           'fill-extrusion-color': '#aaa',
           'fill-extrusion-height': ['get', 'height'],
           'fill-extrusion-base': ['get', 'min_height'],
           'fill-extrusion-opacity': 0.6
         }
       }, labelLayerId);
+
+      // --- Trasa ---
+      const route = {
+        type: 'Feature',
+        geometry: {
+          type: 'LineString',
+          coordinates: [
+            [14.4405633, 50.0894811],
+            [14.4404008, 50.0895775],
+            [14.4401647, 50.0900086],
+            [14.4398969, 50.0899431],
+            [14.4398225, 50.0900994],
+            [14.4400336, 50.0901481]
+          ]
+        }
+      };
+
+      map.addSource('route', {
+        type: 'geojson',
+        data: route
+      });
+
+      map.addLayer({
+        id: 'route-line',
+        type: 'line',
+        source: 'route',
+        layout: { 'line-cap': 'round', 'line-join': 'round' },
+        paint: { 'line-color': '#0066ff', 'line-width': 5 }
+      });
+
+      // --- Bistro Florenc (logo marker) ---
+      const bistroEl = document.createElement('div');
+      const img = document.createElement('img');
+      img.src = 'LOGO2.png';
+      img.style.width = '35px';
+      img.style.height = '35px';
+      img.style.borderRadius = '50%';
+      img.style.border = '3px solid black';
+      img.style.background = 'white';
+      img.style.objectFit = 'cover';
+      bistroEl.appendChild(img);
+
+      new maplibregl.Marker(bistroEl)
+        .setLngLat([14.4400336, 50.0901481])
+        .addTo(map);
     });
 
-    // --- Kužel marker pro polohu uživatele ---
+    // --- Geolokace uživatele ---
     let userMarker = null;
     let followUser = false;
 
-    function createUserIcon(angle = 0) {
-      const circleRadius = 8;
-      const coneHeight = 25;
-      const coneWidth = 16;
-      const totalHeight = coneHeight + circleRadius * 2;
-      const cx = coneWidth / 2;
-
-      const svg = `
-        <svg width="${coneWidth}" height="${totalHeight}" xmlns="http://www.w3.org/2000/svg" style="overflow:visible;">
-          <defs>
-            <linearGradient id="grad" x1="0" y1="0" x2="0" y2="${coneHeight}" gradientUnits="userSpaceOnUse">
-              <stop offset="0%" stop-color="rgba(0,100,255,0.7)"/>
-              <stop offset="100%" stop-color="rgba(0,100,255,0)"/>
-            </linearGradient>
-          </defs>
-          <polygon 
-            points="${cx},${totalHeight - circleRadius} ${cx - coneWidth/2},${totalHeight - circleRadius - coneHeight} ${cx + coneWidth/2},${totalHeight - circleRadius - coneHeight}"
-            fill="url(#grad)"
-            transform="rotate(${angle}, ${cx}, ${totalHeight - circleRadius})"
-          />
-          <circle 
-            cx="${cx}" 
-            cy="${totalHeight - circleRadius}" 
-            r="${circleRadius}" 
-            fill="#66b3ff" 
-            stroke="#fff" 
-            stroke-width="2"
-          />
-        </svg>
-      `;
-
-      const el = document.createElement('div');
-      el.innerHTML = svg;
-      el.style.width = coneWidth + 'px';
-      el.style.height = totalHeight + 'px';
-
-      return el;
-    }
-
-    // --- Consent button ---
     document.getElementById('consent-yes').addEventListener('click', () => {
       document.getElementById('consent-banner').style.display = 'none';
       initGeolocation();
     });
 
-    // --- Navigate button ---
     document.getElementById('navigate-btn').addEventListener('click', () => {
       followUser = true;
-      map.easeTo({ pitch: 60, bearing: -20, zoom: 18 }); // automaticky přejde do 3D
+      map.easeTo({ pitch: 60, bearing: -20, zoom: 18 });
     });
 
     function initGeolocation() {
@@ -171,31 +175,22 @@
         navigator.geolocation.watchPosition(pos => {
           const lat = pos.coords.latitude;
           const lon = pos.coords.longitude;
-          const newLngLat = [lon, lat];
+          const coords = [lon, lat];
 
           if (!userMarker) {
-            userMarker = new maplibregl.Marker({ element: createUserIcon(0) })
-              .setLngLat(newLngLat)
-              .addTo(map);
+            const el = document.createElement('div');
+            el.style.width = '16px';
+            el.style.height = '16px';
+            el.style.background = '#007bff';
+            el.style.borderRadius = '50%';
+            el.style.border = '2px solid white';
+            userMarker = new maplibregl.Marker(el).setLngLat(coords).addTo(map);
           } else {
-            userMarker.setLngLat(newLngLat);
+            userMarker.setLngLat(coords);
           }
 
-          if (followUser) {
-            map.easeTo({ center: newLngLat, pitch: 60, bearing: -20 });
-          }
-        }, 
-        err => console.warn('Nelze zjistit polohu:', err.message),
-        { enableHighAccuracy: true });
-      }
-
-      if (window.DeviceOrientationEvent) {
-        window.addEventListener('deviceorientationabsolute', e => {
-          if (!userMarker) return;
-          const alpha = e.alpha || 0;
-          const el = userMarker.getElement();
-          el.style.transform = `rotate(${alpha}deg)`;
-        }, true);
+          if (followUser) map.easeTo({ center: coords, pitch: 60, bearing: -20 });
+        }, err => console.warn('Nelze zjistit polohu:', err.message), { enableHighAccuracy: true });
       }
     }
   </script>
