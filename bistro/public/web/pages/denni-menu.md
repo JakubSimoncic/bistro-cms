@@ -10,7 +10,7 @@ title: Denní menu CZ
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
-* **česnečka s uzeninou, sýrem a krutony** 35 Kč
+* **Česnečka s uzeninou, sýrem a krutony** 35 Kč
 * **Frankfurtská polévka** 35 Kč
 
 ## HLAVNÍ JÍDLA
