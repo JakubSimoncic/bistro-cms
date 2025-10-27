@@ -112,6 +112,14 @@
                 layout: { 'line-cap': 'round', 'line-join': 'round' },
                 paint: { 'line-color': '#0066ff', 'line-width': 5 }
             });
+
+            // --- Fit map to show the entire route ---
+            const bounds = route.geometry.coordinates.reduce(
+                (b, coord) => b.extend(coord),
+                new maplibregl.LngLatBounds(route.geometry.coordinates[0], route.geometry.coordinates[0])
+            );
+            map.fitBounds(bounds, { padding: 50 });
+
         
             const bistroEl = document.createElement('div');
             const img = document.createElement('img');
@@ -263,3 +271,4 @@
         </script>
     </body>
 </html>
+
