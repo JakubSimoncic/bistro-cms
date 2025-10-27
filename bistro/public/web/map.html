@@ -251,6 +251,15 @@
                     const lat = pos.coords.latitude;
                     const lon = pos.coords.longitude;
                     const coords = [lon, lat];
+
+                    if (lastCoords) {
+                    const distMoved = Math.sqrt(
+                        Math.pow(coords[0] - lastCoords[0], 2) +
+                        Math.pow(coords[1] - lastCoords[1], 2)
+                    );
+                    // Pokud se uživatel nepohnul víc než 0.00001° (~1 metr), ignoruj update
+                    if (distMoved < 0.00001) return;
+                }
         
                     // Kruhový marker polohy
                     if (!userMarker) {
@@ -309,3 +318,4 @@
         </script>
     </body>
 </html>
+
