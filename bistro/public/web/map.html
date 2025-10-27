@@ -118,9 +118,8 @@
                 (b, coord) => b.extend(coord),
                 new maplibregl.LngLatBounds(route.geometry.coordinates[0], route.geometry.coordinates[0])
             );
-            map.fitBounds(bounds, { padding: 50 });
-
-        
+            map.fitBounds(bounds, { padding: { top: 50, bottom: 120, left: 50, right: 50 } });
+            
             const bistroEl = document.createElement('div');
             const img = document.createElement('img');
             img.src = 'LOGO2.png';
@@ -271,4 +270,5 @@
         </script>
     </body>
 </html>
+
 
