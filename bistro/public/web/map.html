@@ -236,39 +236,63 @@
             map.setPaintProperty('route-line', 'line-color', '#0066ff');
         }
         
-        function initGeolocation() {
-            if (navigator.geolocation) {
-                watchId = navigator.geolocation.watchPosition(pos => {
-                    const lat = pos.coords.latitude;
-                    const lon = pos.coords.longitude;
-                    const coords = [lon, lat];
-        
-                    if (!userMarker) {
-                        const el = document.createElement('div');
-                        el.style.width = '16px'; el.style.height = '16px';
-                        el.style.background = '#007bff';
-                        el.style.borderRadius = '50%';
-                        el.style.border = '2px solid white';
-                        userMarker = new maplibregl.Marker(el).setLngLat(coords).addTo(map);
-                    } else {
-                        userMarker.setLngLat(coords);
-                    }
-        
-                    updateRouteProgress(coords);
-        
-                    if (followUser) {
-                        map.easeTo({
-                            center: coords,
-                            pitch: navigating ? 60 : map.getPitch(),
-                            bearing: navigating ? -20 : map.getBearing(),
-                            duration: 1000
-                        });
-                    }
-                }, err => console.warn('Nelze zjistit polohu:', err.message), { enableHighAccuracy: true });
+            function initGeolocation() {
+                if (navigator.geolocation) {
+                    watchId = navigator.geolocation.watchPosition(pos => {
+                        const lat = pos.coords.latitude;
+                        const lon = pos.coords.longitude;
+                        const coords = [lon, lat];
+            
+                        // Kruhový marker polohy
+                        if (!userMarker) {
+                            const el = document.createElement('div');
+                            el.style.width = '16px';
+                            el.style.height = '16px';
+                            el.style.background = '#007bff';
+                            el.style.borderRadius = '50%';
+                            el.style.border = '2px solid white';
+                            userMarker = new maplibregl.Marker(el).setLngLat(coords).addTo(map);
+                        } else {
+                            userMarker.setLngLat(coords);
+                        }
+            
+                        // Cone marker pro směr pohledu
+                        if (!userHeadingMarker) {
+                            const el = document.createElement('div');
+                            el.style.width = '0';
+                            el.style.height = '0';
+                            el.style.borderLeft = '8px solid transparent';
+                            el.style.borderRight = '8px solid transparent';
+                            el.style.borderBottom = '16px solid rgba(0,123,255,0.8)';
+                            el.style.transformOrigin = '50% 75%';
+                            el.style.position = 'relative';
+                            el.style.top = '-12px'; // nad kruh
+                            userHeadingMarker = new maplibregl.Marker(el).setLngLat(coords).addTo(map);
+                        } else {
+                            userHeadingMarker.setLngLat(coords);
+                        }
+            
+                        // Otočení cone podle headingu
+                        if (pos.coords.heading !== null) {
+                            userHeadingMarker.getElement().style.transform = `rotate(${pos.coords.heading}deg)`;
+                        }
+            
+                        updateRouteProgress(coords);
+            
+                        if (followUser) {
+                            map.easeTo({
+                                center: coords,
+                                pitch: navigating ? 60 : map.getPitch(),
+                                bearing: navigating ? -20 : map.getBearing(),
+                                duration: 1000
+                            });
+                        }
+                    }, err => console.warn('Nelze zjistit polohu:', err.message), { enableHighAccuracy: true });
+                }
             }
-        }
         </script>
     </body>
 </html>
+
 
 
