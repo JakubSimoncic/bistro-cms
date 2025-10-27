@@ -273,7 +273,7 @@
                     } else {
                         userHeadingMarker.setLngLat(coords);
                     }
-        
+                    
                     // Určení směru cone (špička dopředu)
                     let heading = pos.coords.heading;
                     if (heading === null && lastCoords) {
@@ -282,9 +282,9 @@
                         heading = Math.atan2(dy, dx) * 180 / Math.PI;
                     }
                     if (heading !== null) {
-                        userHeadingMarker.getElement().style.transform = `rotate(${heading - 90}deg)`;
+                        userHeadingMarker.getElement().style.transform = `rotate(${heading}deg)`;
                     }
-        
+                    
                     lastCoords = coords;
         
                     updateRouteProgress(coords);
@@ -303,6 +303,7 @@
         </script>
     </body>
 </html>
+
 
 
 
