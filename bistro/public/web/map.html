@@ -263,12 +263,12 @@
                         const el = document.createElement('div');
                         el.style.width = '0';
                         el.style.height = '0';
-                        el.style.borderLeft = '8px solid transparent';
-                        el.style.borderRight = '8px solid transparent';
-                        el.style.borderBottom = '16px solid rgba(0,123,255,0.8)';
+                        el.style.borderLeft = '10px solid transparent';
+                        el.style.borderRight = '10px solid transparent';
+                        el.style.borderBottom = '20px solid rgba(0,123,255,0.7)';
                         el.style.transformOrigin = '50% 75%';
                         el.style.position = 'relative';
-                        el.style.top = '-12px'; // nad kruh
+                        el.style.top = '-18px'; // nad kruh
                         userHeadingMarker = new maplibregl.Marker(el).setLngLat(coords).addTo(map);
                     } else {
                         userHeadingMarker.setLngLat(coords);
@@ -303,6 +303,7 @@
         </script>
     </body>
 </html>
+
 
 
 
