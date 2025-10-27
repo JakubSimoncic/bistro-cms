@@ -268,13 +268,13 @@
                         el.style.borderBottom = '20px solid rgba(0,123,255,0.7)';
                         el.style.transformOrigin = '50% 75%';
                         el.style.position = 'relative';
-                        el.style.top = '-18px'; // nad kruh
+                        el.style.top = '-18px'; // posunut nad kruh
                         userHeadingMarker = new maplibregl.Marker(el).setLngLat(coords).addTo(map);
                     } else {
                         userHeadingMarker.setLngLat(coords);
                     }
         
-                    // Určení směru cone
+                    // Určení směru cone (špička dopředu)
                     let heading = pos.coords.heading;
                     if (heading === null && lastCoords) {
                         const dx = coords[0] - lastCoords[0];
@@ -282,10 +282,10 @@
                         heading = Math.atan2(dy, dx) * 180 / Math.PI;
                     }
                     if (heading !== null) {
-                        userHeadingMarker.getElement().style.transform = `rotate(${heading}deg)`;
+                        userHeadingMarker.getElement().style.transform = `rotate(${heading - 90}deg)`;
                     }
         
-                    lastCoords = coords; // uložíme pro další iteraci
+                    lastCoords = coords;
         
                     updateRouteProgress(coords);
         
@@ -303,6 +303,7 @@
         </script>
     </body>
 </html>
+
 
 
 
