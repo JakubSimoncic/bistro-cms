@@ -45,7 +45,7 @@
         
         <script src="https://unpkg.com/maplibre-gl@2.4.0/dist/maplibre-gl.js"></script>
         <script>
-        // --- Vícejazyčný systém (čeština + 20 nejpoužívanějších jazyků, fallback angličtina) ---
+        // --- Vícejazyčný systém ---
         const translations = {
             cs: { consentText: "Souhlasíte se zobrazením Vaší aktuální polohy na mapě?", consentBtn: "Souhlasím", navigate: "Navigovat", stopNavigate: "Ukončit navigaci", view2d: "2D", view3d: "3D" },
             en: { consentText: "Do you consent to displaying your current location on the map?", consentBtn: "I consent", navigate: "Navigate", stopNavigate: "Stop navigation", view2d: "2D", view3d: "3D" },
@@ -74,14 +74,12 @@
         const userLang = navigator.language.split('-')[0];
         const lang = translations[userLang] ? userLang : 'en';
         
-        // --- Nastavení textů ---
         document.getElementById('consent-text').textContent = translations[lang].consentText || translations['en'].consentText;
         document.getElementById('consent-yes').textContent = translations[lang].consentBtn || translations['en'].consentBtn;
         document.getElementById('navigate-btn').textContent = translations[lang].navigate || translations['en'].navigate;
         document.getElementById('view-2d').textContent = translations[lang].view2d || translations['en'].view2d;
         document.getElementById('view-3d').textContent = translations[lang].view3d || translations['en'].view3d;
         
-        // --- MapLibre GL setup ---
         const map = new maplibregl.Map({
             container: 'map',
             style: 'https://api.maptiler.com/maps/streets/style.json?key=Pc9uiLvzyWXr8WnVXScH',
@@ -93,7 +91,6 @@
         });
         map.addControl(new maplibregl.NavigationControl());
         
-        // --- Trasa ---
         const route = {
             type: 'Feature',
             geometry: { type: 'LineString',
@@ -116,7 +113,6 @@
                 paint: { 'line-color': '#0066ff', 'line-width': 5 }
             });
         
-            // Bistro Florenc
             const bistroEl = document.createElement('div');
             const img = document.createElement('img');
             img.src = 'LOGO2.png';
@@ -131,7 +127,6 @@
                 .setLngLat([14.4400336, 50.0901481])
                 .addTo(map);
         
-            // 3D budovy
             const layers = map.getStyle().layers;
             let labelLayerId;
             for (let i = 0; i < layers.length; i++) {
@@ -140,28 +135,33 @@
                     break;
                 }
             }
-            map.addLayer({
-                id: '3d-buildings',
-                source: 'openmaptiles',
-                'source-layer': 'building',
-                type: 'fill-extrusion',
-                minzoom: 15,
-                paint: {
-                    'fill-extrusion-color': '#aaa',
-                    'fill-extrusion-height': ['get', 'height'],
-                    'fill-extrusion-base': ['get', 'min_height'],
-                    'fill-extrusion-opacity': 0.6
-                }
-            }, labelLayerId);
+            
+            // Opravený zdroj 3D budov
+            const buildingSource = Object.keys(map.getStyle().sources).find(s => map.getStyle().sources[s].type === 'vector' && map.getStyle().sources[s]['url']?.includes('openmaptiles'));
+            
+            if (buildingSource) {
+                map.addLayer({
+                    id: '3d-buildings',
+                    source: buildingSource,
+                    'source-layer': 'building',
+                    type: 'fill-extrusion',
+                    minzoom: 15,
+                    paint: {
+                        'fill-extrusion-color': '#aaa',
+                        'fill-extrusion-height': ['get', 'height'],
+                        'fill-extrusion-base': ['get', 'min_height'],
+                        'fill-extrusion-opacity': 0.6
+                    }
+                }, labelLayerId);
+            }
         });
         
-        // --- Geolokace uživatele ---
         let userMarker = null;
         let followUser = false;
         let navigating = false;
         let returnTimer = null;
+        let watchId = null;
         
-        // --- Reset timer při uživatelské akci ---
         function resetReturnTimer() {
             if (!navigating) return;
             if (returnTimer) clearTimeout(returnTimer);
@@ -173,7 +173,6 @@
             }, 5000);
         }
         
-        // Reset timer při akcích
         ['dragstart', 'zoomstart'].forEach(evt => map.on(evt, resetReturnTimer));
         document.getElementById('view-2d').addEventListener('click', () => {
             map.easeTo({ pitch: 0, bearing: 0, duration: 1000 });
@@ -184,13 +183,11 @@
             resetReturnTimer();
         });
         
-        // --- Consent ---
         document.getElementById('consent-yes').addEventListener('click', () => {
             document.getElementById('consent-banner').style.display = 'none';
             initGeolocation();
         });
         
-        // --- Navigace ---
         document.getElementById('navigate-btn').addEventListener('click', () => {
             if (!navigating) {
                 navigating = true;
@@ -206,7 +203,7 @@
                 if (returnTimer) clearTimeout(returnTimer);
             }
         });
-        // --- Smooth progress za uživatelem ---
+        
         function updateRouteProgress(userCoords) {
             const coords = route.geometry.coordinates;
             let totalDist = 0;
@@ -228,21 +225,13 @@
             }
         
             routeProgress = Math.min(distToUser / totalDist, 1);
-            map.setPaintProperty('route-line', 'line-gradient', [
-                'interpolate',
-                ['linear'],
-                ['line-progress'],
-                0, '#99ccff',
-                routeProgress, '#99ccff',
-                routeProgress, '#0066ff',
-                1, '#0066ff'
-            ]);
+            // Upravený line-gradient pro MapLibre GL kompatibilitu
+            map.setPaintProperty('route-line', 'line-color', '#0066ff');
         }
         
-        // --- Geolokace ---
         function initGeolocation() {
             if (navigator.geolocation) {
-                navigator.geolocation.watchPosition(pos => {
+                watchId = navigator.geolocation.watchPosition(pos => {
                     const lat = pos.coords.latitude;
                     const lon = pos.coords.longitude;
                     const coords = [lon, lat];
@@ -258,7 +247,6 @@
                         userMarker.setLngLat(coords);
                     }
         
-                    // --- tady aktualizujeme postup trasy ---
                     updateRouteProgress(coords);
         
                     if (followUser) {
