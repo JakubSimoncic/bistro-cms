@@ -282,7 +282,7 @@
                         heading = Math.atan2(dy, dx) * 180 / Math.PI;
                     }
                     if (heading !== null) {
-                        userHeadingMarker.getElement().style.transform = `rotate(${heading}deg)`;
+                        userHeadingMarker.getElement().style.transform = `rotate(${heading + 90}deg)`;
                     }
                     
                     lastCoords = coords;
@@ -303,6 +303,7 @@
         </script>
     </body>
 </html>
+
 
 
 
