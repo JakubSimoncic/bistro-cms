@@ -182,10 +182,12 @@
         }
         
         ['dragstart', 'zoomstart'].forEach(evt => map.on(evt, resetReturnTimer));
+        
         document.getElementById('view-2d').addEventListener('click', () => {
             map.easeTo({ pitch: 0, bearing: 0, duration: 1000 });
             resetReturnTimer();
         });
+        
         document.getElementById('view-3d').addEventListener('click', () => {
             map.easeTo({ pitch: 60, bearing: -20, duration: 1000 });
             resetReturnTimer();
@@ -233,13 +235,12 @@
             }
         
             routeProgress = Math.min(distToUser / totalDist, 1);
-            // Upravený line-gradient pro MapLibre GL kompatibilitu
             map.setPaintProperty('route-line', 'line-color', '#0066ff');
         }
         
         function initGeolocation() {
             if (navigator.geolocation) {
-                let lastCoords = null; // pro výpočet směru pohybu
+                let lastCoords = null;
                 watchId = navigator.geolocation.watchPosition(pos => {
                     const lat = pos.coords.latitude;
                     const lon = pos.coords.longitude;
@@ -258,35 +259,34 @@
                         userMarker.setLngLat(coords);
                     }
         
-                // Cone marker pro směr pohledu
-                if (!userHeadingMarker) {
-                    const el = document.createElement('div');
-                    el.style.width = '0';
-                    el.style.height = '0';
-                    el.style.borderLeft = '10px solid transparent';
-                    el.style.borderRight = '10px solid transparent';
-                    el.style.borderTop = '20px solid rgba(0,123,255,0.7)'; // špička nahoru
-                    el.style.transformOrigin = '50% 0%'; // pivot nahoře
-                    el.style.position = 'relative';
-                    el.style.top = '-20px'; // posun nad kruh
-                    userHeadingMarker = new maplibregl.Marker(el).setLngLat(coords).addTo(map);
-                } else {
-                    userHeadingMarker.setLngLat(coords);
-                }
-                
-                // Určení směru cone (špička dopředu)
-                let heading = pos.coords.heading;
-                if (heading === null && lastCoords) {
-                    const dx = coords[0] - lastCoords[0];
-                    const dy = coords[1] - lastCoords[1];
-                    heading = Math.atan2(dy, dx) * 180 / Math.PI;
-                }
-                if (heading !== null) {
-                    userHeadingMarker.getElement().style.transform = `rotate(${heading - 90}deg)`; // správná rotace
-                }
-          
-                    lastCoords = coords;
+                    // Cone marker pro směr pohledu
+                    if (!userHeadingMarker) {
+                        const el = document.createElement('div');
+                        el.style.width = '0';
+                        el.style.height = '0';
+                        el.style.borderLeft = '10px solid transparent';
+                        el.style.borderRight = '10px solid transparent';
+                        el.style.borderTop = '20px solid rgba(0,123,255,0.7)';
+                        el.style.transformOrigin = '50% 0%';
+                        el.style.position = 'relative';
+                        el.style.top = '-20px';
+                        userHeadingMarker = new maplibregl.Marker(el).setLngLat(coords).addTo(map);
+                    } else {
+                        userHeadingMarker.setLngLat(coords);
+                    }
         
+                    // Určení směru cone (špička dopředu)
+                    let heading = pos.coords.heading;
+                    if (heading === null && lastCoords) {
+                        const dx = coords[0] - lastCoords[0];
+                        const dy = coords[1] - lastCoords[1];
+                        heading = Math.atan2(dy, dx) * 180 / Math.PI;
+                    }
+                    if (heading !== null) {
+                        userHeadingMarker.getElement().style.transform = `rotate(${heading - 90}deg)`;
+                    }
+        
+                    lastCoords = coords;
                     updateRouteProgress(coords);
         
                     if (followUser) {
@@ -303,6 +303,7 @@
         </script>
     </body>
 </html>
+
 
 
 
