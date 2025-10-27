@@ -215,27 +215,33 @@
         });
         
         function updateRouteProgress(userCoords) {
+            if (!route.geometry.coordinates.length) return;
+        
             const coords = route.geometry.coordinates;
-            let totalDist = 0;
-            let distToUser = 0;
+            let closestIndex = 0;
+            let minDist = Infinity;
         
-            for (let i = 1; i < coords.length; i++) {
-                const dx = coords[i][0] - coords[i-1][0];
-                const dy = coords[i][1] - coords[i-1][1];
-                const segDist = Math.sqrt(dx*dx + dy*dy);
-                totalDist += segDist;
-        
-                const dxu = userCoords[0] - coords[i-1][0];
-                const dyu = userCoords[1] - coords[i-1][1];
-                const proj = ((dx*dx + dy*dy) === 0) ? 0 : ((dxu*dx + dyu*dy) / (dx*dx + dy*dy));
-                if (proj >= 0 && proj <= 1) {
-                    distToUser = totalDist - segDist + proj * segDist;
-                    break;
+            for (let i = 0; i < coords.length; i++) {
+                const dx = userCoords[0] - coords[i][0];
+                const dy = userCoords[1] - coords[i][1];
+                const dist = dx*dx + dy*dy;
+                if (dist < minDist) {
+                    minDist = dist;
+                    closestIndex = i;
                 }
             }
         
-            routeProgress = Math.min(distToUser / totalDist, 1);
-            map.setPaintProperty('route-line', 'line-color', '#0066ff');
+            // Interpolace mezi posledním bodem a aktuálním
+            const nextIndex = Math.min(closestIndex + 1, coords.length - 1);
+            const prev = coords[closestIndex];
+            const next = coords[nextIndex];
+            const t = Math.min(Math.sqrt(minDist) / Math.sqrt(Math.pow(next[0]-prev[0],2)+Math.pow(next[1]-prev[1],2)), 1);
+        
+            const interpLng = prev[0] + (next[0]-prev[0])*t;
+            const interpLat = prev[1] + (next[1]-prev[1])*t;
+        
+            if (userMarker) userMarker.setLngLat([interpLng, interpLat]);
+            if (userHeadingMarker) userHeadingMarker.setLngLat([interpLng, interpLat]);
         }
         
         function initGeolocation() {
@@ -303,6 +309,7 @@
         </script>
     </body>
 </html>
+
 
 
 
