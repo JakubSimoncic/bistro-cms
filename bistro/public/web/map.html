@@ -277,86 +277,89 @@
         }
         
 
-            function initGeolocation() {
-                if (navigator.geolocation) {
-                    let lastCoords = null;
-                    watchId = navigator.geolocation.watchPosition(pos => {
-                        const lat = pos.coords.latitude;
-                        const lon = pos.coords.longitude;
-                        const coords = [lon, lat];
-            
-                        if (lastCoords) {
-                            const distMoved = Math.sqrt(
-                                Math.pow(coords[0] - lastCoords[0], 2) +
-                                Math.pow(coords[1] - lastCoords[1], 2)
-                            );
-                            // Pokud se uživatel nepohnul víc než 0.00001° (~1 metr), ignoruj update
-                            if (distMoved < 0.00001) return;
-                        }
-            
-                        // --- Přichycení k trase (do 5 metrů) ---
-                        const userPoint = turf.point(coords);
-                        const line = turf.lineString(route.geometry.coordinates);
-                        const snapped = turf.nearestPointOnLine(line, userPoint);
-                        const distance = turf.distance(userPoint, snapped, { units: 'meters' });
-                        let displayCoords = coords;
-                        if (distance <= 5) {
-                            displayCoords = snapped.geometry.coordinates;
-                        }
-            
-                        // Kruhový marker polohy
-                        if (!userMarker) {
-                            const el = document.createElement('div');
-                            el.style.width = '16px';
-                            el.style.height = '16px';
-                            el.style.background = '#007bff';
-                            el.style.borderRadius = '50%';
-                            el.style.border = '2px solid white';
-                            userMarker = new maplibregl.Marker(el).setLngLat(displayCoords).addTo(map);
-                        } else {
-                            userMarker.setLngLat(displayCoords);
-                        }
-            
-                        // Cone marker pro směr pohledu
-                        if (!userHeadingMarker) {
-                            const el = document.createElement('div');
-                            el.style.width = '0';
-                            el.style.height = '0';
-                            el.style.borderLeft = '10px solid transparent';
-                            el.style.borderRight = '10px solid transparent';
-                            el.style.borderTop = '20px solid rgba(0,123,255,0.7)';
-                            el.style.transformOrigin = '50% 0%';
-                            el.style.position = 'relative';
-                            el.style.top = '-20px';
-                            userHeadingMarker = new maplibregl.Marker(el).setLngLat(displayCoords).addTo(map);
-                        } else {
-                            userHeadingMarker.setLngLat(displayCoords);
-                        }
-            
-                        // Určení směru cone (špička dopředu)
-                        let heading = pos.coords.heading;
-                        if (heading === null && lastCoords) {
-                            const dx = displayCoords[0] - lastCoords[0];
-                            const dy = displayCoords[1] - lastCoords[1];
-                            heading = Math.atan2(dy, dx) * 180 / Math.PI;
-                        }
-                        if (heading !== null) {
-                            userHeadingMarker.getElement().style.transform = `rotate(${heading - 90}deg)`;
-                        }
-            
-                        lastCoords = displayCoords;
-            
-                        if (followUser) {
-                            map.easeTo({
-                                center: displayCoords,
-                                pitch: navigating ? 60 : map.getPitch(),
-                                bearing: navigating ? -20 : map.getBearing(),
-                                duration: 1000
-                            });
-                        }
-                    }, err => console.warn('Nelze zjistit polohu:', err.message), { enableHighAccuracy: true });
+
+        function initGeolocation() {
+            if (!navigator.geolocation) {
+                alert('Geolokace není podporována vaším prohlížečem.');
+                return;
+            }
+        
+            let lastCoords = null;
+            let routeCoords = route.geometry.coordinates;
+        
+            watchId = navigator.geolocation.watchPosition(pos => {
+                const coords = [pos.coords.longitude, pos.coords.latitude];
+        
+                // Pokud je uživatel blízko trasy (< 5 m), přichytíme ho k ní
+                let closestIndex = 0;
+                let minDist = Infinity;
+                for (let i = 0; i < routeCoords.length; i++) {
+                    const dx = coords[0] - routeCoords[i][0];
+                    const dy = coords[1] - routeCoords[i][1];
+                    const dist = dx*dx + dy*dy;
+                    if (dist < minDist) {
+                        minDist = dist;
+                        closestIndex = i;
+                    }
                 }
+        
+                const isNearRoute = Math.sqrt(minDist) < 0.00005; // cca 5 m
+                const displayCoords = isNearRoute ? routeCoords[closestIndex] : coords;
+        
+                // Marker polohy
+                if (!userMarker) {
+                    userMarker = new maplibregl.Marker({ color: '#007bff' }).setLngLat(displayCoords).addTo(map);
+                } else {
+                    userMarker.setLngLat(displayCoords);
+                }
+        
+                // Cone marker (směr pohledu)
+                if (!userHeadingMarker) {
+                    const el = document.createElement('div');
+                    el.style.width = '0';
+                    el.style.height = '0';
+                    el.style.borderLeft = '10px solid transparent';
+                    el.style.borderRight = '10px solid transparent';
+                    el.style.borderTop = '20px solid rgba(0,123,255,0.7)';
+                    el.style.transformOrigin = '50% 0%';
+                    el.style.position = 'relative';
+                    el.style.top = '-20px';
+                    userHeadingMarker = new maplibregl.Marker(el).setLngLat(displayCoords).addTo(map);
+                } else {
+                    userHeadingMarker.setLngLat(displayCoords);
+                }
+        
+                // Určení směru markeru
+                let heading = pos.coords.heading;
+                if (heading === null && lastCoords) {
+                    const dx = displayCoords[0] - lastCoords[0];
+                    const dy = displayCoords[1] - lastCoords[1];
+                    heading = Math.atan2(dy, dx) * 180 / Math.PI;
+                }
+                if (heading !== null) {
+                    userHeadingMarker.getElement().style.transform = `rotate(${heading - 90}deg)`;
+                }
+        
+                // posunutí kamery a aktualizace trasy
+                if (navigating) {
+                    map.easeTo({
+                        center: displayCoords,
+                        bearing: heading || 0,
+                        duration: 1000
+                    });
+                    updateRouteProgress(displayCoords);
+                                    lastCoords = displayCoords;
+            }, err => {
+                console.error('Chyba geolokace:', err);
+                alert('Nepodařilo se zjistit polohu.');
+            }, {
+                enableHighAccuracy: true,
+                maximumAge: 1000,
+                timeout: 10000
+            });
+        }
         </script>
     </body>
 </html>
+
 
