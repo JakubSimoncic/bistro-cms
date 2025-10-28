@@ -1,3 +1,6 @@
+uz je to spravne?
+
+
 <!doctype html>
 <html lang="cs">
     <head>
@@ -276,8 +279,6 @@
             if (userHeadingMarker) userHeadingMarker.setLngLat([interpLng, interpLat]);
         }
         
-
-
         function initGeolocation() {
             if (!navigator.geolocation) {
                 alert('Geolokace není podporována vaším prohlížečem.');
@@ -348,7 +349,9 @@
                         duration: 1000
                     });
                     updateRouteProgress(displayCoords);
-                                    lastCoords = displayCoords;
+                }
+        
+                lastCoords = displayCoords;
             }, err => {
                 console.error('Chyba geolokace:', err);
                 alert('Nepodařilo se zjistit polohu.');
@@ -361,5 +364,3 @@
         </script>
     </body>
 </html>
-
-
