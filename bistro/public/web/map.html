@@ -347,6 +347,7 @@
                             center: displayCoords,
                             pitch: navigating ? 60 : map.getPitch(),
                             bearing: navigating ? -20 : map.getBearing(),
+                            zoom: navigating ? 18 : map.getZoom(),
                             duration: 1000
                         });
                     }
@@ -356,3 +357,4 @@
         </script>
     </body>
 </html>
+
