@@ -15,7 +15,7 @@ title: Denní menu CZ
 
 ## HLAVNÍ JÍDLA
 
-* **Smažený hermelín, smažené hranolky, tatarská omáčka a salátek coleslaw** 165 Kč
+* **Smažený hermelín, smažené hranolky, tatarská omáčka a salátek coleslaw** 175 Kč
 * **Kuřecí nudličky po sečuánsku a pečená jasmínová rýže** 165 Kč
 * **Hovězí krk na víně a bramborová kaše** 175 Kč
 * **Filírovaná vepřová panenka, pečené tymiánové brambory a omáčka z konfitovaného česneku** 195 Kč
