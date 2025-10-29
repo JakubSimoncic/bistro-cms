@@ -364,10 +364,10 @@ function initGeolocation() {
             smoothedHeading = (smoothedHeading + diff * 0.2 + 360) % 360;
         }
 
-        // --- RELATIVNÍ OTÁČENÍ cone vůči mapě ---
-        const mapBearing = map.getBearing();
-        const relativeHeading = smoothedHeading - mapBearing;
-        coneEl.style.transform = `rotate(${relativeHeading}deg)`;
+        // --- Otáčení cone podle kompasu / pohybu ---
+        if (heading !== null) {
+            coneEl.style.transform = `rotate(${smoothedHeading}deg)`;
+        }
 
         lastCoords = displayCoords;
 
@@ -385,5 +385,6 @@ function initGeolocation() {
         </script>
     </body>
 </html>
+
 
 
