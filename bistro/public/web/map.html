@@ -279,6 +279,8 @@
 function initGeolocation() {
     if (navigator.geolocation) {
         let lastCoords = null;
+        let compassActive = false; // <— přidáno: sleduj, zda funguje kompas
+
         watchId = navigator.geolocation.watchPosition(pos => {
             const lat = pos.coords.latitude;
             const lon = pos.coords.longitude;
@@ -297,11 +299,9 @@ function initGeolocation() {
             const snapped = turf.nearestPointOnLine(line, userPoint);
             const distance = turf.distance(userPoint, snapped, { units: 'meters' });
             let displayCoords = coords;
-            if (distance <= 5) {
-                displayCoords = snapped.geometry.coordinates;
-            }
+            if (distance <= 5) displayCoords = snapped.geometry.coordinates;
 
-            // Kruhový marker polohy
+            // Kruhový marker
             if (!userMarker) {
                 const el = document.createElement('div');
                 el.style.width = '16px';
@@ -310,11 +310,9 @@ function initGeolocation() {
                 el.style.borderRadius = '50%';
                 el.style.border = '2px solid white';
                 userMarker = new maplibregl.Marker(el).setLngLat(displayCoords).addTo(map);
-            } else {
-                userMarker.setLngLat(displayCoords);
-            }
+            } else userMarker.setLngLat(displayCoords);
 
-            // Cone marker pro směr pohledu
+            // Cone marker
             if (!userHeadingMarker) {
                 const el = document.createElement('div');
                 el.style.width = '0';
@@ -327,43 +325,41 @@ function initGeolocation() {
                 el.style.top = '-20px';
                 userHeadingMarker = new maplibregl.Marker(el).setLngLat(displayCoords).addTo(map);
 
-                // 🎯 Přidáno – otáčení podle kompasu telefonu
+                // 🧭 Kompas – orientace podle telefonu
                 if (window.DeviceOrientationEvent) {
-                    // Některé prohlížeče (např. iOS) vyžadují povolení
-                    if (typeof DeviceOrientationEvent.requestPermission === 'function') {
-                        DeviceOrientationEvent.requestPermission().then(response => {
-                            if (response === 'granted') {
-                                window.addEventListener('deviceorientation', (event) => {
-                                    if (event.absolute && event.alpha !== null) {
-                                        const heading = 360 - event.alpha;
-                                        userHeadingMarker.getElement().style.transform = `rotate(${heading}deg)`;
-                                    }
-                                });
-                            }
-                        }).catch(console.error);
-                    } else {
-                        // Android – funguje hned
+                    const enableCompass = () => {
                         window.addEventListener('deviceorientation', (event) => {
                             if (event.alpha !== null) {
                                 const heading = 360 - event.alpha;
                                 userHeadingMarker.getElement().style.transform = `rotate(${heading}deg)`;
+                                compassActive = true;
                             }
                         });
+                    };
+
+                    if (typeof DeviceOrientationEvent.requestPermission === 'function') {
+                        DeviceOrientationEvent.requestPermission()
+                            .then(res => { if (res === 'granted') enableCompass(); })
+                            .catch(console.error);
+                    } else {
+                        enableCompass();
                     }
                 }
             } else {
                 userHeadingMarker.setLngLat(displayCoords);
             }
 
-            // Záložní otočení podle GPS headingu (při pohybu)
-            let heading = pos.coords.heading;
-            if (heading === null && lastCoords) {
-                const dx = displayCoords[0] - lastCoords[0];
-                const dy = displayCoords[1] - lastCoords[1];
-                heading = Math.atan2(dy, dx) * 180 / Math.PI;
-            }
-            if (heading !== null) {
-                userHeadingMarker.getElement().style.transform = `rotate(${heading - 90}deg)`;
+            // 📍 GPS heading – pouze pokud kompas není aktivní
+            if (!compassActive) {
+                let heading = pos.coords.heading;
+                if (heading === null && lastCoords) {
+                    const dx = displayCoords[0] - lastCoords[0];
+                    const dy = displayCoords[1] - lastCoords[1];
+                    heading = Math.atan2(dy, dx) * 180 / Math.PI;
+                }
+                if (heading !== null) {
+                    userHeadingMarker.getElement().style.transform = `rotate(${heading - 90}deg)`;
+                }
             }
 
             lastCoords = displayCoords;
@@ -383,6 +379,7 @@ function initGeolocation() {
         </script>
     </body>
 </html>
+
 
 
 
