@@ -15,7 +15,7 @@ title: Denní menu - EN
 
 ## MAIN COURSES
 
-* **Chicken gyros noodles in tortilla with garlic dressing, cabbage salad and cheese, served with French Friess** 175 CZK
+* **Chicken gyros noodles in tortilla with garlic dressing, cabbage salad and cheese, served with French Fries** 175 CZK
 * **Serbian pork roast meat and baked jasmine rice** 165 CZK
 * **Pork meat with creamy-paprika sauce and homemade dumplings** 165 CZK
 * **Homemade potato gnocchi with pork tenderloin meat, pancetta, dried tomatoes, garlic, onion, white wine and parmesan cheese** 195 CZK
