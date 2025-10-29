@@ -328,7 +328,8 @@ function initGeolocation() {
         const line = turf.lineString(route.geometry.coordinates);
         const snapped = turf.nearestPointOnLine(line, userPoint);
         const distance = turf.distance(userPoint, snapped, { units: 'meters' });
-        const displayCoords = (distance <= 5) ? snapped.geometry.coordinates : coords;
+        const maxSnapDistance = 20; // maximální vzdálenost k trase v metrech
+        const displayCoords = (distance <= maxSnapDistance) ? snapped.geometry.coordinates : coords;
 
         // Marker polohy (modrý puntík)
         if (!userMarker) {
@@ -386,5 +387,6 @@ function initGeolocation() {
         </script>
     </body>
 </html>
+
 
 
