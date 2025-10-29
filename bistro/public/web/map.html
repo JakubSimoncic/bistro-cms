@@ -1,3 +1,6 @@
+toto je muj kod
+
+
 <!doctype html>
 <html lang="cs">
     <head>
@@ -256,7 +259,7 @@
             }
         
             // označ část trasy jako projitou
-            completedRoute.geometry.coordinates = route.geometry.coordinates.filter((c, i) => i <= closestIndex);
+            completedRoute.geometry.coordinates = coords.slice(0, closestIndex + 1);
             map.getSource('completed-route').setData(completedRoute);
         
             // Interpolace mezi posledním bodem a aktuálním
@@ -276,117 +279,84 @@
             if (userHeadingMarker) userHeadingMarker.setLngLat([interpLng, interpLat]);
         }
         
-function initGeolocation() {
-    if (!navigator.geolocation) return;
+        function initGeolocation() {
+            if (navigator.geolocation) {
+                let lastCoords = null;
+                watchId = navigator.geolocation.watchPosition(pos => {
+                    const lat = pos.coords.latitude;
+                    const lon = pos.coords.longitude;
+                    const coords = [lon, lat];
 
-    let lastCoords = null;
-    let smoothedHeading = 0;
+                    if (lastCoords) {
+                        const distMoved = Math.sqrt(
+                            Math.pow(coords[0] - lastCoords[0], 2) +
+                            Math.pow(coords[1] - lastCoords[1], 2)
+                        );
+                        if (distMoved < 0.00001) return;
+                    }
 
-    // --- Cone marker ---
-    const coneEl = document.createElement('div');
-    coneEl.style.width = '0';
-    coneEl.style.height = '0';
-    coneEl.style.borderLeft = '10px solid transparent';
-    coneEl.style.borderRight = '10px solid transparent';
-    coneEl.style.borderTop = '20px solid rgba(0,123,255,0.7)';
-    coneEl.style.transformOrigin = '50% 50%';
-    coneEl.style.pointerEvents = 'none';
+                    const userPoint = turf.point(coords);
+                    const line = turf.lineString(route.geometry.coordinates);
+                    const snapped = turf.nearestPointOnLine(line, userPoint);
+                    const distance = turf.distance(userPoint, snapped, { units: 'meters' });
+                    let displayCoords = coords;
+                    if (distance <= 5) {
+                        displayCoords = snapped.geometry.coordinates;
+                    }
 
-    // Vytvoříme marker pouze pro cone
-    userHeadingMarker = new maplibregl.Marker(coneEl, { rotationAlignment: 'map' })
-        .setLngLat(map.getCenter())
-        .addTo(map);
+                    // Kruhový marker polohy
+                    if (!userMarker) {
+                        const el = document.createElement('div');
+                        el.style.width = '16px';
+                        el.style.height = '16px';
+                        el.style.background = '#007bff';
+                        el.style.borderRadius = '50%';
+                        el.style.border = '2px solid white';
+                        userMarker = new maplibregl.Marker(el).setLngLat(displayCoords).addTo(map);
+                    } else {
+                        userMarker.setLngLat(displayCoords);
+                    }
 
-    let headingFromCompass = null;
+                    // Cone marker pro směr pohledu
+                    if (!userHeadingMarker) {
+                        const el = document.createElement('div');
+                        el.style.width = '0';
+                        el.style.height = '0';
+                        el.style.borderLeft = '10px solid transparent';
+                        el.style.borderRight = '10px solid transparent';
+                        el.style.borderTop = '20px solid rgba(0,123,255,0.7)';
+                        el.style.transformOrigin = '50% 0%';
+                        el.style.position = 'relative';
+                        el.style.top = '-20px';
+                        userHeadingMarker = new maplibregl.Marker(el).setLngLat(displayCoords).addTo(map);
+                    } else {
+                        userHeadingMarker.setLngLat(displayCoords);
+                    }
 
-    function enableCompass() {
-        window.addEventListener('deviceorientationabsolute', (event) => {
-            if (event && event.alpha !== null) headingFromCompass = 360 - event.alpha;
-        }, true);
+                    let heading = pos.coords.heading;
+                    if (heading === null && lastCoords) {
+                        const dx = displayCoords[0] - lastCoords[0];
+                        const dy = displayCoords[1] - lastCoords[1];
+                        heading = Math.atan2(dy, dx) * 180 / Math.PI;
+                    }
+                    if (heading !== null) {
+                        userHeadingMarker.getElement().style.transform = `rotate(${heading - 90}deg)`;
+                    }
 
-        window.addEventListener('deviceorientation', (event) => {
-            if (event && event.alpha !== null && headingFromCompass === null) headingFromCompass = 360 - event.alpha;
-        }, true);
-    }
+                    lastCoords = displayCoords;
 
-    if (window.DeviceOrientationEvent && typeof DeviceOrientationEvent.requestPermission === 'function') {
-        DeviceOrientationEvent.requestPermission()
-            .then(res => { if (res === 'granted') enableCompass(); })
-            .catch(() => {});
-    } else {
-        enableCompass();
-    }
-
-    // --- GPS sledování polohy ---
-    watchId = navigator.geolocation.watchPosition(pos => {
-        const lat = pos.coords.latitude;
-        const lon = pos.coords.longitude;
-        const coords = [lon, lat];
-
-        // Přichycení k trase pomocí Turf
-        const userPoint = turf.point(coords);
-        const line = turf.lineString(route.geometry.coordinates);
-        const snapped = turf.nearestPointOnLine(line, userPoint);
-        const distance = turf.distance(userPoint, snapped, { units: 'meters' });
-        const maxSnapDistance = 20; // maximální vzdálenost k trase v metrech
-        const displayCoords = (distance <= maxSnapDistance) ? snapped.geometry.coordinates : coords;
-
-        // Marker polohy (modrý puntík)
-        if (!userMarker) {
-            const el = document.createElement('div');
-            el.style.width = '16px';
-            el.style.height = '16px';
-            el.style.background = '#007bff';
-            el.style.borderRadius = '50%';
-            el.style.border = '2px solid white';
-            el.style.pointerEvents = 'none';
-            userMarker = new maplibregl.Marker(el).setLngLat(displayCoords).addTo(map);
-        } else {
-            userMarker.setLngLat(displayCoords);
+                    if (followUser) {
+                        map.easeTo({
+                            center: displayCoords,
+                            pitch: navigating ? 60 : map.getPitch(),
+                            bearing: navigating ? -20 : map.getBearing(),
+                            zoom: navigating ? 18 : map.getZoom(),
+                            duration: 1000
+                        });
+                    }
+                }, err => console.warn('Nelze zjistit polohu:', err.message), { enableHighAccuracy: true });
+            }
         }
-
-        // --- Heading ---
-        let heading = headingFromCompass;
-        if (heading === null && lastCoords) {
-            const dx = displayCoords[0] - lastCoords[0];
-            const dy = displayCoords[1] - lastCoords[1];
-            heading = Math.atan2(dy, dx) * 180 / Math.PI;
-        }
-
-        // Vyhlazení rotace cone
-        if (heading !== null) {
-            const diff = ((heading - smoothedHeading + 540) % 360) - 180;
-            smoothedHeading = (smoothedHeading + diff * 0.2 + 360) % 360;
-
-            // Pouze rotace markeru, ne nastavování elementu přímo
-            userHeadingMarker.setRotation(smoothedHeading);
-        }
-
-        // Aktualizace pozice markeru cone
-        userHeadingMarker.setLngLat(displayCoords);
-
-        lastCoords = displayCoords;
-
-        // --- Sledování mapou ---
-        if (followUser) {
-            map.easeTo({
-                center: displayCoords,
-                pitch: navigating ? 60 : map.getPitch(),
-                bearing: navigating ? -20 : map.getBearing(),
-                zoom: navigating ? 18 : map.getZoom(),
-                duration: 1000
-            });
-        }
-
-        // --- Aktualizace projité trasy ---
-        updateRouteProgress(displayCoords);
-
-    }, err => console.warn('Nelze zjistit polohu:', err.message), { enableHighAccuracy: true });
-}
-
         </script>
     </body>
 </html>
-
-
-
