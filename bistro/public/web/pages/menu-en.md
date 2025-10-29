@@ -15,7 +15,7 @@ title: Denní menu - EN
 
 ## MAIN COURSES
 
-* **Fried camembert meat, French Fries, Tartar Sauce and coleslaw** 165 CZK
+* **Fried camembert meat, French Fries, Tartar Sauce and coleslaw** 175 CZK
 * **Szechuan chicken noodles and baked jasmine rice** 165 CZK
 * **Beef neck in wine and mashed potatoes** 175 CZK
 * **Filleted pork tenderloin, roasted thyme potatoes and confit garlic sauce** 195 CZK
