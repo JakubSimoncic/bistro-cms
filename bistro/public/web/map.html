@@ -326,30 +326,31 @@
                     coneEl.style.transform = `rotate(${compassHeading}deg)`;
                 }
             }
-        
-            // 📍 GPS sledování
+                    
+             // 📍 GPS sledování
             navigator.geolocation.watchPosition(pos => {
                 const lat = pos.coords.latitude;
                 const lon = pos.coords.longitude;
                 const coords = [lon, lat];
-        
+            
                 const userPoint = turf.point(coords);
                 const line = turf.lineString(route.geometry.coordinates);
                 const snapped = turf.nearestPointOnLine(line, userPoint);
                 const distance = turf.distance(userPoint, snapped, { units: 'meters' });
                 const displayCoords = (distance <= 5) ? snapped.geometry.coordinates : coords;
-        
+            
                 userMarker.setLngLat(displayCoords);
                 userHeadingMarker.setLngLat(displayCoords);
-        
+            
                 lastCoords = displayCoords;
-        
-                if (followUser) {
+            
+                // 🟢 Kamera sleduje uživatele jen pokud naviguje
+                if (followUser && navigating) {
                     map.easeTo({
                         center: displayCoords,
-                        pitch: navigating ? 60 : map.getPitch(),
-                        bearing: navigating ? -20 : map.getBearing(),
-                        zoom: navigating ? 18 : map.getZoom(),
+                        pitch: 60,
+                        bearing: -20,
+                        zoom: 18,
                         duration: 1000
                     });
                 }
@@ -358,6 +359,7 @@
         </script>
     </body>
 </html>
+
 
 
 
