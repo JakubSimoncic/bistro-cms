@@ -280,7 +280,7 @@ function initGeolocation() {
     if (!navigator.geolocation) return;
 
     let lastCoords = null;
-    let headingFromCompass = null;
+    let lastHeading = 0; // pamatuje poslední směr cone
 
     // --- Cone marker pro směr pohledu ---
     const coneEl = document.createElement('div');
@@ -294,24 +294,24 @@ function initGeolocation() {
     coneEl.style.top = '-20px';
     coneEl.style.pointerEvents = 'none';
 
-    // Inicialní marker
-    const center = map.getCenter();
-    userHeadingMarker = new maplibregl.Marker(coneEl).setLngLat([center.lng, center.lat]).addTo(map);
+    userHeadingMarker = new maplibregl.Marker(coneEl)
+        .setLngLat(map.getCenter())
+        .addTo(map);
 
-    // --- Aktivace kompasu, pokud je ---
+    // --- Aktivace kompasu na mobilu ---
     function enableCompass() {
         window.addEventListener('deviceorientationabsolute', (event) => {
             if (event && event.alpha !== null) {
-                headingFromCompass = 360 - event.alpha; 
-                coneEl.style.transform = `rotate(${headingFromCompass}deg)`;
+                lastHeading = 360 - event.alpha;
+                coneEl.style.transform = `rotate(${lastHeading}deg)`;
             }
         }, true);
 
         // fallback pro iOS
         window.addEventListener('deviceorientation', (event) => {
-            if (event && event.alpha !== null && headingFromCompass === null) {
-                headingFromCompass = 360 - event.alpha;
-                coneEl.style.transform = `rotate(${headingFromCompass}deg)`;
+            if (event && event.alpha !== null && lastHeading === 0) {
+                lastHeading = 360 - event.alpha;
+                coneEl.style.transform = `rotate(${lastHeading}deg)`;
             }
         }, true);
     }
@@ -354,17 +354,18 @@ function initGeolocation() {
         // Cone marker (vždy aktualizován)
         userHeadingMarker.setLngLat(displayCoords);
 
-        // Heading pro cone
+        // Heading: kompas nebo pohyb
         let heading = pos.coords.heading;
         if ((heading === null || heading === undefined) && lastCoords) {
             const dx = displayCoords[0] - lastCoords[0];
             const dy = displayCoords[1] - lastCoords[1];
             heading = Math.atan2(dy, dx) * 180 / Math.PI;
         }
-        if (headingFromCompass !== null) {
-            coneEl.style.transform = `rotate(${headingFromCompass}deg)`;
+        if (!isNaN(lastHeading)) {
+            coneEl.style.transform = `rotate(${lastHeading}deg)`;
         } else if (heading !== null) {
-            coneEl.style.transform = `rotate(${heading - 90}deg)`;
+            lastHeading = heading - 90;
+            coneEl.style.transform = `rotate(${lastHeading}deg)`;
         }
 
         lastCoords = displayCoords;
@@ -380,9 +381,11 @@ function initGeolocation() {
         }
     }, err => console.warn('Nelze zjistit polohu:', err.message), { enableHighAccuracy: true });
 }
+
         </script>
     </body>
 </html>
+
 
 
 
