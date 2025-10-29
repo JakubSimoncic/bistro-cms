@@ -366,7 +366,6 @@
         
             // --- Rotace cone relativně k mapě ---
             if (heading !== null) {
-                const relativeHeading = smoothedHeading - map.getBearing();
                 coneEl.style.transform = `rotate(${relativeHeading}deg)`;
             }
         
@@ -387,3 +386,4 @@
         </script>
     </body>
 </html>
+
