@@ -256,7 +256,7 @@
             }
         
             // označ část trasy jako projitou
-            completedRoute.geometry.coordinates = coords.slice(0, closestIndex + 1);
+            completedRoute.geometry.coordinates = route.geometry.coordinates.filter((c, i) => i <= closestIndex);
             map.getSource('completed-route').setData(completedRoute);
         
             // Interpolace mezi posledním bodem a aktuálním
@@ -289,9 +289,9 @@
             coneEl.style.borderLeft = '10px solid transparent';
             coneEl.style.borderRight = '10px solid transparent';
             coneEl.style.borderTop = '20px solid rgba(0,123,255,0.7)';
-            coneEl.style.transformOrigin = '50% 0%';
+            coneEl.style.transformOrigin = '50% 50%'; // změněno z 50% 0%
             coneEl.style.position = 'relative';
-            coneEl.style.top = '-20px';
+            coneEl.style.top = '-10px'; // mírně posunuto, aby cone stál na markeru
             coneEl.style.pointerEvents = 'none';
         
             const center = map.getCenter();
@@ -387,3 +387,4 @@ watchId = navigator.geolocation.watchPosition(pos => {
         </script>
     </body>
 </html>
+
