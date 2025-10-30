@@ -4,7 +4,7 @@ title: Denní menu CZ
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)
 
 * **MENU 1: Polévka + Srbské vepřové rizoto s mletým masem a sýrem, okurka** 185 Kč
-* **MENU 2: Polévka + Hovězí krk na víně a Hovězí krk na víně a máslová bramborová kašebramborová kaše** 195 Kč
+* **MENU 2: Polévka + Hovězí krk na víně a máslová bramborová kaše** 195 Kč
 * 
 * **JÍDLO TÝDNE: Vepřové na slanině a pečená jasmínová rýže** 135 Kč
 
