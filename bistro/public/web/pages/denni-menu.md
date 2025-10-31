@@ -18,7 +18,7 @@ title: Denní menu CZ
 * **Vepřové na paprice a těstoviny fusilli** 165 Kč
 * **Pečené vepřové koleno, špenát, houskový a bramborový knedlík** 165 Kč
 * **Hovězí nudličky Stroganoff a pečená jasmínová rýže** 175 Kč
-* **Kuřecí gyros v pšeničné tortille a smažené hranolky** 175 Kč
+* **Kuřecí gyros v grilované pšeničné tortille a smažené hranolky** 175 Kč
 * **Hovězí guláš s cibulkou a beraním rohem, domácí houskový knedlík** 185 Kč
 * **Kuřecí řízek, bramborový salát a citron** 175 Kč
 * **Smažený sýr, hranolky a tatarská omáčka** 175 Kč
