@@ -18,7 +18,7 @@ title: Denní menu - EN
 * **Pork meat with creamy- pepper sauce and fusilli pasta** 165 CZK
 * **Roasted pork knuckle, spinach, bread and potato dumplings** 165 CZK
 * **Beef Stroganoff noodles and baked jasmine rice** 175 CZK
-* **Chicken gyros in wheat tortilla and French Fries** 175 CZK
+* **Chicken gyros in grilled wheat tortilla and French Fries** 175 CZK
 * **Beef goulash with onion and pepper, homemade dumplings** 185 CZK
 * **Fried chicken schnitzel, potato salad and lemon** 175 CZK
 * **Fried cheese, French Fries and Tartar Sauce** 175 CZK
