@@ -11,7 +11,7 @@ title: Denní menu - EN
 ## SMALL SOUP FOR THE MAIN COURSE – 250ml
 
 * **Cabbage soup with sausage** 35 CZK
-* **Broccoli cream with sour cream and croutons** 35 CZK
+* **Broccoli cream with roasted potato nuggets with pancetta and sour cream** 35 CZK
 
 ## MAIN COURSES
 
@@ -26,6 +26,6 @@ title: Denní menu - EN
 
 ## LARGE SOUP ORDERED SEPARATELY – 500ml
 
-* **Cabbage soup with sausage or Broccoli cream with sour cream and croutons** 75 CZK
+* **Cabbage soup with sausage or Broccoli cream with roasted potato nuggets with pancetta and sour cream** 75 CZK
 
 ***Offer is valid on Friday 31.10. from 10:30 until closing time or while stocks last.***
