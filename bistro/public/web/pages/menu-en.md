@@ -28,4 +28,4 @@ title: Denní menu - EN
 
 * **Chickpea soup with smoked meat and croutons or Cabbage soup with sausage** 75 CZK
 
-***Offer is valid on Friday 31.10. from 10:30 until closing time or while stocks last.***
+***Offer is valid on Saturday 1.11. from 10:30 until closing time or while stocks last.***
