@@ -11,7 +11,7 @@ title: Denní menu CZ
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
 * **Zelňačka s uzeninou** 35 Kč
-* **Brokolicový krém se zakysanou smetanou a krutony** 35 Kč
+* **Brokolicový krém s opečenými bramborovými nočky s pancettou a zakysanou smetanou** 35 Kč
 
 ## HLAVNÍ JÍDLA
 
@@ -26,7 +26,7 @@ title: Denní menu CZ
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTATNĚ – 500ml
 
-* **Zelňačka s uzeninou nebo brokolicový krém se zakysanou smetanou a krutony** 75 Kč
+* **Zelňačka s uzeninou nebo Brokolicový krém s opečenými bramborovými nočky s pancettou a zakysanou smetanou** 75 Kč
 
 
 ***Nabídka platí v pátek 31.10. od 10:30 do zavírací hodiny nebo do vyprodání.***
