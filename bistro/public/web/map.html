@@ -283,7 +283,7 @@
                     const lat = pos.coords.latitude;
                     const lon = pos.coords.longitude;
                     const coords = [lon, lat];
-
+        
                     if (lastCoords) {
                         const distMoved = Math.sqrt(
                             Math.pow(coords[0] - lastCoords[0], 2) +
@@ -291,7 +291,7 @@
                         );
                         if (distMoved < 0.00001) return;
                     }
-
+        
                     const userPoint = turf.point(coords);
                     const line = turf.lineString(route.geometry.coordinates);
                     const snapped = turf.nearestPointOnLine(line, userPoint);
@@ -300,8 +300,8 @@
                     if (distance <= 5) {
                         displayCoords = snapped.geometry.coordinates;
                     }
-
-                    // Kruhový marker polohy
+        
+                    // --- Kruhový marker polohy ---
                     if (!userMarker) {
                         const el = document.createElement('div');
                         el.style.width = '16px';
@@ -313,8 +313,8 @@
                     } else {
                         userMarker.setLngLat(displayCoords);
                     }
-
-                    // Cone marker pro směr pohledu
+        
+                    // --- Cone marker pro směr pohledu ---
                     if (!userHeadingMarker) {
                         const el = document.createElement('div');
                         el.style.width = '0';
@@ -325,11 +325,13 @@
                         el.style.transformOrigin = '50% 0%';
                         el.style.position = 'relative';
                         el.style.top = '-20px';
+                        el.style.transition = 'transform 0.2s linear';
                         userHeadingMarker = new maplibregl.Marker(el).setLngLat(displayCoords).addTo(map);
                     } else {
                         userHeadingMarker.setLngLat(displayCoords);
                     }
-
+        
+                    // --- Směr pohybu z GPS ---
                     let heading = pos.coords.heading;
                     if (heading === null && lastCoords) {
                         const dx = displayCoords[0] - lastCoords[0];
@@ -337,11 +339,12 @@
                         heading = Math.atan2(dy, dx) * 180 / Math.PI;
                     }
                     if (heading !== null) {
-                        userHeadingMarker.getElement().style.transform = `rotate(${heading - 90}deg)`;
+                        userHeadingMarker.getElement().style.transform =
+                            `rotate(${heading - 90 - map.getBearing()}deg)`;
                     }
-
+        
                     lastCoords = displayCoords;
-
+        
                     if (followUser) {
                         map.easeTo({
                             center: displayCoords,
@@ -353,7 +356,38 @@
                     }
                 }, err => console.warn('Nelze zjistit polohu:', err.message), { enableHighAccuracy: true });
             }
+        
+            // --- Kompas (DeviceOrientation) ---
+            if (window.DeviceOrientationEvent) {
+                const handleOrientation = (event) => {
+                    let heading;
+                    if (event.absolute && event.alpha !== null) {
+                        heading = 360 - event.alpha;
+                    } else if (event.webkitCompassHeading !== undefined) {
+                        heading = event.webkitCompassHeading;
+                    }
+                    if (heading !== undefined && userHeadingMarker) {
+                        const el = userHeadingMarker.getElement();
+                        el.style.transition = 'transform 0.2s linear';
+                        el.style.transform = `rotate(${heading - map.getBearing()}deg)`;
+                    }
+                };
+        
+                if (typeof DeviceOrientationEvent.requestPermission === 'function') {
+                    // iOS Safari – vyžádání oprávnění
+                    DeviceOrientationEvent.requestPermission().then(response => {
+                        if (response === 'granted') {
+                            window.addEventListener('deviceorientation', handleOrientation, true);
+                        }
+                    }).catch(err => console.warn('Kompas nelze aktivovat:', err));
+                } else {
+                    // Android / běžné prohlížeče
+                    window.addEventListener('deviceorientationabsolute', handleOrientation, true);
+                    window.addEventListener('deviceorientation', handleOrientation, true);
+                }
+            }
         }
         </script>
     </body>
 </html>
+
