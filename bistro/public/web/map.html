@@ -321,15 +321,15 @@ function initGeolocation() {
                 el.style.height = '0';
                 el.style.borderLeft = '10px solid transparent';
                 el.style.borderRight = '10px solid transparent';
-                el.style.borderBottom = '20px solid rgba(0,123,255,0.7)'; // 🔁 lepší mít špičku nahoře
+                el.style.borderBottom = '20px solid rgba(0,123,255,0.7)'; // špička nahoru
                 el.style.transformOrigin = '50% 100%';
-                el.style.position = 'absolute';
-                el.style.left = '-10px';  // polovina šířky (10px)
-                el.style.top = '-20px';   // výška trojúhelníku
-                el.style.transition = 'transform 0.2s linear';
-                userHeadingMarker = new maplibregl.Marker(el, { offset: [0, 0] })
-                    .setLngLat(displayCoords)
-                    .addTo(map);
+                el.style.transition = 'transform 0.15s linear';
+            
+                // 📍 Tohle je klíčové — použijeme offset, ne CSS top/left
+                userHeadingMarker = new maplibregl.Marker({
+                    element: el,
+                    offset: [0, -10] // posune cone o 10 px nahoru od středu kruhu
+                }).setLngLat(displayCoords).addTo(map);
             } else {
                 userHeadingMarker.setLngLat(displayCoords);
             }
@@ -374,6 +374,7 @@ function initGeolocation() {
         </script>
     </body>
 </html>
+
 
 
 
