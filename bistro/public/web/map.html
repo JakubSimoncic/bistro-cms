@@ -279,6 +279,7 @@
 function initGeolocation() {
     if (navigator.geolocation) {
         let lastCoords = null;
+
         watchId = navigator.geolocation.watchPosition(pos => {
             const lat = pos.coords.latitude;
             const lon = pos.coords.longitude;
@@ -297,11 +298,9 @@ function initGeolocation() {
             const snapped = turf.nearestPointOnLine(line, userPoint);
             const distance = turf.distance(userPoint, snapped, { units: 'meters' });
             let displayCoords = coords;
-            if (distance <= 5) {
-                displayCoords = snapped.geometry.coordinates;
-            }
+            if (distance <= 5) displayCoords = snapped.geometry.coordinates;
 
-            // Kruhový marker
+            // --- KRUH (poloha) ---
             if (!userMarker) {
                 const el = document.createElement('div');
                 el.style.width = '16px';
@@ -314,23 +313,22 @@ function initGeolocation() {
                 userMarker.setLngLat(displayCoords);
             }
 
-            // --- Cone marker ---
+            // --- CONE (směr pohledu) ---
             if (!userHeadingMarker) {
                 const el = document.createElement('div');
                 el.style.width = '0';
                 el.style.height = '0';
                 el.style.borderLeft = '10px solid transparent';
                 el.style.borderRight = '10px solid transparent';
-                el.style.borderBottom = '20px solid rgba(0,123,255,0.7)'; // špička nahoru
+                el.style.borderBottom = '20px solid rgba(0,123,255,0.7)'; // špička nahoře
                 el.style.transformOrigin = '50% 100%';
                 el.style.transition = 'transform 0.15s linear';
-            
-                // 📍 Tohle je klíčové — použijeme offset, ne CSS top/left
                 userHeadingMarker = new maplibregl.Marker({
                     element: el,
-                    offset: [0, -10] // posune cone o 10 px nahoru od středu kruhu
+                    offset: [0, -10] // sedí na středu polohy
                 }).setLngLat(displayCoords).addTo(map);
             } else {
+                // 📍 jen posun, žádná rotace tady
                 userHeadingMarker.setLngLat(displayCoords);
             }
 
@@ -348,22 +346,30 @@ function initGeolocation() {
         }, err => console.warn('Nelze zjistit polohu:', err.message), { enableHighAccuracy: true });
     }
 
-    // Kompas (pouze jeden zdroj orientace)
+    // --- KOMPAS (DeviceOrientation) ---
     if (window.DeviceOrientationEvent) {
         const handleOrientation = (event) => {
             let heading;
-            if (event.absolute && event.alpha !== null) heading = 360 - event.alpha;
-            else if (event.webkitCompassHeading !== undefined) heading = event.webkitCompassHeading;
-
+            if (event.webkitCompassHeading !== undefined) {
+                heading = event.webkitCompassHeading; // iOS
+            } else if (event.absolute && event.alpha !== null) {
+                heading = 360 - event.alpha; // Android
+            }
             if (heading !== undefined && userHeadingMarker) {
                 const el = userHeadingMarker.getElement();
-                el.style.transform = `rotate(${heading - map.getBearing()}deg)`;
+                // kompenzace natočení mapy
+                const mapBearing = map.getBearing();
+                el.style.transform = `rotate(${heading - mapBearing}deg)`;
             }
         };
 
         if (typeof DeviceOrientationEvent.requestPermission === 'function') {
             DeviceOrientationEvent.requestPermission()
-                .then(r => { if (r === 'granted') window.addEventListener('deviceorientation', handleOrientation, true); })
+                .then(r => {
+                    if (r === 'granted') {
+                        window.addEventListener('deviceorientation', handleOrientation, true);
+                    }
+                })
                 .catch(e => console.warn('Kompas nelze aktivovat:', e));
         } else {
             window.addEventListener('deviceorientationabsolute', handleOrientation, true);
@@ -374,6 +380,7 @@ function initGeolocation() {
         </script>
     </body>
 </html>
+
 
 
 
