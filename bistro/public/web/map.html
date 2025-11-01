@@ -314,17 +314,22 @@ function initGeolocation() {
                 userMarker.setLngLat(displayCoords);
             }
 
-            // Cone marker
+            // --- Cone marker ---
             if (!userHeadingMarker) {
                 const el = document.createElement('div');
                 el.style.width = '0';
                 el.style.height = '0';
                 el.style.borderLeft = '10px solid transparent';
                 el.style.borderRight = '10px solid transparent';
-                el.style.borderTop = '20px solid rgba(0,123,255,0.7)';
+                el.style.borderBottom = '20px solid rgba(0,123,255,0.7)'; // 🔁 lepší mít špičku nahoře
                 el.style.transformOrigin = '50% 100%';
+                el.style.position = 'absolute';
+                el.style.left = '-10px';  // polovina šířky (10px)
+                el.style.top = '-20px';   // výška trojúhelníku
                 el.style.transition = 'transform 0.2s linear';
-                userHeadingMarker = new maplibregl.Marker(el).setLngLat(displayCoords).addTo(map);
+                userHeadingMarker = new maplibregl.Marker(el, { offset: [0, 0] })
+                    .setLngLat(displayCoords)
+                    .addTo(map);
             } else {
                 userHeadingMarker.setLngLat(displayCoords);
             }
@@ -369,5 +374,6 @@ function initGeolocation() {
         </script>
     </body>
 </html>
+
 
 
