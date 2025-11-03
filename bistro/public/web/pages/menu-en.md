@@ -18,7 +18,7 @@ title: Denní menu - EN
 * **Roasted pork meat, stewed white cabbage and potato dumplings** 165 CZK
 * **Beef meat and beef sauce with sausage, eggs and bacon and baked jasmine rice** 185 CZK
 * **Spaghetti Bolognese with minced beef meat and parmesan cheese** 175 CZK
-* **Italian pumpkin risotto with pork tenderloin meat and parmesan cheese** 205 CZK
+* **Italian pumpkin risotto with pork tenderloin meat and parmesan cheese** 195 CZK
 * **Beef goulash with onion and pepper, homemade dumplings** 185 CZK
 * **Fried chicken schnitzel, potato salad and lemon** 175 CZK
 * **Fried cheese, French Fries and Tartar Sauce** 175 CZK
