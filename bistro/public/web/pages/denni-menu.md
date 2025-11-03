@@ -18,7 +18,7 @@ title: Denní menu CZ
 * **Selská vepřová krkovička, dušené hlávkové bílé zelí a bramborový knedlík** 165 Kč
 * **Rozlítaný hovězí španělský ptáček a pečená jasmínová rýže** 185 Kč
 * **Boloňské špagety s mletým hovězím masem a parmazánem** 175 Kč
-* **Itaské dýňové rizoto s filírovanou vepřovou panenkou a parmazánem** 205 Kč
+* **Itaské dýňové rizoto s filírovanou vepřovou panenkou a parmazánem** 195 Kč
 * **Hovězí guláš s cibulkou a beraním rohem, domácí houskový knedlík** 185 Kč
 * **Kuřecí řízek, bramborový salát a citron** 175 Kč
 * **Smažený sýr, hranolky a tatarská omáčka** 175 Kč
