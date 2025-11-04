@@ -6,7 +6,7 @@ title: Denní menu - EN
 * **MENU 1: Soup + Roasted pork meat, stewed cabbage and potato dumplings** 185 CZK
 * **MENU 2: Soup + Spaghetti Bolognese with minced beef meat and parmesan** 195 CZK
 *
-* **DISH OF THE WEEK: Pulled pork meat in BBQ sauce, roasted potatoes and Coleslaw** 155 CZK
+* **Pulled pork meat in our BBQ sauce, roasted potatoes and Coleslaw** 155 CZK
 
 ## SMALL SOUP FOR THE MAIN COURSE – 250ml
 
