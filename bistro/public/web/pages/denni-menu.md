@@ -17,7 +17,7 @@ title: Denní menu CZ
 
 * **Maďarský vepřový perkelt, domácí houskový knedlík** 165 Kč
 * **Vepřové výpečky, dušené hlávkové zelí a bramborový knedlík** 165 Kč
-* **Smažený holandský řízek, bramborová kaše, kyselá okurka** 175 Kč
+* **Smažený holandský řízek, bramborová kaše, kyselá okurka** 165 Kč
 * **Zapečený kuřecí plátek s mozzarellou a rajčaty, bazalková omáčka a opečené brambory** 185 Kč
 * **Hovězí guláš s cibulkou a beraním rohem, domácí houskový knedlík** 185 Kč
 * **Kuřecí řízek, bramborový salát a citron** 175 Kč
