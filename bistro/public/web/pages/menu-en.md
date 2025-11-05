@@ -26,6 +26,6 @@ title: Denní menu - EN
 
 ## LARGE SOUP ORDERED SEPARATELY – 500ml
 
-* ** or Italian vegetable soup Minestrone with parmesanSpinach creamy soup with sour cream and croutons** 75 CZK
+* **Italian vegetable soup Minestrone with parmesanSpinach creamy soup with sour cream and croutons** 75 CZK
 
 ***Offer is valid on Thursday 6.11. from 10:30 until closing time or while stocks last.***
