@@ -3,22 +3,22 @@ title: Denní menu CZ
 ---
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)
 
-* **MENU 1: Polévka + Vepřové výpečky, dušené hlávkové zelí a bramborový knedlík** 185 Kč
-* **MENU 2: Polévka + Smažený holandský řízek, bramborová kaše, kyselá okurka** 185 Kč
+* **MENU 1: Polévka + Smažený květák, vařené brambory a tatarská omáčka** 175 Kč
+* **MENU 2: Polévka + Rozlítaný španělský hovězí ptáček a pečená jasmínová rýže** 205 Kč
 * 
 * **JÍDLO TÝDNE: Trhané vepřové maso v BBQ omáčce, opečené brambory a salát Coleslaw** 155 Kč
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
 * **Italská zeleninová polévka Minestrone s parmazánem** 35 Kč
-* **Dršťková polévka** 35 Kč
+* **Špenátový krém se zakysanou smetanou a krutony** 35 Kč
 
 ## HLAVNÍ JÍDLA
 
-* **Maďarský vepřový perkelt, domácí houskový knedlík** 165 Kč
-* **Vepřové výpečky, dušené hlávkové zelí a bramborový knedlík** 165 Kč
-* **Smažený holandský řízek, bramborová kaše, kyselá okurka** 165 Kč
-* **Zapečený kuřecí plátek s mozzarellou a rajčaty, bazalková omáčka a opečené brambory** 185 Kč
+* **Selská vepřová pečeně, dušené bílé hlávkové zelí a bramborový knedlík** 165 Kč
+* **Smažený květák, vařené brambory a tatarská omáčka** 155 Kč
+* **Boloňské špagety s hovězím mletým masem a parmazánem** 175 Kč
+* **Rozlítaný španělský hovězí ptáček a pečená jasmínová rýže** 185 Kč
 * **Hovězí guláš s cibulkou a beraním rohem, domácí houskový knedlík** 185 Kč
 * **Kuřecí řízek, bramborový salát a citron** 175 Kč
 * **Smažený sýr, hranolky a tatarská omáčka** 175 Kč
@@ -26,7 +26,7 @@ title: Denní menu CZ
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTATNĚ – 500ml
 
-* **Italská zeleninová polévka Minestrone s parmazánem nebo dršťková polévka** 75 Kč
+* **Italská zeleninová polévka Minestrone s parmazánem nebo špenátový krém se zakysanou smetanou a krutony** 75 Kč
 
 
-***Nabídka platí ve středu 5.11. od 10:30 do zavírací hodiny nebo do vyprodání.***
+***Nabídka platí ve čtvrtek 6.11. od 10:30 do zavírací hodiny nebo do vyprodání.***
