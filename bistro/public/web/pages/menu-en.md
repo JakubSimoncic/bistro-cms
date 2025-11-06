@@ -3,22 +3,23 @@ title: Denní menu - EN
 ---
 ## SPECIAL OFFER (soup + main course)
 
-* **MENU 1: Soup + Fried cauliflower, boiled potatoes and tartar sauce** 175 CZK
-* **MENU 2: Soup + Beef meat, beef sauce with sausage, eggs and bacon, baked jasmin rice** 205 CZK
-*
+* **MENU 1: Soup + Poultry livers in bacon sauce, baked jasmine rice** 175 CZK
+* **MENU 2: Soup + Roasted smoked pork meat, potato and cauliflower
+puree, thick meat juice and sautéed cauliflower florets with pancetta** 195 CZK
+
 * **Pulled pork meat in our BBQ sauce, roasted potatoes and Coleslaw** 155 CZK
 
 ## SMALL SOUP FOR THE MAIN COURSE – 250ml
 
-* **Italian Minestrone with parmesan cheese** 35 CZK
+* **Goulash soup** 35 CZK
 * **Spinach creamy soup with sour cream and croutons** 35 CZK
 
 ## MAIN COURSES
 
-* **Roasted pork meat, stewed cabbage and potato dumplings** 165 CZK
-* **Fried cauliflower, boiled potatoes and tartar sauce** 155 CZK
-* **Spaghetti Bolognese with minced beef meat and parmesan cheese** 175 CZK
-* **Beef meat, beef sauce with sausage, eggs and bacon, baked jasmin rice** 185 CZK
+* **Roasted pork cubes, stewed cabbage and potato dumplings** 165 CZK
+* **Poultry livers in bacon sauce, baked jasmine rice** 155 CZK
+* **Spicy pork meat with vegetagles in potato pancake** 165 CZK
+* **Roasted smoked pork meat, potato and cauliflower puree, thick meat juice and sautéed cauliflower florets with pancetta** 175 CZK
 * **Beef goulash with onion and pepper, homemade dumplings** 185 CZK
 * **Fried chicken schnitzel, potato salad and lemon** 175 CZK
 * **Fried cheese, French Fries and Tartar Sauce** 175 CZK
@@ -26,6 +27,6 @@ title: Denní menu - EN
 
 ## LARGE SOUP ORDERED SEPARATELY – 500ml
 
-* **Italian vegetable soup Minestrone with parmesancheese or Spinach creamy soup with sour cream and croutons** 75 CZK
+* **Goulash soup or Spinach creamy soup with sour cream and croutons** 75 CZK
 
-***Offer is valid on Thursday 6.11. from 10:30 until closing time or while stocks last.***
+***Offer is valid on Friday 7.11. from 10:30 until closing time or while stocks last.***
