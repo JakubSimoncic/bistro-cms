@@ -4,9 +4,8 @@ title: Denní menu - EN
 ## SPECIAL OFFER (soup + main course)
 
 * **MENU 1: Soup + Poultry livers in bacon sauce, baked jasmine rice** 175 CZK
-* **MENU 2: Soup + Roasted smoked pork meat, potato and cauliflower
-puree, thick meat juice and sautéed cauliflower florets with pancetta** 195 CZK
-
+* **MENU 2: Soup + Roasted smoked pork meat, potato and cauliflower puree, thick meat juice and sautéed cauliflower florets with pancetta** 195 CZK
+* 
 * **Pulled pork meat in our BBQ sauce, roasted potatoes and Coleslaw** 155 CZK
 
 ## SMALL SOUP FOR THE MAIN COURSE – 250ml
