@@ -3,7 +3,7 @@ title: Denní menu - EN
 ---
 ## SPECIAL OFFER (soup + main course)
 
-* **MENU 1: Soup + Roasted pork meat, stewed cabbage and potato dumplings** 175 CZK
+* **MENU 1: Soup + Fried cauliflower, boiled potatoes and tartar sauce** 175 CZK
 * **MENU 2: Soup + Beef meat, beef sauce with sausage, eggs and bacon, baked jasmin rice** 205 CZK
 *
 * **Pulled pork meat in our BBQ sauce, roasted potatoes and Coleslaw** 155 CZK
@@ -26,6 +26,6 @@ title: Denní menu - EN
 
 ## LARGE SOUP ORDERED SEPARATELY – 500ml
 
-* **Italian vegetable soup Minestrone with parmesanSpinach creamy soup with sour cream and croutons** 75 CZK
+* **Italian vegetable soup Minestrone with parmesancheese or Spinach creamy soup with sour cream and croutons** 75 CZK
 
 ***Offer is valid on Thursday 6.11. from 10:30 until closing time or while stocks last.***
