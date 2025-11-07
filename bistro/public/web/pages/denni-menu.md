@@ -18,7 +18,7 @@ title: Denní menu CZ
 * **Pečená uzená vepřová plec a bramborovo květákové pyré** 165 Kč
 * **Hovězí krk na červeném víně a zelenině, šťouchané brambory** 185 Kč
 * **Vepřový katův šleh, smažené hranolky nebo pečená jasmínová rýže** 165 Kč
-* **Vepřové výpečky, dušené hlávkové zelí, bramborový knedlík** 175 Kč
+* **Vepřové výpečky, dušené hlávkové zelí, bramborový knedlík** 165 Kč
 * **Hovězí guláš s cibulkou a beraním rohem, domácí houskový knedlík** 185 Kč
 * **Kuřecí řízek, bramborový salát a citron** 175 Kč
 * **Smažený sýr, hranolky a tatarská omáčka** 175 Kč
