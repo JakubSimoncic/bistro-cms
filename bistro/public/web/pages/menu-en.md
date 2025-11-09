@@ -6,6 +6,8 @@ title: Denní menu - EN
 * **MENU 1: Soup + Homemade meatloaf and with potato salad** 175 CZK
 * **MENU 2: Soup + Chicken noodles with red curry and coconut milk, baked jasmine rice** 185 CZK
 * 
+* **JÍDLO TÝDNE: Pulled pork meat in BBQ sauce, roasted potatoes and coleslaw** 155 Kč
+
 ## SMALL SOUP FOR THE MAIN COURSE – 250ml
 
 * **Pea soup with sausage** 35 CZK
