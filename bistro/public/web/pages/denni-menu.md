@@ -17,7 +17,7 @@ title: Denní menu CZ
 
 * **Domácí sekaná a bramborový salát** 155 Kč
 * **Kuřecí nudličky na červeném kari s kokosovým mlékem, pečená jasmínový rýže** 165 Kč
-* **Pečené uzené žebro, listový špenát a bramborový knedlík** 165 Kč
+* **Pečené uzené vepřová žebra, listový špenát a bramborový knedlík** 175 Kč
 * **Grilovaný hermelín, opečené brambory a brusinková majonéza s chilli** 175 Kč
 * **Hovězí guláš s cibulkou a beraním rohem, domácí houskový knedlík** 185 Kč
 * **Kuřecí řízek, bramborový salát a citron** 175 Kč
