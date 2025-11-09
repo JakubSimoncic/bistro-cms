@@ -17,7 +17,7 @@ title: Denní menu - EN
 
 * **Homemade meatloaf and with potato salad** 155 CZK
 * **Chicken noodles with red curry and coconut milk, baked jasmine rice** 165 CZK
-* **Roasted smoked pork ribs, leaf spinach and potato dumplings** 165 CZK
+* **Roasted smoked pork ribs, leaf spinach and potato dumplings** 175 CZK
 * **Grilled camembert cheese, roasted potatoes and cranberry mayonnaise with chili** 175 CZK
 * **Beef goulash with onion and pepper, homemade dumplings** 185 CZK
 * **Fried chicken schnitzel, potato salad and lemon** 175 CZK
