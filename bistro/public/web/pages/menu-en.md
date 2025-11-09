@@ -3,20 +3,20 @@ title: Denní menu - EN
 ---
 ## SPECIAL OFFER (soup + main course)
 
-* **MENU 1: Soup + Hungarian pork perkelt and homemade dumplings** 195 CZK
-* **MENU 2: Soup + "Cmunda"- smoked meat and stewed cabbage in a potato pancake** 185 CZK
+* **MENU 1: Soup + Homemade meatloaf and with potato salad** 175 CZK
+* **MENU 2: Soup + Chicken noodles with red curry and coconut milk, baked jasmine rice** 185 CZK
 * 
 ## SMALL SOUP FOR THE MAIN COURSE – 250ml
 
-* **Pumpkin cream with sour cream** 35 CZK
-* **Goulash soup** 35 CZK
+* **Pea soup with sausage** 35 CZK
+* **Onion cream with croutons and parmesan cheese** 35 CZK
 
 ## MAIN COURSES
 
-* **Poultry liveres with onions and bacon, baked jasmine rice** 155 CZK
-* **Spicy pork meat with vegetagles, French Fries or fried potatoes** 165 CZK
-* **Hungarian pork perkelt and homemade dumplings** 175 CZK
-* **"Cmunda"- smoked meat and stewed cabbage in a potato pancake** 165 CZK
+* **Homemade meatloaf and with potato salad** 155 CZK
+* **Chicken noodles with red curry and coconut milk, baked jasmine rice** 165 CZK
+* **Roasted smoked pork ribs, leaf spinach and potato dumplings** 165 CZK
+* **Grilled camembert cheese, roasted potatoes and cranberry mayonnaise with chili** 175 CZK
 * **Beef goulash with onion and pepper, homemade dumplings** 185 CZK
 * **Fried chicken schnitzel, potato salad and lemon** 175 CZK
 * **Fried cheese, French Fries and Tartar Sauce** 175 CZK
@@ -24,6 +24,6 @@ title: Denní menu - EN
 
 ## LARGE SOUP ORDERED SEPARATELY – 500ml
 
-* **Pumpkin cream with sour cream or Goulash soup** 75 CZK
+* **Pea soup with sausage or Onion cream with croutons and parmesan cheese** 75 CZK
 
-***Offer is valid on Sunday 9.11. from 10:30 until closing time or while stocks last.***
+***Offer is valid on Monday 10.11. from 10:30 until closing time or while stocks last.***
