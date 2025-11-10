@@ -17,7 +17,7 @@ title: Denní menu - EN
 
 * **Roasted smoked meat, spinach and homemade dumplings** 165 CZK
 * **Savoy fried pork schnitzel, mashed potatoes, pickles** 175 CZK
-* **Spaghetti Carbonara (pancetta, egg yolk, parmesan cheese)** 185 CZK
+* **Spaghetti Carbonara (pancetta, egg yolk, garlic, parmesan cheese)** 185 CZK
 * **Roasted duck (1/4), stewed white and red cabbage and homemade dumplings** 245 CZK
 * **Beef goulash with onion and pepper, homemade dumplings** 185 CZK
 * **Fried chicken schnitzel, potato salad and lemon** 175 CZK
