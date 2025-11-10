@@ -11,7 +11,7 @@ title: Denní menu - EN
 ## SMALL SOUP FOR THE MAIN COURSE – 250ml
 
 * **Pea soup with sausage** 35 CZK
-* **Onion cream with croutons and parmesan cheese** 35 CZK
+* **Pumpkin creamy soup with sour cream** 35 CZK
 
 ## MAIN COURSES
 
@@ -26,6 +26,6 @@ title: Denní menu - EN
 
 ## LARGE SOUP ORDERED SEPARATELY – 500ml
 
-* **Pea soup with sausage or Onion cream with croutons and parmesan cheese** 75 CZK
+* **Pea soup with sausage or Pumpkin creamy soup with sour cream** 75 CZK
 
 ***Offer is valid on Monday 10.11. from 10:30 until closing time or while stocks last.***
