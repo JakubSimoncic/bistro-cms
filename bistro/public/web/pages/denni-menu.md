@@ -11,7 +11,7 @@ title: Denní menu CZ
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
 * **Hrachová polévka s uzeninou** 35 Kč
-* **Cibulový krém s krutony a parmazánem** 35 Kč
+* **Dýňová polévka se zakysanou smetanou** 35 Kč
 
 ## HLAVNÍ JÍDLA
 
@@ -26,7 +26,7 @@ title: Denní menu CZ
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTATNĚ – 500ml
 
-* **Hrachová polévka s uzeninou nebo cibulový krém s krutony a parmazánem** 75 Kč
+* **Hrachová polévka s uzeninou nebo dýňová polévka se zakysanou smetanou** 75 Kč
 
 
 ***Nabídka platí v pondělí 10.11. od 10:30 do zavírací hodiny nebo do vyprodání.***
