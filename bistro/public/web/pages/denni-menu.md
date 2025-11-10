@@ -18,7 +18,7 @@ title: Denní menu CZ
 * **Pečené uzené maso, dušený listový špenát a domácí houskový knedlík** 165 Kč
 * **Savojský vepřový řízek, máslová bramborová kaše, kyselá okurka** 175 Kč
 * **Špagety Carbonara (pancetta, žloutek, parmazán)** 185 Kč
-* **Pečená kachní čtvrtka, dušené hlávkové bílé a červené zelí, karlovarský knedlík** 245 Kč
+* **Pečená kachna (1/4), dušené hlávkové bílé a červené zelí, karlovarský knedlík** 245 Kč
 * **Hovězí guláš s cibulkou a beraním rohem, domácí houskový knedlík** 185 Kč
 * **Kuřecí řízek, bramborový salát a citron** 175 Kč
 * **Smažený sýr, hranolky a tatarská omáčka** 175 Kč
