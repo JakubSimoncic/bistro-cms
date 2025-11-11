@@ -17,7 +17,7 @@ title: Denní menu - EN
 
 * **Baked beef patty with mozzarella and tomatoes, basil pesto and fried potatoes** 175 CZK
 * **Czech potatoe gnocchi with smoked meat, cabbage and fried onion** 155 CZK
-* **Hungarian pork goulash and homemade dumplings** 165 CZK
+* **Hungarian pork goulash and homemade dumplings** 175 CZK
 * **Roasted duck (1/4), stewed white and red cabbage and homemade dumplings** 245 CZK
 * **Beef goulash with onion and pepper, homemade dumplings** 185 CZK
 * **Fried chicken schnitzel, potato salad and lemon** 175 CZK
