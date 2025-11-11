@@ -4,7 +4,7 @@ title: Denní menu - EN
 ## SPECIAL OFFER (soup + main course)
 
 * **MENU 1: Soup + Czech potatoe gnocchi with smoked meat, cabbage and fried onion** 175 CZK
-* **MENU 2: Soup + Hungarian pork goulash and homemade dumplings** 185 CZK
+* **MENU 2: Soup + Hungarian pork goulash and homemade dumplings** 195 CZK
 * 
 * **DISH OF THE WEEK: Pulled pork meat in BBQ sauce, roasted potatoes and coleslaw** 155 Kč
 
