@@ -17,7 +17,7 @@ title: Denní menu CZ
 
 * **Zapečený mletý biftek s mozzarellou a rajčaty, bazalkové pesto a opečené brambory** 175 Kč
 * **Halušky s uzeným masem, zelím a restovanou cibulkou** 155 Kč
-* **Maďarský vepřový guláš  a domácí houskový knedlík** 165 Kč
+* **Maďarský vepřový guláš  a domácí houskový knedlík** 175 Kč
 * **Pečená kachna (1/4), dušené hlávkové bílé a červené zelí, karlovarský knedlík** 245 Kč
 * **Hovězí guláš s cibulkou a beraním rohem, domácí houskový knedlík** 185 Kč
 * **Kuřecí řízek, bramborový salát a citron** 175 Kč
