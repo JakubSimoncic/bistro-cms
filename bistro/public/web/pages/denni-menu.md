@@ -4,7 +4,7 @@ title: Denní menu CZ
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)
 
 * **MENU 1: Polévka + Halušky s uzeným masem, zelím a restovanou cibulkou** 175 Kč
-* **MENU 2: Polévka + Maďarský vepřový guláš  a domácí houskový knedlík** 185 Kč
+* **MENU 2: Polévka + Maďarský vepřový guláš  a domácí houskový knedlík** 195 Kč
 * 
 * **JÍDLO TÝDNE: Trhané vepřové maso v BBQ omáčce, opečené brambory a salát Coleslaw** 155 Kč
 
