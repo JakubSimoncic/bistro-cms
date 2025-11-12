@@ -18,7 +18,7 @@ title: Denní menu CZ
 * **Vepřové na hříbkách a domácí houskový knedlík** 165 Kč
 * **Smažený sýrový špíz, vařené brambory a tatarská omáčka** 165 Kč
 * **Kuřecí medailonky, Jack Daniel´s omáčka a opečené brambory s jarní cibulkou** 185 Kč
-* **Špagety s kuřecím masem, anglickou slaninou, cuketou, rajčaty, pestem a parmazánem** 185 Kč
+* **Špagety s kuřecím masem, anglickou slaninou, cuketou, rajčaty, pestem a parmazánem** 175 Kč
 * **Hovězí guláš s cibulkou a beraním rohem, domácí houskový knedlík** 185 Kč
 * **Kuřecí řízek, bramborový salát a citron** 175 Kč
 * **Smažený sýr, hranolky a tatarská omáčka** 175 Kč
