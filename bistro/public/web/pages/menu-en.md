@@ -11,7 +11,7 @@ title: Denní menu - EN
 ## SMALL SOUP FOR THE MAIN COURSE – 250ml
 
 * **Cabbage soup with smoked meat** 35 CZK
-* **Cabbage soup with pepper sausage** 35 CZK
+* **Kale soup with pepper sausage** 35 CZK
 
 ## MAIN COURSES
 
@@ -26,6 +26,6 @@ title: Denní menu - EN
 
 ## LARGE SOUP ORDERED SEPARATELY – 500ml
 
-* **Cabbage soup with smoked meat or Creamy onion soup with croutons and parmesan cheese** 75 CZK
+* **Cabbage soup with smoked meat or Kale soup with pepper sausage** 75 CZK
 
-***Offer is valid on Thirsday 13.11. from 10:30 until closing time or while stocks last.***
+***Offer is valid on Thursday 13.11. from 10:30 until closing time or while stocks last.***
