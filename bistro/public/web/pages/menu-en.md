@@ -18,7 +18,7 @@ title: Denní menu - EN
 * **Pork meat with mushroom sauce and homemade dumplings** 165 CZK
 * **Fried cheese skewer, boiled potatoes and Tartar Sauce** 165 CZK
 * **Chicken medallions, Jack Daniel's sauce and roasted potatoes with spring onion** 185 CZK
-* **Spaghetti with chicken meat, English bacon, zucchini, tomatoes, pesto and parmesan** 185 CZK
+* **Spaghetti with chicken meat, English bacon, zucchini, tomatoes, pesto and parmesan cheese** 185 CZK
 * **Beef goulash with onion and pepper, homemade dumplings** 185 CZK
 * **Fried chicken schnitzel, potato salad and lemon** 175 CZK
 * **Fried cheese, French Fries and Tartar Sauce** 175 CZK
