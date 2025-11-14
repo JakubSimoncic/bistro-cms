@@ -320,12 +320,12 @@ function initGeolocation() {
                 el.style.height = '0';
                 el.style.borderLeft = '10px solid transparent';
                 el.style.borderRight = '10px solid transparent';
-                el.style.borderBottom = '20px solid rgba(0,123,255,0.7)';
-                el.style.transformOrigin = '50% 100%';
+                el.style.borderTop = '20px solid rgba(0,123,255,0.7)';
+                el.style.transformOrigin = '50% 0';
                 el.style.transition = 'transform 0.15s linear';
                 userHeadingMarker = new maplibregl.Marker({
                     element: el,
-                    offset: [0, -10]
+                    offset: [0, 10]
                 }).setLngLat(displayCoords).addTo(map);
             } else {
                 userHeadingMarker.setLngLat(displayCoords);
@@ -358,4 +358,5 @@ function initGeolocation() {
         </script>
     </body>
 </html>
+
 
