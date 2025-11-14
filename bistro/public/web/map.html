@@ -347,39 +347,48 @@ function initGeolocation() {
     }
 
     // --- KOMPAS (DeviceOrientation) ---
-    if (window.DeviceOrientationEvent) {
-        const handleOrientation = (event) => {
-            let heading;
-            if (event.webkitCompassHeading !== undefined) {
-                heading = event.webkitCompassHeading; // iOS
-            } else if (event.absolute && event.alpha !== null) {
-                heading = 360 - event.alpha; // Android
-            }
-            if (heading !== undefined && userHeadingMarker) {
-                const el = userHeadingMarker.getElement();
-                // kompenzace natočení mapy
-                const mapBearing = map.getBearing();
-                el.style.transform = `rotate(${heading - mapBearing}deg)`;
-            }
-        };
-
-        if (typeof DeviceOrientationEvent.requestPermission === 'function') {
-            DeviceOrientationEvent.requestPermission()
-                .then(r => {
-                    if (r === 'granted') {
-                        window.addEventListener('deviceorientation', handleOrientation, true);
-                    }
-                })
-                .catch(e => console.warn('Kompas nelze aktivovat:', e));
+    let lastHeading = 0; // uchovává poslední úhel
+    
+    function handleOrientation(event) {
+        let heading;
+    
+        if (event.webkitCompassHeading !== undefined) {
+            heading = event.webkitCompassHeading; // iOS
+        } else if (event.absolute && event.alpha !== null) {
+            heading = 360 - event.alpha; // Android
         } else {
-            window.addEventListener('deviceorientationabsolute', handleOrientation, true);
-            window.addEventListener('deviceorientation', handleOrientation, true);
+            return; // nedostupné
+        }
+    
+        // --- Vyhlazení úhlu, aby coneMarker neskočil ---
+        heading = lastHeading + (heading - lastHeading) * 0.1; // 0.1 = síla interpolace
+        lastHeading = heading;
+    
+        if (userHeadingMarker) {
+            const el = userHeadingMarker.getElement();
+            const mapBearing = map.getBearing(); // aktuální natočení mapy
+            el.style.transform = `rotate(${heading - mapBearing}deg)`;
         }
     }
-}
+    
+    if (typeof DeviceOrientationEvent.requestPermission === 'function') {
+        DeviceOrientationEvent.requestPermission()
+            .then(r => {
+                if (r === 'granted') {
+                    window.addEventListener('deviceorientationabsolute', handleOrientation, true);
+                }
+            })
+            .catch(e => console.warn('Kompas nelze aktivovat:', e));
+    } else {
+        window.addEventListener('deviceorientationabsolute', handleOrientation, true);
+        window.addEventListener('deviceorientation', handleOrientation, true);
+    }
+        }
+            }
         </script>
     </body>
 </html>
+
 
 
 
