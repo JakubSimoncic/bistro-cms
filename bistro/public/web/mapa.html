@@ -33,24 +33,23 @@
 
 <div id="status">Stav: čekám na souhlas s polohou...</div>
 
-<script src="https://api.mapy.cz/loader.js"></script>
+<script src="https://api.mapy.cz/loader.js?key=blFr-RS8InfOQTCzKcmuDWAibHhiMjss9QA6h5U80xE"></script>
 <script>
-const routeCoords = [
-  [14.4405633, 50.0894811],
-  [14.4403464, 50.0895953],
-  [14.4401647, 50.0900086],
-  [14.4398969, 50.0899431],
-  [14.4398225, 50.0900994],
-  [14.4400336, 50.0901481] // Bistro Florenc
-];
+window.onload = function() {
+  const routeCoords = [
+    [14.4405633, 50.0894811],
+    [14.4403464, 50.0895953],
+    [14.4401647, 50.0900086],
+    [14.4398969, 50.0899431],
+    [14.4398225, 50.0900994],
+    [14.4400336, 50.0901481] // Bistro Florenc
+  ];
 
-const ARRIVE_THRESHOLD = 6;
+  const ARRIVE_THRESHOLD = 6;
 
-Loader.load("blFr-RS8InfOQTCzKcmuDWAibHhiMjss9QA6h5U80xE", function() {
   var map = new SMap(JAK.gel("map"), SMap.Coords.fromWGS84(routeCoords[0][0], routeCoords[0][1]), 17);
   map.addDefaultLayer(SMap.DEF_BASE).enable();
   map.addDefaultControls();
-  map.removeControl(map.getControl(SMap.Control.ZOOM));
 
   var layerMarkers = new SMap.Layer.Marker();
   map.addLayer(layerMarkers).enable();
@@ -59,13 +58,13 @@ Loader.load("blFr-RS8InfOQTCzKcmuDWAibHhiMjss9QA6h5U80xE", function() {
 
   // Trasa
   var pts = routeCoords.map(c => SMap.Coords.fromWGS84(c[0], c[1]));
-  var line = new SMap.Geometry(SMap.GEOMETRY_POLYLINE, null, { color: "#0066ff", width: 5 });
+  var line = new SMap.Geometry(SMap.GEOMETRY_POLYLINE, null, { color:"#0066ff", width:5 });
   line.addPointArray(pts);
   layerGeo.addGeometry(line);
 
   // Marker cíle
   var bistroCoords = SMap.Coords.fromWGS84(routeCoords[routeCoords.length-1][0], routeCoords[routeCoords.length-1][1]);
-  var bistroMarker = new SMap.Marker(bistroCoords, "bistro", { url: "LOGO2.png", anchor: {left:16, top:32} });
+  var bistroMarker = new SMap.Marker(bistroCoords, "bistro", { url:"LOGO2.png", anchor:{left:16,top:32} });
   layerMarkers.addMarker(bistroMarker);
 
   var userMarker = null, userHeadingEl = null;
@@ -153,8 +152,9 @@ Loader.load("blFr-RS8InfOQTCzKcmuDWAibHhiMjss9QA6h5U80xE", function() {
   },200);
 
   window.addEventListener('beforeunload',()=>{ if(watchId!==null) navigator.geolocation.clearWatch(watchId); });
-});
+};
 </script>
+
 
 </body>
 </html>
