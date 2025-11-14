@@ -1,0 +1,160 @@
+<!doctype html>
+<html lang="cs">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1"/>
+  <title>Navigace — Bistro Florenc (Mapy.cz API)</title>
+  <style>
+    html,body,#map { height:100%; margin:0; padding:0; font-family:system-ui,Segoe UI,Roboto,Arial; }
+    #controls {
+      position: fixed; top: 12px; right: 12px; z-index: 9999;
+      display:flex; gap:8px; flex-direction:column;
+    }
+    button {
+      background:#222;color:#fff;border:0;padding:10px 14px;border-radius:8px;cursor:pointer;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.3);
+    }
+    #status {
+      position: fixed; left: 12px; bottom: 12px; z-index: 9999;
+      background: rgba(0,0,0,0.6); color: #fff; padding:8px 12px; border-radius:8px;
+    }
+  </style>
+</head>
+<body>
+
+<div id="map"></div>
+
+<div id="controls">
+  <button id="btn-navigate">Navigovat</button>
+  <button id="btn-stop">Ukončit</button>
+  <button id="btn-2d">2D</button>
+  <button id="btn-3d">3D</button>
+</div>
+
+<div id="status">Stav: čekám na souhlas s polohou...</div>
+
+<script src="https://api.mapy.cz/loader.js"></script>
+<script>
+const routeCoords = [
+  [14.4405633, 50.0894811],
+  [14.4403464, 50.0895953],
+  [14.4401647, 50.0900086],
+  [14.4398969, 50.0899431],
+  [14.4398225, 50.0900994],
+  [14.4400336, 50.0901481] // Bistro Florenc
+];
+
+const ARRIVE_THRESHOLD = 6;
+
+Loader.load("blFr-RS8InfOQTCzKcmuDWAibHhiMjss9QA6h5U80xE", function() {
+  var map = new SMap(JAK.gel("map"), SMap.Coords.fromWGS84(routeCoords[0][0], routeCoords[0][1]), 17);
+  map.addDefaultLayer(SMap.DEF_BASE).enable();
+  map.addDefaultControls();
+  map.removeControl(map.getControl(SMap.Control.ZOOM));
+
+  var layerMarkers = new SMap.Layer.Marker();
+  map.addLayer(layerMarkers).enable();
+  var layerGeo = new SMap.Layer.Geometry();
+  map.addLayer(layerGeo).enable();
+
+  // Trasa
+  var pts = routeCoords.map(c => SMap.Coords.fromWGS84(c[0], c[1]));
+  var line = new SMap.Geometry(SMap.GEOMETRY_POLYLINE, null, { color: "#0066ff", width: 5 });
+  line.addPointArray(pts);
+  layerGeo.addGeometry(line);
+
+  // Marker cíle
+  var bistroCoords = SMap.Coords.fromWGS84(routeCoords[routeCoords.length-1][0], routeCoords[routeCoords.length-1][1]);
+  var bistroMarker = new SMap.Marker(bistroCoords, "bistro", { url: "LOGO2.png", anchor: {left:16, top:32} });
+  layerMarkers.addMarker(bistroMarker);
+
+  var userMarker = null, userHeadingEl = null;
+  var navigating = false, currentStepIndex = 0, watchId = null, lastStablePos = null;
+  var statusEl = document.getElementById('status');
+
+  function distanceMeters(a,b){
+    var R=6371000, lat1=a[1]*Math.PI/180, lat2=b[1]*Math.PI/180, dLat=lat2-lat1, dLon=(b[0]-a[0])*Math.PI/180;
+    var sa=Math.sin(dLat/2)**2 + Math.cos(lat1)*Math.cos(lat2)*Math.sin(dLon/2)**2;
+    return R*2*Math.atan2(Math.sqrt(sa), Math.sqrt(1-sa));
+  }
+
+  function smoothPosition(prev, curr){
+    if(!prev) return curr;
+    var d=distanceMeters(prev,curr);
+    if(d<0.6) return curr;
+    if(d>200) return prev;
+    var maxStep=5; if(d<=maxStep) return curr;
+    var frac=maxStep/d; return [prev[0]+(curr[0]-prev[0])*frac, prev[1]+(curr[1]-prev[1])*frac];
+  }
+
+  function updateUserMarker(coords, heading){
+    if(!userMarker){
+      var el=document.createElement('div'); 
+      el.style.width="20px"; el.style.height="20px"; el.style.background="#007bff";
+      el.style.border="2px solid white"; el.style.borderRadius="50%"; el.style.boxShadow="0 1px 4px rgba(0,0,0,0.4)";
+      userMarker = new SMap.Marker(SMap.Coords.fromWGS84(coords[0],coords[1]),"me",{html:el});
+      layerMarkers.addMarker(userMarker);
+
+      var he=document.createElement('div'); he.style.width="0"; he.style.height="0";
+      he.style.borderLeft="8px solid transparent"; he.style.borderRight="8px solid transparent";
+      he.style.borderBottom="14px solid rgba(0,123,255,0.9)";
+      he.style.transformOrigin="50% 100%"; he.style.marginBottom="-6px";
+      userHeadingEl = new SMap.Marker(SMap.Coords.fromWGS84(coords[0],coords[1]),"head",{html:he, anchor:{left:8,top:16}});
+      layerMarkers.addMarker(userHeadingEl);
+    } else {
+      userMarker.setCoords(SMap.Coords.fromWGS84(coords[0],coords[1]));
+      userHeadingEl.setCoords(SMap.Coords.fromWGS84(coords[0],coords[1]));
+    }
+    if(heading!==undefined && userHeadingEl && userHeadingEl.getOptions().html.style){
+      userHeadingEl.getOptions().html.style.transform="rotate("+heading+"deg)";
+    }
+  }
+
+  function getCurrentTarget(){ return routeCoords[Math.min(currentStepIndex, routeCoords.length-1)]; }
+
+  function checkProgress(userLonLat){
+    var target=getCurrentTarget(), d=distanceMeters(userLonLat,target);
+    statusEl.textContent="Navigace: krok "+(currentStepIndex+1)+"/"+routeCoords.length+" — vzdálenost k cíli kroku: "+Math.round(d)+" m";
+    if(d<=ARRIVE_THRESHOLD){
+      if(currentStepIndex<routeCoords.length-1){ currentStepIndex++; var next=getCurrentTarget();
+        map.setCenter(SMap.Coords.fromWGS84(next[0],next[1]),true);
+      } else { statusEl.textContent="Dosaženo cíle — Bistro Florenc 🍽️"; stopNavigation(); }
+    }
+  }
+
+  function startNavigation(){ navigating=true; currentStepIndex=0; statusEl.textContent="Navigace spuštěna — čekám na polohu..."; map.setZoom(18);
+    if(lastStablePos) map.setCenter(SMap.Coords.fromWGS84(lastStablePos[0],lastStablePos[1]),true); }
+  function stopNavigation(){ navigating=false; statusEl.textContent="Navigace zastavena"; map.setZoom(17); }
+
+  function initGeo(){
+    if(!("geolocation" in navigator)){ alert("Geolokace není dostupná."); return; }
+    statusEl.textContent="Požadavek na polohu...";
+    watchId=navigator.geolocation.watchPosition(function(pos){
+      var lat=pos.coords.latitude, lon=pos.coords.longitude, raw=[lon,lat];
+      var stable=smoothPosition(lastStablePos,raw); lastStablePos=stable;
+      updateUserMarker(stable);
+      if(navigating){ var target=getCurrentTarget(); var midLon=stable[0]+(target[0]-stable[0])*0.35;
+        var midLat=stable[1]+(target[1]-stable[1])*0.35; map.setCenter(SMap.Coords.fromWGS84(midLon,midLat),true);
+        checkProgress(stable);
+      } else { map.setCenter(SMap.Coords.fromWGS84(stable[0],stable[1]),true);
+        statusEl.textContent="Poloha aktualizována — není spuštěna navigace"; }
+    },function(err){ console.warn("Chyba geolokace:",err); statusEl.textContent="Chyba polohy: "+(err.message||err.code);
+    },{ enableHighAccuracy:true, maximumAge:1000, timeout:10000 });
+  }
+
+  document.getElementById('btn-navigate').addEventListener('click',startNavigation);
+  document.getElementById('btn-stop').addEventListener('click',stopNavigation);
+  document.getElementById('btn-2d').addEventListener('click',()=>map.setZoom(17));
+  document.getElementById('btn-3d').addEventListener('click',()=>map.setZoom(18));
+
+  setTimeout(function(){
+    if(confirm("Souhlasíte se zobrazením Vaší aktuální polohy pro účely navigace?")) initGeo();
+    else statusEl.textContent="Uživatel zamítl zobrazení polohy.";
+  },200);
+
+  window.addEventListener('beforeunload',()=>{ if(watchId!==null) navigator.geolocation.clearWatch(watchId); });
+});
+</script>
+
+</body>
+</html>
