@@ -316,16 +316,28 @@ function initGeolocation() {
             // --- CONE (směr pohledu) ---
             if (!userHeadingMarker) {
                 const el = document.createElement('div');
-                el.style.width = '0';
-                el.style.height = '0';
-                el.style.borderLeft = '10px solid transparent';
-                el.style.borderRight = '10px solid transparent';
-                el.style.borderTop = '20px solid rgba(0,123,255,0.7)'; // dlouhá strana nahoře
-                el.style.transformOrigin = '50% 100%'; // otáčení kolem spodní špičky
-                el.style.transition = 'transform 0.15s linear';
+                el.style.width = '20px';
+                el.style.height = '20px';
+                el.style.position = 'relative';
+
+                const triangle = document.createElement('div');
+                triangle.style.width = '0';
+                triangle.style.height = '0';
+                triangle.style.borderLeft = '10px solid transparent';
+                triangle.style.borderRight = '10px solid transparent';
+                triangle.style.borderBottom = '20px solid rgba(0,123,255,0.7)'; // špička dolů
+                triangle.style.position = 'absolute';
+                triangle.style.top = '0';
+                triangle.style.left = '50%';
+                triangle.style.transform = 'translateX(-50%) rotate(90deg)';
+                triangle.style.transformOrigin = '50% 100%';
+                triangle.style.transition = 'transform 0.15s linear';
+
+                el.appendChild(triangle);
+
                 userHeadingMarker = new maplibregl.Marker({
                     element: el,
-                    offset: [0, 8] // špička u středu markeru
+                    offset: [0, 0] // střed přesně na uživateli
                 }).setLngLat(displayCoords).addTo(map);
             } else {
                 userHeadingMarker.setLngLat(displayCoords);
@@ -355,10 +367,9 @@ function initGeolocation() {
                 heading = 360 - event.alpha; // Android
             }
             if (heading !== undefined && userHeadingMarker) {
-                const el = userHeadingMarker.getElement();
-                // kompenzace natočení mapy
+                const triangle = userHeadingMarker.getElement().querySelector('div');
                 const mapBearing = map.getBearing();
-                el.style.transform = `rotate(${heading - mapBearing}deg)`;
+                triangle.style.transform = `translateX(-50%) rotate(${heading - mapBearing}deg)`;
             }
         };
 
