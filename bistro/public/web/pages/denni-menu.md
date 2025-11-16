@@ -4,7 +4,7 @@ title: Denní menu CZ
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)
 
 * **MENU 1: Polévka + Moravský vrabec, dušené hlávkové bílé zelí a bramborový knedlík** 185 Kč
-* **MENU 2: Polévka + Svíčková na smetaně, brusinkový terč a domácí houskový knedlík** 205 Kč
+* **MENU 2: Polévka + Svíčková na smetaně, brusinkový terč a houskový knedlík** 205 Kč
 * 
 * **JÍDLO TÝDNE: Trhané vepřové maso v BBQ omáčce, opečené brambory a salátek Coleslaw** 155 Kč
 
