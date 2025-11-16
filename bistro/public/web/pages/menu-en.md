@@ -4,9 +4,11 @@ title: Denní menu - EN
 ## SPECIAL OFFER (soup + main course)
 
 * **MENU 1: Soup + Baked pork meat, stewed white cabbage and potato dumplings** 185 CZK
-* **MENU 2: Soup + "Svíčková"- Beef sirloin in creamy sauce and homemade dumplings** 205 CZK
+* **MENU 2: Soup + "Svíčková"- Beef sirloin in creamy sauce and homemade dumplings** 205 CZCZK
+*
+* **DISH OF THE WEEK: Pulled pork meat in BBQ sauce, roasted potatoes and Coleslaw** 155 CZK
 
-## SMALL SOUP FOR THE MAIN COURSE – 250ml
+##SMALL SOUP FOR THE MAIN COURSE – 250ml
 
 * **Triplet soup** 35 CZK
 * **Garlic soup with cheese and croutons** 35 CZK
