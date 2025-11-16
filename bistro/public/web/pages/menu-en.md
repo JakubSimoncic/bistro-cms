@@ -8,7 +8,7 @@ title: Denní menu - EN
 *
 * **DISH OF THE WEEK: Pulled pork meat in BBQ sauce, roasted potatoes and Coleslaw** 155 CZK
 
-##SMALL SOUP FOR THE MAIN COURSE – 250ml
+## SMALL SOUP FOR THE MAIN COURSE – 250ml
 
 * **Triplet soup** 35 CZK
 * **Garlic soup with cheese and croutons** 35 CZK
