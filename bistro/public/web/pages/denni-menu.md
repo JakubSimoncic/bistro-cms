@@ -13,7 +13,7 @@ title: Denní menu CZ
 
 ## HLAVNÍ JÍDLA
 
-* **Pečené koleno, hořčice, křen a pečivo** 145 Kč
+* **Pečené koleno, hořčice, křen a pečivo** 155 Kč
 * **Moravský vrabec, dušené hlávkové bílé zelí a bramborový knedlík** 165 Kč
 * **Hovězí Chilli con Carne a pečená jasmínová rýže** 175 Kč
 * **Svíčková na smetaně, brusinkový terč a domácí houskový knedlík** 185 Kč
