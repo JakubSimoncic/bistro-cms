@@ -8,7 +8,7 @@ title: Denní menu CZ
 * 
 * **JÍDLO TÝDNE: Trhané vepřové maso v BBQ omáčce, opečené brambory a salátek Coleslaw** 155 Kč
 
-##MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
+## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
 * **Dršťková polévka** 35 Kč
 * **Česnečka se sýrem a krutony** 35 Kč
