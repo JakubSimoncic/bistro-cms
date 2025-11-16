@@ -3,20 +3,20 @@ title: Denní menu - EN
 ---
 ## SPECIAL OFFER (soup + main course)
 
-* **MENU 1: Soup + Lasagne with chicken meat, spinach and bechamel sauce** 185 CZK
-* **MENU 2: Soup + Beef meat, sauce with sausage, bacon and eggs and French Fries** 195 CZK
+* **MENU 1: Soup + Baked pork meat, stewed white cabbage and potato dumplings** 185 CZK
+* **MENU 2: Soup + "Svíčková"- Beef sirloin in creamy sauce and homemade dumplings** 205 CZK
 
 ## SMALL SOUP FOR THE MAIN COURSE – 250ml
 
-* **Cream onion soup with cheese and croutons** 35 CZK
-* **Pea soup** 35 CZK
+* **Triplet soup** 35 CZK
+* **Garlic soup with cheese and croutons** 35 CZK
 
 ## MAIN COURSES
 
-* **Chilli con Carne and baked jasmine rice** 175 CZK
-* **Lasagne with chicken meat, spinach and bechamel sauce** 165 CZK
-* **Beef meat, sauce with sausage, bacon and eggs and French Fries** 175 CZK
-* **Roasted duck (1/4), stewed cabbage and homemade dumplings** 245 CZK
+* **Roasted pork knee, mustard, horseradish and pastries** 155 CZK
+* **Baked pork meat, stewed white cabbage and potato dumplings** 165 CZK
+* **Beef Chilli con Carne and baked jasmine rice** 175 CZK
+* **"Svíčková"- Beef sirloin in creamy sauce and homemade dumplings** 185 CZK
 * **Beef goulash with onion and pepper, homemade dumplings** 185 CZK
 * **Fried chicken schnitzel, potato salad and lemon** 175 CZK
 * **Fried cheese, French Fries and Tartar Sauce** 175 CZK
@@ -24,6 +24,6 @@ title: Denní menu - EN
 
 ## LARGE SOUP ORDERED SEPARATELY – 500ml
 
-* **Cream onion soup with cheese and croutons or Pea soup** 75 CZK
+* **Triplet soup or Garlic soup with cheese and croutons** 75 CZK
 
-***Offer is valid on Sunday 16.11. from 10:30 until closing time or while stocks last.***
+***Offer is valid on Monday 17.11. from 10:30 until closing time or while stocks last.***
