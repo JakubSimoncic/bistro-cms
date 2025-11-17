@@ -11,11 +11,11 @@ title: Denní menu CZ
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
 * **Dršťková polévka** 35 Kč
-* **Česnečka se sýrem a krutony** 35 Kč
+* **Staročeská česnečka s uzenonou, sýrem a krutony** 35 Kč
 
 ## HLAVNÍ JÍDLA
 
-* **Pečené koleno, hořčice, křen a pečivo** 155 Kč
+* **Pečené uzené koleno (220g), hořčice, křen, kyselá okurka a rozpečený chléb** 155 Kč
 * **Moravský vrabec, dušené hlávkové bílé zelí a bramborový knedlík** 165 Kč
 * **Hovězí Chilli con Carne a pečená jasmínová rýže** 175 Kč
 * **Svíčková na smetaně, brusinkový terč a domácí houskový knedlík** 185 Kč
@@ -26,7 +26,7 @@ title: Denní menu CZ
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTATNĚ – 500ml
 
-* **Dršťková polévka nebo česnečka se sýrem a krutony** 75 Kč
+* **Dršťková polévka nebo staročeská česnečka s uzenonou, sýrem a krutony** 75 Kč
 
 
-***Nabídka platí v pondělí 17.11. od 10:30 do zavírací hodiny nebo do vyprodání.***
+***Nabídka platí v úterý 18.11. od 10:30 do zavírací hodiny nebo do vyprodání.***
