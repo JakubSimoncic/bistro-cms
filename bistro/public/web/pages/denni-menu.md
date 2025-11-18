@@ -26,7 +26,7 @@ title: Denní menu CZ
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTATNĚ – 500ml
 
-* **Dršťková polévka nebo staročeská česnečka s uzenonou, sýrem a krutony** 75 Kč
+* **Dršťková polévka nebo staročeská česnečka s uzeninou, sýrem a krutony** 75 Kč
 
 
 ***Nabídka platí v úterý 18.11. od 10:30 do zavírací hodiny nebo do vyprodání.***
