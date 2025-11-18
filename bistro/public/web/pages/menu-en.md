@@ -18,7 +18,7 @@ title: Denní menu - EN
 * **Smoked pork meat, stewed red cabbage and potato pancakes** 165 CZK
 * **Fried mushrooms, boiled potatoes and Tartar Sauce** 155 CZK
 * **Szeged pork goulash and homemade dumplings** 165 CZK
-* **Grilled chicken steak, Jack Daniels sauce and baked potatoes with onion** 195 CZK
+* **Grilled chicken steak, Jack Daniel's sauce and baked potatoes with onion** 195 CZK
 * **Beef goulash with onion and pepper, homemade dumplings** 185 CZK
 * **Fried chicken schnitzel, potato salad and lemon** 175 CZK
 * **Fried cheese, French Fries and Tartar Sauce** 175 CZK
