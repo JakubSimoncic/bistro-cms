@@ -18,7 +18,7 @@ title: Denní menu CZ
 * **Hamburská vepřová pečeně, domácí houskový knedlík** 165 Kč
 * **Srbské kuřecí rizoto sypané sýrem, kyselá okurka** 165 Kč
 * **Pečený vepřový bůček na pivě, šťouchané brambory a silná masová omáčka** 165 Kč
-* **Špagety Aglio Olio (česnek, fereronka, petrželka a parmazán)** 165 Kč
+* **Špagety Aglio Olio (česnek, fereronka, petrželka a parmazán)** 175 Kč
 * **Hovězí guláš s cibulkou a beraním rohem, domácí houskový knedlík** 185 Kč
 * **Kuřecí řízek, bramborový salát a citron** 175 Kč
 * **Smažený sýr, hranolky a tatarská omáčka** 175 Kč
