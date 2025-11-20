@@ -3,8 +3,8 @@ title: Denní menu CZ
 ---
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)
 
-* **MENU 1: Polévka + Kuřecí roláda plněná špenátem, slaninou a nivou, bramborová kaše** 185 Kč
-* **MENU 2: Polévka + Koprová omáčka s hovězím masem, domácí houskový knedlík** 185 Kč
+* **MENU 1: Polévka + Kuřecí roláda plněná špenátem, slaninou a nivou, bramborová kaše** 195 Kč
+* **MENU 2: Polévka + Koprová omáčka s hovězím masem, domácí houskový knedlík** 205 Kč
 * 
 * **JÍDLO TÝDNE: Trhané vepřové maso v BBQ omáčce, opečené brambory a salátek Coleslaw** 155 Kč
 
