@@ -18,7 +18,7 @@ title: Denní menu CZ
 * **Smažená kuřecí křídla v cornflakes strouhance, opečené brambory a salátek Coleslaw** 165 Kč
 * **Kuřecí roláda plněná špenátem, slaninou a nivou, bramborová kaše** 175 Kč
 * **Koprová omáčka s hovězím masem, domácí houskový knedlík** 185 Kč
-* **Mexické hovězí Burritos (pšeničná tortilla, hovězí mleté maso, sýr čedar, fazolová pasta, rýže, paričky Jalapeňos, koriandr a rajčata), zakysaná smetana** 185 Kč
+* **Mexické hovězí Burritos (pšeničná tortilla, hovězí mleté maso, sýr čedar, fazolová pasta, rýže, paričky Jalapeňos, koriandr a rajčata), zakysaná smetana** 175 Kč
 * **Hovězí guláš s cibulkou a beraním rohem, domácí houskový knedlík** 185 Kč
 * **Kuřecí řízek, bramborový salát a citron** 175 Kč
 * **Smažený sýr, hranolky a tatarská omáčka** 175 Kč
