@@ -4,9 +4,9 @@ title: Denní menu - EN
 ## SPECIAL OFFER (soup + main course)
 
 * **MENU 1: Soup + Serbian chicken risotto with cheese, pickles** 185 CZK
-* **MENU 2: Soup + Pork belly baked with beer, mashed potatoes and thick meat sauce** 185 CZK
+* **MENU 2: Soup + bAKED Pork belly, mashed potatoes and thick meat sauce** 185 CZK
 *
-* **DISH OF THE WEEK: Pulled pork meat in BBQ sauce, roasted potatoes and Coleslaw** 155 CZK
+* **SPECIAL DISH: Pulled pork meat in BBQ sauce, roasted potatoes and Coleslaw** 155 CZK
 
 ## SMALL SOUP FOR THE MAIN COURSE – 250ml
 
