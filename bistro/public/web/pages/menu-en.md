@@ -6,7 +6,7 @@ title: Denní menu - EN
 * **MENU 1: Soup + Serbian chicken risotto with cheese, pickles** 185 CZK
 * **MENU 2: Soup + Baked pork belly, mashed potatoes and thick meat sauce** 185 CZK
 *
-* **Pulled pork meat in BBQ sauce, roasted potatoes and Coleslaw** 155 CZK
+* **P ulled pork meat in BBQ sauce, roasted potatoes and Coleslaw** 155 CZK
 
 ## SMALL SOUP FOR THE MAIN COURSE – 250ml
 
