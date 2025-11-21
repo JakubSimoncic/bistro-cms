@@ -18,7 +18,7 @@ title: Denní menu CZ
 * **Uzená vepřová plec, dušené červené zelí a smažené bramboráčky** 165 Kč
 * **Smažená kuřecí křídla v cornflakes strouhance, opečené brambory a salátek Coleslaw** 165 Kč
 * **Segedínský guláš a domácí houskový knedlík** 165 Kč
-* **Hovězí Chilli con Carne a pečená jasmínová rýže** 175 Kč
+* **Hovězí Chilli con Carne, pečená jasmínová rýže a smažená tortilla** 175 Kč
 * **Hovězí guláš s cibulkou a beraním rohem, domácí houskový knedlík** 185 Kč
 * **Kuřecí řízek, bramborový salát a citron** 175 Kč
 * **Smažený sýr, hranolky a tatarská omáčka** 175 Kč
