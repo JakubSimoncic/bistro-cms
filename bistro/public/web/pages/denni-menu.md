@@ -15,7 +15,7 @@ title: Denní menu CZ
 
 ## HLAVNÍ JÍDLA
 
-* **Pečený vepřový bůček na pivě, šťouchané brambory** 165 Kč
+* **Pečený vepřový bůček na pivě, šťouchané brambory a silná masová šťáva** 165 Kč
 * **Koprová omáčka s hovězím masem a domácí houskový knedlík** 185 Kč
 * **Hamburská vepřová pečeně a domácí houskový knedlík** 165 Kč
 * **Smažená kuřecí křídla, BBQ omáčka a šťouchané brambory** 165 Kč
