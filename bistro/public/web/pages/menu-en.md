@@ -3,22 +3,22 @@ title: Denní menu - EN
 ---
 ## SPECIAL OFFER (soup + main course)
 
-* **MENU 1: Soup + Szeged pork goulash and homemade dumplings** 185 CZK
-* **MENU 2: Soup + Beef Chilli con Carne and baked jasmine rice** 195 CZK
+* **MENU 1: Soup + Pork meat with creamy Hamburg sauce and homemade dumplings** 185 CZK
+* **MENU 2: Soup + Fried chicken wings, BBQ sauce and mashed potatoes** 185 CZK
 *
 * **Pulled pork meat in BBQ sauce, roasted potatoes and Coleslaw** 155 CZK
 
 ## SMALL SOUP FOR THE MAIN COURSE – 250ml
 
 * **Lentil soup with pepper sausage** 35 CZK
-* **Borsch with sour cream** 35 CZK
+* **"Kulajda" -dill soup with potatoes** 35 CZK
 
 ## MAIN COURSES
 
-* **Smoked pork meat, red cabbage and fried potato pancakes** 165 CZK
-* **Fried chicken wings in cornflakes breadcrumbs, roasted potatoes and Coleslaw** 165 CZK
-* **Szeged pork goulash and homemade dumplings** 165 CZK
-* **Beef Chilli con Carne and baked jasmine rice** 175 CZK
+* **Roasted pork belly, mashed potatoes and strong meat gravy** 165 CZK
+* **Beef meat with creamy dill sauce and homemade dumplings** 185 CZK
+* **Pork meat with creamy Hamburg sauce and homemade dumplings** 165 CZK
+* **Fried chicken wings, BBQ sauce and mashed potatoes** 165 CZK
 * **Beef goulash with onion and pepper, homemade dumplings** 185 CZK
 * **Fried chicken schnitzel, potato salad and lemon** 175 CZK
 * **Fried cheese, French Fries and Tartar Sauce** 175 CZK
@@ -26,6 +26,6 @@ title: Denní menu - EN
 
 ## LARGE SOUP ORDERED SEPARATELY – 500ml
 
-* **Lentil soup with pepper sausage or Borsch with sour cream** 75 CZK
+* **Lentil soup with pepper sausage or Creamy dill soup with potatoes** 75 CZK
 
-***Offer is valid on Saturday 22.11. from 10:30 until closing time or while stocks last.***
+***Offer is valid on Sunday 23.11. from 10:30 until closing time or while stocks last.***
