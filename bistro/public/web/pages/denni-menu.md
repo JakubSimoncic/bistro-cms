@@ -4,12 +4,11 @@ title: Denní menu CZ
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)
 
 * **MENU 1: Polévka + Pečené kuřecí nadívané stehno, šťouchané brambory a kyselá okurka** 185 Kč
-* **MENU 2: Polévka + Hovězí štěpánská pečeně a pečená jasmínová rýže** 205 KKč
+* **MENU 2: Polévka + Hovězí štěpánská pečeně a pečená jasmínová rýže** 205 Kč
 * 
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek Coleslaw** 155 Kč
 
-#
-# MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
+## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
 * **Slepičí vývar s masem, zeleninou a celestýnskými nudlemi** 35 Kč
 * **Hráškový krém s krutony** 35 Kč
