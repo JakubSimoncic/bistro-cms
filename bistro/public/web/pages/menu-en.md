@@ -5,6 +5,8 @@ title: Denní menu - EN
 
 * **MENU 1: Soup + Roasted stuffed chicken thigh, mashed potatoes and pickles** 185 CZK
 * **MENU 2: Soup + Beef meat, meat sauce with eggs and baked jasmine rice** 205 CZK
+* 
+* **Pulled pork meat in our BBQ sauce, roasted potatoes and Coleslaw** 155 Kč
 
 ## SMALL SOUP FOR THE MAIN COURSE – 250ml
 
