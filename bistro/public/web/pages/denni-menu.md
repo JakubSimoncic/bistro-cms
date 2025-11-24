@@ -3,22 +3,22 @@ title: Denní menu CZ
 ---
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)
 
-* **MENU 1: Polévka + Hamburská vepřová pečeně a domácí houskový knedlík** 185 Kč
-* **MENU 2: Polévka + Smažená kuřecí křídla, BBQ majonéza a šťouchané brambory** 185 Kč
+* **MENU 1: Polévka + Kuřecí nudličky na kari, pečená jasmínová rýže** 185 Kč
+* **MENU 2: Polévka + Vepřové na paprice a těstoviny fusilli** 185 Kč
 * 
 * **JÍDLO TÝDNE: Trhané vepřové maso v BBQ omáčce, opečené brambory a salátek Coleslaw** 155 Kč
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
-* **Čočková polévka s paprikovou klobásou** 35 Kč
+* **Boršč se zakysanou smetanou** 35 Kč
 * **Jihočeská kulajda** 35 Kč
 
 ## HLAVNÍ JÍDLA
 
-* **Pečený vepřový bůček na pivě, šťouchané brambory a silná masová šťáva** 165 Kč
-* **Koprová omáčka s hovězím masem a domácí houskový knedlík** 185 Kč
-* **Hamburská vepřová pečeně a domácí houskový knedlík** 165 Kč
-* **Smažená kuřecí křídla, BBQ majonéza a šťouchané brambory** 165 Kč
+* **Smažené kuřecí stripsy, BBQ majonéza šťouchané brambory** 175 Kč
+* **Kuřecí nudličky na kari, pečená jasmínová rýže** 165 Kč
+* **Vepřové na paprice a těstoviny fusilli** 165 Kč
+* **Filírovaná vepřová panenka a italské parmazánové rizoto s hráškem** 195 Kč
 * **Hovězí guláš s cibulkou a beraním rohem, domácí houskový knedlík** 185 Kč
 * **Kuřecí řízek, bramborový salát a citron** 175 Kč
 * **Smažený sýr, hranolky a tatarská omáčka** 175 Kč
@@ -26,7 +26,7 @@ title: Denní menu CZ
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTATNĚ – 500ml
 
-* **Čočková polévka s paprikovou klobásou nebo jihočeská kulajda** 75 Kč
+* **Boršč se zakysanou smetanou nebo jihočeská kulajda** 75 Kč
 
 
-***Nabídka platí v neděli 23.11. od 10:30 do zavírací hodiny nebo do vyprodání.***
+***Nabídka platí v pondělí 24.11. od 10:30 do zavírací hodiny nebo do vyprodání.***
