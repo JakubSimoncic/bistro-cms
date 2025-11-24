@@ -3,20 +3,20 @@ title: Denní menu - EN
 ---
 ## SPECIAL OFFER (soup + main course)
 
-* **MENU 1: Soup + Chicken curry noodles and baked jasmine rice** 185 CZK
-* **MENU 2: Soup + Pork meat with creamy pepper sauce and fusilli pasta** 185 CZK
+* **MENU 1: Soup + Roasted stuffed chicken thigh, mashed potatoes and pickles** 185 CZK
+* **MENU 2: Soup + Beef meat, meat sauce with eggs and baked jasmine rice** 205 CZK
 
 ## SMALL SOUP FOR THE MAIN COURSE – 250ml
 
-* **Borsch with sour cream** 35 CZK
-* **"Kulajda"-creamy dill soup with potatoes** 35 CZK
+* **Chicken broth with meat, vegetables and Celestynian noodles** 35 CZK
+* **Pea cream with croutons** 35 CZK
 
 ## MAIN COURSES
 
-* **Fried chicken strips, BBQ mayonnaise and mashed potatoes** 175 CZK
-* **Chicken curry noodles and baked jasmine rice** 165 CZK
-* **Pork meat with creamy pepper sauce and fusilli pasta** 165 CZK
-* **Fillet pork tenderloin meat and Italian zucchini parmesan risotto** 195 CZK
+* **Roasted pork meat, stewed cabbage and homemade dumplings** 165 CZK
+* **Roasted stuffed chicken thigh, mashed potatoes and pickles** 165 CZK
+* **Beef meat, meat sauce with eggs and baked jasmine rice** 185 CZK
+* **Filleted pork tenderloin and Italian mushroom risotto with cream and parmesan cheese** 195 CZK
 * **Beef goulash with onion and pepper, homemade dumplings** 185 CZK
 * **Fried chicken schnitzel, potato salad and lemon** 175 CZK
 * **Fried cheese, French Fries and Tartar Sauce** 175 CZK
@@ -24,6 +24,6 @@ title: Denní menu - EN
 
 ## LARGE SOUP ORDERED SEPARATELY – 500ml
 
-* **Borsch with sour cream or Creamy dill creamy soup with potatoes** 75 CZK
+* **Chicken broth with meat, vegetables and Celestynian noodles or Pea cream with croutons** 75 CZK
 
-***Offer is valid on Monday 24.11. from 10:30 until closing time or while stocks last.***
+***Offer is valid on Tuesday 25.11. from 10:30 until closing time or while stocks last.***
