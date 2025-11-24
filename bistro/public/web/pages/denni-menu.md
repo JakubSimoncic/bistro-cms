@@ -15,7 +15,7 @@ title: Denní menu CZ
 
 ## HLAVNÍ JÍDLA
 
-* **Smažené kuřecí stripsy, BBQ majonéza šťouchané brambory** 175 Kč
+* **Smažené kuřecí stripsy, BBQ majonéza a šťouchané brambory** 175 Kč
 * **Kuřecí nudličky na kari, pečená jasmínová rýže** 165 Kč
 * **Vepřové na paprice a těstoviny fusilli** 165 Kč
 * **Filírovaná vepřová panenka a italské parmazánové rizoto s hráškem** 195 Kč
