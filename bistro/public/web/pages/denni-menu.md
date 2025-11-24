@@ -5,8 +5,6 @@ title: Denní menu CZ
 
 * **MENU 1: Polévka + Kuřecí nudličky na kari, pečená jasmínová rýže** 185 Kč
 * **MENU 2: Polévka + Vepřové na paprice a těstoviny fusilli** 185 Kč
-* 
-* **JÍDLO TÝDNE: Trhané vepřové maso v BBQ omáčce, opečené brambory a salátek Coleslaw** 155 Kč
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
