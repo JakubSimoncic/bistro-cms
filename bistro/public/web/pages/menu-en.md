@@ -26,4 +26,4 @@ title: Denní menu - EN
 
 * **Borsch with sour cream or Creamy dill creamy soup with potatoes** 75 CZK
 
-***Offer is valid on Sunday 23.11. from 10:30 until closing time or while stocks last.***
+***Offer is valid on Monday 24.11. from 10:30 until closing time or while stocks last.***
