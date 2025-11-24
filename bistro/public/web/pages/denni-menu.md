@@ -16,7 +16,7 @@ title: Denní menu CZ
 * **Smažené kuřecí stripsy, BBQ majonéza a šťouchané brambory** 175 Kč
 * **Kuřecí nudličky na kari, pečená jasmínová rýže** 165 Kč
 * **Vepřové na paprice a těstoviny fusilli** 165 Kč
-* **Filírovaná vepřová panenka a italské parmazánové rizoto s hráškem** 195 Kč
+* **Filírovaná vepřová panenka a italské cuketové parmazánové rizoto** 195 Kč
 * **Hovězí guláš s cibulkou a beraním rohem, domácí houskový knedlík** 185 Kč
 * **Kuřecí řízek, bramborový salát a citron** 175 Kč
 * **Smažený sýr, hranolky a tatarská omáčka** 175 Kč
