@@ -18,7 +18,7 @@ title: Denní menu - EN
 * **Szechuan chicken noodles, baked jasmine rice** 165 CZK
 * **Fried cod in herb breadcrumbs, mashed potatoes, lemon** 165 CZK
 * **Pork roll stuffed with bacon and cabbage, potato dumpling and strong meat gravy** 165 CZK
-* **Grilled pork steak from minced meat, Roquefort sauce and roasted potatoes** 185 CZK
+* **Grilled pork steak from minced meat, Roquefort sauce and roasted potatoes** 165 CZK
 * **Beef goulash with onion and pepper, homemade dumplings** 185 CZK
 * **Fried chicken schnitzel, potato salad and lemon** 175 CZK
 * **Fried cheese, French Fries and Tartar Sauce** 175 CZK
