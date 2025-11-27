@@ -4,7 +4,7 @@ title: Denní menu CZ
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)
 
 * **MENU 1: Polévka + Smažená treska v bylinkové strouhance, bramborová kaše, citron** 185 Kč
-* **MENU 2: Polévka + Záhorácký vepřový závitek plněný anglickou slaninoua zelím, bramborový knedlík a silná masová šťáva** 185 Kč
+* **MENU 2: Polévka + Záhorácký vepřový závitek plněný anglickou slaninou a zelím, bramborový knedlík a silná masová šťáva** 185 Kč 
 * 
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek Coleslaw** 155 Kč
 
@@ -17,7 +17,7 @@ title: Denní menu CZ
 
 * **Kuřecí nudličky po sečuánsku, pečená jasmínová rýže** 165 Kč
 * **Smažená treska v bylinkové strouhance, bramborová kaše, citron** 165 Kč
-* **Záhorácký vepřový závitek plněný anglickou slaninoua zelím, bramborový knedlík a silná masová šťáva** 165 Kč
+* **Záhorácký vepřový závitek plněný anglickou slaninou a zelím, bramborový knedlík a silná masová šťáva** 165 Kč
 * **Grilovaný sekaný vepřový biftek, rokfórová omáčka a opečené brambory** 165 Kč
 * **Hovězí guláš s cibulkou a beraním rohem, domácí houskový knedlík** 185 Kč
 * **Kuřecí řízek, bramborový salát a citron** 175 Kč
