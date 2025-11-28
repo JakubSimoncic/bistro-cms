@@ -10,7 +10,7 @@ title: Denní menu CZ
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
-* **Hrachová polévka s klobásou* 35 Kč
+* **Hrachová polévka s klobásou** 35 Kč
 * **Špenátový krém s krutony** 35 Kč
 
 ## HLAVNÍ JÍDLA
