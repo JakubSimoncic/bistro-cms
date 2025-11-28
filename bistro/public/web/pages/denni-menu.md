@@ -15,7 +15,7 @@ title: Denní menu CZ
 
 ## HLAVNÍ JÍDLA
 
-* **Plněný bramborový knedlík plněný uzeným masem, dušené hlávkové bílé zelí, restovaná cibulka a smažená cibulka** 165 Kč
+* **Plněný bramborový knedlík uzeným masem, dušené hlávkové bílé zelí, restovaná cibulka a smažená cibulka** 165 Kč
 * **Kuřecí nudličky po sečuánsku, pečená jasmínová rýže** 165 Kč
 * **Kuřecí Quesadilla (kuřecí maso, rajčata, koriandr, karamelizovaná cibulka a sýr v grilované pšeničné placce) zakysaná smetana a malé hranolky** 175 Kč
 * **Hovězí guláš s cibulkou a beraním rohem, domácí houskový knedlík** 185 Kč
