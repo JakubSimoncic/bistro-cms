@@ -10,8 +10,8 @@ title: Denní menu - EN
 
 ## SMALL SOUP FOR THE MAIN COURSE – 250ml
 
-* **Cabbage soup with sausage** 35 CZK
 * **Pea Soup with Sausage** 35 CZK
+* **Spinach cream with croutons** 35 CZK
 
 ## MAIN COURSES
 
@@ -26,6 +26,6 @@ title: Denní menu - EN
 
 ## LARGE SOUP ORDERED SEPARATELY – 500ml
 
-* **Cabbage soup with sausage or Pea Soup with Sausage** 75 CZK
+* **Pea Soup with Sausage or spinach cream with croutons** 75 CZK
 
-***Offer is valid on Saterday 29.11. from 10:30 until closing time or while stocks last.***
+***Offer is valid on Saturday 29.11. from 10:30 until closing time or while stocks last.***
