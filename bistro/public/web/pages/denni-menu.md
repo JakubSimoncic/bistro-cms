@@ -5,21 +5,21 @@ title: Denní menu CZ
 
 * **MENU 1: Polévka + Plněný bramborový knedlík plněný uzeným masem, dušené hlávkové bílé zelí,
  restovaná cibulka a smažená cibulka** 185 Kč
-* **MENU 2: Polévka + Vepřová kýta na paprice, domácí houskový knedlík** 185 Kč 
+* **MENU 2: Polévka + Štěpánská hovězí pečeně, pečená jasmínová rýže** 195 Kč 
 * 
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek Coleslaw** 155 Kč
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
-* **Hrachová polévka s klobásou** 35 Kč
-* **Špenátový krém s krutony** 35 Kč
+* **Valašská kyselice** 35 Kč
+* **Čočková polévka s uzeninou** 35 Kč
 
 ## HLAVNÍ JÍDLA
 
+* **Plněný bramborový knedlík uzeným masem, dušené hlávkové bílé zelí, restovaná cibulka a smažená cibulka** 165 Kč
 * **Kuřecí roláda plněná slaninou, špenátem a nivou, vařené brambory** 165 Kč
-* **Plněný bramborový knedlík plněný uzeným masem, dušené hlávkové bílé zelí,
- restovaná cibulka a smažená cibulka** 165 Kč
-* **Vepřová kýta na paprice, domácí houskový knedlík** 165 Kč
+* **Hamburská vepřová kýta, domácí houskový knedlík** 165 Kč
+* **Štěpánská hovězí pečeně, pečená jasmínová rýže** 175 Kč
 * **Hovězí guláš s cibulkou a beraním rohem, domácí houskový knedlík** 185 Kč
 * **Kuřecí řízek, bramborový salát a citron** 175 Kč
 * **Smažený sýr, hranolky a tatarská omáčka** 175 Kč
@@ -27,7 +27,7 @@ title: Denní menu CZ
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTATNĚ – 500ml
 
-* **Hrachová polévka s klobásou nebo špenátový krém s krutony** 75 Kč
+* **Valašská kyselice nebo čočková polévka s uzeninou** 75 Kč
 
 
-***Nabídka platí v sobotu 29.11. od 10:30 do zavírací hodiny nebo do vyprodání.***
+***Nabídka platí v neděli 30.11. od 10:30 do zavírací hodiny nebo do vyprodání.***
