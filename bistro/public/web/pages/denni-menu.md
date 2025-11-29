@@ -3,8 +3,7 @@ title: Denní menu CZ
 ---
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)
 
-* **MENU 1: Polévka + Plněný bramborový knedlík plněný uzeným masem, dušené hlávkové bílé zelí,
- restovaná cibulka a smažená cibulka** 185 Kč
+* **MENU 1: Polévka + Plněný bramborový knedlík uzeným masem, dušené hlávkové bílé zelí, restovaná cibulka a smažená cibulka** 185 Kč
 * **MENU 2: Polévka + Štěpánská hovězí pečeně, pečená jasmínová rýže** 195 Kč 
 * 
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek Coleslaw** 155 Kč
