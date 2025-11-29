@@ -17,7 +17,7 @@ title: Denní menu - EN
 
 * **Stuffed potato dumpling filled with smoked meat, stewed white cabbage, sautéed onion and fried onion** 165 CZK
 * **Chicken roulade stuffed with bacon, spinach and blue cheese, boiled potatoes** 165 CZK
-* **Pork meat, creamy sauce with ham and pickles, homemade dumplings** 165 CZK
+* **Pork meat, creamy sauce with pickles, homemade dumplings** 165 CZK
 * **Beef meat, meat souce with eggs, baked jasmine rice** 175 CZK
 * **Beef goulash with onion and pepper, homemade dumplings** 185 CZK
 * **Fried chicken schnitzel, potato salad and lemon** 175 CZK
