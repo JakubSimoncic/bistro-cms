@@ -15,7 +15,7 @@ title: Denní menu - EN
 
 ## MAIN COURSES
 
-* **Stuffed potato dumpling filled with smoked meat, braised cabbage, sauteed onion and fried Onion** 165 CZK
+* **Chicken roulade stuffed with bacon, spinach and blue cheese, boiled potatoes** 165 CZK
 * **Szechuan chicken noodles, baked jasmine rice** 165 CZK
 * **Pork meat with creamy pepper sauce, homemade dumplings** 165 CZK
 * **Chicken Quesadilla (chicken meat, tomatoes, coriander, caramelized onions and cheese in a grilled wheat tortilla) sour cream and small French Fries** 175 CZK
