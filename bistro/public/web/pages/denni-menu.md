@@ -3,7 +3,8 @@ title: Denní menu CZ
 ---
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)
 
-* **MENU 1: Polévka + Kuřecí nudličky po sečuánsku, pečená jasmínová rýže** 185 Kč
+* **MENU 1: Polévka + Plněný bramborový knedlík plněný uzeným masem, dušené hlávkové bílé zelí,
+ restovaná cibulka a smažená cibulka** 185 Kč
 * **MENU 2: Polévka + Vepřová kýta na paprice, domácí houskový knedlík** 185 Kč 
 * 
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek Coleslaw** 155 Kč
@@ -16,9 +17,9 @@ title: Denní menu CZ
 ## HLAVNÍ JÍDLA
 
 * **Kuřecí roláda plněná slaninou, špenátem a nivou, vařené brambory** 165 Kč
-* **Kuřecí nudličky po sečuánsku, pečená jasmínová rýže** 165 Kč
+* **Plněný bramborový knedlík plněný uzeným masem, dušené hlávkové bílé zelí,
+ restovaná cibulka a smažená cibulka** 165 Kč
 * **Vepřová kýta na paprice, domácí houskový knedlík** 165 Kč
-* **Kuřecí Quesadilla (kuřecí maso, rajčata, koriandr, karamelizovaná cibulka a sýr v grilované pšeničné placce) zakysaná smetana a malé hranolky** 175 Kč
 * **Hovězí guláš s cibulkou a beraním rohem, domácí houskový knedlík** 185 Kč
 * **Kuřecí řízek, bramborový salát a citron** 175 Kč
 * **Smažený sýr, hranolky a tatarská omáčka** 175 Kč
