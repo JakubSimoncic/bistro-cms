@@ -3,7 +3,7 @@ title: Denní menu - EN
 ---
 ## SPECIAL OFFER (soup + main course)
 
-* **MENU 1: Soup + Szechuan chicken noodles, baked jasmine rice** 185 CZK
+* **MENU 1: Soup + Stuffed potato dumpling filled with smoked meat, stewed white cabbage, sautéed onion and fried onion** 185 CZK
 * **MENU 2: Soup + Pork meat with creamy pepper sauce, homemade dumplings** 185 CZK
 * 
 * **Pulled pork meat in our BBQ sauce, roasted potatoes and Coleslaw** 155 Kč
@@ -16,9 +16,8 @@ title: Denní menu - EN
 ## MAIN COURSES
 
 * **Chicken roulade stuffed with bacon, spinach and blue cheese, boiled potatoes** 165 CZK
-* **Szechuan chicken noodles, baked jasmine rice** 165 CZK
+* **Stuffed potato dumpling filled with smoked meat, stewed white cabbage, sautéed onion and fried onion** 165 CZK
 * **Pork meat with creamy pepper sauce, homemade dumplings** 165 CZK
-* **Chicken Quesadilla (chicken meat, tomatoes, coriander, caramelized onions and cheese in a grilled wheat tortilla) sour cream and small French Fries** 175 CZK
 * **Beef goulash with onion and pepper, homemade dumplings** 185 CZK
 * **Fried chicken schnitzel, potato salad and lemon** 175 CZK
 * **Fried cheese, French Fries and Tartar Sauce** 175 CZK
