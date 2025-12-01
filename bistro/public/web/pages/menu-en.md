@@ -10,7 +10,7 @@ title: Denní menu - EN
 
 ## SMALL SOUP FOR THE MAIN COURSE – 250ml
 
-* **Trip soup** 35 CZK
+* **Tripe soup** 35 CZK
 * **Creamy onion soup with croutons and parmesan cheese** 35 CZK
 
 ## MAIN COURSES
@@ -26,6 +26,6 @@ title: Denní menu - EN
 
 ## LARGE SOUP ORDERED SEPARATELY – 500ml
 
-* **Trip soup or Creamy onion soup with croutons and parmesan** 75 CZK
+* **Tripe soup or Creamy onion soup with croutons and parmesan** 75 CZK
 
 ***Offer is valid on Monday 1.12. from 10:30 until closing time or while stocks last.***
