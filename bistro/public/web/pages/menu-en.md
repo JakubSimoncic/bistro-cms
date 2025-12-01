@@ -15,7 +15,7 @@ title: Denní menu - EN
 
 ## MAIN COURSES
 
-* **Freied Savoy pork schnitzel, mashed potatoes** 175 CZK
+* **Fried Savoy pork schnitzel, mashed potatoes** 175 CZK
 * **Baked pasta with smoked meat and eggs, pickles** 165 CZK
 * **Beef meat with garlic, stewed spinach and potato dumplings** 175 CZK
 * **Spaghetti with chicken meat, mushrooms, cream, red onion and parmesan cheese** 185 CZK
