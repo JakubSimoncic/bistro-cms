@@ -4,7 +4,7 @@ title: Denní menu - EN
 ## SPECIAL OFFER (soup + main course)
 
 * **MENU 1: Soup + Baked pasta with smoked meat and eggs, pickles** 185 CZK
-* **MENU 2: Soup + Beef meat with garlic, stewed spinach and potato dumplings** 185 CZK
+* **MENU 2: Soup + Beef meat with garlic, stewed spinach and potato dumplings** 195 CZK
 * 
 * **Pulled pork meat in our BBQ sauce, roasted potatoes and Coleslaw** 155 Kč
 
