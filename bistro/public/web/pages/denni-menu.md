@@ -18,7 +18,7 @@ title: Denní menu CZ
 * **Vepřová líčka na víně a zelenině, máslová bramborová kaše** 175 Kč
 * **Vepřová plec na slanině a pečená jasmínová rýže** 165 Kč
 * **Hovězí na česneku, dušený listový špenát a bramborový knedlík** 175 Kč
-* **Špagety s kuřecím masem, anglickou slaninou, česnekem, feferonkou, jarní cibulí, rajčaty a parmazánem** 185 Kč
+* **Špagety s kuřecím masem, anglickou slaninou, česnekem, feferonkou, jarní cibulkou, rajčaty a parmazánem** 185 Kč
 * **Hovězí guláš s cibulkou a beraním rohem, domácí houskový knedlík** 185 Kč
 * **Kuřecí řízek, bramborový salát a citron** 175 Kč
 * **Smažený sýr, hranolky a tatarská omáčka** 175 Kč
