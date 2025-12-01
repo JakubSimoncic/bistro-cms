@@ -3,22 +3,22 @@ title: Denní menu - EN
 ---
 ## SPECIAL OFFER (soup + main course)
 
-* **MENU 1: Soup + Baked pasta with smoked meat and eggs, pickles** 185 CZK
+* **MENU 1: Soup + Pork meat with bacon and baked jasmine rice** 185 CZK
 * **MENU 2: Soup + Beef meat with garlic, stewed spinach and potato dumplings** 195 CZK
 * 
 * **Pulled pork meat in our BBQ sauce, roasted potatoes and Coleslaw** 155 Kč
 
 ## SMALL SOUP FOR THE MAIN COURSE – 250ml
 
-* **Tripe soup** 35 CZK
-* **Creamy onion soup with croutons and parmesan cheese** 35 CZK
+* **Beef broth with meat, vegetables and liver rice** 35 CZK
+* **Frankfurt soup** 35 CZK
 
 ## MAIN COURSES
 
-* **Fried Savoy pork schnitzel, mashed potatoes** 175 CZK
-* **Baked pasta with smoked meat and eggs, pickles** 165 CZK
+* **Pork cheeks with wine and vegetables, buttery mashed potatoes** 175 CZK
+* **Pork meat with bacon and baked jasmine rice** 165 CZK
 * **Beef meat with garlic, stewed spinach and potato dumplings** 175 CZK
-* **Spaghetti with chicken meat, mushrooms, cream, red onion and parmesan cheese** 185 CZK
+* **Spaghetti with chicken meat, bacon, garlic, hot pepper, spring onion, tomatoes and parmesan cheese** 185 CZK
 * **Beef goulash with onion and pepper, homemade dumplings** 185 CZK
 * **Fried chicken schnitzel, potato salad and lemon** 175 CZK
 * **Fried cheese, French Fries and Tartar Sauce** 175 CZK
@@ -26,6 +26,6 @@ title: Denní menu - EN
 
 ## LARGE SOUP ORDERED SEPARATELY – 500ml
 
-* **Tripe soup or Creamy onion soup with croutons and parmesan** 75 CZK
+* **Beef broth with meat, vegetables and liver rice or Frankfurt soup** 75 CZK
 
-***Offer is valid on Monday 1.12. from 10:30 until closing time or while stocks last.***
+***Offer is valid on Tuesday 2.12. from 10:30 until closing time or while stocks last.***
