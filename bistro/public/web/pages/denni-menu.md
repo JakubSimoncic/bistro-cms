@@ -3,22 +3,22 @@ title: Denní menu CZ
 ---
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)
 
-* **MENU 1: Polévka + Smažený květák, vařené brambory a tatarská omáčka** 175 Kč
-* **MENU 2: Polévka + Rozlítaný hovězí španělský ptáček a pečená jasmínová rýže** 195 Kč 
+* **MENU 1: Polévka + Smažený kapustový karbanátek s mletým masem, bramborová kaše, kyselá okurka** 185 Kč
+* **MENU 2: Polévka + Boloňské špagety s mletým masem a parmazánem** 195 Kč 
 * 
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek Coleslaw** 155 Kč
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
-* **Jihočeská kulajda** 35 Kč
-* **Frankfurtská polévka** 35 Kč
+* **Zelňačka s paprikovou klobásou** 35 Kč
+* **Květákový krém s bylinkovými krutony** 35 Kč
 
 ## HLAVNÍ JÍDLA
 
-* **Pikantní masová směs v bramboráku** 165 Kč
-* **Smažený květák, vařené brambory a tatarská omáčka** 155 Kč
-* **Rozlítaný hovězí španělský ptáček a pečená jasmínová rýže** 175 Kč
-* **Vepřový Wrap (vepřové maso, Jack Daniel´s majonéza, cibulové Chutney, sýr čedar, papričky Jalapeňos, salát a rajčata), zakysaná smetana a malé smažené hranolky** 185 Kč
+* **Moravský vrabec, dušené hlávkové bílé zelí a bramborový knedlík** 165 Kč
+* **Pečená drůbeží játra s cibulí a žampiony, smažené hranolky a tatarská omáčka ** 165 Kč
+* **Smažený kapustový karbanátek s mletým masem, bramborová kaše, kyselá okurka** 165 Kč
+* **Boloňské špagety s mletým masem a parmazánem** 175 Kč
 * **Hovězí guláš s cibulkou a beraním rohem, domácí houskový knedlík** 185 Kč
 * **Kuřecí řízek, bramborový salát a citron** 175 Kč
 * **Smažený sýr, hranolky a tatarská omáčka** 175 Kč
@@ -26,7 +26,7 @@ title: Denní menu CZ
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTATNĚ – 500ml
 
-* **Jihočeská kulajda nebo frankfurtská polévka** 75 Kč
+* **Zelňačka s paprikovou klobásou nebo květákový krém s bylinkovými krutony** 75 Kč
 
 
-***Nabídka platí ve středu 3.12. od 10:30 do zavírací hodiny nebo do vyprodání.***
+***Nabídka platí ve čtvrtek 4.12. od 10:30 do zavírací hodiny nebo do vyprodání.***
