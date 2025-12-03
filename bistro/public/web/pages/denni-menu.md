@@ -17,7 +17,7 @@ title: Denní menu CZ
 
 * **Pikantní masová směs v bramboráku** 165 Kč
 * **Smažený květák, vařené brambory a tatarská omáčka** 155 Kč
-* **Rozlítaný hovězí španělský ptáček a pečená jasmínová rýže** 195 Kč
+* **Rozlítaný hovězí španělský ptáček a pečená jasmínová rýže** 175 Kč
 * **Vepřový Wrap (vepřové maso, Jack Daniel´s majonéza, cibulové Chutney, sýr čedar, papričky Jalapeňos, salát a rajčata), zakysaná smetana a malé smažené hranolky** 185 Kč
 * **Hovězí guláš s cibulkou a beraním rohem, domácí houskový knedlík** 185 Kč
 * **Kuřecí řízek, bramborový salát a citron** 175 Kč
