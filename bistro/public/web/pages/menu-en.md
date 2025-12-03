@@ -3,22 +3,22 @@ title: Denní menu - EN
 ---
 ## SPECIAL OFFER (soup + main course)
 
-* **MENU 1: Soup + Fried cauliflower, boiled potatoes and tartar sauce** 175 CZK
-* **MENU 2: Soup + Beef meat, meat sauce with bacon, eggs and pickles and baked jasmine rice** 195 CZK
+* **MENU 1: Soup + Fried meat patty with cabbage, mashed potatoes, pickles** 185 CZK
+* **MENU 2: Soup + Spaghetti Bolognese with minced meat and parmesan cheese** 195 CZK
 * 
 * **Pulled pork meat in our BBQ sauce, roasted potatoes and Coleslaw** 155 Kč
 
 ## SMALL SOUP FOR THE MAIN COURSE – 250ml
 
-* **"Kulajda"- creamy dill soup with potatoes and mushrooms** 35 CZK
-* **Frankfurt soup** 35 CZK
+* **Cabbage soup with pepper sausage** 35 CZK
+* **Cauliflower cream with herb croutons** 35 CZK
 
 ## MAIN COURSES
 
-* **Spicy meat mixture with vegetables in potato pancake** 165 CZK
-* **Fried cauliflower, boiled potatoes and tartar sauce** 155 CZK
-* **Beef meat, meat sauce with bacon, eggs and pickles and baked jasmine rice** 175 CZK
-* **Pork wrap (pork meat, Jack Daniel's mayonnaise, onion chutney, cheddar cheese, Jalapeňo peppers, lettuce and tomatoes), sour cream and small French Fries** 185 CZK
+* **Moravian sparrow, stewed white cabbage and potato dumpling** 165 CZK
+* **Roasted poultry livers with onions and mushrooms, Tartar Sauce and French Fries** 165 CZK
+* **Fried meat patty with cabbage, mashed potatoes, pickles** 165 CZK
+* **Spaghetti Bolognese with minced meat and parmesan cheese** 175 CZK
 * **Beef goulash with onion and pepper, homemade dumplings** 185 CZK
 * **Fried chicken schnitzel, potato salad and lemon** 175 CZK
 * **Fried cheese, French Fries and Tartar Sauce** 175 CZK
@@ -26,6 +26,6 @@ title: Denní menu - EN
 
 ## LARGE SOUP ORDERED SEPARATELY – 500ml
 
-* **"Kulajda"- creamy dill soup with potatoes and mushrooms or Frankfurt soup** 75 CZK
+* **Cabbage soup with pepper sausage or cauliflower cream with herb croutons** 75 CZK
 
-***Offer is valid on Wednesday 3.12. from 10:30 until closing time or while stocks last.***
+***Offer is valid on Thursday 4.12. from 10:30 until closing time or while stocks last.***
