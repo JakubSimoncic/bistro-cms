@@ -4,7 +4,7 @@ title: Denní menu - EN
 ## SPECIAL OFFER (soup + main course)
 
 * **MENU 1: Soup + Fried cauliflower, boiled potatoes and tartar sauce** 175 CZK
-* **MENU 2: Soup + Pork meat, meat sauce with bacon, eggs and pickles and baked jasmine rice** 185 CZK
+* **MENU 2: Soup + Beef meat, meat sauce with bacon, eggs and pickles and baked jasmine rice** 195 CZK
 * 
 * **Pulled pork meat in our BBQ sauce, roasted potatoes and Coleslaw** 155 Kč
 
@@ -17,7 +17,7 @@ title: Denní menu - EN
 
 * **Spicy meat mixture with vegetables in potato pancake** 165 CZK
 * **Fried cauliflower, boiled potatoes and tartar sauce** 155 CZK
-* **Pork meat, meat sauce with bacon, eggs and pickles and baked jasmine rice** 165 CZK
+* **Beef meat, meat sauce with bacon, eggs and pickles and baked jasmine rice** 175 CZK
 * **Pork wrap (pork meat, Jack Daniel's mayonnaise, onion chutney, cheddar cheese, Jalapeňo peppers, lettuce and tomatoes), sour cream and small French Fries** 185 CZK
 * **Beef goulash with onion and pepper, homemade dumplings** 185 CZK
 * **Fried chicken schnitzel, potato salad and lemon** 175 CZK
