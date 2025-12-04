@@ -16,7 +16,7 @@ title: Denní menu - EN
 ## MAIN COURSES
 
 * **Baked pork meat, stewed white cabbage and potato dumpling** 165 CZK
-* **Roasted poultry livers with onions and mushrooms, Tartar Sauce and French Fries** 165 CZK
+* **Roasted poultry livers with onion and mushrooms, Tartar Sauce and French Fries** 165 CZK
 * **Fried meat patty with cabbage, mashed potatoes, pickles** 165 CZK
 * **Spaghetti Bolognese with minced meat and parmesan cheese** 175 CZK
 * **Beef goulash with onion and pepper, homemade dumplings** 185 CZK
