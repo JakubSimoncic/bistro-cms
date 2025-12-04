@@ -3,22 +3,22 @@ title: Denní menu - EN
 ---
 ## SPECIAL OFFER (soup + main course)
 
-* **MENU 1: Soup + Fried meat patty with cabbage, mashed potatoes, pickles** 185 CZK
-* **MENU 2: Soup + Spaghetti Bolognese with minced meat and parmesan cheese** 195 CZK
+* **MENU 1: Soup + Homemade meatloaf with potato salad** 175 CZK
+* **MENU 2: Soup + Beef meat with tomato sauce and homemade dumplings** 205 CZK
 * 
 * **Pulled pork meat in our BBQ sauce, roasted potatoes and Coleslaw** 155 Kč
 
 ## SMALL SOUP FOR THE MAIN COURSE – 250ml
 
 * **Cabbage soup with pepper sausage** 35 CZK
-* **Cauliflower cream with herb croutons** 35 CZK
+* **Beef broth with meat, vegetables and frittata noodles** 35 CZK
 
 ## MAIN COURSES
 
-* **Baked pork meat, stewed white cabbage and potato dumpling** 165 CZK
-* **Roasted poultry livers with onion and mushrooms, Tartar Sauce and French Fries** 165 CZK
-* **Fried meat patty with cabbage, mashed potatoes, pickles** 165 CZK
-* **Spaghetti Bolognese with minced meat and parmesan cheese** 175 CZK
+* **Chicken pocket stuffed with English bacon and camembert, pepper sauce and mashed potatoes** 165 CZK
+* **Homemade meatloaf with potato salad** 155 CZK
+* **Beef meat with tomato sauce and homemade dumplings** 185 CZK
+* **Grilled pork tenderloin served with mushroom ragout and sautéed potatoes with spring onions** 185 CZK
 * **Beef goulash with onion and pepper, homemade dumplings** 185 CZK
 * **Fried chicken schnitzel, potato salad and lemon** 175 CZK
 * **Fried cheese, French Fries and Tartar Sauce** 175 CZK
@@ -26,6 +26,6 @@ title: Denní menu - EN
 
 ## LARGE SOUP ORDERED SEPARATELY – 500ml
 
-* **Cabbage soup with pepper sausage or cauliflower cream with herb croutons** 75 CZK
+* **Cabbage soup with pepper sausage or beef broth with meat, vegetables and frittata noodles** 75 CZK
 
-***Offer is valid on Thursday 4.12. from 10:30 until closing time or while stocks last.***
+***Offer is valid on Friday 5.12. from 10:30 until closing time or while stocks last.***
