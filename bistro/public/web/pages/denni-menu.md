@@ -18,7 +18,7 @@ title: Denní menu CZ
 * **Zapečené šunkofleky s uzeným masem, okurka** 155 Kč
 * **Domácí sekaná s bramborovým salátem** 155 Kč
 * **Moravský vrabec, dušené hlávkové zelí, bramborový knedlík** 175 Kč
-* **Vepřové líčka na víně, šťouchané brambory ** 175 Kč
+* **Vepřové líčka na víně, šťouchané brambory** 175 Kč
 * **Hovězí guláš s cibulkou a beraním rohem, domácí houskový knedlík** 185 Kč
 * **Kuřecí řízek, bramborový salát a citron** 175 Kč
 * **Smažený sýr, hranolky a tatarská omáčka** 175 Kč
