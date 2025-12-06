@@ -18,7 +18,7 @@ title: Denní menu CZ
 * **Vepřová líčka na víně a zelenině, bramborová kaše** 175 Kč
 * **Pečený bůček, dušené hlávkové zelí a domácí houskový knedlík** 165 Kč
 * **Rajská omáčka s hovězím masem, domácí houskový knedlík** 185 Kč
-* **Boloňské špagety s hovězím mletým masem, strouhaný parmazán** 185 Kč
+* **Boloňské špagety s hovězím mletým masem a sypaný parmazánem** 185 Kč
 * **Hovězí guláš s cibulkou a beraním rohem, domácí houskový knedlík** 185 Kč
 * **Kuřecí řízek, bramborový salát a citron** 175 Kč
 * **Smažený sýr, hranolky a tatarská omáčka** 175 Kč
