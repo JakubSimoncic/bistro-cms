@@ -3,22 +3,22 @@ title: Denní menu CZ
 ---
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)
 
-* **MENU 1: Polévka + Zapečené šunkofleky s uzeným masem, okurka** 175 Kč
-* **MENU 2: Polévka + Moravský vrabec, dušené hlávkové zelí, bramborový knedlík** 195 Kč 
+* **MENU 1: Polévka + Pečený bůček, dušené hlávkové zelí, domácí houskový knedlík** 185 Kč
+* **MENU 2: Polévka + Rajská omáčka s hovězím masem, domácí houskový knedlík** 195 Kč 
 * 
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek Coleslaw** 155 Kč
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
-* **Dršťková polévka** 35 Kč
-* **Květákový krém s bylinkovými krutony** 35 Kč
+* **Gulášová polévka** 35 Kč
+* **Čočková polévka s klobásou** 35 Kč
 
 ## HLAVNÍ JÍDLA
 
-* **Zapečené šunkofleky s uzeným masem, okurka** 155 Kč
-* **Domácí sekaná s bramborovým salátem** 155 Kč
-* **Moravský vrabec, dušené hlávkové zelí, bramborový knedlík** 175 Kč
-* **Vepřové líčka na víně, šťouchané brambory** 175 Kč
+* **Vepřová líčka na víně a zelenině, bramborová kaše** 175 Kč
+* **Pečený bůček, dušené hlávkové zelí a domácí houskový knedlík** 165 Kč
+* **Rajská omáčka s hovězím masem, domácí houskový knedlík** 185 Kč
+* **Boloňské špagety s hovězím mletým masem, strouhaný parmazán** 185 Kč
 * **Hovězí guláš s cibulkou a beraním rohem, domácí houskový knedlík** 185 Kč
 * **Kuřecí řízek, bramborový salát a citron** 175 Kč
 * **Smažený sýr, hranolky a tatarská omáčka** 175 Kč
@@ -26,7 +26,7 @@ title: Denní menu CZ
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTATNĚ – 500ml
 
-* **Dršťková polévka nebo květákový krém s bylinkovými krutony** 75 Kč
+* **Gulášová polévka nebo čočková polévka s klobásou** 75 Kč
 
 
-***Nabídka platí v sobotu 6.12. od 10:00 do zavírací hodiny nebo do vyprodání.***
+***Nabídka platí v neděli 7.12. od 10:00 do zavírací hodiny nebo do vyprodání.***
