@@ -4,7 +4,7 @@ title: Denní menu CZ
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)
 
 * **MENU 1: Polévka + Pečený bůček, dušené hlávkové zelí, domácí houskový knedlík** 185 Kč
-* **MENU 2: Polévka + Rajská omáčka s hovězím masem, domácí houskový knedlík** 195 Kč 
+* **MENU 2: Polévka + Rajská omáčka s hovězím masem, domácí houskový knedlík** 205 Kč 
 * 
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek Coleslaw** 155 Kč
 
@@ -17,8 +17,8 @@ title: Denní menu CZ
 
 * **Vepřová líčka na víně a zelenině, bramborová kaše** 175 Kč
 * **Pečený bůček, dušené hlávkové zelí a domácí houskový knedlík** 165 Kč
+* **Boloňské špagety s hovězím mletým masem a sypaný parmazánem** 175 Kč
 * **Rajská omáčka s hovězím masem, domácí houskový knedlík** 185 Kč
-* **Boloňské špagety s hovězím mletým masem a sypaný parmazánem** 185 Kč
 * **Hovězí guláš s cibulkou a beraním rohem, domácí houskový knedlík** 185 Kč
 * **Kuřecí řízek, bramborový salát a citron** 175 Kč
 * **Smažený sýr, hranolky a tatarská omáčka** 175 Kč
