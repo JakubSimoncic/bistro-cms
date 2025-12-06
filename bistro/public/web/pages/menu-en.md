@@ -16,9 +16,9 @@ title: Denní menu - EN
 ## MAIN COURSES
 
 * **Pork cheeks in red wine and vegetables, mashed potatoes** 175 CZK
+* **Roasted pork belly, stewed cabbage, homemade dumplings** 165 CZK
 * **Spaghetti Bolognese with beef minced meat and parmesan cheese** 175 CZK
 * **Tomato sauce with beef meat, homemade dumplings** 185 CZK
-* **Roasted pork belly, stewed cabbage, homemade dumplings** 185 CZK
 * **Beef goulash with onion and pepper, homemade dumplings** 185 CZK
 * **Fried chicken schnitzel, potato salad and lemon** 175 CZK
 * **Fried cheese, French Fries and Tartar Sauce** 175 CZK
