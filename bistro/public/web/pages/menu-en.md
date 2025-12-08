@@ -28,4 +28,4 @@ title: Denní menu - EN
 
 * **Tripe soup or Mushroom cream with herb croutons** 75 CZK
 
-***Offer is valid on Tuesday 10.12. from 10:00 until closing time or while stocks last.***
+***Offer is valid on Tuesday 9.12. from 10:00 until closing time or while stocks last.***
