@@ -29,4 +29,4 @@ title: Denní menu CZ
 * **Dršťková polévka nebo žampionový krém s bylinkovými krutony** 75 Kč
 
 
-***Nabídka platí v úterý 10.12. od 10:00 do zavírací hodiny nebo do vyprodání.***
+***Nabídka platí v úterý 9.12. od 10:00 do zavírací hodiny nebo do vyprodání.***
