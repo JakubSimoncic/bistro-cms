@@ -3,7 +3,7 @@ title: Denní menu CZ
 ---
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)
 
-* **MENU 1: Polévka + Smažený vepřová krkovice, šťouchané brambory nebo bramborový salát, citron** 195 Kč
+* **MENU 1: Polévka + Smažená vepřová krkovice, šťouchané brambory nebo bramborový salát, citron** 195 Kč
 * **MENU 2: Polévka + Hovězí znojemská pečeně a pečená jasmínová rýže** 205 Kč 
 * 
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek Coleslaw** 155 Kč
