@@ -28,4 +28,4 @@ title: Denní menu - EN
 
 * **Potato soup with mushrooms or Tripe soup** 75 CZK
 
-***Offer is valid on WEdnesday 10.12. from 10:00 until closing time or while stocks last.***
+***Offer is valid on Wednesday 10.12. from 10:00 until closing time or while stocks last.***
