@@ -3,22 +3,22 @@ title: Denní menu CZ
 ---
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)
 
-* **MENU 1: Polévka + Smažený holandský řízek, bramborová kaše, kyselá okurka** 185 Kč
-* **MENU 2: Polévka + Zabijačkový vepřový guláš, cibulka a domácí houskový knedlík** 185 Kč 
+* **MENU 1: Polévka + Smažený vepřová krkovice, šťouchané brambory nebo bramborový salát, citron** 195 Kč
+* **MENU 2: Polévka + Hovězí znojemská pečeně a pečená jasmínová rýže** 205 Kč 
 * 
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek Coleslaw** 155 Kč
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
+* **Bramborová polévka s houbami** 35 Kč
 * **Dršťková polévka** 35 Kč
-* **Žampionový krém s bylinkovými krutony** 35 Kč
 
 ## HLAVNÍ JÍDLA
 
-* **Kuřecí nudličky gyros, smažené hranolky a tzatziki** 175 Kč
-* **Smažený holandský řízek, bramborová kaše, kyselá okurka** 165 Kč
-* **Zabijačkový vepřový guláš, cibulka a domácí houskový knedlík** 165 Kč
-* **Těstoviny fusilli s vepřovou panenkou, anglickou slaninou, sušenými rajčaty, červenou cibulí, pórkem, bílým vínem a parmazánem** 185 Kč
+* **Dušené vepřové maso v hořčičné omáčce, šťouchané brambory** 165 Kč
+* **Smažený vepřová krkovice, šťouchané brambory nebo bramborový salát, citron** 175 Kč
+* **Hovězí znojemská pečeně a pečená jasmínová rýže** 185 Kč
+* **Grilovaná filírovaná vepřová panenka podávaná s marinovanou cuketou v pestu ze sušených rajčat a opečené brambory s jarní cibulkou** 195 Kč
 * **Hovězí guláš s cibulkou a beraním rohem, domácí houskový knedlík** 185 Kč
 * **Kuřecí řízek, bramborový salát a citron** 175 Kč
 * **Smažený sýr, hranolky a tatarská omáčka** 175 Kč
@@ -26,7 +26,7 @@ title: Denní menu CZ
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTATNĚ – 500ml
 
-* **Dršťková polévka nebo žampionový krém s bylinkovými krutony** 75 Kč
+* **Bramborová polévka s houbami nebo dršťková polévka** 75 Kč
 
 
-***Nabídka platí v úterý 9.12. od 10:00 do zavírací hodiny nebo do vyprodání.***
+***Nabídka platí ve středu 10.12. od 10:00 do zavírací hodiny nebo do vyprodání.***
