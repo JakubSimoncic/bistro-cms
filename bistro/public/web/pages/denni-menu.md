@@ -16,7 +16,7 @@ title: Denní menu CZ
 ## HLAVNÍ JÍDLA
 
 * **Dušené vepřové maso v hořčičné omáčce, šťouchané brambory** 165 Kč
-* **Smažený vepřová krkovice, šťouchané brambory nebo bramborový salát, citron** 175 Kč
+* **Smažená vepřová krkovice, šťouchané brambory nebo bramborový salát, citron** 175 Kč
 * **Hovězí znojemská pečeně a pečená jasmínová rýže** 185 Kč
 * **Grilovaná filírovaná vepřová panenka podávaná s marinovanou cuketou v pestu ze sušených rajčat a opečené brambory s jarní cibulkou** 195 Kč
 * **Hovězí guláš s cibulkou a beraním rohem, domácí houskový knedlík** 185 Kč
