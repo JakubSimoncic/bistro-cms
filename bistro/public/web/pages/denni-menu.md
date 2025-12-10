@@ -15,7 +15,7 @@ title: Denní menu CZ
 
 ## HLAVNÍ JÍDLA
 
-* **Kuřecí nudlička na červeném kari se zeleninou a kokosovým mlékem, pečená jasmínová rýže** 165 Kč
+* **Kuřecí nudličky na červeném kari se zeleninou a kokosovým mlékem, pečená jasmínová rýže** 165 Kč
 * **Pečený vepřový bůček na pivě a jihočeská lepenice** 165 Kč
 * **Segedínský guláš a domácí houskový knedlík** 165 Kč
 * **Mexické hovězí Burritos (tortilla plněná masem, fazolovou pastou, papričkami Jalapeños, čedarem, rýží, rajčaty a koriandrem) a zakysaná smetana** 185 Kč
