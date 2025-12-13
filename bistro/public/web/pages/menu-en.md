@@ -3,22 +3,22 @@ title: Denní menu - EN
 ---
 ## SPECIAL OFFER (soup + main course)
 
-* **MENU 1: Soup + Baked potatoes with smoked meat and eggs, pickles** 185 CZK
-* **MENU 2: Soup + Tomato sauce with beef meat and homemade dumplings** 205 CZK
+* **MENU 1: Soup + Chicken risotto with vegetables and topped with smoked cheese, pickles** 185 CZK
+* **MENU 2: Soup + Roasted pork side in beer and mashed potatoes** 185 CZK
 * 
 * **Pulled pork meat in ourur BBQ sauce, roasted potatoes and Coleslaw** 155 Kč
 
 ## SMALL SOUP FOR THE MAIN COURSE – 250ml
 
-* **Tripe soup** 35 CZK
-* **Mushroom cream with croutons** 35 CZK
+* **Old Bohemian garlic soup with cheese and croutons** 35 CZK
+* **Lentil soup with pepper sausage** 35 CZK
 
 ## MAIN COURSES
 
-* **Pork cheeks in wine and vegetables, mashed potatoes** 175 CZK
-* **Baked potatoes with smoked meat and eggs, pickles** 165 CZK
-* **Tomato sauce with beef meat and homemade dumplings** 185 CZK
-* **Mexican beef Burritos (minced meat, bean paste, rice, peppers Jalapeňos, cheddar, tomatoes and coriander) and sour cream** 185 CZK
+* **Chicken noodles in red curry with coconut milk and baked jasmine rice** 175 CZK
+* **Beef stroganoff noodles and baked jasmine rice** 185 CZK
+* **Chicken risotto with vegetables and topped with smoked cheese, pickles** 165 CZK
+* **Roasted pork side in beer and mashed potatoe** 165 CZK
 * **Beef goulash with onion and pepper, homemade dumplings** 185 CZK
 * **Fried chicken schnitzel, potato salad and lemon** 175 CZK
 * **Fried cheese, French Fries and Tartar Sauce** 175 CZK
@@ -26,6 +26,6 @@ title: Denní menu - EN
 
 ## LARGE SOUP ORDERED SEPARATELY – 500ml
 
-* **Hungarian bean soup with minced meat and sausage or mushroom cream with croutons** 75 CZK
+* **Hungarian bean soup with minced meat and sausage or lentil soup with pepper sausage** 75 CZK
 
-***Offer is valid on Saturday 13.12. from 10:00 until closing time or while stocks last.***
+***Offer is valid on Sunday 14.12. from 10:00 until closing time or while stocks last.***
