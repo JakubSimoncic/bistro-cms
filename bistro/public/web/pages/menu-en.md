@@ -4,7 +4,7 @@ title: Denní menu - EN
 ## SPECIAL OFFER (soup + main course)
 
 * **MENU 1: Soup + Chicken risotto with vegetables and topped with smoked cheese, pickles** 185 CZK
-* **MENU 2: Soup + Roasted pork side in beer and mashed potatoes** 185 CZK
+* **MENU 2: Soup + Roasted pork belly in beer and mashed potatoes** 185 CZK
 * 
 * **Pulled pork meat in ourur BBQ sauce, roasted potatoes and Coleslaw** 155 Kč
 
@@ -18,7 +18,7 @@ title: Denní menu - EN
 * **Chicken noodles in red curry with coconut milk and baked jasmine rice** 175 CZK
 * **Beef stroganoff noodles and baked jasmine rice** 185 CZK
 * **Chicken risotto with vegetables and topped with smoked cheese, pickles** 165 CZK
-* **Roasted pork side in beer and mashed potatoe** 165 CZK
+* **Roasted pork belly in beer and mashed potatoe** 165 CZK
 * **Beef goulash with onion and pepper, homemade dumplings** 185 CZK
 * **Fried chicken schnitzel, potato salad and lemon** 175 CZK
 * **Fried cheese, French Fries and Tartar Sauce** 175 CZK
