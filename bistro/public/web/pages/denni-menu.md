@@ -3,7 +3,7 @@ title: Denní menu CZ
 ---
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)
 
-* **MENU 1: Polévka + Záhorácký vepřový závitek a šťouchané brambory** 185 Kč
+* **MENU 1: Polévka + Záhorácký vepřový závitek a šťouchané brambory** 195 Kč
 * **MENU 2: Polévka + Zapečené smetanové brambory s kuřecím masem a sýrem, malý salátek** 185 Kč 
 * 
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek Coleslaw** 155 Kč
@@ -17,7 +17,7 @@ title: Denní menu CZ
 
 * **Svíčková na smetaně, domácí houskový knedlík a brusinkový terč** 185 Kč
 * **Špagety Carbonara (žloutek, pancetta, česnek a parmazán)** 185 Kč
-* **Záhorácký vepřový závitek a šťouchané brambory** 165 Kč
+* **Záhorácký vepřový závitek a šťouchané brambory** 175 Kč
 * **Zapečené smetanové brambory s kuřecím masem a sýrem, malý salátek** 165 Kč
 * **Hovězí guláš s cibulkou a beraním rohem, domácí houskový knedlík** 185 Kč
 * **Kuřecí řízek, bramborový salát a citron** 175 Kč
