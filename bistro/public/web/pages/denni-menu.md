@@ -10,7 +10,7 @@ title: Denní menu CZ
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
-* **Boršč se zakysanou smetanou** 35 Kč
+* **Frankfurtská polévka** 35 Kč
 * **Kukuřičný krém s kokosovým mlékem, smaženou tortillou a čedarem** 35 Kč
 
 ## HLAVNÍ JÍDLA
@@ -26,7 +26,7 @@ title: Denní menu CZ
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTATNĚ – 500ml
 
-* **Boršč se zakysanou smetanou nebo kukuřičný krém s kokosovým mlékem, smaženou tortillou a čedarem** 75 Kč
+* **Frankfurtská polévka nebo kukuřičný krém s kokosovým mlékem, smaženou tortillou a čedarem** 75 Kč
 
 
 ***Nabídka platí v pondělí 15.12. od 10:00 do zavírací hodiny nebo do vyprodání.***
