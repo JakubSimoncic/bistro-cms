@@ -18,7 +18,7 @@ title: Denní menu - EN
 * **Pork roast meat, stewed cabbage and potato dumplings** 165 CZK
 * **Grilled ground beef steak with English bacon and oxeye, roasted potatoes and tartar sauce** 175 CZK
 * **Lentil mashed, grilled pepper sausage, onion and pickles** 165 CZK
-* **"Svíčková"- Beef tenderloin in vegetable creamy sauce and homemade dumplings** 195 CZK
+* **"Svíčková"- Beef tenderloin in vegetable creamy sauce and homemade dumplings** 185 CZK
 * **Beef goulash with onion and pepper, homemade dumplings** 185 CZK
 * **Fried chicken schnitzel, potato salad and lemon** 175 CZK
 * **Fried cheese, French Fries and Tartar Sauce** 175 CZK
