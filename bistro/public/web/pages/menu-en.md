@@ -3,8 +3,8 @@ title: Denní menu - EN
 ---
 ## SPECIAL OFFER (soup + main course)
 
-* **MENU 1: Soup + Lentil mashed, grilled pepper sausage, onion and pickles** 185 CZK
-* **MENU 2: Soup + Roasted chicken thigh ala pheasant, stewed red cabbage and potato dumplings** 205 CZK
+* **MENU 1: Soup + Baked meatrolls from minced meat, steamed potatoes with chives, mustard and onion** 185 CZK
+* **MENU 2: Soup + Roasted chicken thigh ala pheasant, stewed red cabbage and potato dumplings** 185 CZK
 * 
 * **Pulled pork meat in ourur BBQ sauce, roasted potatoes and Coleslaw** 165 Kč
 
