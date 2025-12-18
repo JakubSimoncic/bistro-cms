@@ -17,8 +17,8 @@ title: Denní menu - EN
 
 * **Beef meat, meat sauce with bacon, eggs and pickles, baked jasmine rice** 185 CZK
 * **Czech potato gnocchi with smoked meat, cabbage and onion** 165 CZK
-* **Fried chicken cutlets in sesame breadcrumbs, mashed potatoes, herb dip, lemon** 175 CZK
 * **Chicken Kung-Pao and baked jasmine rice** 165 CZK
+* **Fried chicken cutlets in sesame breadcrumbs, mashed potatoes, herb dip, lemon** 175 CZK
 * **Beef goulash with onion and pepper, homemade dumplings** 185 CZK
 * **Fried chicken schnitzel, potato salad and lemon** 175 CZK
 * **Fried cheese, French Fries and Tartar Sauce** 175 CZK
