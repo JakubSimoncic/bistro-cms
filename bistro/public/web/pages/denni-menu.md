@@ -3,22 +3,22 @@ title: Denní menu CZ
 ---
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)
 
-* **MENU 1: Polévka + Čevabčiči, brambory vařené v páře s pažitkou, hořčice a cibulka** 195 Kč
-* **MENU 2: Polévka + Pečené kuřecí stehno ala bažant, dušené červené hlávkové zelí a bramborový knedlík** 185 Kč 
-* 
+* **MENU 1: Polévka + Smažené kuřecí řízečky v sezamové strouhance, šťouchané brambory, bylinkový dip, citron** 195 Kč
+* **MENU 2: Polévka + Kuřecí kung pao a pečená jasmínová rýže** 185 Kč 
+*
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek Coleslaw** 165 Kč
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
-* **Gulášová polévka** 35 Kč
+* **Jihočeská kulajda** 35 Kč
 * **Čočková polévka s paprikovou klobásou** 35 Kč
 
 ## HLAVNÍ JÍDLA
 
-* **Opečená sekaná a domácí bramborový salát** 155 Kč
-* **Čevabčiči, brambory vařené v páře s pažitkou, hořčice a cibulka** 175 Kč
-* **Pečené kuřecí stehno ala bažant, dušené červené hlávkové zelí a bramborový knedlík** 165 Kč
-* **Špagety s kuřecím masem, pancettou, česnekem, pórkem, pestem ze sušených rajčat a parmazánem** 185 Kč
+* **Rozlítaný španělský hovězí ptáček a pečená jasmínová rýže** 185 Kč
+* **Halušky s uzeným masem, zelím a cibulkou** 165 Kč
+* **Kuřecí kung pao a pečená jasmínová rýže** 165 Kč
+* **Smažené kuřecí řízečky v sezamové strouhance, šťouchané brambory, bylinkový dip, citron** 175 Kč
 * **Hovězí guláš s cibulkou a beraním rohem, domácí houskový knedlík** 185 Kč
 * **Kuřecí řízek, bramborový salát a citron** 175 Kč
 * **Smažený sýr, hranolky a tatarská omáčka** 175 Kč
@@ -26,7 +26,7 @@ title: Denní menu CZ
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTATNĚ – 500ml
 
-* **Gulášová polévka nebo čočková polévka s paprikovou klobásou** 75 Kč
+* **Jihočeská kulajda nebo čočková polévka s paprikovou klobásou** 75 Kč
 
 
-***Nabídka platí ve čtvrtek 18.12. od 10:00 do zavírací hodiny nebo do vyprodání.***
+***Nabídka platí v pátek 19.12. od 10:00 do zavírací hodiny nebo do vyprodání.***
