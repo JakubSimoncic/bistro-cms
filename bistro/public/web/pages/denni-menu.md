@@ -3,7 +3,7 @@ title: Denní menu CZ
 ---
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)
 
-* **MENU 1: Polévka + Smažené kuřecí řízečky v sezamové strouhance, šťouchané brambory, bylinkový dip, citron** 195 Kč
+* **MENU 1: Polévka + Halušky s uzeným masem, zelím a cibulkou** 185 Kč
 * **MENU 2: Polévka + Kuřecí kung-pao a pečená jasmínová rýže** 185 Kč 
 *
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek Coleslaw** 165 Kč
