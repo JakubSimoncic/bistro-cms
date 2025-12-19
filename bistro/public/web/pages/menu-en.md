@@ -3,7 +3,7 @@ title: Denní menu - EN
 ---
 ## SPECIAL OFFER (soup + main course)
 
-* **MENU 1: Soup + Fried chicken cutlets in sesame breadcrumbs, mashed potatoes, herb dip, lemon** 195 CZK
+* **MENU 1: Soup + Czech potato gnocchi with smoked meat, cabbage and onion** 185 CZK
 * **MENU 2: Soup + Chicken Kung-Pao and baked jasmine rice** 185 CZK
 * 
 * **Pulled pork meat in ourur BBQ sauce, roasted potatoes and Coleslaw** 165 Kč
