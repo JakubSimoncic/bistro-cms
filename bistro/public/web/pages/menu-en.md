@@ -16,7 +16,7 @@ title: Denní menu - EN
 ## MAIN COURSES
 
 * **Roasted homemade meat loaf and potato salad** 155 CZK
-* **Baked pork roll filled with cabbage, potato dumpling and meat gravy** 165 CZK
+* **Baked pork roll filled with cabbage, potato dumplings and meat gravy** 165 CZK
 * **Czech gnocchi with smoked meat, cabbage and fried onions** 165 CZK
 * **Beef meat, meat sauce with bacon, eggs and pickles, baked jasmine rice** 185 CZK
 * **Beef goulash with onion and pepper, homemade dumplings** 185 CZK
