@@ -3,8 +3,8 @@ title: Denní menu CZ
 ---
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)
 
-* **MENU 1: Polévka + Kuřecí nudličky na kari se zeleninou a pečená jasmínová rýže** 165 Kč
-* **MENU 2: Polévka + Selská veřová plec, dušené hlávkové červené zelí a domácí houskový knedlík** 165 Kč 
+* **MENU 1: Polévka + Kuřecí nudličky na kari se zeleninou a pečená jasmínová rýže** 185 Kč
+* **MENU 2: Polévka + Selská veřová plec, dušené hlávkové červené zelí a domácí houskový knedlík** 185 Kč 
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
