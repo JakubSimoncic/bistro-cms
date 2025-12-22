@@ -3,22 +3,22 @@ title: Denní menu - EN
 ---
 ## SPECIAL OFFER (soup + main course)
 
-* **MENU 1: Soup + Czech gnocchi with smoked meat, cabbage and fried onions** 185 CZK
-* **MENU 2: Soup + Beef meat, meat sauce with bacon, eggs and pickles, baked jasmine rice** 205 CZK
+* **MENU 1: Soup + Serbian pork risotto with cheese, pickles** 185 CZK
+* **MENU 2: Soup + Fried schnitzel from minced meat and cheese, mashed potatoes, pickles** 195 CZK
 * 
 * **Pulled pork meat in ourur BBQ sauce, roasted potatoes and Coleslaw** 165 Kč
 
 ## SMALL SOUP FOR THE MAIN COURSE – 250ml
 
-* **Corn cream with fried tortilla and cheddar cheese** 35 CZK
-* **Tripe soup** 35 CZK
+* **Fish cream soup with croutons** 35 CZK
+* **French creamy onion soup and parmesan toast** 35 CZK
 
 ## MAIN COURSES
 
-* **Roasted homemade meat loaf and potato salad** 155 CZK
-* **Baked pork roll filled with cabbage, potato dumplings and meat gravy** 165 CZK
-* **Czech gnocchi with smoked meat, cabbage and fried onions** 165 CZK
-* **Beef meat, meat sauce with bacon, eggs and pickles, baked jasmine rice** 185 CZK
+* **Pork meat with creamy pepper sauce and homemade dumplings** 165 CZK
+* **Serbian pork risotto with cheese, pickles** 165 CZK
+* **Fried schnitzel from minced meat and cheese, mashed potatoes, pickles** 175 CZK
+* **Spaghetti Aglio Olio e Peperoncino with parmesan cheese** 175 CZK
 * **Beef goulash with onion and pepper, homemade dumplings** 185 CZK
 * **Fried chicken schnitzel, potato salad and lemon** 175 CZK
 * **Fried cheese, French Fries and Tartar Sauce** 175 CZK
@@ -26,6 +26,6 @@ title: Denní menu - EN
 
 ## LARGE SOUP ORDERED SEPARATELY – 500ml
 
-* **Corn cream with fried tortilla and cheddar cheese or Tripe soup** 75 CZK
+* **Fish cream soup with croutons or French creamy onion soup and parmesan toast** 75 CZK
 
-***Offer is valid on Sunday 21.12. from 10:00 until closing time or while stocks last.***
+***Offer is valid on Monday 22.12. from 10:00 until closing time or while stocks last.***
