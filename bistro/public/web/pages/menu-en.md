@@ -16,7 +16,7 @@ title: Denní menu - EN
 * **Pork meat, creamy pepper sauce, homemade dumplings** 165 CZK
 * **Chicken curry noodles with vegetable and baked jasmine rice** 175 CZK
 * **Serbian pork risotto with cheese, pickles** 165 CZK
-* **Beef meat, beef sauce with bacon, eggs and pickles, baked jasmine rice** 195 CZK
+* **Beef meat, beef sauce with bacon, eggs and pickles, baked jasmine rice** 185 CZK
 * **Pulled pork meat in ourur BBQ sauce, roasted potatoes and Coleslaw** 165 Kč
 * **Beef goulash with onion and pepper, homemade dumplings** 195 CZK
 * **Fried chicken schnitzel, potato salad and lemon** 175 CZK
