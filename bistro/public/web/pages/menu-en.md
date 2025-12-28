@@ -15,7 +15,7 @@ title: Denní menu - EN
 
 * **Grilovaná vepřová pečeně, Jack Daliel's omáčka a opečené brambory** 175 Kč
 * **Vepřové na houbách a pečená jasmínová rýže** 165 Kč
-* **Moravský vrabec, dušené hlávkové bílé zelí, domácí bramborový knedlík** 165 Kč
+* **Moravský vrabec, dušené hlávkové bílé zelí a domácí bramborový knedlík** 165 Kč
 * **Špagety s kuřecím masem a omáčka z modrého sýra a smažená rukola** 175 Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek Coleslaw** 165 Kč
 * **Hovězí guláš s cibulkou a beraním rohem, domácí houskový knedlík** 195 Kč
