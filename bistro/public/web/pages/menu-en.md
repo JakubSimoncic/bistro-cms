@@ -4,7 +4,7 @@ title: Denní menu - EN
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)
 
 * **MENU 1: Polévka + Vepřové na houbách a pečená jasmínová rýže** 185 Kč
-* **MENU 2: Polévka + Moravský vrabec, dušené hlávkové bílé zelí a domácí bramborový knedlík** 195 Kč 
+* **MENU 2: Polévka + Moravský vrabec, dušené hlávkové bílé zelí a domácí bramborový knedlík** 185 Kč 
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
