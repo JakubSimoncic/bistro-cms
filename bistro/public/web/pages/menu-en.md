@@ -17,7 +17,7 @@ title: Denní menu - EN
 * **Czech potato gnocchi with smoked meat, cabbage and sautéed onions** 165 CZK
 * **Pork meat with creamy pepper sauce and fusilli** 165 CZK
 * **Baked pork meat, stewed red cabbage and a variety of dumplings** 175 CZK
-* **Pulled pork meat in ourur BBQ sauce, roasted potatoes and Coleslaw** 165 CZK
+* **Pulled pork meat in our BBQ sauce, roasted potatoes and Coleslaw** 165 CZK
 * **Beef goulash with onion and pepper, homemade dumplings** 195 CZK
 * **Fried chicken schnitzel, potato salad and lemon** 175 CZK
 * **Fried cheese, French Fries and Tartar Sauce** 175 CZK
