@@ -4,7 +4,7 @@ title: Denní menu - EN
 ## SPECIAL OFFER (soup + main course)
 
 * **MENU 1: Soup + Pork meat with mushroom sauce and baked jasmine rice** 185 CZK
-* **MENU 2: Soup + Baked pork meat, stewed white cabbage and homemade potato dumplings** 185 CZK
+* **MENU 2: Soup + Baked pork meat, stewed white cabbage and homemade potato dumplings** 195 CZK
 
 ## SMALL SOUP FOR THE MAIN COURSE – 250ml
 
@@ -13,9 +13,9 @@ title: Denní menu - EN
 
 ## MAIN COURSES
 
-* **Grilled pork meat, Jack Daliel's sauce and roasted potatoes** 175 CZK
+* **Grilled pork steak, Jack Daliel's sauce and roasted potatoes** 185 CZK
 * **Pork meat with mushroom sauce and baked jasmine rice** 165 CZK
-* **Baked pork meat, stewed white cabbage and homemade potato dumplings** 165 CZK
+* **Baked pork meat, stewed white cabbage and homemade potato dumplings** 175 CZK
 * **Spaghetti with chicken meat, blue cheese sauce and fried arugula** 175 CZK
 * **Pulled pork meat in our BBQ sauce, roasted potatoes and Coleslaw** 165 CZK
 * **Beef goulash with onion and pepper and homemade dumplings** 195 CZK
