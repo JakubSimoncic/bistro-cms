@@ -4,7 +4,7 @@ title: Denní menu CZ
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)
 
 * **MENU 1: Polévka + Vepřové na houbách a pečená jasmínová rýže** 185 Kč
-* **MENU 2: Polévka + Moravský vrabec, dušené hlávkové bílé zelí a domácí bramborový knedlík** 185 Kč 
+* **MENU 2: Polévka + Moravský vrabec, dušené hlávkové bílé zelí a domácí bramborový knedlík** 195 Kč 
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
@@ -13,9 +13,9 @@ title: Denní menu CZ
 
 ## HLAVNÍ JÍDLA
 
-* **Grilovaná vepřová pečeně, Jack Daliel's omáčka a opečené brambory** 175 Kč
+* **Grilovaná vepřová pečeně, Jack Daliel's omáčka a opečené brambory** 185 Kč
 * **Vepřové na houbách a pečená jasmínová rýže** 165 Kč
-* **Moravský vrabec, dušené hlávkové bílé zelí a domácí bramborový knedlík** 165 Kč
+* **Moravský vrabec, dušené hlávkové bílé zelí a domácí bramborový knedlík** 175 Kč
 * **Špagety s kuřecím masem a omáčka z modrého sýra a smažená rukola** 175 Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek Coleslaw** 165 Kč
 * **Hovězí guláš s cibulkou a beraním rohem, domácí houskový knedlík** 195 Kč
