@@ -1,30 +1,31 @@
 ---
 title: Denní menu - EN
 ---
-## SPECIAL OFFER (soup + main course)
+## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)
 
-* **MENU 1: Soup + Pork meat with creamy pepper sauce and fusilli** 185 CZK
-* **MENU 2: Soup + Baked pork meat, stewed red cabbage and a variety of dumplings** 195 CZK
+* **MENU 1: Polévka + Vepřové na houbách a pečená jasmínová rýže** 185 Kč
+* **MENU 2: Polévka + Moravský vrabec, dušené hlávkové bílé zelí a domácí bramborový knedlík** 195 Kč 
 
-## SMALL SOUP FOR THE MAIN COURSE – 250ml
+## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
-* **Cabbage soup with pepper sausage** 35 CZK
-* **Chicken cream with meat and potatoes** 35 CZK
+* **Gulášová polévka** 35 Kč
+* **Hovězí vývar s játrovou rýží a celestýnskými nudlemi** 35 Kč
 
-## MAIN COURSES
+## HLAVNÍ JÍDLA
 
-* **Roasted homemade meat loaf and potato salad** 165 CZK
-* **Czech potato gnocchi with smoked meat, cabbage and sautéed onions** 165 CZK
-* **Pork meat with creamy pepper sauce and fusilli** 165 CZK
-* **Baked pork meat, stewed red cabbage and a variety of dumplings** 175 CZK
-* **Pulled pork meat in our BBQ sauce, roasted potatoes and Coleslaw** 165 CZK
-* **Beef goulash with onion and pepper, homemade dumplings** 195 CZK
-* **Fried chicken schnitzel, potato salad and lemon** 175 CZK
-* **Fried cheese, French Fries and Tartar Sauce** 175 CZK
-* **Grilled stuffed tortilla of your choice and French Fries** 175 CZK
+* **Grilovaná vepřová pečeně, Jack Daliel's omáčka a opečené brambory** 175 Kč
+* **Vepřové na houbách a pečená jasmínová rýže** 165 Kč
+* **Moravský vrabec, dušené hlávkové bílé zelí, domácí bramborový knedlík** 165 Kč
+* **Špagety s kuřecím masem a omáčka z modrého sýra a smažená rukola** 175 Kč
+* **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek Coleslaw** 165 Kč
+* **Hovězí guláš s cibulkou a beraním rohem, domácí houskový knedlík** 195 Kč
+* **Kuřecí řízek, bramborový salát a citron** 175 Kč
+* **Smažený sýr, hranolky a tatarská omáčka** 175 Kč
+* **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 175 Kč
 
-## LARGE SOUP ORDERED SEPARATELY – 500ml
+## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTATNĚ – 500ml
 
-* **Cabbage soup with pepper sausage or Chicken cream with meat and potatoes** 75 CZK
+* **Gulášová polévka nebo hovězí vývar s játrovou rýží a celestýnskými nudlemi** 75 Kč
 
-***Offer is valid on Sunday 28.12. from 10:00 until closing time or while stocks last.***
+
+***Nabídka platí v pondělí 29.12. od 10:00 do zavírací hodiny nebo do vyprodání.***
