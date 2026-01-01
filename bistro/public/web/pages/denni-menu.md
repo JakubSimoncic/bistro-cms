@@ -17,7 +17,7 @@ title: Denní menu CZ
 * **Houbové halušky s kuřecím masem** 165 Kč
 * **Segedínský vepřový guláš a domácí houskový knedlík** 175 Kč
 * **Pikantní masová směs v bramboráku** 175 Kč
-* **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek Coleslaw** 165 Kč
+* **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek Coleslaw** 175 Kč
 * **Hovězí guláš s cibulkou a beraním rohem, domácí houskový knedlík** 195 Kč
 * **Kuřecí řízek, bramborový salát a citron** 185 Kč
 * **Smažený sýr, hranolky a tatarská omáčka** 185 Kč
