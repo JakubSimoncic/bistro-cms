@@ -9,7 +9,7 @@ title: Denní menu - EN
 ## SMALL SOUP FOR THE MAIN COURSE – 250ml
 
 * **Traditional Czech potato soup** 35 CZK
-* **Old Bohemian garlic soup with English bacon, croutons and cheese** 35 CZK
+* **Garlic soup with cheese and croutons** 35 CZK
 
 ## MAIN COURSES
 
