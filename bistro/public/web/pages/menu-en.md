@@ -24,7 +24,7 @@ title: Denní menu - EN
 * **Grilled wheat tortilla stuffed of your choice and French Fries** 175 CZK
 
 ## LARGE SOUDERED SEPARATELY – 500ml
-Lentil soup with sausage or Garlic soup with cheese and croutons** 75 CZK
+* **Lentil soup with sausage or Garlic soup with cheese and croutons** 75 CZK
 
 
 ***Offer is valid on Sunday 4.1. from 10:30 until closing time or until sold out.***
