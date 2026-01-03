@@ -14,7 +14,7 @@ title: Denní menu - EN
 ## MAIN COURSES
 
 * **Fried schnitzel from minced meat, mashed potatoes and pickles** 175 CZK
-* **Szeged pork goulash and homemade dumplings** 165 CZK
+* **Szeged pork goulash and homemade dumplings** 175 CZK
 * **Roasted pork knuckle, steamed spinach and a variety of dumplings** 175 CZK
 * **Chicken thigh, with creamy pepper sauce and pasta** 165 CZK
 * **Pulled pork meat in our BBQ sauce, roasted potatoes and Coleslaw** 175 CZK
