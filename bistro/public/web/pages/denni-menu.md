@@ -3,18 +3,18 @@ title: Denní menu CZ
 ---
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)
 
-* **MENU 1: Polévka + Srbské vepřové rizoto sypané sýrem, okurka** 185 Kč
-* **MENU 2: Polévka + Smažený holandský řízek, vařené brambory, hořčice a okurka** 195 Kč 
+* **MENU 1: Polévka + Pečené vepřové koleno, dušený listový špenát a variace knedlíků** 185 Kč
+* **MENU 2: Polévka + Kuřecí stehno na paprice a těstoviny** 185 Kč 
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
-* **Staročeská bramboračka** 35 Kč
+* **Čočková polévka s uzeninou** 35 Kč
 * **Česnečka se sýrem a krutony** 35 Kč
 
 ## HLAVNÍ JÍDLA
 
-* **Vepřové na houbách a těstoviny** 165 Kč
-* **Halušky s uzeným masem, zelím a cibulkou** 165 Kč
+* **Smažený holandský řízek, bramborová kaše a okurka** 165 Kč
+* **Segedínský guláš a domácí houskový knedlík** 165 Kč
 * **Srbské vepřové rizoto sypané sýrem, okurka** 165 Kč
 * **Smažený holandský řízek, vařené brambory, hořčice a okurka** 175 Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek Coleslaw** 175 Kč
@@ -25,7 +25,7 @@ title: Denní menu CZ
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTATNĚ – 500ml
 
-* **Staročeská bramboračka nebo česnečka se sýrem a krutony** 75 Kč
+* **Čočková polévka s uzeninou nebo česnečka se sýrem a krutony** 75 Kč
 
 
-***Nabídka platí v sobotu 3.1. od 10:30 do zavírací hodiny nebo do vyprodání.***
+***Nabídka platí v neděli 4.1. od 10:30 do zavírací hodiny nebo do vyprodání.***
