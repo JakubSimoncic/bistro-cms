@@ -13,10 +13,10 @@ title: Denní menu CZ
 
 ## HLAVNÍ JÍDLA
 
-* **Smažený holandský řízek, bramborová kaše a okurka** 165 Kč
+* **Smažený holandský řízek, bramborová kaše a okurka** 175 Kč
 * **Segedínský guláš a domácí houskový knedlík** 165 Kč
-* **Srbské vepřové rizoto sypané sýrem, okurka** 165 Kč
-* **Smažený holandský řízek, vařené brambory, hořčice a okurka** 175 Kč
+* **Pečené vepřové koleno, dušený listový špenát a variace knedlíků** 165 Kč
+* **Kuřecí stehno na paprice a těstoviny** 165 Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek Coleslaw** 175 Kč
 * **Hovězí guláš s cibulkou a beraním rohem, domácí houskový knedlík** 195 Kč
 * **Kuřecí řízek, bramborový salát a citron** 185 Kč
