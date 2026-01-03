@@ -13,7 +13,7 @@ title: Denní menu - EN
 
 ## MAIN COURSES
 
-* **Fried schnitzel from minced meat, mushed potatoes and pickles** 175 CZK
+* **Fried schnitzel from minced meat, mashed potatoes and pickles** 175 CZK
 * **Szeged pork goulash and homemade dumplings** 165 CZK
 * **Roasted pork knuckle, steamed spinach and a variety of dumplings** 175 CZK
 * **Chicken thigh, with creamy pepper sauce and pasta** 165 CZK
