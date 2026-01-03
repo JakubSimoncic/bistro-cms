@@ -24,6 +24,7 @@ title: Denní menu - EN
 * **Grilled wheat tortilla stuffed of your choice and French Fries** 175 CZK
 
 ## LARGE SOUDERED SEPARATELY – 500ml
+
 * **Lentil soup with sausage or Garlic soup with cheese and croutons** 75 CZK
 
 
