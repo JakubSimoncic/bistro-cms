@@ -4,7 +4,7 @@ title: Denní menu - EN
 ## SPECIAL OFFER (soup + main course)
 
 * **MENU 1: Soup + Roasted pork knuckle, steamed spinach and a variety of dumplings** 195 CZK
-* **MENU 2: Soup + Chicken thigh, with creamy pepper sauce and pasta** 185 CZK
+* **MENU 2: Soup + Baked chicken thigh with creamy pepper sauce and pasta** 185 CZK
 
 ## SMALL SOUP FOR THE MAIN COURSE – 250ml
 
@@ -13,10 +13,10 @@ title: Denní menu - EN
 
 ## MAIN COURSES
 
-* **Fried schnitzel from minced meat, boiled potatoes, mustard and pickles** 175 CZK
-* **Szeged goulash and homemade bread dumpling** 165 CZK
-* **Roasted pork knuckle, steamed spinach and a variety of dumplings** 165 CZK
-* **Chicken thigh, with creamy pepper sauce and pasta** 175 CZK
+* **Fried schnitzel from minced meat, boiled potatoes and pickles** 175 CZK
+* **Szeged pork goulash and homemade dumplings** 165 CZK
+* **Roasted pork knuckle, steamed spinach and a variety of dumplings** 175 CZK
+* **Chicken thigh, with creamy pepper sauce and pasta** 165 CZK
 * **Pulled pork meat in our BBQ sauce, roasted potatoes and Coleslaw** 175 CZK
 * **Beef goulash with onion and pepper and homemade dumplings** 195 CZK
 * **Fried chicken schnitzel, potato salad and lemon** 185 CZK
