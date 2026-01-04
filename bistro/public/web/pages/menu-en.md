@@ -3,20 +3,20 @@ title: Denní menu - EN
 ---
 ## SPECIAL OFFER (soup + main course)
 
-* **MENU 1: Soup + Roasted pork knuckle, steamed spinach and a variety of dumplings** 195 CZK
-* **MENU 2: Soup + Baked chicken thigh with creamy pepper sauce and pasta** 185 CZK
+* **MENU 1: Soup + Fried chicken breast stuffed with ham and cheese, mashed potatoes** 195 CZK
+* **MENU 2: Soup + Potato dumpling stuffed with smoked meat, cabbage, sautéed and fried onion** 185 CZK
 
 ## SMALL SOUP FOR THE MAIN COURSE – 250ml
 
+* **Triplet soup** 35 CZK
 * **Lentil soup with sausage** 35 CZK
-* **Garlic soup with cheese and croutons** 35 CZK
 
 ## MAIN COURSES
 
-* **Fried schnitzel from minced meat, mashed potatoes and pickles** 175 CZK
-* **Szeged pork goulash and homemade dumplings** 175 CZK
-* **Roasted pork knuckle, steamed spinach and a variety of dumplings** 175 CZK
-* **Chicken thigh, with creamy pepper sauce and pasta** 165 CZK
+* **Grilled camembert cheese, tartar sauce and sautéed potatoes with leek** 175 CZK
+* **Beef meat with creamy dill sauce and homemade dumplings** 185 CZK
+* **Fried chicken breast stuffed with ham and cheese, mashed potatoes** 175 CZK
+* **Potato dumpling stuffed with smoked meat, cabbage, sautéed and fried onion** 165 CZK
 * **Pulled pork meat in our BBQ sauce, roasted potatoes and Coleslaw** 175 CZK
 * **Beef goulash with onion and pepper and homemade dumplings** 195 CZK
 * **Fried chicken schnitzel, potato salad and lemon** 185 CZK
@@ -25,7 +25,7 @@ title: Denní menu - EN
 
 ## LARGE SOUDERED SEPARATELY – 500ml
 
-* **Lentil soup with sausage or Garlic soup with cheese and croutons** 75 CZK
+* **Triplet soup or Lentil soup with sausage** 75 CZK
 
 
-***Offer is valid on Sunday 4.1. from 10:30 until closing time or until sold out.***
+***Offer is valid on Monday 5.1. from 10:30 until closing time or until sold out.***
