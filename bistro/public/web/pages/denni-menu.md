@@ -15,8 +15,8 @@ title: Denní menu CZ
 
 * **Plněný bramborový knedlík uzeným masem, zelím a cibulkou, restovaná a vídeňská cibulka** 165 Kč
 * **Koprová omáčka s hovězím masem a domácí houskový knedlík** 185 Kč
-* **Vepřová roláda z bůčku plněná zelím, šťouchané brambory a jarní cibulkou** 175 Kč
-* **Kuřecí nudličky na červeném kari s kokosovým mlékem, pečená jasmínová rýže** 165 Kč
+* **Vepřová roláda z bůčku plněná zelím, šťouchané brambory a jarní cibulkou** 165 Kč
+* **Kuřecí nudličky na červeném kari s kokosovým mlékem, pečená jasmínová rýže** 175 Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek Coleslaw** 175 Kč
 * **Hovězí guláš s cibulkou a beraním rohem, domácí houskový knedlík** 195 Kč
 * **Kuřecí řízek, bramborový salát a citron** 185 Kč
