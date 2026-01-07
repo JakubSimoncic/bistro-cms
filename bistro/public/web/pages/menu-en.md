@@ -4,7 +4,7 @@ title: Denní menu - EN
 ## SPECIAL OFFER (soup + main course)
 
 * **MENU 1: Soup + Chicken livers with onion and baked jasmine rice** 185 CZK
-* **MENU 2: Soup + Beef meat with garlic, spinach and potato dumplings** 195 CZK
+* **MENU 2: Soup + Beef meat with garlic, spinach and potato dumplings** 205 CZK
 
 ## SMALL SOUP FOR THE MAIN COURSE – 250ml
 
