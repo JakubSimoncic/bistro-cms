@@ -3,20 +3,20 @@ title: Denní menu - EN
 ---
 ## SPECIAL OFFER (soup + main course)
 
-* **MENU 1: Soup + Fried meat cabage patty, mashed potatoes, pickles** 185 CZK
-* **MENU 2: Soup + Smoked pork meat, horseradish creamy sauce, homemade dumplings** 185 CZK
+* **MENU 1: Soup + Baked pasta with smoked meat and eggs, pickles** 185 CZK
+* **MENU 2: Soup + Baked rools from minced meat, mustard and onion, boiled potatoes** 195 CZK
 
 ## SMALL SOUP FOR THE MAIN COURSE – 250ml
 
-* **Cabbage soup with sausage** 35 CZK
-* **Frankfurt soup** 35 CZK
+* **Lentil soup with sausage** 35 CZK
+* **Pea cream with croutons** 35 CZK
 
 ## MAIN COURSES
 
+* **Chicken noodles with red curry and baked jasmine rice** 175 CZK
 * **Beef meat with garlic, spinach and potato dumplings** 185 CZK
-* **Fried meat cabage patty, mashed potatoes, pickles** 165 CZK
-* **Smoked pork meat, horseradish creamy sauce, homemade dumplings** 165 CZK
-* **Italian risotto with pork tenderloin, mushrooms, cream and Parmesan cheese** 195 CZK
+* **Baked pasta with smoked meat and eggs, pickles** 165 CZK
+* **Baked rools from minced meat, mustard and onion, boiled potatoes** 175 CZK
 * **Pulled pork meat in our BBQ sauce, roasted potatoes and Coleslaw** 175 CZK
 * **Beef goulash with onion and pepper and homemade dumplings** 195 CZK
 * **Fried chicken schnitzel, potato salad and lemon** 185 CZK
@@ -25,7 +25,7 @@ title: Denní menu - EN
 
 ## LARGE SOUDERED SEPARATELY – 500ml
 
-* **Cabbage soup with sausage or Frankfurt soup** 75 CZK
+* **Lentil soup with sausage or Pea cream with croutons** 75 CZK
 
 
-***Offer is valid on Friday 9.1. from 10:30 until closing time or until sold out.***
+***Offer is valid on Saturday 10.1. from 10:30 until closing time or until sold out.***
