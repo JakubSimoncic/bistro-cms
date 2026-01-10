@@ -3,7 +3,7 @@ title: Denní menu CZ
 ---
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)
 
-* **MENU 1: Polévka + Vepřová roláda plněná zelím, šťouchané brambory** 185 Kč
+* **MENU 1: Polévka + Pečená vepřová roláda plněná zelím, šťouchané brambory** 185 Kč
 * **MENU 2: Polévka + Kuřecí nudličky na červeném kari a pečená jasmínová rýže** 195 Kč 
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
@@ -15,7 +15,7 @@ title: Denní menu CZ
 
 * **Štěpánská vepřová plec a pečená jasmínová rýže** 175 Kč
 * **Vepřová líčka na víně a zelenině, šťouchané brambory** 175 Kč
-* **Vepřová roláda plněná zelím, šťouchané brambory** 165 Kč
+* **Pečená vepřová roláda plněná zelím, šťouchané brambory** 165 Kč
 * **Kuřecí nudličky na červeném kari a pečená jasmínová rýže** 175 Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek Coleslaw** 175 Kč
 * **Hovězí guláš s cibulkou a beraním rohem, domácí houskový knedlík** 195 Kč
