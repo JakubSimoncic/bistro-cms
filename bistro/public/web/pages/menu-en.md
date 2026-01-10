@@ -3,19 +3,20 @@ title: Denní menu - EN
 ---
 ## SPECIAL OFFER (soup + main course)
 
-* **MENU 1: Soup + Baked pasta with smoked meat and eggs, pickles** 185 CZK
-* **MENU 2: Soup + Chicken livers with onion and baked jasmine rice** 185 CZK
+* **MENU 1: Soup + Roasted pork roulade stuffed with cabbage, mashed potatoes** 185 CZK
+* **MENU 2: Soup + Chicken noodles with red curry and baked jasmine rice** 195 CZK
 
 ## SMALL SOUP FOR THE MAIN COURSE – 250ml
 
+* **Borsch soup with sour cream** 35 CZK
 * **Cabbage soup with sausage** 35 CZK
-* **Pea cream with croutons** 35 CZK
 
 ## MAIN COURSES
 
+* **Pork meat, meat souce with eggs and roasted jasmine rice** 165 CZK
+* **Pork cheeks in wine and vegetables, mashed potatoes** 175 CZK
+* **Roasted pork roulade stuffed with cabbage, mashed potatoes** 165 CZK
 * **Chicken noodles with red curry and baked jasmine rice** 175 CZK
-* **Baked pasta with smoked meat and eggs, pickles** 165 CZK
-* **Chicken livers with onion and baked jasmine rice** 165 CZK
 * **Pulled pork meat in our BBQ sauce, roasted potatoes and Coleslaw** 175 CZK
 * **Beef goulash with onion and pepper and homemade dumplings** 195 CZK
 * **Fried chicken schnitzel, potato salad and lemon** 185 CZK
@@ -24,7 +25,7 @@ title: Denní menu - EN
 
 ## LARGE SOUDERED SEPARATELY – 500ml
 
-* **Cabbage soup with sausage or Kulajda- dill creamy soup with potatoes and mushromms** 75 CZK
+* **Borsch soup with sour cream and cabbage soup with sausage** 75 CZK
 
 
-***Offer is valid on Saturday 10.1. from 10:30 until closing time or until sold out.***
+***Offer is valid on Sunday 11.1. from 10:30 until closing time or until sold out.***
