@@ -13,7 +13,7 @@ title: Denní menu CZ
 
 ## HLAVNÍ JÍDLA
 
-* **Štěpánská vepřová plec a pečená jasmínová rýže** 175 Kč
+* **Štěpánská vepřová plec a pečená jasmínová rýže** 165 Kč
 * **Vepřová líčka na víně a zelenině, šťouchané brambory** 175 Kč
 * **Pečená vepřová roláda plněná zelím, šťouchané brambory** 165 Kč
 * **Kuřecí nudličky na červeném kari a pečená jasmínová rýže** 175 Kč
