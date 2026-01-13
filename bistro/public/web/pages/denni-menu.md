@@ -3,7 +3,7 @@ title: Denní menu CZ
 ---
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)
 
-* **MENU 1: Polévka + Vepřové výpečky, dušené hlávkové zelí a bramborový knedlík** 195 Kč
+* **MENU 1: Polévka + Vepřové výpečky, dušené hlávkové zelí a bramborový knedlík** 185 Kč
 * **MENU 2: Polévka + Boloňské špagety s hovězím mletým masem, sypané parmazánem** 205 Kč 
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
