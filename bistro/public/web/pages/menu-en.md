@@ -15,7 +15,7 @@ title: Denní menu - EN
 
 * **Savoy pork schnitzel, mashed potatoes, cucumber** 185 CZK
 * **Szeged goulash, homemade bread dumpling** 185 CZK
-* **Teriyaki burger (pulled pork, wasabi sauce, mayonnaise, coleslaw with ginger, tomato), fries** 185 CZK
+* **Teriyaki burger (pulled pork, wasabi sauce, mayonnaise, coleslaw with ginger, tomato), fries** 215 CZK
 * **Spaghetti Bolognese with minced meat, parmesan** 185 CZK
 * **Pulled pork meat in our BBQ sauce, roasted potatoes and Coleslaw** 175 CZK
 * **Beef goulash with onion and pepper and homemade dumplings** 195 CZK
