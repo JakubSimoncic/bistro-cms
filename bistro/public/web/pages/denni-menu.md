@@ -15,7 +15,7 @@ title: Denní menu CZ
 
 * **Savojský vepřový řízek, šťouchané brambory, okurka** 185 Kč
 * **Segedínský guláš, domácí houskový knedlík** 185 Kč
-* **Burger Teriyaki (trhané vepřové maso, wasabi omáčka, majonéza, zelný salátek se zázvorem, rajče), hranolky** 185 Kč
+* **Burger Teriyaki (trhané vepřové maso, wasabi omáčka, majonéza, zelný salátek se zázvorem, rajče), hranolky** 215 Kč
 * **Boloňské špagety s mletým masem , parmazán** 185 Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek Coleslaw** 175 Kč
 * **Hovězí guláš s cibulkou a beraním rohem, domácí houskový knedlík** 195 Kč
