@@ -4,7 +4,7 @@ title: Denní menu - EN
 ## SPECIAL OFFER (soup + main course)
 
 * **MENU 1: Soup + Gnocchi (Halušky) with smoked meat, cabbage and onion** 185 CZK
-* **MENU 2: Soup + Spaghetti Bolognese with minced meat, parmesan** 205 CZK
+* **MENU 2: Soup + Sliced ​​pork meat with sauce, baked jasmine rice** 205 CZK
 
 ## SMALL SOUP FOR THE MAIN COURSE – 250ml
 
