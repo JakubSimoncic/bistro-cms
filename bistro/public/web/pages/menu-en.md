@@ -14,8 +14,8 @@ title: Denní menu - EN
 ## MAIN COURSES
 
 * **Gnocchi (Halušky) with smoked meat, cabbage and onion** 165 CZK
-* **Spicy pork mixture with vegetables, rice or fries** 185 CZK
-* **Teriyaki burger (pulled pork, wasabi sauce, mayonnaise, coleslaw with ginger, tomato), fries** 215 CZK
+* **Spicy pork mixture with vegetables, rice or French Fries** 185 CZK
+* **Teriyaki burger (pulled pork, wasabi sauce, mayonnaise, coleslaw with ginger, tomato), French Fries** 215 CZK
 * **Pork meat, sauce with eggs and cabbage, baked jasmine rice** 185 CZK
 * **Pulled pork meat in our BBQ sauce, roasted potatoes and Coleslaw** 175 CZK
 * **Beef goulash with onion and pepper and homemade dumplings** 195 CZK
