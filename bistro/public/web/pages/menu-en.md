@@ -25,7 +25,7 @@ title: Denní menu - EN
 
 ## LARGE SOUDERED SEPARATELY – 500ml
 
-* ** Borscht with sour cream or bean soup with sausage** 75 CZK
+* **Borscht with sour cream or bean soup with sausage** 75 CZK
 
 
 ***Offer is valid on saturday 17.1. from 10:00 until closing time or until sold out.***
