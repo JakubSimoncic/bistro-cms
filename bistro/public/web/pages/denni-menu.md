@@ -3,20 +3,20 @@ title: Denní menu CZ
 ---
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)
 
-* **MENU 1: Polévka + Halušky s uzeným masem, zelím a cibulkou** 185 Kč
-* **MENU 2: Polévka + Rozlítaný vepřový španělsky ptáček, pečená jasmínová rýže** 205 Kč 
+* **MENU 1: Polévka + Hovězí nudličky Stroganoff s jasmínovou rýží** 205 Kč
+* **MENU 2: Polévka + Segedínský vepřový guláš s domácím houskovým knedlíkem** 195 Kč 
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
-* **Staročeská bramboračka** 35 Kč
-* **Zelňačka s uzeninou** 35 Kč
+* **Boršč se zakysanou smetanou** 35 Kč
+* **Fazolová polévka s uzeninou** 35 Kč
 
 ## HLAVNÍ JÍDLA
 
-* **Halušky s uzeným masem, zelím a cibulkou** 165 Kč
-* **Pikantní vepřová směs se zeleninou, rýže nebo hranolky** 185 Kč
-* **Burger Teriyaki (trhané vepřové maso, wasabi omáčka, majonéza, zelný salátek se zázvorem, rajče), hranolky** 215 Kč
-* **Rozlítaný vepřový španělsky ptáček, pečená jasmínová rýže** 185 Kč
+* **Hovězí nudličky Stroganoff s jasmínovou rýží** 185 Kč
+* **Segedínský vepřový guláš s domácím houskovým knedlíkem** 175 Kč
+* **Těstoviny – Fusilli Bolognese s parmazánem** 185 Kč
+* **Vepřová líčka na víně a zelenině se šťouchaným bramborem** 175 Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek Coleslaw** 175 Kč
 * **Hovězí guláš s cibulkou a beraním rohem, domácí houskový knedlík** 195 Kč
 * **Kuřecí řízek, bramborový salát a citron** 185 Kč
@@ -25,7 +25,7 @@ title: Denní menu CZ
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTATNĚ – 500ml
 
-* **Staročeská bramboračka nebo zelňačka s uzeninou** 75 Kč
+* **Boršč se zakysanou smetanou nebo Fazolová polévka s uzeninou** 75 Kč
 
 
-***Nabídka platí ve pátek 16.1. od 10:30 do zavírací hodiny nebo do vyprodání.***
+***Nabídka platí v sobotu 17.1. od 10:00 do zavírací hodiny nebo do vyprodání.***
