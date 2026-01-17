@@ -13,10 +13,10 @@ title: Denní menu - EN
 
 ## MAIN COURSES
 
-* **Beef Stroganoff noodles with jasmine rice** 185 CZK
+* **Spicy pork noodles with vegetables and french fies* 175 CZK
 * **Potato goulash with sausage and homemade sourdough bread** 165 CZK
 * **Roast pork, stewed sauerkraut, potato dumpling**175 CZK
-* **Spicy pork noodles with vegetables and jasmine rice** 175 CZK
+* **Pork noodles filled with sauce, bacon, pickled cucumbers, sausage, and eggs and jasmine rice** 175 CZK
 * **Pulled pork meat in our BBQ sauce, roasted potatoes and Coleslaw** 175 CZK
 * **Beef goulash with onion and pepper and homemade dumplings** 195 CZK
 * **Fried chicken schnitzel, potato salad and lemon** 185 CZK
