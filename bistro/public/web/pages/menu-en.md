@@ -13,7 +13,7 @@ title: Denní menu - EN
 
 ## MAIN COURSES
 
-* **Spicy pork noodles with vegetables and french fies* 175 CZK
+* **Spicy pork noodles with vegetables and french fies** 175 CZK
 * **Potato goulash with sausage and homemade sourdough bread** 165 CZK
 * **Roast pork, stewed sauerkraut, potato dumpling**175 CZK
 * **Pork noodles filled with sauce, bacon, pickled cucumbers, sausage, and eggs and jasmine rice** 175 CZK
