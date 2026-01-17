@@ -4,7 +4,7 @@ title: Denní menu CZ
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)
 
 * **MENU 1: Polévka + Vepřové výpečky, dušené kysané zelí, bramborový knedlík** 195 Kč
-* **MENU 2: Polévka + Buřtguláš s domácím kváskovým chlebem ** 185 Kč 
+* **MENU 2: Polévka + Buřtguláš s domácím kváskovým chlebem** 185 Kč 
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
