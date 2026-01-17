@@ -3,13 +3,13 @@ title: Denní menu - EN
 ---
 ## SPECIAL OFFER (soup + main course)
 
-* **MENU 1: Soup + Beef Stroganoff noodles with jasmine rice ** 205 CZK
-* **MENU 2: Soup + Szeged pork goulash with homemade bread dumplings ** 195 CZK
+* **MENU 1: Soup + Beef Stroganoff noodles with jasmine rice** 205 CZK
+* **MENU 2: Soup + Szeged pork goulash with homemade bread dumplings** 195 CZK
 
 ## SMALL SOUP FOR THE MAIN COURSE – 250ml
 
-* ** Borscht with sour cream** 35 CZK
-* ** Bean soup with sausage** 35 CZK
+* **Borscht with sour cream** 35 CZK
+* **Bean soup with sausage** 35 CZK
 
 ## MAIN COURSES
 
