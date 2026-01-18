@@ -1,31 +1,31 @@
 ---
 title: Denní menu CZ
 ---
-### SPECIAL OFFER (soup + main course)
+## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)
 
-* **MENU 1: Soup + Chicken risotto with vegetables served with Gouda cheese, pickled cucumber** 195 CZK
-* **MENU 2: Soup + Homemade meatloaf, mashed potatoes, cabbage salad** 195 CZK
+* **MENU 1: Polévka + Kuřecí rizoto se zeleninou sypané sýrem goudou, kyselá okurka** 195 Kč
+* **MENU 2: Polévka + Domácí sekaná s máslovou bramborovou kaší, zelný salátek** 195 Kč 
 
-## SMALL SOUP FOR THE MAIN COURSE – 250ml
+## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
-* **Tripe soup** 35 CZK
-* ** French onion soup with parmesan croutons** 35 CZK
+* **Dršťková polévka** 35 Kč
+* **Francouzská cibulačka s parmazánovým toustem** 35 Kč
 
-## MAIN COURSES
+## HLAVNÍ JÍDLA
 
-* **Chicken risotto with vegetables served with Gouda cheese, pickled cucumber** 175 CZK
-* **Homemade meatloaf, mashed potatoes, cabbage salad** 175 CZK
-* **Beef sirloin in cream sauceů ´´Svíčková“, bread dumpling**195 CZK
-* **Roasted gnocchi with pancetta, chicken, dried tomatoes and leeks** 175 CZK
-* **Pulled pork meat in our BBQ sauce, roasted potatoes and Coleslaw** 175 CZK
-* **Beef goulash with onion and pepper and homemade dumplings** 195 CZK
-* **Fried chicken schnitzel, potato salad and lemon** 185 CZK
-* **Fried cheese, French Fries and Tartar Sauce** 185 CZK
-* **Grilled wheat tortilla stuffed of your choice and French Fries** 175 CZK
+* **Kuřecí rizoto se zeleninou sypané sýrem goudou, kyselá okurka** 175 Kč
+* **Domácí sekaná s máslovou bramborovou kaší, zelný salátek** 175 Kč
+* **Hovězí svíčková na smetaně s houskovým knedlíkem, brusinkový terč** 185 Kč
+* **Restované halušky s pancettou, kuřecím masem, sušenými rajčaty a pórkem** 175 Kč
+* **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek Coleslaw** 175 Kč
+* **Hovězí guláš s cibulkou a beraním rohem, domácí houskový knedlík** 195 Kč
+* **Kuřecí řízek, bramborový salát a citron** 185 Kč
+* **Smažený sýr, hranolky a tatarská omáčka** 185 Kč
+* **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 175 Kč
 
-## LARGE SOUDERED SEPARATELY – 500ml
+## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTATNĚ – 500ml
 
-* **Tripe soup or French onion soup with parmesan croutons** 75 CZK
+* ** Dršťková polévka nebo Francouzská cibulačka s parmazánovým toustem** 75 Kč
 
 
-***Offer is valid on Monday 19.1. from 10:30 until closing time or until sold out.***
+***Nabídka platí v pondělí 19.1. od 10:30 do zavírací hodiny nebo do vyprodání.***
