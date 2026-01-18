@@ -3,20 +3,20 @@ title: Denní menu CZ
 ---
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)
 
-* **MENU 1: Polévka + Vepřové výpečky, dušené kysané zelí, bramborový knedlík** 195 Kč
-* **MENU 2: Polévka + Buřtguláš s domácím kváskovým chlebem** 185 Kč 
+* **MENU 1: Polévka + Kuřecí rizoto se zeleninou sypané sýrem goudou, kyselá okurka** 195 Kč
+* **MENU 2: Polévka + Domácí sekaná s máslovou bramborovou kaší, zelný salátek** 195 Kč 
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
-* **Bramborová polévka** 35 Kč
-* **Kapustová polévka s klobásou** 35 Kč
+* **Dršťková polévka** 35 Kč
+* **Francouzská cibulačka s parmazánovým toustem** 35 Kč
 
 ## HLAVNÍ JÍDLA
 
-* **Pikantní vepřová směs s hranolky** 175 Kč
-* **Buřtguláš s domácím kváskovým chlebem** 165 Kč
-* **Vepřové výpečky, dušené kysané zelí, bramborový knedlík** 175 Kč
-* **Vepřový rozlítaný španělský ptáček s jasmínovou rýží** 175 Kč
+* **Kuřecí rizoto se zeleninou sypané sýrem goudou, kyselá okurka** 175 Kč
+* **Domácí sekaná s máslovou bramborovou kaší, zelný salátek** 175 Kč
+* **Hovězí svíčková na smetaně s houskovým knedlíkem, brusinkový terč** 185 Kč
+* **Restované halušky s pancettou, kuřecím masem, sušenými rajčaty a pórkem** 175 Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek Coleslaw** 175 Kč
 * **Hovězí guláš s cibulkou a beraním rohem, domácí houskový knedlík** 195 Kč
 * **Kuřecí řízek, bramborový salát a citron** 185 Kč
@@ -25,7 +25,7 @@ title: Denní menu CZ
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTATNĚ – 500ml
 
-* **Bramborová polévka nebo Kapustová polévka s klobásou** 75 Kč
+* ** Dršťková polévka nebo Francouzská cibulačka s parmazánovým toustem** 75 Kč
 
 
-***Nabídka platí v neděli 18.1. od 10:00 do zavírací hodiny nebo do vyprodání.***
+***Nabídka platí v pondělí 19.1. od 10:30 do zavírací hodiny nebo do vyprodání.***
