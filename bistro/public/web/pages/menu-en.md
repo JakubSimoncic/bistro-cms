@@ -3,20 +3,20 @@ title: Denní menu - EN
 ---
 ## SPECIAL OFFER (soup + main course)
 
-* **MENU 1: Soup + Roast pork, stewed sauerkraut, potato dumpling** 195 CZK
-* **MENU 2: Soup + Potato goulash with sausage and homemade sourdough bread** 185 CZK
+* **MENU 1: Soup + Chicken risotto with vegetables served with Gouda cheese, pickled cucumber** 195 CZK
+* **MENU 2: Soup + Homemade meatloaf, mashed potatoes, cabbage salad** 195 CZK
 
 ## SMALL SOUP FOR THE MAIN COURSE – 250ml
 
-* **Potato soup** 35 CZK
-* **Kale soup with sousage** 35 CZK
+* **Tripe soup** 35 CZK
+* ** French onion soup with parmesan croutons** 35 CZK
 
 ## MAIN COURSES
 
-* **Spicy pork noodles with vegetables and french fies** 175 CZK
-* **Potato goulash with sausage and homemade sourdough bread** 165 CZK
-* **Roast pork, stewed sauerkraut, potato dumpling**175 CZK
-* **Pork noodles filled with sauce, bacon, pickled cucumbers, sausage, and eggs and jasmine rice** 175 CZK
+* **Chicken risotto with vegetables served with Gouda cheese, pickled cucumber** 175 CZK
+* **Homemade meatloaf, mashed potatoes, cabbage salad** 175 CZK
+* **Beef sirloin in cream sauceů ´´Svíčková“, bread dumpling**195 CZK
+* **Roasted gnocchi with pancetta, chicken, dried tomatoes and leeks** 175 CZK
 * **Pulled pork meat in our BBQ sauce, roasted potatoes and Coleslaw** 175 CZK
 * **Beef goulash with onion and pepper and homemade dumplings** 195 CZK
 * **Fried chicken schnitzel, potato salad and lemon** 185 CZK
@@ -25,7 +25,7 @@ title: Denní menu - EN
 
 ## LARGE SOUDERED SEPARATELY – 500ml
 
-* **Potato soup or Kale soup with sausage** 75 CZK
+* **Tripe soup or French onion soup with parmesan croutons** 75 CZK
 
 
-***Offer is valid on Sunday 18.1. from 10:00 until closing time or until sold out.***
+***Offer is valid on Monday 19.1. from 10:30 until closing time or until sold out.***
