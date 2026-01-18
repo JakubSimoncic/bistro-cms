@@ -9,7 +9,7 @@ title: Denní menu - EN
 ## SMALL SOUP FOR THE MAIN COURSE – 250ml
 
 * **Tripe soup** 35 CZK
-* ** French onion soup with parmesan croutons** 35 CZK
+* **French onion soup with parmesan croutons** 35 CZK
 
 ## MAIN COURSES
 
