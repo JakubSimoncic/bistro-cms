@@ -9,7 +9,7 @@ title: Denní menu - EN
 ## SMALL SOUP FOR THE MAIN COURSE – 250ml
 
 * **Tripe soup** 35 CZK
-* ** Frankfurt soup** 35 CZK
+* **Frankfurt soup** 35 CZK
 
 ## MAIN COURSES
 
@@ -23,7 +23,7 @@ title: Denní menu - EN
 * **Fried cheese, French Fries and Tartar Sauce** 185 CZK
 * **Grilled wheat tortilla stuffed of your choice and French Fries** 175 CZK
 
-## LARGE SOUO ORDERED SEPARATELY – 500ml
+## LARGE SOUP ORDERED SEPARATELY – 500ml
 
 * **Tripe soup or Frankfurt soup** 75 CZK
 
