@@ -3,7 +3,7 @@ title: Denní menu - EN
 ---
 ## SPECIAL OFFER (soup + main course)
 
-* **MENU 1: Soup + Baked potatoes with smoked meat and pickles** 185 CZK
+* **MENU 1: Soup + Baked potatoes with smoked meat and eggs, pickles** 185 CZK
 * **MENU 2: Soup + Pork meat with mushrooms sauce, roasted jasmine rice** 195 CZK
 
 ## SMALL SOUP FOR THE MAIN COURSE – 250ml
@@ -13,10 +13,10 @@ title: Denní menu - EN
 
 ## MAIN COURSES
 
-* **Baked potatoes with smoked meat and pickles** 165 CZK
+* **Baked potatoes with smoked meat and eggs, pickles** 165 CZK
 * **Pork meat with mushrooms sauce, roasted jasmine rice** 175 CZK
 * **Roasted pork cheeks in beer and rosemary with mashed potatoes** 185 CZK
-* **Bacon dumplings with stewed sauerkraut and fried onion** 165 CZK
+* **Bacon dumpling with stewed sauerkraut and fried onion** 165 CZK
 * **Pulled pork meat in our BBQ sauce, roasted potatoes and Coleslaw** 175 CZK
 * **Beef goulash with onion and pepper and homemade dumplings** 195 CZK
 * **Fried chicken schnitzel, potato salad and lemon** 185 CZK
