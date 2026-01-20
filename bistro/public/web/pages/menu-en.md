@@ -3,20 +3,20 @@ title: Denní menu - EN
 ---
 ## SPECIAL OFFER (soup + main course)
 
-* **MENU 1: Soup + Roasted Czech ´´jitrnice“ with boiled potatoes and sauerkraut** 185 CZK
-* **MENU 2: Soup + Beef sirloin in cream sauce ´´Svíčková“, bread dumpling** 215 CZK
+* **MENU 1: Soup + Baked potatoes with smoked meat and pickles** 185 CZK
+* **MENU 2: Soup + Pork meat with mushrooms sauce, roasted jasmine rice** 215 CZK
 
 ## SMALL SOUP FOR THE MAIN COURSE – 250ml
 
-* **Tripe soup** 35 CZK
-* **Frankfurt soup** 35 CZK
+* **Cabbage soup with sausage** 35 CZK
+* **Meat broth with vegetables and frittata noodles** 35 CZK
 
 ## MAIN COURSES
 
-* **Roasted Czech ´´jitrnice“ with boiled potatoes and sauerkraut** 165 CZK
-* **Beef sirloin in cream sauce ´´Svíčková“, bread dumpling** 195 CZK
-* **Pork shoulder in mushroom sauce with jasmine rice** 175 CZK
-* **Spaghetti Carbonara (yolk, pancetta, garlic), parmesan** 185 CZK
+* **Baked potatoes with smoked meat and pickles** 165 CZK
+* **Pork meat with mushrooms sauce, roasted jasmine rice** 195 CZK
+* **Roasted pork cheeks in beer and rosemary with mashed potatoes** 175 CZK
+* **Bacon dumplings with stewed sauerkraut and fried onion** 185 CZK
 * **Pulled pork meat in our BBQ sauce, roasted potatoes and Coleslaw** 175 CZK
 * **Beef goulash with onion and pepper and homemade dumplings** 195 CZK
 * **Fried chicken schnitzel, potato salad and lemon** 185 CZK
@@ -25,7 +25,7 @@ title: Denní menu - EN
 
 ## LARGE SOUP ORDERED SEPARATELY – 500ml
 
-* **Tripe soup or Frankfurt soup** 75 CZK
+* **Cabbage soup with sausage or Meat broth with vegetables and frittata noodles** 75 CZK
 
 
-***Offer is valid on Thuesday 20.1. from 10:30 until closing time or until sold out.***
+***Offer is valid on Wednesday 21.1. from 10:30 until closing time or until sold out.***
