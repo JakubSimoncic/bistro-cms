@@ -25,7 +25,7 @@ title: Denní menu CZ
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTATNĚ – 500ml
 
-* **Dršťková polévka nebo Frankfurtská polévka** 75 Kč
+* **Valašská kyselice s uzeninou nebo Masový vývar se zeleninou a fritátovými nudlemi** 75 Kč
 
 
-***Nabídka platí v úterý 20.1. od 10:30 do zavírací hodiny nebo do vyprodání.***
+***Nabídka platí ve středu 21.1. od 10:30 do zavírací hodiny nebo do vyprodání.***
