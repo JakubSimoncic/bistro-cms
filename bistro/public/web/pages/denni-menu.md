@@ -4,7 +4,7 @@ title: Denní menu CZ
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)
 
 * **MENU 1: Polévka + Opečená jitrnice s vařeným bramborem a kysaným zelím** 185 Kč
-* **MENU 2: Polévka + Hovězí svíčková na smetaně s houskovým knedlíkem, brusinkový terč** 215 Kč 
+* **MENU 2: Polévka + Hovezí svíčková na smetaně s houskovým knedlíkem, brusinkový terč** 215 Kč 
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
