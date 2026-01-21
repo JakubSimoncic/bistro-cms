@@ -1,7 +1,7 @@
 ---
 title: Denní menu - EN
 ---
-
+## SPECIAL OFFER (soup + main course)
 
 * **MENU 1: Soup + Fried chicken drumsticks in cornflakes breadcrumbs, baked potatoes with onions and BBQ mayonnaise** 195 CZK
 * **MENU 2: Soup + Homemade bacon dumpling, stewed sauerkraut and Vienna onion** 185 CZK
