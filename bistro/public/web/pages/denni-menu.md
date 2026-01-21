@@ -25,7 +25,7 @@ title: Denní menu CZ
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTATNĚ – 500ml
 
-* ** Hrachová s uzeninou nebo valašská kyselice** 75 Kč
+* **Hrachová s uzeninou nebo valašská kyselice** 75 Kč
 
 
 ***Nabídka platí ve čtvrtek 22.1. od 10:30 do zavírací hodiny nebo do vyprodání.***
