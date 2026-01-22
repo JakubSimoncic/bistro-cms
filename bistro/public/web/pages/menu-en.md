@@ -9,7 +9,7 @@ title: Denní menu - EN
 ## SMALL SOUP FOR THE MAIN COURSE – 250ml
 
 * **Pea soup with sausage and bread croutons** 35 CZK
-* **Wallachian sourdough** 35 CZK
+* **Cabbage soup with sausage** 35 CZK
 
 ## MAIN COURSES
 
@@ -25,7 +25,7 @@ title: Denní menu - EN
 
 ## LARGE SOUP ORDERED SEPARATELY – 500ml
 
-* **Pea soup with sausage or Wallachian sour soup** 75 CZK
+* **Pea soup with sausage or Cabbage soup with sausage** 75 CZK
 
 ***Offer valid on Thursday 22.1. from 10:30 until closing time or until sold out.***
 
