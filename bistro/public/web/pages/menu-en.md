@@ -3,7 +3,7 @@ title: Denní menu - EN
 ---
 ## SPECIAL OFFER (soup + main course)
 
-* **MENU 1: Soup + Chicken risotto with vegetables, sprinkled with cheese, pickles** 185 CZK
+* **MENU 1: Soup + Chicken risotto with vegetables, cheese and pickles** 185 CZK
 * **MENU 2: Soup + Fried Dutch schnitzel with boiled potato and pickles** 195 CZK
 
 ## SMALL SOUP WITH MAIN COURSE – 250ml
@@ -16,7 +16,7 @@ title: Denní menu - EN
 * **Beef meat with sauce (egg, pickles and sausage) and jasmine rice** 185 CZK
 * **Braised Pork Shoulder with Carrots, Mashed Potatoes with Chives** 175 CZK
 * **Fried Dutch schnitzel with boiled potato and sour cucumber** 175 CZK
-* **Chicken risotto with vegetables, sprinkled with cheese, pickles** 165 CZK
+* **Chicken risotto with vegetables, cheese and pickles** 165 CZK
 * **Pulled pork in our BBQ sauce, roasted potatoes and Coleslaw** 175 CZK
 * **Beef goulash with onion and lamb's horn, homemade bread dumpling** 195 CZK
 * **Chicken schnitzel, potato salad and lemon** 185 CZK
