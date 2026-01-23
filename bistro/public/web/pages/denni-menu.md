@@ -3,20 +3,20 @@ title: Denní menu CZ
 ---
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)
 
-* **MENU 1: Polévka + Dušená vepřová plec v mrkvi, šťouchané brambory s pažitkou** 195 Kč
-* **MENU 2: Polévka + Selská vepřová pečeně, listový špenát, bramborový knedlík** 195 Kč 
+* **MENU 1: Polévka + Drůbeží rizoto se zeleninou, sypané sýrem, kyselá okurka** 185 Kč
+* **MENU 2: Polévka + Smažený holandský řízek s vařeným bramborem a kyselou okurkou** 195 Kč 
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
-* **Hrachová polévka s uzeninou a chlebovými krutony** 35 Kč
-* **Masový vývar se zeleninou a fritátovými nudlemi** 35 Kč
+* **Zelná s paprikovou klobásou** 35 Kč
+* **Francouzská cibulačka s parmazánovým toastem** 35 Kč
 
 ## HLAVNÍ JÍDLA
 
-* **Dušená vepřová plec v mrkvi, vařený brambor s pažitkou** 175 Kč
-* **Selská vepřová pečeně, listový špenát, bramborový knedlík** 175 Kč
-* **Smažený holandský řízek, vařené brambory s pažitkou, kyselá okurka** 175 Kč
-* **Špagety s kuřecím masem, hříbky, smetanou a parmazánem** 185 Kč
+* **Rozlítaný španělský ptáček (hovězí) s pečenou jasmínovou rýží** 185 Kč
+* **Dušená vepřová plec v mrkvi s vařeným bramborem** 175 Kč
+* **Smažený holandský řízek s vařeným bramborem a kyselou okurkou** 175 Kč
+* **Drůbeží rizoto se zeleninou, sypané sýrem, kyselá okurka** 165 Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek Coleslaw** 175 Kč
 * **Hovězí guláš s cibulkou a beraním rohem, domácí houskový knedlík** 195 Kč
 * **Kuřecí řízek, bramborový salát a citron** 185 Kč
@@ -25,8 +25,8 @@ title: Denní menu CZ
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTATNĚ – 500ml
 
-* ** Hrachová s uzeninou nebo masový vývar** 75 Kč
+* **Zelná s paprikovou klobásou nebo Francouzská cibulačka** 75 Kč
 
 
-***Nabídka platí v pátek 23.1. od 10:30 do zavírací hodiny nebo do vyprodání.***
+***Nabídka platí v sobotu 24.1. od 10:30 do zavírací hodiny nebo do vyprodání.***
 
