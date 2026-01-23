@@ -13,7 +13,7 @@ title: Denní menu CZ
 
 ## HLAVNÍ JÍDLA
 
-* **Rozlítaný španělský ptáček (hovězí) s pečenou jasmínovou rýží** 185 Kč
+* **Rozlítaný hovězí španělský ptáček s pečenou jasmínovou rýží** 185 Kč
 * **Dušená vepřová plec v mrkvi s vařeným bramborem** 175 Kč
 * **Smažený holandský řízek s vařeným bramborem a kyselou okurkou** 175 Kč
 * **Drůbeží rizoto se zeleninou, sypané sýrem, kyselá okurka** 165 Kč
