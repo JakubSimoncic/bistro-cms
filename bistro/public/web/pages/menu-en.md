@@ -15,7 +15,7 @@ title: Denní menu - EN
 
 * **Beef meat with sauce (egg, pickles and sausage) and jasmine rice** 185 CZK
 * **Braised Pork Shoulder with Carrots, Mashed Potatoes with Chives** 175 CZK
-* **Fried Dutch schnitzel with boiled potato and sour cucumber** 175 CZK
+* **Fried Dutch schnitzel with boiled potato and pickles** 175 CZK
 * **Chicken risotto with vegetables, cheese and pickles** 165 CZK
 * **Pulled pork in our BBQ sauce, roasted potatoes and Coleslaw** 175 CZK
 * **Beef goulash with onion and lamb's horn, homemade bread dumpling** 195 CZK
