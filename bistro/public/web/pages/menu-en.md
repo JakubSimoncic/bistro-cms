@@ -9,7 +9,7 @@ title: Denní menu - EN
 ## SMALL SOUP WITH MAIN COURSE – 250ml
 
 * **Pea Soup with Sausage and Bread Croutons** 35 CZK
-* **Meat Broth with Vegetables and Egg Noodles** 35 CZK
+* **Meat Broth with Vegetables and fried Noodles** 35 CZK
 
 ## MAIN DISHES
 
