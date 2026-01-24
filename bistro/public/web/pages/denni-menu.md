@@ -14,9 +14,9 @@ title: Denní menu CZ
 ## HLAVNÍ JÍDLA
 
 * **Drůbeží rizoto se zeleninou, sypané sýrem, kyselá okurka** 165 Kč
-* **Vepřová plec s špenátem, variace knedlíku (karlovarský a houskový) ** 175 Kč
+* **Vepřová plec s špenátem, variace knedlíku (karlovarský a houskový)** 175 Kč
 * **Smažený holandský řízek, šťouchané brambory, kysela okurka** 175 Kč
-* **Vepřové líčka na pivě a rozmarýnu, šťouchané brambory ** 175 Kč
+* **Vepřové líčka na pivě a rozmarýnu, šťouchané brambory** 175 Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek Coleslaw** 175 Kč
 * **Hovězí guláš s cibulkou a beraním rohem, domácí houskový knedlík** 195 Kč
 * **Kuřecí řízek, bramborový salát a citron** 185 Kč
