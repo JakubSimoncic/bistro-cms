@@ -13,7 +13,7 @@ title: Denní menu CZ
 
 ## HLAVNÍ JÍDLA
 
-* **Smažený hermelín, plněný šunkou, vařené brambory, tatarská omáčka** 175 Kč
+* **Smažený hermelín plněný šunkou, vařené brambory, tatarská omáčka** 175 Kč
 * **Hovězí rajská pečeně, domácí houskový knedlík** 185 Kč
 * **Cmunda po kaplicku (domácí bramborák s uzeným masem a zelím)** 185 Kč
 * **Špagety aglio olio e peperoncino, parmazán** 185 Kč
