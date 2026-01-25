@@ -3,20 +3,20 @@ title: Denní menu - EN
 ---
 ## SPECIAL OFFER (soup + main course)
 
-* **MENU 1: Soup + Poultry risotto with vegetables, cheese and pickles** 185 CZK
-* **MENU 2: Soup + Fried Dutch schnitzel with boiled potato and pickles** 195 CZK
+* **MENU 1: Soup + Fried Camembert, stuffed with ham, boiled potatoes, tartar sauce** 195 CZK
+* **MENU 2: Soup + Roast beef with tomato sauce, homemade bread dumplings** 205 CZK
 
 ## SMALL SOUP WITH MAIN COURSE – 250ml
 
-* **Cabbage with pepper sausage** 35 CZK
-* **Tripe soup** 35 CZK
+* **Goulash soup** 35 CZK
+* **Leek cream soup with croutons** 35 CZK
 
 ## MAIN DISHES
 
-* **Poultry risotto with vegetables, cheese and pickles** 165 CZK
-* **Pork shoulder with spinach, a variation of dumplings (Carlsbad and bread)** 175 CZK
-* **Fried Dutch schnitzel with boiled potato and pickles** 175 CZK
-* **Pork cheeks on beer and rosemary, mashed potatoes** 175 CZK
+* **Fried Camembert, stuffed with ham, boiled potatoes, tartar sauce** 175 CZK
+* **Roast beef with tomato sauce, homemade bread dumplings** 185 CZK
+* **Cmunda po kaplicku (homemade potato pancake with smoked meat and cabbage)** 185 CZK
+* **Spaghetti aglio olio e peperoncino, parmesan** 185 CZK
 * **Pulled pork in our BBQ sauce, roasted potatoes and Coleslaw** 175 CZK
 * **Beef goulash with onion and lamb's horn, homemade bread dumpling** 195 CZK
 * **Chicken schnitzel, potato salad and lemon** 185 CZK
@@ -25,9 +25,9 @@ title: Denní menu - EN
 
 ## LARGE SOUP ORDERED SEPARATELY – 500ml
 
-* **Cabbage with pepper sausage or Tripe soup** 75 CZK
+* **Goulash soup or Leek cream soup with croutons** 75 CZK
 
-***Offer valid on Sunday 25.1. from 10:30 until closing time or until sold out.***
+***Offer valid on Monday 26.1. from 10:30 until closing time or until sold out.***
 
 
 
