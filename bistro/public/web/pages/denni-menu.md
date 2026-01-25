@@ -3,7 +3,7 @@ title: Denní menu CZ
 ---
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)
 
-* **MENU 1: Polévka + Smažený hermelín, plněný šunkou, vařené brambory, tatarská omáčka** 195 Kč
+* **MENU 1: Polévka + Smažený hermelín plněný šunkou, vařené brambory, tatarská omáčka** 195 Kč
 * **MENU 2: Polévka + Hovězí rajská pečeně, domácí houskový knedlík** 205 Kč 
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
