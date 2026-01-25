@@ -3,7 +3,7 @@ title: Denní menu - EN
 ---
 ## SPECIAL OFFER (soup + main course)
 
-* **MENU 1: Soup + Fried Camembert, stuffed with ham, boiled potatoes, tartar sauce** 195 CZK
+* **MENU 1: Soup + Fried Camembert stuffed with ham, boiled potatoes, tartar sauce** 195 CZK
 * **MENU 2: Soup + Roast beef with tomato sauce, homemade bread dumplings** 205 CZK
 
 ## SMALL SOUP WITH MAIN COURSE – 250ml
@@ -13,7 +13,7 @@ title: Denní menu - EN
 
 ## MAIN DISHES
 
-* **Fried Camembert, stuffed with ham, boiled potatoes, tartar sauce** 175 CZK
+* **Fried Camembert stuffed with ham, boiled potatoes, tartar sauce** 175 CZK
 * **Roast beef with tomato sauce, homemade bread dumplings** 185 CZK
 * **Cmunda po kaplicku (homemade potato pancake with smoked meat and cabbage)** 185 CZK
 * **Spaghetti aglio olio e peperoncino, parmesan** 185 CZK
