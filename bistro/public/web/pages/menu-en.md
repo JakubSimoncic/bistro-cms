@@ -25,7 +25,7 @@ title: Denní menu - EN
 
 ## LARGE SOUP ORDERED SEPARATELY – 500ml
 
-* ** South Bohemian Kulajda – Dill soup or Leek cream with Pancetta and croutons ** 75 CZK
+* **South Bohemian Kulajda – Dill soup or Leek cream with Pancetta and croutons** 75 CZK
 
 ***Offer valid on Thuesday 27.1. from 10:30 until closing time or until sold out.***
 
