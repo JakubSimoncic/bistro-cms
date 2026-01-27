@@ -4,7 +4,7 @@ title: Denní menu CZ
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)
 
 * **MENU 1: Polévka + Pečený vepřový bůček, šťouchané brambory s kysaným zelím** 195 Kč
-* **MENU 2: Polévka + Hamburská vepřová pečeně, houskový knedlík** 205 Kč 
+* **MENU 2: Polévka + Hamburská vepřová plec, houskový knedlík** 205 Kč 
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
@@ -14,7 +14,7 @@ title: Denní menu CZ
 ## HLAVNÍ JÍDLA
 
 * **Pečený vepřový bůček, šťouchané brambory s kysaným zelím** 175 Kč
-* **Hamburská vepřová pečeně, houskový knedlík** 185 Kč
+* **Hamburská vepřová plec, houskový knedlík** 185 Kč
 * **Vepřové nudličky po sečuánsku, pečená jasmínová rýže** 175 Kč
 * **Kuřecí medajlonky s čedarovou omáčkou s jalapenos papričkami, opečené brambory** 195 Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek Coleslaw** 175 Kč
