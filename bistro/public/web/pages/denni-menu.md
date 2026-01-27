@@ -3,20 +3,20 @@ title: Denní menu CZ
 ---
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)
 
-* **MENU 1: Polévka + Pečený vepřový bůček, šťouchané brambory s kysaným zelím** 195 Kč
-* **MENU 2: Polévka + Hamburská vepřová plec, houskový knedlík** 205 Kč 
+* **MENU 1: Polévka + Smažený karbanátek, máslová bramborová kaše, kyselá okurka** 195 Kč
+* **MENU 2: Polévka + Maďarský vepřový perkelt s houskovým knedlíkem** 205 Kč 
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
 * **Jihočeská kulajda** 35 Kč
-* **Pórkový krém s pancettou a krutony** 35 Kč
+* **Čočková s uzeninou** 35 Kč
 
 ## HLAVNÍ JÍDLA
 
-* **Pečený vepřový bůček, šťouchané brambory s kysaným zelím** 175 Kč
-* **Hamburská vepřová plec, houskový knedlík** 185 Kč
-* **Vepřové nudličky po sečuánsku, pečená jasmínová rýže** 175 Kč
-* **Kuřecí medajlonky s čedarovou omáčkou s jalapenos papričkami, opečené brambory** 195 Kč
+* **Smažený karbanátek, máslová bramborová kaše, kyselá okurka** 175 Kč
+* **Maďarský vepřový perkelt s houskovým knedlíkem** 185 Kč
+* **Cmunda po kaplicku (bramborák plněný uzeným masem a dušeným kysaným zelím)** 175 Kč
+* **Grilovaná vepřová krkovice s Jack Daniel’s omáčkou, opečené brambory, salát Coleslaw** 195 Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek Coleslaw** 175 Kč
 * **Hovězí guláš s cibulkou a beraním rohem, domácí houskový knedlík** 195 Kč
 * **Kuřecí řízek, bramborový salát a citron** 185 Kč
@@ -25,8 +25,8 @@ title: Denní menu CZ
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTATNĚ – 500ml
 
-* **Jihočeská kulajda nebo pórkový krém s pancettou a krutony**75 Kč
+* **Jihočeská kulajda nebo čočková polévka s uzeninou**75 Kč
 
 
-***Nabídka platí v úterý 27.1. od 10:30 do zavírací hodiny nebo do vyprodání.***
+***Nabídka platí ve středu 28.1. od 10:30 do zavírací hodiny nebo do vyprodání.***
 
