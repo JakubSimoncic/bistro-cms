@@ -4,7 +4,7 @@ title: Denní menu CZ
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)
 
 * **MENU 1: Polévka + Smažený karbanátek, máslová bramborová kaše, kyselá okurka** 195 Kč
-* **MENU 2: Polévka + Maďarský vepřový perkelt s houskovým knedlíkem** 205 Kč 
+* **MENU 2: Polévka + Maďarský vepřový perkelt s houskovým knedlíkem** 195 Kč 
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
@@ -14,7 +14,7 @@ title: Denní menu CZ
 ## HLAVNÍ JÍDLA
 
 * **Smažený karbanátek, máslová bramborová kaše, kyselá okurka** 175 Kč
-* **Maďarský vepřový perkelt s houskovým knedlíkem** 185 Kč
+* **Maďarský vepřový perkelt s houskovým knedlíkem** 175 Kč
 * **Cmunda po kaplicku (bramborák plněný uzeným masem a dušeným kysaným zelím)** 175 Kč
 * **Grilovaná vepřová krkovice s Jack Daniel’s omáčkou, opečené brambory, salát Coleslaw** 195 Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek Coleslaw** 175 Kč
