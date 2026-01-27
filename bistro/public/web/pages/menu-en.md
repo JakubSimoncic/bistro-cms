@@ -4,7 +4,7 @@ title: Denní menu - EN
 ## SPECIAL OFFER (Soup + Main Course)
 
 * **MENU 1: Soup + Roasted pork belly, mashed potatoes with sauerkraut** 195 Kč
-* **MENU 2: Soup + Hamburg style roast pork, bread dumpling** 195 Kč
+* **MENU 2: Soup + Hamburg style roast pork, bread dumpling** 205 Kč
 
 ## SMALL SOUP WITH MAIN COURSE – 250ml
 
@@ -13,9 +13,9 @@ title: Denní menu - EN
 
 ## MAIN COURSES
 
-* **Roasted pork belly, mashed potatoes with sauerkraut** 175 Kč
+* **Roasted pork belly, mashed potatoes with sauerkraut** 185 Kč
 * **Hamburg style roast pork, bread dumpling** 175 Kč
-* **Sichuan style pork strips, baked jasmine rice** 185 Kč
+* **Sichuan style pork strips, baked jasmine rice** 175 Kč
 * **Chicken medallions with cheddar sauce with jalapeno peppers, roasted potatoes** 195 Kč
 * **Pulled pork in our BBQ sauce, roasted potatoes and Coleslaw** 175 CZK
 * **Beef goulash with onion and lamb's horn, homemade bread dumpling** 195 CZK
