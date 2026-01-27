@@ -3,20 +3,20 @@ title: Denní menu - EN
 ---
 ## SPECIAL OFFER (Soup + Main Course)
 
-* **MENU 1: Soup + Roasted pork belly, mashed potatoes with sauerkraut** 195 Kč
-* **MENU 2: Soup + Hamburg style roast pork, bread dumpling** 205 Kč
+* **MENU 1: Soup + Fried meat patty, mashed butter potatoes, pickle** 195 CZK
+* **MENU 2: Soup + Hungarian pork stew with bread dumplings** 205 CZK
 
 ## SMALL SOUP WITH MAIN COURSE – 250ml
 
-* **South Bohemian Kulajda – Dill soup** 35 Kč
-* **Leek cream with Pancetta and croutons** 35 Kč
+* **Kulajda (Creamy dill soup with mushrooms)** 35 CZK
+* **Lentil soup with sausage** 35 CZK
 
 ## MAIN COURSES
 
-* **Roasted pork belly, mashed potatoes with sauerkraut** 185 Kč
-* **Hamburg style roast pork, bread dumpling** 175 Kč
-* **Sichuan style pork strips, baked jasmine rice** 175 Kč
-* **Chicken medallions with cheddar sauce with jalapeno peppers, roasted potatoes** 195 Kč
+* **Fried meat patty, mashed butter potatoes, pickle** 175 CZK
+* **Hungarian pork stew with bread dumplings** 185 CZK
+* **Cmunda po Kaplicku (Potato pancake stuffed with smoked meat and stewed sauerkraut)** 175 CZK
+* **Grilled pork neck with Jack Daniel’s sauce, roasted potatoes, Coleslaw** 195 CZK
 * **Pulled pork in our BBQ sauce, roasted potatoes and Coleslaw** 175 CZK
 * **Beef goulash with onion and lamb's horn, homemade bread dumpling** 195 CZK
 * **Chicken schnitzel, potato salad and lemon** 185 CZK
@@ -25,8 +25,8 @@ title: Denní menu - EN
 
 ## LARGE SOUP ORDERED SEPARATELY – 500ml
 
-* **South Bohemian Kulajda – Dill soup or Leek cream with Pancetta and croutons** 75 CZK
+* **Kulajda – Dill soup or Lentil soup with sausage** 75 CZK
 
-***Offer valid on Thuesday 27.1. from 10:30 until closing time or until sold out.***
+***Offer valid on Wednesday 28.1. from 10:30 until closing time or until sold out.***
 
 
