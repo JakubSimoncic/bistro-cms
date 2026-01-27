@@ -4,19 +4,19 @@ title: Denní menu - EN
 ## SPECIAL OFFER (Soup + Main Course)
 
 * **MENU 1: Soup + Fried meat patty, mashed butter potatoes, pickle** 195 CZK
-* **MENU 2: Soup + Hungarian pork stew with bread dumplings** 205 CZK
+* **MENU 2: Soup + Hungarian pork stew with bread dumplings** 195 CZK
 
 ## SMALL SOUP WITH MAIN COURSE – 250ml
 
-* **Kulajda (Creamy dill soup with mushrooms)** 35 CZK
+* **Kulajda (Creamy dill soup with mushrooms and potatoes)** 35 CZK
 * **Lentil soup with sausage** 35 CZK
 
 ## MAIN COURSES
 
-* **Fried meat patty, mashed butter potatoes, pickle** 175 CZK
-* **Hungarian pork stew with bread dumplings** 185 CZK
-* **Cmunda po Kaplicku (Potato pancake stuffed with smoked meat and stewed sauerkraut)** 175 CZK
-* **Grilled pork neck with Jack Daniel’s sauce, roasted potatoes, Coleslaw** 195 CZK
+* **Fried meat patty, mashed butter potatoes, pickles** 175 CZK
+* **Hungarian pork stew with bread dumplings** 175 CZK
+* **Cmunda po Kaplicku (Potato pancake stuffed with smoked meat and stewed cabbage)** 175 CZK
+* **Grilled pork steak with Jack Daniel’s sauce, roasted potatoes, Coleslaw** 195 CZK
 * **Pulled pork in our BBQ sauce, roasted potatoes and Coleslaw** 175 CZK
 * **Beef goulash with onion and lamb's horn, homemade bread dumpling** 195 CZK
 * **Chicken schnitzel, potato salad and lemon** 185 CZK
