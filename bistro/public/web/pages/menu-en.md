@@ -27,6 +27,6 @@ title: Denní menu - EN
 
 * **Tripe soup or Lentil soup with sausage** 75 CZK
 
-***Offer valid on Thuesday 29.1. from 10:30 until closing time or until sold out.***
+***Offer valid on Thursday 29.1. from 10:30 until closing time or until sold out.***
 
 
