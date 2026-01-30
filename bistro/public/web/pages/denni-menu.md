@@ -3,20 +3,20 @@ title: Denní menu CZ
 ---
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)
 
-* **MENU 1: Polévka + Smažený Cordon Bleu s máslovou bramborovou kaší** 205 Kč
-* **MENU 2: Polévka + Maďarský vepřový perkelt s houskovým knedlíkem** 195 Kč 
+* **MENU 1: Polévka + Vepřové nudličky po sečuánsku, pečená jasmínová rýže** 195 Kč
+* **MENU 2: Polévka + Hamburská vepřová plec, domácí houskový knedlík** 205 Kč 
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
+* **Krémová cibulačka s parmazánem a krutony** 35 Kč
 * **Dršťková polévka** 35 Kč
-* **Žampionový krém s tymiánovými krutony** 35 Kč
 
 ## HLAVNÍ JÍDLA
 
-* **Kuřecí nudličky na červeném kari se zeleninou a pečenou jasmínovou rýží** 175 Kč
-* **Boloňské špagety s mletým masem, sypané parmazánem** 185 Kč
-* **Smažený Cordon Bleu s máslovou bramborovou kaší** 185 Kč
-* **Maďarský vepřový perkelt s houskovým knedlíkem** 175 Kč
+* **Zapečené smetanové brambory s vepřovým masem, anglickou slaninou a sýrem, zelný salátek** 175 Kč
+* **Vepřová líčka na pivě a rozmarýnu, šťouchané brambory s jarní cibulkou** 185 Kč
+* **Vepřové nudličky po sečuánsku, pečená jasmínová rýže** 175 Kč
+* **Hamburská vepřová plec, domácí houskový knedlík** 185 Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek Coleslaw** 175 Kč
 * **Hovězí guláš s cibulkou a beraním rohem, domácí houskový knedlík** 195 Kč
 * **Kuřecí řízek, bramborový salát a citron** 185 Kč
@@ -25,8 +25,8 @@ title: Denní menu CZ
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTATNĚ – 500ml
 
-* **Dršťková polévka nebo žampionový krém s tymiánovými krutony**75 Kč
+* **Krémová cibulačka s parmazánem a krutony nebo dršťková polévka**75 Kč
 
 
-***Nabídka platí ve pátek 30.1. od 10:30 do zavírací hodiny nebo do vyprodání.***
+***Nabídka platí v sobotu 31.1. od 10:30 do zavírací hodiny nebo do vyprodání.***
 
