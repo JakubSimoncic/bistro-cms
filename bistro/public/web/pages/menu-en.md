@@ -3,20 +3,20 @@ title: Denní menu - EN
 ---
 ## SPECIAL OFFER (Soup + Main Course)
 
-* **MENU 1: Soup + Fried Cordon Bleu with mashed potatoes** 205 CZK
-* **MENU 2: Soup + Hungarian pork perkelt with bread dumplings** 195 CZK
+* **MENU 1: Soup + Sechuan pork meat and baked jasmine rice** 195 CZK
+* **MENU 2: Soup + Pork meat, meat creamy sauce with ham and pickles, homemade dumplings** 205 CZK
 
 ## SMALL SOUP WITH MAIN COURSE – 250ml
 
+* **Creamy onion soup with parmesan cheese and croutons** 35 CZK
 * **Tripe soup** 35 CZK
-* **Mushroom cream with croutons** 35 CZK
 
 ## MAIN COURSES
 
-* **Chicken meat on red curry with vegetables and jasmine rice** 175 CZK
-* **Spaghetti bolognese with minced meat, Parmesan cheese** 185 CZK
-* **Fried Cordon Bleu with mashed potatoes** 185 CZK
-* **Hungarian pork perkelt with bread dumplings** 175 CZK
+* **Baked creamy potatoes with pork meat, bacon and cheese, cabbage salad** 175 CZK
+* **Pork cheeks in beer and rosemary, mashed potatoes with spring onions** 185 CZK
+* **Sechuan pork meat and baked jasmine rice** 175 CZK
+* **Pork meat, meat creamy sauce with ham and pickles, homemade dumplings** 185 CZK
 * **Pulled pork meat in our BBQ sauce, roasted potatoes and Coleslaw** 175 CZK
 * **Beef goulash with onion, homemade dumplings** 195 CZK
 * **Fried chicken schnitzel, potato salad and lemon** 185 CZK
@@ -25,8 +25,8 @@ title: Denní menu - EN
 
 ## LARGE SOUP ORDERED SEPARATELY – 500ml
 
-* **Tripe soup or Mushroom cream with croutons** 75 CZK
+* **Creamy onion soup with parmesan and croutons or Tripe soup** 75 CZK
 
-***Offer valid on Friday 30.1. from 10:30 until closing time or until sold out.***
+***Offer valid on Saturday 31.1. from 10:30 until closing time or until sold out.***
 
 
