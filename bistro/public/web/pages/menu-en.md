@@ -4,7 +4,7 @@ title: Denní menu - EN
 ## SPECIAL OFFER (soup + main course)
 
 * **MENU 1: Soup + Fried cauliflower, boiled potatoes and tartar sauce** 185 CZK
-* **MENU 2: Soup + Pork noodles in a sauce with sausage, egg, pickle with baked jasmine rice ** 195 CZK
+* **MENU 2: Soup + Pork noodles in a sauce with sausage, egg, pickle with baked jasmine rice** 195 CZK
 
 ## SMALL SOUP FOR THE MAIN COURSE – 250ml
 
