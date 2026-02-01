@@ -3,30 +3,27 @@ title: Denní menu - EN
 ---
 ## SPECIAL OFFER (soup + main course)
 
-* **MENU 1: Soup + Chicken strips in red curry, baked jasmine rice** 195 CZK
-* **MENU 2: Soup + Hungarian pork stew with bread dumplings** 205 CZK
+* **MENU 1: Soup + Fried cauliflower, boiled potatoes and tartar sauce** 185 CZK
+* **MENU 2: Soup + Pork noodles in a sauce with sausage, egg, pickle with baked jasmine rice ** 195 CZK
 
-## SMALL SOUP WITH MAIN COURSE – 250ml
+## SMALL SOUP FOR THE MAIN COURSE – 250ml
 
-* **Frankfurt soup** 35 CZK
-* **Leek cream with croutons** 35 CZK
+* **Frankfurter soup** 35 CZK
+* **Garlic soup with English bacon, croutons and cheese** 35 CZK
 
 ## MAIN COURSES
 
-* **Chicken strips in red curry, baked jasmine rice** 175 CZK
-* **Hungarian pork stew with bread dumplings** 185 CZK
-* **Potato pancake stuffed with smoked meat and stewed sauerkraut** 175 CZK
-* **Sichuan-style pork strips with fries/rice** 175 CZK
-* **Pulled pork in our BBQ sauce, roasted potatoes and Coleslaw** 175 CZK
+* **Fried cauliflower, boiled potatoes and tartar sauce** 165 CZK
+* **Pork noodles in a sauce with sausage, egg, pickle with baked jasmine rice** 175 CZK
+* **Roasted pork meat, stewed sauerkraut, potato dumpling** 175 CZK
+* **Gnocchi with smoked meat, cabbage and onion** 175 CZK
+* **Pulled pork in our BBQ srauce, roasted potatoes and Coleslaw** 175 CZK
 * **Beef goulash with onion and lamb's horn, homemade bread dumpling** 195 CZK
 * **Chicken schnitzel, potato salad and lemon** 185 CZK
-* **Fried cheese, fries and tartar sauce** 185 CZK
-* **Grilled stuffed wheat tortilla of your choice and fried fries** 175 CZK
+* **Fried cheese, french fries and tartar sauce** 185 CZK
+* **Grilled stuffed wheat tortilla of your choice and french fries** 175 CZK
 
 ## LARGE SOUP ORDERED SEPARATELY – 500ml
+* **Frankfurt soup or garlic soup with English bacon and cheese** 75 CZK
 
-* **Frankfurt soup or Leek cream with croutons** 75 CZK
-
-***Offer valid on Sunday 1.2. from 10:30 until closing time or until sold out.***
-
-
+***Offer valid on Monday 2.2. from 10:30 until closing time or until sold out.***
