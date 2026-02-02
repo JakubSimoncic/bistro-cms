@@ -14,9 +14,9 @@ title: Denní menu CZ
 ## HLAVNÍ JÍDLA
 
 * **Smažený květák , vařené brambory a tatarská omáčka** 165 Kč
-* **Rozlítaný vepřový španělský ptáček s pečenou jasmínovou rýží** 185 Kč
+* **Rozlítaný vepřový španělský ptáček s pečenou jasmínovou rýží** 175 Kč
 * **Moravský vrabec, dušené kysané zelí, bramborový knedlík** 175 Kč
-* **Halušky s uzeným masem, zelím a cibulkou** 175 Kč
+* **Halušky s uzeným masem, zelím a cibulkou** 165 Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek Coleslaw** 175 Kč
 * **Hovězí guláš s cibulkou a beraním rohem, domácí houskový knedlík** 195 Kč
 * **Kuřecí řízek, bramborový salát a citron** 185 Kč
