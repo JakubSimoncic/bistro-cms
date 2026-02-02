@@ -16,7 +16,7 @@ title: Denní menu - EN
 * **Fried cauliflower, boiled potatoes and tartar sauce** 165 CZK
 * **Pork noodles in a sauce with sausage, egg, pickle with baked jasmine rice** 175 CZK
 * **Roasted pork meat, stewed sauerkraut, potato dumpling** 175 CZK
-* **Gnocchi with smoked meat, cabbage and onion** 175 CZK
+* **Gnocchi with smoked meat, cabbage and onion** 165 CZK
 * **Pulled pork in our BBQ srauce, roasted potatoes and Coleslaw** 175 CZK
 * **Beef goulash with onion and lamb's horn, homemade bread dumpling** 195 CZK
 * **Chicken schnitzel, potato salad and lemon** 185 CZK
