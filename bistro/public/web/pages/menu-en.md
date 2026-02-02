@@ -9,7 +9,7 @@ title: Denní menu - EN
 ## SMALL SOUP FOR THE MAIN COURSE – 250ml
 
 * **Frankfurter soup** 35 CZK
-* **Garlic soup with English bacon, croutons and cheese** 35 CZK
+* **Creamy onion soup with croutons and parmesan** 35 CZK
 
 ## MAIN COURSES
 
@@ -24,6 +24,6 @@ title: Denní menu - EN
 * **Grilled stuffed wheat tortilla of your choice and french fries** 175 CZK
 
 ## LARGE SOUP ORDERED SEPARATELY – 500ml
-* **Frankfurt soup or garlic soup with English bacon and cheese** 75 CZK
+* **Frankfurt soup or Creamy onion soup with croutons and parmesan** 75 CZK
 
 ***Offer valid on Monday 2.2. from 10:30 until closing time or until sold out.***
