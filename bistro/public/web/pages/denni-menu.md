@@ -13,7 +13,7 @@ title: Denní menu CZ
 
 ## HLAVNÍ JÍDLA
 
-* **Čevabčiči s vařeným bramborem, hořčicí a cibulí ** 175 Kč
+* **Čevabčiči s vařeným bramborem, hořčicí a cibulí** 175 Kč
 * **Zapečené šunkofleky s uzeným masem, kyselá okurka** 165 Kč
 * **Cikánská vepřová pečeně, pečená jasmínová rýže** 175 Kč
 * **Mexická kuřecí pikantní směs se zeleninou, hranolky** 185 Kč
