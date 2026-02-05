@@ -16,7 +16,7 @@ title: Denní menu CZ
 * **Kuřecí stehno na paprice s těstovinami - fusilli** 165 Kč
 * **Mexická kuřecí směs s bramboráčky** 175 Kč
 * **Pečené vepřové koleno, dušené hlávkové zelí, houskový knedlík** 175 Kč
-* **Quesadilla s kuřecími stripsy, variací sýrů, jalapenas papričkami, malý salátek, zakysaná smetana ** 185Kč
+* **Quesadilla s kuřecími stripsy, variací sýrů, jalapenas papričkami, malý salátek, zakysaná smetana** 185Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek Coleslaw** 175 Kč
 * **Hovězí guláš s cibulkou a beraním rohem, domácí houskový knedlík** 195 Kč
 * **Kuřecí řízek, bramborový salát a citron** 185 Kč
