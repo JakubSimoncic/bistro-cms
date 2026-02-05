@@ -3,20 +3,20 @@ title: Denní menu CZ
 ---
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)
 
-* **MENU 1: Polévka + Zapečené šunkofleky s uzeným masem, kyselá okurka** 185 Kč
-* **MENU 2: Polévka + Hovězí koprová omáčka s houskovým knedlíkem** 205 Kč 
+* **MENU 1: Polévka + Kuřecí stehno na paprice, těstoviny - fusilli** 185 Kč
+* **MENU 2: Mexická kuřecí směs s bramboráčky** 195 Kč 
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
-* **Květákový krém s krutony a opečenou pancettou** 35 Kč
-* **Zelná polévka s uzeninou** 35 Kč
+* **Gulášová polévka** 35 Kč
+* **Květákový krém s krutony a restovanou pancettou** 35 Kč
 
 ## HLAVNÍ JÍDLA
 
-* **Zapečené šunkofleky s uzeným masem, kyselá okurka** 165 Kč
-* **Hovězí koprová omáčka s domácím houskovým knedlíkem** 185 Kč
-* **Kuřecí stehno na paprice s těstovinami nebo houskový knedlík** 175 Kč
-* **Smažené kuřecí stripsy v cornflakes strouhance, šťouchané brambory, tatarka** 175Kč
+* **Kuřecí stehno na paprice s těstovinami - fusilli** 165 Kč
+* **Mexická kuřecí směs s bramboráčky** 175 Kč
+* **Pečené vepřové koleno, dušené hlávkové zelí, houskový knedlík** 175 Kč
+* **Quesadilla s kuřecími stripsy, variací sýrů, jalapenas papričkami, malý salátek, zakysaná smetana ** 185Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek Coleslaw** 175 Kč
 * **Hovězí guláš s cibulkou a beraním rohem, domácí houskový knedlík** 195 Kč
 * **Kuřecí řízek, bramborový salát a citron** 185 Kč
@@ -25,8 +25,8 @@ title: Denní menu CZ
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTATNĚ – 500ml
 
-* **Květákový krém s krutony a opečenou pancettou nebo zelná polévka s uzeninou** 75 Kč
+* **Květákový krém s krutony a opečenou pancettou nebo Gulášová polévka** 75 Kč
 
 
-***Nabídka platí ve čtvrtek 5.2. od 10:30 do zavírací hodiny nebo do vyprodání.***
+***Nabídka platí v pátek 6.2. od 10:30 do zavírací hodiny nebo do vyprodání.***
 
