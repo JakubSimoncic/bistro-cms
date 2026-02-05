@@ -24,6 +24,6 @@ title: Denní menu - EN
 * **Grilled stuffed wheat tortilla of your choice and french fries** 175 CZK
 
 ## LARGE SOUP ORDERED SEPARATELY – 500ml
-* **Cauliflower cream soup with croutons and pancetta or Goulash soup ** 75 CZK
+* **Cauliflower cream soup with croutons and pancetta or Goulash soup** 75 CZK
 
 ***Offer valid on Friday 6.2. from 10:30 until closing time or until sold out.***
