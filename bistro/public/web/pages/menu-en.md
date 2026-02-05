@@ -3,27 +3,27 @@ title: Denní menu - EN
 ---
 ## SPECIAL OFFER (soup + main course)
 
-* **MENU 1: Soup + Baked pasta with smoked meat and eggs, pickles** 185 CZK
-* **MENU 2: Soup + Creamy dill sauce with beef meat and homemade dumplings** 205 CZK
+* **MENU 1: Soup + Chicken leg with peppers, pasta - fusilli** 185 CZK
+* **MENU 2: Mexican chicken mixture with potato pancakes** 195 CZK
 
-## SMALL SOUP WITH MAIN COURSE – 250ml
+## SMALL SOUP FOR THE MAIN COURSE – 250ml
 
-* **Cauliflower cream soup with croutons and roasted pancetta** 35 CZK
-* **Cabbage soup with sausage** 35 CZK
+* **Goulash soup** 35 CZK
+* **Cauliflower cream with croutons and roasted pancetta** 35 CZK
 
 ## MAIN COURSES
 
-* **Baked pasta with smoked meat and eggs, pickles** 165 CZK
-* **Creamy dill sauce with beef meat and homemade dumplings** 185 CZK
-* **Chicken thigh in creamy paprika sauce and pasta or homemade dumplings** 175 CZK
-* **Fried chicken strips in cornflakes breading, mashed potatoes, tartar sauce** 175 CZK
-* **Pulled pork in our BBQ srauce, roasted potatoes and Coleslaw** 175 CZK
-* **Beef goulash with onion and chilli, homemade dumplings** 195 CZK
-* **Fried chicken schnitzel, potato salad and lemon** 185 CZK
+* **Chicken leg with peppers sauce with pasta - fusilli** 165 CZK
+* **Mexican chicken noodles with vegetable and potato pancakes** 175 CZK
+* **Roasted pork knuckle, stewed cabbage, bread dumpling** 175 CZK
+* **Quesadilla with chicken strips, variation cheese, jalapeno peppers, small salad, sour cream ** 185 CZK
+* **Pulled pork in our BBQ sauce, roasted potatoes and Coleslaw** 175 CZK
+* **Beef goulash with onion and lamb's horn, homemade bread dumpling** 195 CZK
+* **Chicken schnitzel, potato salad and lemon** 185 CZK
 * **Fried cheese, french fries and tartar sauce** 185 CZK
 * **Grilled stuffed wheat tortilla of your choice and french fries** 175 CZK
 
 ## LARGE SOUP ORDERED SEPARATELY – 500ml
-* ** Cauliflower cream soup with croutons and roasted pancetta or cabagge soup with sausage** 75 CZK
+* **Cauliflower cream soup with croutons and pancetta or Goulash soup ** 75 CZK
 
-***Offer valid on Thursday 5.2. from 10:30 until closing time or until sold out.***
+***Offer valid on Friday 6.2. from 10:30 until closing time or until sold out.***
