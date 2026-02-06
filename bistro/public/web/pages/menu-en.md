@@ -3,7 +3,7 @@ title: Denní menu - EN
 ---
 ## SPECIAL OFFER (soup + main course)
 
-* **MENU 1: Soup + Chicken leg with peppers, pasta - fusilli** 185 CZK
+* **MENU 1: Soup + Chicken leg with peppers sauce, pasta - fusilli** 185 CZK
 * **MENU 2: Soup + Hamburg pork roast with homemade dumplings** 205 CZK
 
 ## SMALL SOUP FOR THE MAIN COURSE – 250ml
