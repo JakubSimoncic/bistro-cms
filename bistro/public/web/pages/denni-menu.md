@@ -4,7 +4,7 @@ title: Denní menu CZ
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)
 
 * **MENU 1: Polévka + Kuřecí stehno na paprice, těstoviny - fusilli** 185 Kč
-* **MENU 2: Mexická kuřecí směs s bramboráčky** 195 Kč 
+* **MENU 2: Polévka + Mexická kuřecí směs s bramboráčky** 195 Kč 
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
