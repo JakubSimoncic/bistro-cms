@@ -16,7 +16,7 @@ title: Denní menu - EN
 * **Chicken leg with peppers sauce with pasta - fusilli** 165 CZK
 * **Mexican chicken noodles with vegetable and potato pancakes** 175 CZK
 * **Roasted pork knuckle, stewed cabbage, bread dumpling** 175 CZK
-* **Quesadilla with chicken strips, variation cheese, jalapeno peppers, small salad, sour cream ** 185 CZK
+* **Quesadilla with chicken strips, variation cheese, jalapeno peppers, small salad, sour cream** 185 CZK
 * **Pulled pork in our BBQ sauce, roasted potatoes and Coleslaw** 175 CZK
 * **Beef goulash with onion and lamb's horn, homemade bread dumpling** 195 CZK
 * **Chicken schnitzel, potato salad and lemon** 185 CZK
