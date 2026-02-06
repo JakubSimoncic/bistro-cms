@@ -4,7 +4,7 @@ title: Denní menu - EN
 ## SPECIAL OFFER (soup + main course)
 
 * **MENU 1: Soup + Chicken leg with peppers, pasta - fusilli** 185 CZK
-* **MENU 2: Soup + Hamburg pork roast with homemade dumplings** 195 CZK
+* **MENU 2: Soup + Hamburg pork roast with homemade dumplings** 205 CZK
 
 ## SMALL SOUP FOR THE MAIN COURSE – 250ml
 
@@ -14,8 +14,8 @@ title: Denní menu - EN
 ## MAIN COURSES
 
 * **Chicken leg with peppers sauce with pasta - fusilli** 165 CZK
-* **Beef gypsy roast with jasmine rice** 175 CZK
-* **Hamburg pork roast with homemade dumplings** 175 CZK
+* **Beef gypsy roast with jasmine rice** 185 CZK
+* **Hamburg pork roast with homemade dumplings** 185 CZK
 * **Quesadilla with chicken strips, variation cheese, jalapeno peppers, small salad, sour cream** 185 CZK
 * **Pulled pork in our BBQ sauce, roasted potatoes and Coleslaw** 175 CZK
 * **Beef goulash with onion, homemade dumpling** 195 CZK
