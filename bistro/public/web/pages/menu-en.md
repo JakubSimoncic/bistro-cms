@@ -4,7 +4,7 @@ title: Denní menu - EN
 ## SPECIAL OFFER (soup + main course)
 
 * **MENU 1: Soup + Chicken leg with peppers, pasta - fusilli** 185 CZK
-* **MENU 2: Mexican chicken mixture with potato pancakes** 195 CZK
+* **MENU 2: Soup + Mexican chicken mixture with potato pancakes** 195 CZK
 
 ## SMALL SOUP FOR THE MAIN COURSE – 250ml
 
