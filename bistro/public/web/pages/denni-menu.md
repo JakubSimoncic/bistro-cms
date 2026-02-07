@@ -16,7 +16,7 @@ title: Denní menu CZ
 * **Rozlítaný vepřový španělský ptáček, jasmínová rýže** 175 Kč
 * **Pečené vepřové koleno, dušené hlávkové zelí, domácí houskový knedlík** 175 Kč
 * **Pečené kuřecí stehno, šťouchané brambory** 175 Kč
-* **Hovězí koprová omáčka, domácí houskový knedlík** 185Kč
+* **Hovězí koprová omáčka, domácí houskový knedlík** 185 Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek Coleslaw** 175 Kč
 * **Hovězí guláš s cibulkou a beraním rohem, domácí houskový knedlík** 195 Kč
 * **Kuřecí řízek, bramborový salát a citron** 185 Kč
