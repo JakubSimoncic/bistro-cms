@@ -3,7 +3,7 @@ title: Denní menu CZ
 ---
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)
 
-* **MENU 1: Polévka + Rozlítaný vepřový španělský ptáček, jasmínová rýže  ** 195 Kč
+* **MENU 1: Polévka + Rozlítaný vepřový španělský ptáček, jasmínová rýže ** 195 Kč
 * **MENU 2: Polévka + Pečené vepřové koleno, dušené hlávkové zelí, domácí houskový knedlík** 195 Kč 
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
