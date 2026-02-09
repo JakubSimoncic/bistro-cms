@@ -9,7 +9,7 @@ title: Denní menu CZ
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
 * **Jihočeská kulajda** 35 Kč
-* **Slepičí vývar s masem, zeleninou a fritátovými nudlemi* 35 Kč
+* **Slepičí vývar s masem, zeleninou a fritátovými nudlemi** 35 Kč
 
 ## HLAVNÍ JÍDLA
 
