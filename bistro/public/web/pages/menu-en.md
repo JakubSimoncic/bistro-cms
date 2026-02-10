@@ -26,4 +26,4 @@ title: Denní menu - EN
 ## LARGE SOUP ORDERED SEPARATELY – 500ml
 * **South Bohemian kulajda or chicken broth with meat, vegetables and frittata noodles** 75 CZK
 
-***Offer valid on Thuesday 10.2. from 10:30 until closing time or until sold out.***10
+***Offer valid on Thuesday 10.2. from 10:30 until closing time or until sold out.***
