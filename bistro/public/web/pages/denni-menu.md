@@ -15,8 +15,8 @@ title: Denní menu CZ
 
 * **Drůbeží rizoto se zeleninou, sypané uzeným sýrem, kyselá okurka** 165 Kč
 * **Vepřové výpečky, dušené zelí, bramborový knedlík** 175 Kč
-* **Smažený holandský řízek, vařené brambory, kyselá okurka ** 175 Kč
-* **Špagety s kuřecím masem, česnekem, listovým špenátem, smetanou a parmazánem ** 195 Kč
+* **Smažený holandský řízek, vařené brambory, kyselá okurka** 175 Kč
+* **Špagety s kuřecím masem, česnekem, listovým špenátem, smetanou a parmazánem** 195 Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek Coleslaw** 175 Kč
 * **Hovězí guláš s cibulkou a beraním rohem, domácí houskový knedlík** 195 Kč
 * **Kuřecí řízek, bramborový salát a citron** 185 Kč
