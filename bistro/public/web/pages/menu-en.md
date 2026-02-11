@@ -15,7 +15,7 @@ title: Denní menu - EN
 
 * **Homemade meatloaf, buttery mashed potatoes, pickled cucumber** 175 CZK
 * **Szegedin pork goulash with homemade bread dumplings** 185 CZK
-* **Beef Stroganoff strips, jasmine rice** 185 CZK
+* **Beef Stroganoff strips, jasmine rice** 195 CZK
 * **Chicken medallions served with creamed spinach and roasted potatoes** 195 CZK
 * **Pulled pork in our BBQ sauce, roasted potatoes and Coleslaw** 175 CZK
 * **Beef goulash with onion, homemade dumpling** 195 CZK
