@@ -15,7 +15,7 @@ title: Denní menu CZ
 
 * **Domácí sekaná, máslová bramborová kaše, kyselá okurka** 175 Kč
 * **Segedínský vepřový guláš s domácím houskovým knedlíkem** 185 Kč
-* **Hovězí nudličky Stroganoff, jasmínová rýže** 185 Kč
+* **Hovězí nudličky Stroganoff, jasmínová rýže** 195 Kč
 * **Kuřecí medailonky podávané s listovým špenátem s kapkou smetany a opečenými bramborami** 195 Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek Coleslaw** 175 Kč
 * **Hovězí guláš s cibulkou a beraním rohem, domácí houskový knedlík** 195 Kč
