@@ -14,7 +14,7 @@ title: Denní menu - EN
 ## MAIN COURSES
 
 * **Poultry risotto with vegetables, sprinkled with smoked cheese, pickles** 165 CZK
-* **Pork roasts, stewed cabbage, potato dumplings** 175 CZK
+* **Pork  knuckle, stewed cabbage, potato dumplings** 175 CZK
 * **Fried Dutch schnitzel, boiled potatoes, pickles** 175 CZK
 * **Spaghetti with chicken, garlic, spinach leaves, cream and parmesan cheese** 195 CZK
 * **Pulled pork in our BBQ sauce, roasted potatoes and Coleslaw** 175 CZK
