@@ -14,7 +14,7 @@ title: Denní menu CZ
 ## HLAVNÍ JÍDLA
 
 * **Rozlítaný vepřový španělský ptáček s houskovým knedlíkem** 175 Kč
-* **Hovězí Chilli con Carne s fazolemi, jasmínová rýže* 185 Kč
+* **Hovězí Chilli con Carne s fazolemi, jasmínová rýže** 185 Kč
 * **Pečené vepřové koleno, dušené bílé zelí, bramborový knedlík** 175 Kč
 * **Hovězí nudličky Stroganoff, smažené hranolky** 185 Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek Coleslaw** 175 Kč
