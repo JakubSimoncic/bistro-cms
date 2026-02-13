@@ -29,4 +29,3 @@ title: Denní menu CZ
 
 
 ***Nabídka platí v sobotu 14.2. od 10:00 do zavírací hodiny nebo do vyprodání.***
-
