@@ -3,7 +3,7 @@ title: Denní menu - EN
 ---
 ## SPECIAL OFFER (soup + main course)
 
-* **MENU 1: Soup + Fried Dutch schnitzel, mashed potatoes, pickled cucumber** 195 CZK
+* **MENU 1: Soup + Fried minced meat cutlet, mashed potatoes, pickled cucumber** 195 CZK
 * **MENU 2: Soup + Beef stroganoff, roasted jasmine rice** 205 CZK
 
 ## SMALL SOUP WITH MAIN COURSE – 250ml
@@ -13,9 +13,9 @@ title: Denní menu - EN
 
 ## MAIN COURSES
 
-* **Fried Dutch schnitzel, mashed potatoes, pickled cucumber** 175 CZK
+* **Fried minced meat cutlet, mashed potatoes, pickled cucumber** 175 CZK
 * **Beef stroganoff, roasted jasmine rice** 185 CZK
-* **Pork roasts, stewed cabbage, potato dumplings** 175 CZK
+* **Roast pork served with stewed cabbag and potato dumplings** 175 CZK
 * **Dumplings with smoked meat, cabbage and roasted onion in lard** 175 CZK
 * **Pulled pork in our BBQ sauce, roasted potatoes and Coleslaw** 175 CZK
 * **Beef goulash with onion, homemade dumpling** 195 CZK
