@@ -15,7 +15,7 @@ title: Denní menu - EN
 
 * **Szeged pork goulash with bread dumplings** 175 CZK
 * **Beef roast with pepper and tomato sauce with jasmine rice** 185 CZK
-* **Meatloaf with boiled potatoes, mustard, sour cucumber** 175 CZK
+* **Meatloaf with boiled potatoes, mustard, pickled cucumber** 175 CZK
 * **Pork roast, stewed white cabbage, potato dumpling** 175 CZK
 * **Pulled pork in our BBQ sauce, roasted potatoes and Coleslaw** 175 CZK
 * **Beef goulash with onion, homemade dumpling** 195 CZK
