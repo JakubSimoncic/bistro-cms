@@ -3,7 +3,7 @@ title: Denní menu CZ
 ---
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)
 
-* **MENU 1: Polévka + Rozlítaný vepřový španělský ptáček, domácí houskový knedlík** 195 Kč
+* **MENU 1: Polévka + Halušky s uzeným masem, zelím a cibulkou** 185 Kč
 * **MENU 2: Polévka + Hovězí Chilli con Carne s fazolemi, jasmínová rýže** 205 Kč 
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
@@ -13,7 +13,7 @@ title: Denní menu CZ
 
 ## HLAVNÍ JÍDLA
 
-* **Rozlítaný vepřový španělský ptáček s houskovým knedlíkem** 175 Kč
+* **Halušky s uzeným masem, zelím a cibulkou** 165 Kč
 * **Hovězí Chilli con Carne s fazolemi, jasmínová rýže** 185 Kč
 * **Pečené vepřové koleno, dušené bílé zelí, bramborový knedlík** 175 Kč
 * **Hovězí nudličky Stroganoff, smažené hranolky** 185 Kč
