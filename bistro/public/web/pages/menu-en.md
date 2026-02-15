@@ -3,7 +3,7 @@ title: Denní menu - EN
 ---
 ## SPECIAL OFFER (soup + main course)
 
-* **MENU 1: Soup + Pork Štěpánská roast with homemade bread dumpling** 195 CZK
+* **MENU 1: Soup + Pork roast in sauce with egg, homemade bread dumpling** 195 CZK
 * **MENU 2: Soup + Chicken Kung Pao with Jasmine Rice** 195 CZK
 
 ## SMALL SOUP FOR THE MAIN COURSE – 250ml
