@@ -3,20 +3,20 @@ title: Denní menu CZ
 ---
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)
 
-* **MENU 1: Polévka + Vepřová štěpánská pečeně s domácím houskovým knedlíkem** 195 Kč
-* **MENU 2: Polévka + Kuřecí kung-pao s jasmínovou rýží** 195 Kč 
+* **MENU 1: Polévka + Vepřová játra na cibulce s pečenou jasmínovou rýží** 195 Kč
+* **MENU 2: Polévka + Smažená krkovička se šťouchaným bramborem s jarní cibulkou, citronem a kyselou okurkou** 195 Kč 
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
 * **Staročeská česnečka s krutony a sýrem** 35 Kč
-* **Valašská kyselice s klobásou** 35 Kč
+* **Hrachová s paprikovou klobásou a krutony** 35 Kč
 
 ## HLAVNÍ JÍDLA
 
-* **Vepřová štěpánská pečeně s domácím houskovým knedlíkem** 175 Kč
-* **Kuřecí kung-pao s jasmínovou rýží** 175 Kč
+* **Vepřová játra na cibulce s pečenou jasmínovou rýží** 175 Kč
+* **Smažená krkovička se šťouchaným bramborem s jarní cibulkou, citronem a kyselou okurkou** 175 Kč
 * **Plněný bramborový knedlík uzeným masem, dušené zelí, opečená cibulka na sádle , vídeňská cibulka** 165 Kč
-* **Špagety Carbonara(pancetta, česnek, žloutek) s parmazánem** 185 Kč
+* **Italské rizoto s filírovanou panenkou, listovým špenátem, česnekem, sušenými rajčaty a parmazánem** 195 Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek Coleslaw** 175 Kč
 * **Hovězí guláš s cibulkou a beraním rohem, domácí houskový knedlík** 195 Kč
 * **Kuřecí řízek, bramborový salát a citron** 185 Kč
@@ -25,7 +25,7 @@ title: Denní menu CZ
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTATNĚ – 500ml
 
-* **Staročeská česnečka s krutony a sýrem nebo Valašská kyselice s klobásou** 75 Kč
+* **Staročeská česnečka s krutony a sýrem nebo Hrachová s paprikovou klobásou a krutony** 75 Kč
 
 
-***Nabídka platí v pondělí 16.2. od 10:30 do zavírací hodiny nebo do vyprodání.***
+***Nabídka platí v úterý 17.2. od 10:30 do zavírací hodiny nebo do vyprodání.***
