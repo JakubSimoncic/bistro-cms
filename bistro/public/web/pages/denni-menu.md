@@ -3,7 +3,7 @@ title: Denní menu CZ
 ---
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)
 
-* **MENU 1: Polévka + Vepřová játra na cibulce s pečenou jasmínovou rýží** 195 Kč
+* **MENU 1: Polévka + Vepřová játra na cibulce s pečenou jasmínovou rýží** 185 Kč
 * **MENU 2: Polévka + Smažená krkovička se šťouchaným bramborem s jarní cibulkou, citronem a kyselou okurkou** 195 Kč 
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
@@ -13,7 +13,7 @@ title: Denní menu CZ
 
 ## HLAVNÍ JÍDLA
 
-* **Vepřová játra na cibulce s pečenou jasmínovou rýží** 175 Kč
+* **Vepřová játra na cibulce s pečenou jasmínovou rýží** 165 Kč
 * **Smažená krkovička se šťouchaným bramborem s jarní cibulkou, citronem a kyselou okurkou** 175 Kč
 * **Plněný bramborový knedlík uzeným masem, dušené zelí, opečená cibulka na sádle , vídeňská cibulka** 165 Kč
 * **Italské rizoto s filírovanou panenkou, listovým špenátem, česnekem, sušenými rajčaty a parmazánem** 195 Kč
