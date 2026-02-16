@@ -24,6 +24,6 @@ title: Denní menu - EN
 * **Grilled stuffed wheat tortilla of your choice and french fries** 175 CZK
 
 ## LARGE SOUP ORDERED SEPARATELY – 500ml
-* **Cabbage soup with sausage or Pea soup with pepper sausage and croutons** 75 CZK
+* **Old Bohemian garlic soup with croutons and cheese or Pea soup with pepper sausage and croutons** 75 CZK
 
 ***Offer valid on Tuesday 17.2. from 10:30 until closing time or until sold out.***
