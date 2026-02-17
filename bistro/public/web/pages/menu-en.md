@@ -15,7 +15,7 @@ title: Denní menu - EN
 
 * **Pork meat with mushroom sauce and baked jasmine rice** 175 CZK
 * **Fried schnitzel from minced meat and potato salad** 175 CZK
-* **Stewed beef meat with wine and mashed potatoes** 185 CZK
+* **Stewed beef meat with red wine and mashed potatoes** 185 CZK
 * **Grilled camembert, roasted potatoes and cranberry mayonnaise with chili** 175 CZK
 * **Pulled pork in our BBQ sauce, roasted potatoes and Coleslaw** 175 CZK
 * **Beef goulash with onion, homemade dumplings** 195 CZK
