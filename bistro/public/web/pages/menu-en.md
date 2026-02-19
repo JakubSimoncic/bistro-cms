@@ -3,20 +3,20 @@ title: Denní menu - EN
 ---
 ## SPECIAL OFFER (soup + main course)
 
-* **MENU 1: Soup + Spaghetti Bolognese with minced meat and parmesan cheese** 205 CZK
-* **MENU 2: Soup + Beef meat in red wine sauce, mashed potatoes** 205 CZK
+* **MENU 1: Soup + Pork with mushrooms sauce and homemade bread dumplings** 195 CZK
+* **MENU 2: Soup + Garlic pork neck, spinach, potato dumpling** 195 CZK
 
-## SMALL SOUP FOR THE MAIN COURSE – 250ml
+## SMALL SOUP WITH MAIN COURSE – 250ml
 
-* **Frankfurter soup** 35 CZK
-* **Beef broth with meat, vegetables and frittata noodles** 35 CZK
+* **Frankfurt soup** 35 CZK
+* **Creamy onion soup with croutons and parmesan** 35 CZK
 
 ## MAIN COURSES
 
-* **Fried schnitzel from minced meat and potato salad or mashed potatoes** 175 CZK
-* **Pork meat with garlic, spinach leaves and potato dumplings** 175 CZK
-* **Spaghetti Bolognese with minced meat and parmesan** 185 CZK
-* **Beef meat in red wine sauce, mashed potatoes** 185 CZK
+* **Fried chicken strips marinated in sour cream, mashed potatoes, garlic dip** 175 CZK
+* **Garlic pork neck, spinach, and potato dumpling** 175 CZK
+* **Pork with mushrooms sauce and homemade bread dumplings** 175 CZK
+* **Mexican beef burrito (rice, bean paste, red onion, bell pepper, cheddar), small portion of fries** 195 CZK
 * **Pulled pork in our BBQ sauce, roasted potatoes and Coleslaw** 175 CZK
 * **Beef goulash with onion, homemade dumplings** 195 CZK
 * **Chicken schnitzel, potato salad and lemon** 185 CZK
@@ -24,6 +24,6 @@ title: Denní menu - EN
 * **Grilled stuffed wheat tortilla of your choice and French Fries** 175 CZK
 
 ## LARGE SOUP ORDERED SEPARATELY – 500ml
-* **Frankfurter soup or Beef broth with meat, vegetables and frittata noodles** 75 CZK
+* **Frankfurter soup or Creamy onion soup with croutons and parmesan** 75 CZK
 
-***Offer valid on Thursday 19.2. from 10:30 until closing time or until sold out.***
+***Offer valid on Friday 20.2. from 10:30 until closing time or until sold out.***
