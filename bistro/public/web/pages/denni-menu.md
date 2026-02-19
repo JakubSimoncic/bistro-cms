@@ -17,7 +17,7 @@ title: Denní menu CZ
 * **Vepřová krkovice na česneku, listový špenát a bramborový knedlík** 175 Kč
 * **Vepřové maso na houbách s domácím houskovým knedlíkem** 175 Kč
 * **Mexické hovězí Burrito(rýže, fazolová pasta, červená cibule, paprika, čedar), malá porce hranolek** 195 Kč
-* **Trhané v9přové maso v naší BBQ omáčce, opečené brambory a salátek Coleslaw** 175 Kč
+* **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek Coleslaw** 175 Kč
 * **Hovězí guláš s cibulkou a beraním rohem, domácí houskový knedlík** 195 Kč
 * **Kuřecí řízek, bramborový salát a citron** 185 Kč
 * **Smažený sýr, hranolky a tatarská omáčka** 185 Kč
