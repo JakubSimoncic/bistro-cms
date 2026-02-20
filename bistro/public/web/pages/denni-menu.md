@@ -3,20 +3,20 @@ title: Denní menu CZ
 ---
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)
 
-* **MENU 1: Polévka + Vepřové maso na houbách s domácím houskovým knedlíkem** 195 Kč
-* **MENU 2: Polévka + Vepřová krkovice na česneku, listový špenát, bramborový knedlík** 195 Kč 
+* **MENU 1: Polévka + Vepřová játra na cibulce s pečenou jasmínovou rýží** 185 Kč
+* **MENU 2: Polévka + Plněný bramborový knedlík uzeným masem, dušené bílé zelí, vídeňská cibulka** 185 Kč 
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
-* **Frankfurtská polévka** 35 Kč
-* **Krémová cibulačka s krutony a parmazánem** 35 Kč
+* **Česnečka s anglickou slaninou, krutony a sýrem** 35 Kč
+* **Hrachová s paprikovou klobásou** 35 Kč
 
 ## HLAVNÍ JÍDLA
 
-* **Smažené kuřecí stripsy marinované v zakysané smetaně, šťouchaný brambor, česnekový dip** 175 Kč
-* **Vepřová krkovice na česneku, listový špenát a bramborový knedlík** 175 Kč
-* **Vepřové maso na houbách s domácím houskovým knedlíkem** 175 Kč
-* **Mexické hovězí Burrito(rýže, fazolová pasta, červená cibule, paprika, čedar), malá porce hranolek** 195 Kč
+* **Hovězí štěpánská pečeně s houskovým knedlíkem** 185 Kč
+* **Boloňské špagety sypané parmazánem** 185 Kč
+* **Vepřová játra na cibulce s pečenou jasmínovou rýží** 165 Kč
+* **Plněný bramborový knedlík uzeným masem, dušené bílé zelí, vídeňská cibulka** 165 Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek Coleslaw** 175 Kč
 * **Hovězí guláš s cibulkou a beraním rohem, domácí houskový knedlík** 195 Kč
 * **Kuřecí řízek, bramborový salát a citron** 185 Kč
@@ -25,7 +25,7 @@ title: Denní menu CZ
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTATNĚ – 500ml
 
-* **Frankfurtská polévka nebo Krémová cibulačka s krutony a parmazánem** 75 Kč
+* **Česnečka s anglickou slaninou, krutony a sýrem nebo Hrachová s paprikovou klobásou** 75 Kč
 
 
-***Nabídka platí v pátek 20.2. od 10:30 do zavírací hodiny nebo do vyprodání.***
+***Nabídka platí v sobotu 21.2. od 10:30 do zavírací hodiny nebo do vyprodání.***
