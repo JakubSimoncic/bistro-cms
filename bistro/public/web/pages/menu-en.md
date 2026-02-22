@@ -14,7 +14,7 @@ title: Denní menu - EN
 ## MAIN COURSES
 
 * **Bolognese lasagna with beef meat and Italian tomato sauce** 185 CZK
-* **Pork meat with teriyaki, wasabi-mashed potatoes, salad with fermented radish and ginger** 175 CZK
+* **Pork meat with teriyaki, wasabi-mashed potatoes, salad with fermented radish and ginger** 185 CZK
 * **Fried chicken drumsticks in panco breadcrumbs, baked potatoes with English bacon and onion, garlic dip** 175 CZK
 * **Baked blood sausage meat, boiled potatoes, sauerkraut, mustard** 165 CZK
 * **Pulled pork in our BBQ sauce, roasted potatoes and Coleslaw** 175 CZK
@@ -24,6 +24,6 @@ title: Denní menu - EN
 * **Grilled stuffed wheat tortilla of your choice and French Fries** 175 CZK
 
 ## LARGE SOUP ORDERED SEPARATELY – 500ml
-* **Tripe or Spinach cream with croutons and sour cream** 75 CZK
+* **Tripe soup or Spinach cream with croutons and sour cream** 75 CZK
 
-***Offer valid on Monday 22.2. from 10:30 until closing time or until sold out.***
+***Offer valid on Monday 23.2. from 10:30 until closing time or until sold out.***
