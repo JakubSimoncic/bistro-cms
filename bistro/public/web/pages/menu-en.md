@@ -13,7 +13,7 @@ title: Denní menu - EN
 
 ## MAIN COURSES
 
-* **Pork in wine sauce with mashed potatoes** 175 CZK
+* **Pork meat with wine sauce, mashed potatoes** 175 CZK
 * **Roasted pork neck, white sauerkraut and homemade dumplings** 175 CZK
 * **Homemade meatloaf with potato salad** 165 CZK
 * **Pork meat with mushrooms sauce, fusilli** 175 CZK
