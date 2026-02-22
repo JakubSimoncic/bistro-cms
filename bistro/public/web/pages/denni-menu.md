@@ -14,7 +14,7 @@ title: Denní menu CZ
 ## HLAVNÍ JÍDLA
 
 * **Boloňské lasagne s mletým hovězím masem a italskou rajčatovou omáčkou** 185 Kč
-* **Vepřová plec teriyaki, wasabi-bramborová kaše, salátek s fermentovanou ředkví a zázvorem** 175 Kč
+* **Vepřová plec teriyaki, wasabi-bramborová kaše, salátek s fermentovanou ředkví a zázvorem** 185 Kč
 * **Smažené kuřecí paličky v panco strouhance, pečené brambory s anglickou slaninou a cibulí, česnekový dip** 175 Kč
 * **Pečený jitrnicový prejt, vařené brambory v páře, kysané zelí, hořčice** 165 Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek Coleslaw** 175 Kč
