@@ -25,7 +25,7 @@ title: Denní menu CZ
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTATNĚ – 500ml
 
-* **Dršťková nebo Špenátový krém s krutony a zakysanou smetanou** 75 Kč
+* **Dršťková nebo špenátový krém s krutony a zakysanou smetanou** 75 Kč
 
 
-***Nabídka platí v pondělí 23.2. od 10:30 do zavírací hodiny nebo do vyprodání.***
+***Nabídka platí v úterý 23.2. od 10:30 do zavírací hodiny nebo do vyprodání.***
