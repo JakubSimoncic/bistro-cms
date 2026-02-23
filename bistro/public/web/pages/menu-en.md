@@ -26,4 +26,4 @@ title: Denní menu - EN
 ## LARGE SOUP ORDERED SEPARATELY – 500ml
 * **Tripe soup or Cabbage soup with sausage** 75 CZK
 
-***Offer valid on Monday 23.2. from 10:30 until closing time or until sold out.***
+***Offer valid on Thuesday 24.2. from 10:30 until closing time or until sold out.***
