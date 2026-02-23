@@ -3,20 +3,20 @@ title: Denní menu - EN
 ---
 ## SPECIAL OFFER (soup + main course)
 
-* **MENU 1: Soup + Fried chicken drumsticks in panco breadcrumbs, baked potatoes with English bacon and onion, garlic dip** 185 CZK
-* **MENU 2: Soup + Baked blood sausage meat, boiled potatoes, sauerkraut, mustard** 195 CZK
+* **MENU 1: Soup + Fried cauliflower with boiled potatoes and tartar sauce** 185 CZK
+* **MENU 2: Soup + Pork shoulder teriyaki, wasabi-mashed potatoes, salad with fermented radish and ginger** 205 CZK
 
-## SMALL SOUP WITH MAIN COURSE – 250ml
+## SMALL SOUP FOR MAIN COURSE – 250ml
 
 * **Tripe soup** 35 CZK
-* **Spinach cream with croutons and sour cream** 35 CZK
+* **Cabbage soup with sausage** 35 CZK
 
 ## MAIN COURSES
 
-* **Bolognese lasagna with beef meat and Italian tomato sauce** 185 CZK
-* **Pork meat with teriyaki, wasabi-mashed potatoes, salad with fermented radish and ginger** 185 CZK
-* **Fried chicken drumsticks in panco breadcrumbs, baked potatoes with English bacon and onion, garlic dip** 175 CZK
-* **Baked blood sausage meat, boiled potatoes, sauerkraut, mustard** 165 CZK
+* **Fried cauliflower with boiled potatoes and tartar sauce** 165 CZK
+* **Pork shoulder teriyaki, wasabi-mashed potatoes, salad with fermented radish and ginger** 185 CZK
+* **Beef tenderloin in cream sauce with homemade bread dumplings and cranberry sauce** 185 CZK
+* **Smoked rolled shoulder, stewed red cabbage and potato pancakes** 175 CZK
 * **Pulled pork in our BBQ sauce, roasted potatoes and Coleslaw** 175 CZK
 * **Beef goulash with onion, homemade dumplings** 195 CZK
 * **Chicken schnitzel, potato salad and lemon** 185 CZK
@@ -24,6 +24,6 @@ title: Denní menu - EN
 * **Grilled stuffed wheat tortilla of your choice and French Fries** 175 CZK
 
 ## LARGE SOUP ORDERED SEPARATELY – 500ml
-* **Tripe soup or Spinach cream with croutons and sour cream** 75 CZK
+* **Tripe soup or Cabbage soup with sausage** 75 CZK
 
 ***Offer valid on Monday 23.2. from 10:30 until closing time or until sold out.***
