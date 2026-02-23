@@ -28,4 +28,4 @@ title: Denní menu CZ
 * **Dršťková nebo špenátový krém s krutony a zakysanou smetanou** 75 Kč
 
 
-***Nabídka platí v úterý 23.2. od 10:30 do zavírací hodiny nebo do vyprodání.***
+***Nabídka platí v pondělí 23.2. od 10:30 do zavírací hodiny nebo do vyprodání.***
