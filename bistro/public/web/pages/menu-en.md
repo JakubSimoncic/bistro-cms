@@ -8,7 +8,7 @@ title: Denní menu - EN
 
 ## SMALL SOUP WITH MAIN COURSE – 250ml
 
-* **Tripe** 35 CZK
+* **Tripe soup** 35 CZK
 * **Spinach cream with croutons and sour cream** 35 CZK
 
 ## MAIN COURSES
