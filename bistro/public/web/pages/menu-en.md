@@ -3,27 +3,27 @@ title: Denní menu - EN
 ---
 ## SPECIAL OFFER (soup + main course)
 
-* **MENU 1: Soup + Fried cauliflower with boiled potatoes and tartar sauce** 185 CZK
-* **MENU 2: Soup + Pork shoulder teriyaki, wasabi-mashed potatoes, salad with fermented radish and ginger** 205 CZK
+* **MENU 1: Soup + Bolognese lasagna with minced meat and Italian tomato sauce** 205 CZK
+* **MENU 2: Soup + Beef tenderloin in cream sauce, homemade bread dumpling, cranberries, lemon, whipped cream** 205 CZK
 
-## SMALL SOUP FOR MAIN COURSE – 250ml
+## SMALL SOUP FOR THE MAIN COURSE – 250ml
 
-* **Tripe soup** 35 CZK
-* **Cabbage soup with sausage** 35 CZK
+* ** Cabbage soup with sausage** 35 CZK
+* **Mushroom cream with herb croutons** 35 CZK
 
 ## MAIN COURSES
 
-* **Fried cauliflower with boiled potatoes and tartar sauce** 165 CZK
-* **Pork shoulder teriyaki, wasabi-mashed potatoes, salad with fermented radish and ginger** 185 CZK
-* **Beef tenderloin in cream sauce with homemade bread dumplings and cranberry sauce** 185 CZK
-* **Smoked rolled shoulder, stewed red cabbage and potato pancakes** 175 CZK
+* **Farmer's roast pork with stewed red cabbage, variations of dumplings** 175 CZK
+* **Spicy meat noodles with vegetables, rice or potato pancakes** 175 CZK
+* **Beef tenderloin in cream sauce, homemade bread dumpling, cranberries, lemon, whipped cream** 185 CZK
+* **Bolognese lasagna with minced meat and Italian tomato sauce** 185 CZK
 * **Pulled pork in our BBQ sauce, roasted potatoes and Coleslaw** 175 CZK
-* **Beef goulash with onion, homemade dumplings** 195 CZK
+* **Beef goulash with onion and lamb's horn, homemade bread dumpling** 195 CZK
 * **Chicken schnitzel, potato salad and lemon** 185 CZK
 * **Fried cheese, french fries and tartar sauce** 185 CZK
-* **Grilled stuffed wheat tortilla of your choice and French Fries** 175 CZK
+* **Grilled stuffed wheat tortilla of your choice and french fries** 175 CZK
 
 ## LARGE SOUP ORDERED SEPARATELY – 500ml
-* **Tripe soup or Cabbage soup with sausage** 75 CZK
+* ** Cabbage soup with sausage or Mushroom cream with herb croutons** 75 CZK
 
-***Offer valid on Thuesday 24.2. from 10:30 until closing time or until sold out.***
+***Offer valid on Wednesday 25.2. from 10:30 until closing time or until sold out.***
