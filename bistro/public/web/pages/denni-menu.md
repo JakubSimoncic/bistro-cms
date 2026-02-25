@@ -14,7 +14,7 @@ title: Denní menu CZ
 ## HLAVNÍ JÍDLA
 
 * **Selská vepřová pečeně, dušené červené zelí, variace knedlíků** 175 Kč
-* **Pikantní masová směs se zeleninou, rýže nebo bramboráčky** 175 Kč
+* **Pikantní masová směs se zeleninou, bramboráčky** 175 Kč
 * **Hovězí svíčková na smetaně, domácí houskový knedlík, brusinkový terč** 185 Kč
 * **Boloňské lasagne s mletým masem a italskou rajčatovou omáčkou** 185 Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek Coleslaw** 175 Kč
