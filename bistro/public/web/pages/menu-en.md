@@ -8,13 +8,13 @@ title: Denní menu - EN
 
 ## SMALL SOUP FOR THE MAIN COURSE – 250ml
 
-* ** Cabbage soup with sausage** 35 CZK
+* **Cabbage soup with sausage** 35 CZK
 * **Mushroom cream with herb croutons** 35 CZK
 
 ## MAIN COURSES
 
 * **Farmer's roast pork with stewed red cabbage, variations of dumplings** 175 CZK
-* **Spicy meat noodles with vegetables, rice or potato pancakes** 175 CZK
+* **Spicy meat noodles with vegetables, potato pancakes** 175 CZK
 * **Beef tenderloin in cream sauce, homemade bread dumpling, cranberries, lemon, whipped cream** 185 CZK
 * **Bolognese lasagna with minced meat and Italian tomato sauce** 185 CZK
 * **Pulled pork in our BBQ sauce, roasted potatoes and Coleslaw** 175 CZK
