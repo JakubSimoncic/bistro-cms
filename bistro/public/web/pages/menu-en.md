@@ -15,7 +15,7 @@ title: Denní menu - EN
 
 * **Pork meat on red curry with vegetables, baked jasmine rice** 175 CZK
 * **Blood sausage mince meat, boiled potatoes, sauerkraut and mustard** 165 CZK
-* **Roast pork with cream sauce, homemade dumoling** 175 CZK
+* **Roast pork with cream sauce, homemade dumpling** 175 CZK
 * **Homemade potato gnocchi with pork tenderloin and mushroom sauce with white wine and parmesan** 205 CZK
 * **Pulled pork in our BBQ sauce, roasted potatoes and Coleslaw** 175 CZK
 * **Beef goulash with onion and lamb's horn, homemade bread dumpling** 195 CZK
