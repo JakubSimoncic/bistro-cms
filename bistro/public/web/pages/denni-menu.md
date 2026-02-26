@@ -3,8 +3,8 @@ title: Denní menu CZ
 ---
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)
 
-* **MENU 1: Polévka + Jitrnicový prejt, vařené brambory v páře, kysané zelí a hořčice** 205 Kč
-* **MENU 2: Polévka + Špikovaná vepřová pečeně na paprice, houskový knedlík** 205 Kč 
+* **MENU 1: Polévka + Jitrnicový prejt, vařené brambory v páře, kysané zelí a hořčice** 185 Kč
+* **MENU 2: Polévka + Špikovaná vepřová pečeně na paprice, houskový knedlík** 195 Kč 
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
