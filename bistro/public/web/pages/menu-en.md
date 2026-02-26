@@ -3,20 +3,20 @@ title: Denní menu - EN
 ---
 ## SPECIAL OFFER (soup + main course)
 
-* **MENU 1: Soup + Blood sausage mince meat, boiled potatoes, sauerkraut and mustard** 185 CZK
-* **MENU 2: Soup + Roast pork with cream sauce, homemade dumoling** 195 CZK
+* **MENU 1: Soup + Fried wine sausage, mashed potatoes, cucumber** 195 CZK
+* **MENU 2: Soup + Natural chopped pork schnitzel stuffed with sun-dried tomatoes and cheese, roasted potatoes, pepper sauce** 205 CZK
 
 ## SMALL SOUP FOR THE MAIN COURSE – 250ml
 
 * **Goulash** 35 CZK
-* **Spinach cream with roasted ham and croutons** 35 CZK
+* **Old Bohemian potato soup** 35 CZK
 
 ## MAIN COURSES
 
-* **Pork meat on red curry with vegetables, baked jasmine rice** 175 CZK
-* **Blood sausage mince meat, boiled potatoes, sauerkraut and mustard** 165 CZK
-* **Roast pork with cream sauce, homemade dumpling** 175 CZK
-* **Homemade potato gnocchi with pork tenderloin and mushroom sauce with white wine and parmesan** 205 CZK
+* **Fried wine sausage, mashed potatoes, cucumber** 175 CZK
+* **Natural chopped pork schnitzel stuffed with sun-dried tomatoes and cheese, roasted potatoes, pepper sauce** 185 CZK
+* **Pork strips on red curry with vegetables and coconut milk, jasmine rice** 175 CZK
+* **Szeged goulash, homemade bread dumplings** 185 CZK
 * **Pulled pork in our BBQ sauce, roasted potatoes and Coleslaw** 175 CZK
 * **Beef goulash with onion, homemade bread dumpling** 195 CZK
 * **Chicken schnitzel, potato salad and lemon** 185 CZK
@@ -24,6 +24,6 @@ title: Denní menu - EN
 * **Grilled stuffed wheat tortilla of your choice and french fries** 175 CZK
 
 ## LARGE SOUP ORDERED SEPARATELY – 500ml
-* **Goulash soup or Spinach cream with roasted ham and croutons** 75 CZK
+* **Goulash soup or Old Bohemian potato soup** 75 CZK
 
-***Offer valid on Thursday 26.02. from 10:30 until closing time or until sold out.***
+***Offer valid on Friday 27.02. from 10:30 until closing time or until sold out.***
