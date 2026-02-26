@@ -16,7 +16,7 @@ title: Denní menu CZ
 * **Vepřové nudličky na červeném kari se zeleninou, pečená jasmínová rýže** 175 Kč
 * **Jitrnicový prejt, vařené brambory v páře, kysané zelí a hořčice** 165 Kč
 * **Špikovaná vepřová pečeně na paprice, houskový knedlík** 175 Kč
-* **Domácí bramborové noky s vepřovou panenkou a hříbkovou omáčkou s bílým vínem a parmazánem** 195 Kč
+* **Domácí bramborové noky s vepřovou panenkou a hříbkovou omáčkou s bílým vínem a parmazánem** 205 Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek Coleslaw** 175 Kč
 * **Hovězí guláš s cibulkou a beraním rohem, domácí houskový knedlík** 195 Kč
 * **Kuřecí řízek, bramborový salát a citron** 185 Kč
