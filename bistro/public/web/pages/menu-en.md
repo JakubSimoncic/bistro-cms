@@ -3,20 +3,20 @@ title: Denní menu - EN
 ---
 ## SPECIAL OFFER (soup + main course)
 
-* **MENU 1: Soup + Bolognese lasagna with minced meat and Italian tomato sauce** 205 CZK
-* **MENU 2: Soup + Beef tenderloin in cream sauce, homemade bread dumpling, cranberries, lemon, whipped cream** 205 CZK
+* **MENU 1: Soup + Blood sausage mince meat, boiled potatoes, sauerkraut and mustard** 185 CZK
+* **MENU 2: Soup + Roast pork with cream sauce, homemade dumoling** 195 CZK
 
 ## SMALL SOUP FOR THE MAIN COURSE – 250ml
 
-* **Cabbage soup with sausage** 35 CZK
-* **Mushroom cream with herb croutons** 35 CZK
+* **Goulash** 35 CZK
+* **Spinach cream with roasted ham and croutons** 35 CZK
 
 ## MAIN COURSES
 
-* **Farmer's roast pork with stewed red cabbage, variations of dumplings** 175 CZK
-* **Spicy meat noodles with vegetables, potato pancakes** 175 CZK
-* **Beef tenderloin in cream sauce, homemade bread dumpling, cranberries, lemon, whipped cream** 185 CZK
-* **Bolognese lasagna with minced meat and Italian tomato sauce** 185 CZK
+* **Pork meat on red curry with vegetables, baked jasmine rice** 175 CZK
+* **Blood sausage mince meat, boiled potatoes, sauerkraut and mustard** 165 CZK
+* **Roast pork with cream sauce, homemade dumoling** 175 CZK
+* **Homemade potato gnocchi with pork tenderloin and mushroom sauce with white wine and parmesan** 205 CZK
 * **Pulled pork in our BBQ sauce, roasted potatoes and Coleslaw** 175 CZK
 * **Beef goulash with onion and lamb's horn, homemade bread dumpling** 195 CZK
 * **Chicken schnitzel, potato salad and lemon** 185 CZK
@@ -24,6 +24,6 @@ title: Denní menu - EN
 * **Grilled stuffed wheat tortilla of your choice and french fries** 175 CZK
 
 ## LARGE SOUP ORDERED SEPARATELY – 500ml
-* **Cabbage soup with sausage or Mushroom cream with herb croutons** 75 CZK
+* **Goulash soup or Spinach cream with roasted ham and croutons** 75 CZK
 
-***Offer valid on Wednesday 25.2. from 10:30 until closing time or until sold out.***
+***Offer valid on Thursday 26.02. from 10:30 until closing time or until sold out.***
