@@ -25,7 +25,7 @@ title: Denní menu CZ
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTATNĚ – 500ml
 
-* **Bramborová polévka nebo dršťková polévka ** 75 Kč
+* **Bramborová polévka nebo dršťková polévka** 75 Kč
 
 
 ***Nabídka platí v sobotu 28.2. od 10:00 do zavírací hodiny nebo do vyprodání.***
