@@ -4,7 +4,7 @@ title: Denní menu - EN
 ## SPECIAL OFFER (soup + main course)
 
 * **MENU 1: Soup + Pork shoulder in wine sauce with boiled potatoes** 195 CZK
-* **MENU 2: Soup + Beef tenderloin in cream sauce with homemade bread dumplings** 205 CZK
+* **MENU 2: Soup + Fried wine sausage, boiled potatoes, mustard** 195 CZK
 
 ## SMALL SOUP FOR THE MAIN COURSE – 250ml
 
@@ -14,7 +14,7 @@ title: Denní menu - EN
 ## MAIN COURSES
 
 * **Pork shoulder in wine sauce with boiled potatoes** 175 CZK
-* **Beef tenderloin in cream sauce with homemade bread dumplings** 185 CZK
+* **Meat loaf in cream sauce with homemade bread dumplings** 175 CZK
 * **Spicy meat mixture with potato pancakes or french fries** 175 CZK
 * **Fried wine sausage, boiled potatoes, mustard** 175CZK
 * **Pulled pork in our BBQ sauce, roasted potatoes and Coleslaw** 175 CZK
