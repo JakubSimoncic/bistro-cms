@@ -1,29 +1,28 @@
 ---
 title: Denní menu - EN
 ---
-## SPECIAL OFFER (soup + main course)
+### SPECIAL OFFER (soup + main course)
 
-* **MENU 1: Soup + Pork shoulder in wine sauce with boiled potatoes** 195 CZK
-* **MENU 2: Soup + Fried wine sausage, boiled potatoes, mustard** 195 CZK
+* **MENU 1: Soup + Pork roast with paprika cream sauce with pasta** 195 CZK
+* **MENU 2: Soup + Pork noodles on red curry with jasmine rice** 195 CZK
 
 ## SMALL SOUP FOR THE MAIN COURSE – 250ml
 
-* **Potato soup** 35 CZK
-* **Tripe soup** 35 CZK
+* **Lentil soup with sausage** 35 CZK
+* **Mushroom cream with croutons** 35 CZK
 
 ## MAIN COURSES
 
-* **Pork shoulder in wine sauce with boiled potatoes** 175 CZK
-* **Meat loaf in cream sauce with homemade bread dumplings** 175 CZK
-* **Spicy meat mixture with potato pancakes or french fries** 175 CZK
-* **Fried wine sausage, boiled potatoes, mustard** 175CZK
-* **Pulled pork in our BBQ sauce, roasted potatoes and Coleslaw** 175 CZK
-* **Beef goulash with onion and lamb's horn, homemade bread dumpling** 195 CZK
+* **Bolognese lasagna with beef and small mixed salad** 185 CZK
+* **Pork noodles on red curry with jasmine rice** 185 CZK
+* **Offal hash with boiled potatoes, mustard, sauerkraut** 175 CZK
+* **Pork roast with paprika cream sauce with pasta** 175 CZK
+* ** Roast Beef goulash with onion and lamb's horn, homemade bread dumpling** 195 CZK
 * **Chicken schnitzel, potato salad and lemon** 185 CZK
 * **Fried cheese, french fries and tartar sauce** 185 CZK
 * **Grilled stuffed wheat tortilla of your choice and french fries** 175 CZK
 
 ## LARGE SOUP ORDERED SEPARATELY – 500ml
-* **Potato soup or Tripe soup** 75 CZK
+* **Lentil soup with sausage or Mushroom cream with croutons** 75 CZK
 
-***Offer valid on Saturday 28.2. from 10:00 until closing time or until sold out.***
+***Offer valid on Sunday 1.3. from 10:00 until closing time or until sold out.***
