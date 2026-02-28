@@ -4,7 +4,7 @@ title: Denní menu CZ
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)
 
 * **MENU 1: Polévka + Vepřová plec na víně s vařeným  bramborem** 195 Kč
-* **MENU 2: Polévka + Hovězí svíčková na smetaně s domácím houskovým knedlíkem** 205 Kč 
+* **MENU 2: Polévka + Smažená vinná klobása, vařené brambory, hořčice** 195 Kč 
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
@@ -14,7 +14,7 @@ title: Denní menu CZ
 ## HLAVNÍ JÍDLA
 
 * **Vepřová plec na víně s vařeným  bramborem** 175 Kč
-* **Hovězí svíčková na smetaně s domácím houskovým knedlíkem** 185 Kč
+* **Sekaná svíčková na smetaně s domácím houskovým knedlíkem** 175 Kč
 * **Pikantní masová směs s bramboráčky nebo hranolky** 175 Kč
 * **Smažená vinná klobása, vařené brambory, hořčice** 175Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek Coleslaw** 175 Kč
