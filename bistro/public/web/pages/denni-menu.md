@@ -14,7 +14,7 @@ title: Denní menu CZ
 ## HLAVNÍ JÍDLA
 
 * **Boloňské lasagne s hovězím masem a malým míchaným salátkem** 185 Kč
-* **Vepřové nudličky na červeném kari s jasmínovou rýží ** 185 Kč
+* **Vepřové nudličky na červeném kari s jasmínovou rýží** 185 Kč
 * **Jitrnicový prejt s vařeným bramborem, hořčice, kysané zelí** 175 Kč
 * **Vepřová pečeně na paprice s těstovinami** 175Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek Coleslaw** 175 Kč
