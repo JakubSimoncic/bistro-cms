@@ -3,20 +3,20 @@ title: Denní menu CZ
 ---
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)
 
-* **MENU 1: Polévka + Vepřová plec na víně s vařeným  bramborem** 195 Kč
-* **MENU 2: Polévka + Smažená vinná klobása, vařené brambory, hořčice** 195 Kč 
+* **MENU 1: Polévka + Vepřová pečeně na paprice s těstovinami** 195 Kč
+* **MENU 2: Polévka + Vepřové nudličky na červeném kari s jasmínovou rýží**195 Kč 
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
-* **Bramborová polévka** 35 Kč
-* **Dršťková polévka** 35 Kč
+* **Čočková polévka s klobásou** 35 Kč
+* **Houbový krém s krutony** 35 Kč
 
 ## HLAVNÍ JÍDLA
 
-* **Vepřová plec na víně s vařeným  bramborem** 175 Kč
-* **Sekaná svíčková na smetaně s domácím houskovým knedlíkem** 175 Kč
-* **Pikantní masová směs s bramboráčky nebo hranolky** 175 Kč
-* **Smažená vinná klobása, vařené brambory, hořčice** 175Kč
+* **Boloňské lasagne s hovězím masem a malým míchaným salátkem** 185 Kč
+* **Vepřové nudličky na červeném kari s jasmínovou rýží ** 185 Kč
+* **Jitrnicový prejt s vařeným bramborem, hořčice, kysané zelí** 175 Kč
+* **Vepřová pečeně na paprice s těstovinami** 175Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek Coleslaw** 175 Kč
 * **Hovězí guláš s cibulkou a beraním rohem, domácí houskový knedlík** 195 Kč
 * **Kuřecí řízek, bramborový salát a citron** 185 Kč
@@ -25,8 +25,8 @@ title: Denní menu CZ
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTATNĚ – 500ml
 
-* **Bramborová polévka nebo dršťková polévka** 75 Kč
+* **Čočková polévka s klobásou nebo Houbový krém s krutony** 75 Kč
 
 
-***Nabídka platí v sobotu 28.2. od 10:00 do zavírací hodiny nebo do vyprodání.***
+***Nabídka platí v neděli 1.3. od 10:00 do zavírací hodiny nebo do vyprodání.***
 
