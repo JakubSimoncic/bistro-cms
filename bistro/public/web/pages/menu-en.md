@@ -17,7 +17,7 @@ title: Denní menu - EN
 * **Pork noodles on red curry with jasmine rice** 185 CZK
 * **Offal hash with boiled potatoes, mustard, sauerkraut** 175 CZK
 * **Pork roast with paprika cream sauce with pasta** 175 CZK
-* ** Roast Beef goulash with onion and lamb's horn, homemade bread dumpling** 195 CZK
+* **Beef goulash with onion and lamb's horn, homemade bread dumpling** 195 CZK
 * **Chicken schnitzel, potato salad and lemon** 185 CZK
 * **Fried cheese, french fries and tartar sauce** 185 CZK
 * **Grilled stuffed wheat tortilla of your choice and french fries** 175 CZK
