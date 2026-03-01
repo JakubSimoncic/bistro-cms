@@ -25,7 +25,7 @@ title: Denní menu CZ
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTATNĚ – 500ml
 
-* **Čočková polévka s klobásou nebo Francouzská cibulačka s parmazánovým toustem* 75 Kč
+* **Čočková polévka s klobásou nebo Francouzská cibulačka s parmazánovým toustem** 75 Kč
 
 
 ***Nabídka platí v pondělí 2.3. od 10:00 do zavírací hodiny nebo do vyprodání.***
