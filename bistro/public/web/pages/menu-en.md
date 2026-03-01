@@ -1,7 +1,7 @@
 ---
 title: Denní menu - EN
 ---
-### SPECIAL OFFER (soup + main course)
+## SPECIAL OFFER (soup + main course)
 
 * **MENU 1: Soup + Pork roast with paprika cream sauce with pasta** 195 CZK
 * **MENU 2: Soup + Pork noodles on red curry with jasmine rice** 195 CZK
