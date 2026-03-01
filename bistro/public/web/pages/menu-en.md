@@ -1,22 +1,22 @@
 ---
 title: Denní menu - EN
 ---
-## SPECIAL OFFER (soup + main course)
+### SPECIAL OFFER (soup + main course)
 
-* **MENU 1: Soup + Pork roast with paprika cream sauce with pasta** 195 CZK
-* **MENU 2: Soup + Pork noodles on red curry with jasmine rice** 195 CZK
+* **MENU 1: Soup + Spinach risotto with minced chicken meat, topped with cheese, pickle cucumner** 195 CZK
+* **MENU 2: Soup + Pork noodles in sauce with bacon, eggs, cucumber, jasmine rice/bread dumpling** 195 CZK
 
 ## SMALL SOUP FOR THE MAIN COURSE – 250ml
 
 * **Lentil soup with sausage** 35 CZK
-* **Mushroom cream with croutons** 35 CZK
+* **French onion soup with parmesan toast** 35 CZK
 
 ## MAIN COURSES
 
-* **Bolognese lasagna with beef and small mixed salad** 185 CZK
-* **Pork noodles on red curry with jasmine rice** 175 CZK
-* **Offal hash with boiled potatoes, mustard, sauerkraut** 175 CZK
-* **Pork roast with paprika cream sauce with pasta** 175 CZK
+* **Roasted pork with beer,honey, ginger and garlic, mashed potatoes** 175 CZK
+* **Spaghetti carbonara (pancetta, egg yolk, garlic), parmesan** 185 CZK
+* **Spinach risotto with minced chicken meat, topped with cheese, pickled cucumber** 175 CZK
+* **Pork noodles in sauce with bacon, eggs, cucumber, jasmine rice/bread dumpling** 175 CZK
 * **Beef goulash with onion and lamb's horn, homemade bread dumpling** 195 CZK
 * **Chicken schnitzel, potato salad and lemon** 185 CZK
 * **Fried cheese, french fries and tartar sauce** 185 CZK
