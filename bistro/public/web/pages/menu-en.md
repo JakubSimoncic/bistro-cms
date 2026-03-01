@@ -14,7 +14,7 @@ title: Denní menu - EN
 ## MAIN COURSES
 
 * **Bolognese lasagna with beef and small mixed salad** 185 CZK
-* **Pork noodles on red curry with jasmine rice** 185 CZK
+* **Pork noodles on red curry with jasmine rice** 175 CZK
 * **Offal hash with boiled potatoes, mustard, sauerkraut** 175 CZK
 * **Pork roast with paprika cream sauce with pasta** 175 CZK
 * **Beef goulash with onion and lamb's horn, homemade bread dumpling** 195 CZK
