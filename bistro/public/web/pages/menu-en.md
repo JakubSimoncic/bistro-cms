@@ -1,7 +1,7 @@
 ---
 title: Denní menu - EN
 ---
-### SPECIAL OFFER (soup + main course) ### 
+## SPECIAL OFFER (soup + main course) 
 
 * **MENU 1: Soup + Spinach risotto with minced chicken meat, topped with cheese, pickle cucumner** 195 CZK
 * **MENU 2: Soup + Pork noodles in sauce with bacon, eggs, cucumber, jasmine rice/bread dumpling** 195 CZK
