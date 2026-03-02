@@ -15,9 +15,9 @@ title: Denní menu CZ
 
 * **Smažený holandsky řízek, bramborová kaše, kyselá okurka** 175 Kč
 * **Segedínský guláš, domácí houskový knedlík** 185 Kč
-* **Kuřecí nudličky gyros, hranolky, zelný salát, česnekový dip ** 185 Kč
+* **Kuřecí nudličky gyros, hranolky, zelný salát, česnekový dip** 185 Kč
 * **Konfitovaná krkovice, opečené brambory, omáčka ze zeleného pepře** 185Kč
-* **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek Coleslaw** 175 Kč
+* **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek Coleslaw** 185 Kč
 * **Hovězí guláš s cibulkou a beraním rohem, domácí houskový knedlík** 195 Kč
 * **Kuřecí řízek, bramborový salát a citron** 185 Kč
 * **Smažený sýr, hranolky a tatarská omáčka** 185 Kč
