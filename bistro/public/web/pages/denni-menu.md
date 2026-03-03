@@ -3,7 +3,7 @@ title: Denní menu CZ
 ---
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)
 
-* **MENU 1: Polévka + Smažený holandsky řízek, bramborová kaše, kyselá okurka** 195 Kč
+* **MENU 1: Polévka + Smažený holandský řízek, bramborová kaše, kyselá okurka** 195 Kč
 * **MENU 2: Polévka + Segedínský guláš, domácí houskový knedlík**205 Kč 
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
@@ -13,7 +13,7 @@ title: Denní menu CZ
 
 ## HLAVNÍ JÍDLA
 
-* **Smažený holandsky řízek, bramborová kaše, kyselá okurka** 175 Kč
+* **Smažený holandský řízek, bramborová kaše, kyselá okurka** 175 Kč
 * **Segedínský guláš, domácí houskový knedlík** 185 Kč
 * **Kuřecí nudličky gyros, hranolky, zelný salát, česnekový dip** 185 Kč
 * **Konfitovaná krkovice, opečené brambory, omáčka ze zeleného pepře** 185 Kč
