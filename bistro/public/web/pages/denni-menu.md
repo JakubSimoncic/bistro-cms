@@ -3,20 +3,20 @@ title: Denní menu CZ
 ---
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)
 
-* **MENU 1: Polévka + Smažený holandský řízek, bramborová kaše, kyselá okurka** 195 Kč
-* **MENU 2: Polévka + Segedínský guláš, domácí houskový knedlík**205 Kč 
+* **MENU 1: Polévka + Čočka na kyselo, uzená rolovaná plec, cibulka, kyselá okurka** 195 Kč
+* **MENU 2: Polévka + Savojské vepřové řízečky, bramborová kaše, kyselá okurka** 195 Kč 
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
-* **Slepičí vývar s masem, zeleninou a bramborovým kapáním** 35 Kč
+* **Pórkový krém s bylinkovými krutony** 35 Kč
 * **Frankfurtská polévka** 35 Kč
 
 ## HLAVNÍ JÍDLA
 
-* **Smažený holandský řízek, bramborová kaše, kyselá okurka** 175 Kč
-* **Segedínský guláš, domácí houskový knedlík** 185 Kč
-* **Kuřecí nudličky gyros, hranolky, zelný salát, česnekový dip** 185 Kč
-* **Konfitovaná krkovice, opečené brambory, omáčka ze zeleného pepře** 185 Kč
+* **Selská vepřová plec, variace zelí, bramborový knedlík** 175 Kč
+* **Kuřecí gyros v tortille s česnekovým dresinkem, zelným salátkem a balkánským sýrem, hranolky** 185 Kč
+* **Čočka na kyselo, uzená rolovaná plec, cibulka, kyselá okurka** 175 Kč
+* **Savojské vepřové řízečky, bramborová kaše, kyselá okurka** 175 Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek Coleslaw** 185 Kč
 * **Hovězí guláš s cibulkou a beraním rohem, domácí houskový knedlík** 195 Kč
 * **Kuřecí řízek, bramborový salát a citron** 185 Kč
@@ -25,8 +25,8 @@ title: Denní menu CZ
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTATNĚ – 500ml
 
-* **Slepičí vývar s masem, zeleninou a bramborovým kapáním nebo Frankfurtská polévka** 75 Kč
+* **Pórkový krém s bylinkovými krutony nebo Frankfurtská polévka** 75 Kč
 
 
-***Nabídka platí ve úterý 3.3. od 10:00 do zavírací hodiny nebo do vyprodání.***
+***Nabídka platí ve středu 4.3. od 10:00 do zavírací hodiny nebo do vyprodání.***
 
