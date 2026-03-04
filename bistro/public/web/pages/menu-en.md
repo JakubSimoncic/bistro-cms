@@ -3,7 +3,7 @@ title: Denní menu - EN
 ---
 ## SPECIAL OFFER (soup + main course)
 
-* **MENU 1: Soup + Poultry liver with onion and sauce, baked jasmine rice 185 CZK
+* **MENU 1: Soup + Poultry liver with onion and sauce, baked jasmine rice** 185 CZK
 * **MENU 2: Soup + Pork roll with bacon and sauerkraut, mashed potatoes with spring onion** 195 CZK
 
 ## SMALL SOUP FOR THE MAIN COURSE – 250ml
