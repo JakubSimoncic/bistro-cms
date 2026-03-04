@@ -4,12 +4,12 @@ title: Denní menu CZ
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)
 
 * **MENU 1: Polévka + Drůbeží játra na cibulce, pečená jasmínová rýže** 185 Kč
-* **MENU 2: Polévka + Záhorácký závitek, šťouchané brambory s jarní cibulkou* 195 Kč 
+* **MENU 2: Polévka + Záhorácký závitek, šťouchané brambory s jarní cibulkou** 195 Kč 
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
 * **Kapustová polévka s klobásou a brambory** 35 Kč
-* **Slepičí vývar s masem, zeleninou a bramborové kapání* 35 Kč
+* **Slepičí vývar s masem, zeleninou a bramborové kapání** 35 Kč
 
 ## HLAVNÍ JÍDLA
 
