@@ -28,5 +28,5 @@ title: Denní menu CZ
 * **Pórkový krém s bylinkovými krutony nebo Frankfurtská polévka** 75 Kč
 
 
-***Nabídka platí ve středu 4.3. od 10:00 do zavírací hodiny nebo do vyprodání.***
+***Nabídka platí ve středu 4.3. od 10:30 do zavírací hodiny nebo do vyprodání.***
 
