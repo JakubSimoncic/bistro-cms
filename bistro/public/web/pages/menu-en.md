@@ -13,8 +13,8 @@ title: Denní menu - EN
 
 ## MAIN COURSES
 
-* **Roasted pork shoulder, cabbage variation, potato dumpling** 175 CZK
-* **Baked potatoes with smoked meat, pickled cucumber** 165 CZK
+* **Roasted pork shoulder, cabbage variation, potato dumplings** 175 CZK
+* **Baked potatoes with smoked meat, pickled cucumber** 175 CZK
 * **Stuffed roasted chicken thigh, rich chicken gravy, jasmine rice** 175 CZK
 * **Fried cauliflower with boiled potato, tartar sauce** 165 CZK
 * **Pulled pork in our BBQ sauce, roasted potatoes and Coleslaw salad** 185 CZK
