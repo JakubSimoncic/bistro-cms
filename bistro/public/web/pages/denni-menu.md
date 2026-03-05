@@ -3,7 +3,7 @@ title: Denní menu CZ
 ---
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)
 
-* **MENU 1: Polévka + Drůbeží játra na cibulce, pečená jasmínová rýže** 185 Kč
+* **MENU 1: Polévka + Smažený květák s vařeným bramborem, tatarka** 185 Kč
 * **MENU 2: Polévka + Nadívané pečené kuřecí stehno, silná kuřecí šťáva, pečená jasmínová rýže** 195 Kč 
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
