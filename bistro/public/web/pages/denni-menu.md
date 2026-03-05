@@ -14,7 +14,7 @@ title: Denní menu CZ
 ## HLAVNÍ JÍDLA
 
 * **Moravský vrabec, variace zelí, bramborový knedlík** 175 Kč
-* **Zapečené francouzské brambory s uzeným masem, kyselá okurka** 165 Kč
+* **Zapečené francouzské brambory s uzeným masem, kyselá okurka** 175 Kč
 * **Nadívané pečené kuřecí stehno, silná kuřecí šťáva, pečená jasmínová rýže** 175 Kč
 * **Smažený květák s vařeným bramborem, tatarka** 165 Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek Coleslaw** 185 Kč
