@@ -8,13 +8,13 @@ title: Denní menu CZ
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
-* **Pórkový krém, krutony, petrželový olej** 35 Kč
-* **Dršťková polévka** 35 Kč
+* **Frankfurstká polévka** 35 Kč
+* **Kapustová polévka s klobásou** 35 Kč
 
 ## HLAVNÍ JÍDLA
 
 * **Drůbeží játra na cibulce, pečená jasmínová rýže** 175 Kč
-* **Sekaná svíčková, domácí houskový knedlík** 185 Kč
+* **Sekaná svíčková, domácí houskový knedlík** 175 Kč
 * **Smažený květák, vařené brambory a tatarská omáčka** 165 Kč
 * **Nadívané pečené kuřecí stehno, vařené brambory a masová šťáva** 175 Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek Coleslaw** 185 Kč
@@ -25,8 +25,8 @@ title: Denní menu CZ
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTATNĚ – 500ml
 
-* **Pórkový krém, krutony, petrželový olej nebo Dršťková polévka** 75 Kč
+* **Frankfurstká polévka nebo kapustová polévka s klobásou** 75 Kč
 
 
-***Nabídka platí v sobotu 07.03. od 10:30 do zavírací hodiny nebo do vyprodání.***
+***Nabídka platí v neděli 08.03. od 10:30 do zavírací hodiny nebo do vyprodání.***
 
