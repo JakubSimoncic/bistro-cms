@@ -3,8 +3,8 @@ title: Denní menu CZ
 ---
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)
 
-* **MENU 1: Polévka + Čočka na kyselo, uzená rolovaná plec, cibulka a kyselá okurka** 195 Kč
-* **MENU 2: Polévka + Zapečené francouzské brambory s uzeným masem, kyselá okurka** 195 Kč 
+* **MENU 1: Polévka + Smažený květák, vařené brambory a tatarská omáčka** 185 Kč
+* **MENU 2: Polévka + Nadívané pečené kuřecí stehno, vařené brambory a masová šťáva** 195 Kč 
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
@@ -13,10 +13,10 @@ title: Denní menu CZ
 
 ## HLAVNÍ JÍDLA
 
-* **Moravský vrabec, variace zelí, bramborový knedlík** 175 Kč
-* **Zapečené francouzské brambory s uzeným masem, kyselá okurka** 175 Kč
-* **Rozlítaný španělský vepřový ptáček, pečená jasmínová rýže** 185 Kč
-* **Čočka na kyselo, uzená rolovaná plec, cibulka a kyselá okurka** 175 Kč
+* **Drůbeží játra na cibulce, pečená jasmínová rýže** 175 Kč
+* **Sekaná svíčková, domácí houskový knedlík** 185 Kč
+* **Smažený květák, vařené brambory a tatarská omáčka** 165 Kč
+* **Nadívané pečené kuřecí stehno, vařené brambory a masová šťáva** 175 Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek Coleslaw** 185 Kč
 * **Hovězí guláš s cibulkou a beraním rohem, domácí houskový knedlík** 195 Kč
 * **Kuřecí řízek, bramborový salát a citron** 185 Kč
