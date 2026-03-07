@@ -26,4 +26,4 @@ title: Denní menu - EN
 ## LARGE SOUP ORDERED SEPARATELY – 500ml
 * **Frankfurter soup or Kale soup with sausage** 75 CZK
 
-***Offer valid on Sunday 08.03. from 10:30 until closing time or until sold out.***
+***Offer valid on Sunday 8.03. from 10:30 until closing time or until sold out.***
