@@ -17,11 +17,11 @@ title: Denní menu CZ
 * **Cmunda po kaplicku (uzené maso a zelí v bramboráku)** 175 Kč
 * **Vepřová plec na hříbkách, domácí houskový knedlík** 185 Kč
 * **- Špagety carbonara (pancetta, žloutek a parmazán)- jídlo týdne** 205 Kč
+* **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 175 Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek Coleslaw** 185 Kč
 * **Hovězí guláš s cibulkou a beraním rohem, domácí houskový knedlík** 195 Kč
 * **Kuřecí řízek, bramborový salát a citron** 185 Kč
 * **Smažený sýr, hranolky a tatarská omáčka** 185 Kč
-* **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 175 Kč
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTATNĚ – 500ml
 
