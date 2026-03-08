@@ -3,19 +3,20 @@ title: Denní menu CZ
 ---
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)
 
-* **MENU 1: Polévka + Smažený květák, vařené brambory a tatarská omáčka** 185 Kč
-* **MENU 2: Polévka + Drůbeží játra na cibulce, pečená jasmínová rýže** 195 Kč 
+* **MENU 1: Polévka + Cmunda po kaplicku (uzené maso a zelí v bramboráku)** 195 Kč
+* **MENU 2: Polévka + Vepřová plec na hříbkách, domácí houskový knedlík** 195 Kč 
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
-* **Čočková polévka s klobásou** 35 Kč
-* **Kapustová polévka s klobásou** 35 Kč
+* **Boršč se zakysanou smetanou** 35 Kč
+* **Čočková polévka s uzeninou** 35 Kč
 
 ## HLAVNÍ JÍDLA
 
-* **Drůbeží játra na cibulce, pečená jasmínová rýže** 175 Kč
-* **Sekaná svíčková, domácí houskový knedlík** 175 Kč
-* **Smažený květák, vařené brambory a tatarská omáčka** 165 Kč
+* **Katův šleh a pečená jasmínová rýže** 175 Kč
+* **Cmunda po kaplicku (uzené maso a zelí v bramboráku)** 175 Kč
+* **Vepřová plec na hříbkách, domácí houskový knedlík** 175 Kč
+* **Špagety carbonara (pancetta, žloutek a parmazán)- jídlo týdne** 205 Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek Coleslaw** 185 Kč
 * **Hovězí guláš s cibulkou a beraním rohem, domácí houskový knedlík** 195 Kč
 * **Kuřecí řízek, bramborový salát a citron** 185 Kč
@@ -24,8 +25,8 @@ title: Denní menu CZ
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTATNĚ – 500ml
 
-* **Čočková polévka s klobásou nebo kapustová polévka s klobásou** 75 Kč
+* **Boršč se zakysanou smetanou nebo čočková polévka s uzeninou** 75 Kč
 
 
-***Nabídka platí v neděli 08.03. od 10:30 do zavírací hodiny nebo do vyprodání.***
+***Nabídka platí v pondělí 9.03. od 10:30 do zavírací hodiny nebo do vyprodání.***
 
