@@ -4,7 +4,7 @@ title: Denní menu - EN
 ## SPECIAL OFFER (soup + main course)
 
 * **MENU 1: Soup + Smoked meat and cabbage in a potato pancake** 195 CZK
-* **MENU 2: Soup + Pork meat with mushroom sauce and homemade dumplings** 195 CZK
+* **MENU 2: Soup + Pork meat with mushroom sauce and homemade dumplings** 205 CZK
 
 ## SMALL SOUP FOR THE MAIN COURSE – 250ml
 
@@ -15,7 +15,7 @@ title: Denní menu - EN
 
 * **Spice mix of pork meat with vegetables, baked jasmine rice** 175 CZK
 * **Smoked meat and cabbage in a potato pancake** 175 CZK
-* **Pork meat with mushroom sauce and homemade dumplings** 175 CZK
+* **Pork meat with mushroom sauce and homemade dumplings** 185 CZK
 * **- Spaghetti carbonara (pancetta, egg yolk and parmesan cheese) - meal of the week** 205 CZK
 * **Pulled pork in our BBQ sauce, roasted potatoes and Coleslaw salad** 185 CZK
 * **Beef goulash with onion, homemade bread dumpling** 195 CZK
