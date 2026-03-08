@@ -16,7 +16,6 @@ title: Denní menu CZ
 * **Katův šleh a pečená jasmínová rýže** 175 Kč
 * **Cmunda po kaplicku (uzené maso a zelí v bramboráku)** 175 Kč
 * **Vepřová plec na hříbkách, domácí houskový knedlík** 185 Kč
-* 
 * **- Špagety carbonara (pancetta, žloutek a parmazán) - jídlo týdne** 205 Kč
 * **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 175 Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek Coleslaw** 185 Kč
