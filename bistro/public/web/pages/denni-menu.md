@@ -15,7 +15,7 @@ title: Denní menu CZ
 
 * **Smažený holandský řízek, bramborová kaše, okurka** 175 Kč
 * **Vepřová plec po cikánsku, pečená jasmínová rýže** 175 Kč
-* **Pečená farmářská uzená plec na česneku, listový špenát, bramborový knedlík ** 185 Kč
+* **Pečená farmářská uzená plec na česneku, listový špenát, bramborový knedlík** 185 Kč
 * **- Špagety carbonara (česnek, pancetta, žloutek a parmazán) - jídlo týdne** 205 Kč
 * **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 175 Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek Coleslaw** 185 Kč
