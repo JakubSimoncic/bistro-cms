@@ -3,19 +3,19 @@ title: Denní menu - EN
 ---
 ## SPECIAL OFFER (soup + main course)
 
-* **MENU 1: Soup + Grilled Camembert wrapped in English bacon, boiled potatoes with chives and cranberry sauce with port wine** 205 CZK
-* **MENU 2: Soup + Roasted pork flank, braised white cabbage and homemade dumplings** 195 CZK
+* **MENU 1: Soup + Baked pasta with chicken meat, spinach and smoked cheese** 195 CZK
+* **MENU 2: Soup + Pork meat, gypsy-style sauce and baked jasmine rice** 205 CZK
 
 ## SMALL SOUP FOR THE MAIN COURSE – 250ml
 
-* **South Bohemian kulajda- dill creamy soup with potatoes and mushrooms** 35 CZK
-* **Old Bohemian garlic with croutons and cheese** 35 CZK
+* **Beef broth with vegetables and liver rice** 35 CZK
+* **Kulajda- dill creamy sauce with potatoes and mushrooms** 35 CZK
 
 ## MAIN COURSES
 
-* **Pork meat, meat sauce with sausage, bacon and eggs, baked jasmine rice** 185 CZK
-* **Grilled Camembert wrapped in English bacon, boiled potatoes with chives and cranberry sauce with port wine** 185 CZK
-* **Roasted pork flank, braised white cabbage and homemade dumplings** 175 CZK
+* **Roasted pork meat, green beans with English bacon and garlic, mashed potatoes with spring onions** 185 CZK
+* **Baked pasta with chicken meat, spinach and smoked cheese** 175 CZK
+* **Pork meat, gypsy-style sauce and baked jasmine rice** 185 CZK
 * **- Spaghetti carbonara (garlic, pancetta, egg yolk and parmesan cheese) - meal of the week** 205 CZK
 * **Grilled stuffed wheat tortilla of your choice and French Fries** 175 CZK
 * **Pulled pork in our BBQ sauce, roasted potatoes and Coleslaw salad** 185 CZK
@@ -24,6 +24,6 @@ title: Denní menu - EN
 * **Fried cheese, French Fries and tartar sauce** 185 CZK
 
 ## LARGE SOUP ORDERED SEPARATELY – 500ml
-* **South Bohemian kulajda- dill creamy soup with potatoes and mushrooms or Old Bohemian garlic with croutons and cheese** 75 CZK
+* **Beef broth with vegetables and liver rice or Kulajda- dill creamy sauce with potatoes and mushrooms** 75 CZK
 
-***Offer valid on Wednesday 11.3. from 10:30 until closing time or until sold out.***
+***Offer valid on Thursday 12.3. from 10:30 until closing time or until sold out.***
