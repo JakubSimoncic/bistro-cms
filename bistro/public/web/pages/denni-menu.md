@@ -3,19 +3,19 @@ title: Denní menu CZ
 ---
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)
 
-* **MENU 1: Polévka + Grilovaný hermelín balený v anglické slanině, vařené brambory s pažitkou a brusinková omáčka s portským vínem** 205 Kč
-* **MENU 2: Polévka + Pečený vepřový bok, dušené bílé zelí a domácí houskový knedlík** 195 Kč 
+* **MENU 1: Polévka + Zapečené těstoviny s kuřecím masem, špenátem a uzeným sýrem** 195 Kč
+* **MENU 2: Polévka + Vepřová plec po cikánsku a pečená jasmínová rýže** 195 Kč 
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
+* **Hovězí vývar se zeleninou a játrovou rýží** 35 Kč
 * **Jihočeská kulajda** 35 Kč
-* **Staročeská česnečka s krutony a sýrem** 35 Kč
 
 ## HLAVNÍ JÍDLA
 
-* **Rozlítaný španělský vepřový ptáček, pečená jasmínová rýže** 185 Kč
-* **Grilovaný hermelín balený v anglické slanině, vařené brambory s pažitkou a brusinková omáčka s portským vínem** 185 Kč
-* **Pečený vepřový bok, dušené bílé zelí a domácí houskový knedlík** 175 Kč
+* **Pečená vepřová krkovička, selské fazolky s anglickou slaninou a česnekem, šťouchané brambory s jarní cibulkou** 185 Kč
+* **Zapečené těstoviny s kuřecím masem, špenátem a uzeným sýrem** 175 Kč
+* **Vepřová plec po cikánsku a pečená jasmínová rýže** 175 Kč
 * **- Špagety carbonara (česnek, pancetta, žloutek a parmazán) - jídlo týdne** 205 Kč
 * **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 175 Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek Coleslaw** 185 Kč
@@ -25,8 +25,8 @@ title: Denní menu CZ
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTATNĚ – 500ml
 
-* **Jihočeská kulajda nebo staročeská česnečka s krutony a sýrem** 75 Kč
+* **Jihočeská kulajda nebo hovězí vývar se zeleninou a játrovou rýží** 75 Kč
 
 
-***Nabídka platí ve středu 11.3. od 10:30 do zavírací hodiny nebo do vyprodání.***
+***Nabídka platí ve čtvrtek 12.3. od 10:30 do zavírací hodiny nebo do vyprodání.***
 
