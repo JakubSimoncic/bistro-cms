@@ -8,7 +8,7 @@ title: Denní menu - EN
 
 ## SMALL SOUP FOR THE MAIN COURSE – 250ml
 
-* **South Bohemian ulajda- dill creamy soup with potatoes and mushrooms** 35 CZK
+* **South Bohemian kulajda- dill creamy soup with potatoes and mushrooms** 35 CZK
 * **Old Bohemian garlic with croutons and cheese** 35 CZK
 
 ## MAIN COURSES
