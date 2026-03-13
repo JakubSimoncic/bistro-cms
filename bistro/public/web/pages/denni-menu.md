@@ -3,7 +3,7 @@ title: Denní menu CZ
 ---
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)
 
-* **MENU 1: Polévka + Smažený holandský řízek, vařené brambory, kyselá okurka* 195 Kč
+* **MENU 1: Polévka + Smažený holandský řízek, vařené brambory, kyselá okurka** 195 Kč
 * **MENU 2: Polévka + Maďarský vepřový perkelt, houskový knedlík** 195 Kč 
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
