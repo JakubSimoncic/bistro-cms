@@ -8,14 +8,14 @@ title: Denní menu CZ
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
-* **Gulášová polévka** 35 Kč
 * **Krémová česnečka s krutony a sýrem** 35 Kč
+* **Gulášová polévka** 35 Kč
 
 ## HLAVNÍ JÍDLA
 
 * **Smažený karbanátek, bramborová kaše, okurka** 175 Kč
 * **Vepřové nudličky stroganoff, pečená jasmínová rýže** 175 Kč
-* **Kuřecí medailonky, zeleninové ratatouille, opečené brambory ** 185 Kč
+* **Kuřecí medailonky, zeleninové ratatouille, opečené brambory** 185 Kč
 * **BBQ kuřecí křídla, americké brambory, salátek coleslaw - jídlo týdne** 185 Kč
 * **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 175 Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek coleslaw** 185 Kč
@@ -25,7 +25,7 @@ title: Denní menu CZ
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTATNĚ – 500ml
 
-* **Hovězí vývar s masem, zeleninou a fritátovými nudlemi nebo boršč se zakysanou smetanou** 75 Kč
+* **Krémová česnečka s krutony a sýrem nebo boršč se zakysanou smetanou** 75 Kč
 
 
 ***Nabídka platí v pondělí 16.3. od 10:30 do zavírací hodiny nebo do vyprodání.***
