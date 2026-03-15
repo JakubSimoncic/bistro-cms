@@ -3,20 +3,20 @@ title: Denní menu - EN
 ---
 ## SPECIAL OFFER (soup + main course)
 
-* **MENU 1: Soup + Pork meat with gypsy style sauce and baked jasmine rice** 195 CZK
-* **MENU 2: Soup + Baked pork meat, leaf spinach and variations of dumplings** 205 CZK
+* **MENU 1: Soup + Fried meatball, mashed potatoes, cucumber** 195 CZK
+* **MENU 2: Soup + Pork strips stroganoff, baked jasmine rice** 195 CZK
 
 ## SMALL SOUP FOR THE MAIN COURSE – 250ml
 
-* **Beef broth with meat, vegetables and frittata noodles** 35 CZK
-* **Borsch soup with sour cream** 35 CZK
+* **Creamy garlic soup with croutons and cheese** 35 CZK
+* **Goulash soup** 35 CZK
 
 ## MAIN COURSES
 
-* **Spicy pork mix with vegetables and baked jasmine rice** 175 CZK
-* **Grilled camembert wrapped in English bacon, French Fries and cranberry mayonnaise** 185 CZK
-* **Pork meat with gypsy style sauce and baked jasmine rice** 175 CZK
-* **Baked pork meat, leaf spinach and variations of dumplings** 185 CZK
+* **Fried meatball, mashed potatoes, cucumber** 175 CZK
+* **Pork strips stroganoff, baked jasmine rice** 175 CZK
+* **Chicken medallions, vegetable ratatouille, roasted potatoes** 185 CZK
+* **BBQ Chicken Wings, American Potatoes, Coleslaw Salad - Meal of the Week** 185 CZK
 * **Grilled stuffed wheat tortilla of your choice and French Fries** 175 CZK
 * **Pulled pork in our BBQ sauce, roasted potatoes and Coleslaw salad** 185 CZK
 * **Beef goulash with onion, homemade dumplings** 195 CZK
@@ -24,6 +24,6 @@ title: Denní menu - EN
 * **Fried cheese, French Fries and tartar sauce** 185 CZK
 
 ## LARGE SOUP ORDERED SEPARATELY – 500ml
-* **Beef broth with meat, vegetables and frittata noodles or borsch soup with sour cream** 75 CZK
+* **Creamy garlic soup with croutons and cheese or Goulash soup** 75 CZK
 
-***Offer valid on Sunday 15.3. from 10:30 until closing time or until sold out.***
+***Offer valid on Monday 16.3. from 10:30 until closing time or until sold out.***
