@@ -3,8 +3,8 @@ title: Denní menu - EN
 ---
 ## SPECIAL OFFER (soup + main course)
 
-* **MENU 1: Soup + Braised pork shoulder in sauce with carrot, mashed potatoes ** 195 CZK
-* **MENU 2: Soup + Roast pork, white cabbage, potato dumpling ** 195 CZK
+* **MENU 1: Soup + Braised pork shoulder in sauce with carrot, mashed potatoes** 195 CZK
+* **MENU 2: Soup + Roast pork, white cabbage, potato dumpling** 195 CZK
 
 ## SMALL SOUP FOR THE MAIN COURSE – 250ml
 
