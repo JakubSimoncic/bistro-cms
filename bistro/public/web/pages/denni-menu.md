@@ -4,7 +4,7 @@ title: Denní menu CZ
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)
 
 * **MENU 1: Polévka + Srbské vepřové rizoto se sýrem, kyselá okurka** 195 Kč
-* **MENU 2: Polévka + Boloňské špagety se sýrem** 195 Kč
+* **MENU 2: Polévka + Boloňské špagety se sýrem** 205 Kč
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
