@@ -13,7 +13,7 @@ title: Denní menu CZ
 
 ## HLAVNÍ JÍDLA
 
-* **Vepřové nudličky gyros a pečená jasmínová rýže** 185 Kč
+* **Vepřové nudličky Stroganoff a pečená jasmínová rýže** 185 Kč
 * **Svíčková na smetaně, domácí houskový knedlík, brusinkový terč** 215 Kč
 * **Srbské vepřové rizoto se sýrem, kyselá okurka** 175 Kč
 * **Boloňské špagety se sýrem** 185 Kč
