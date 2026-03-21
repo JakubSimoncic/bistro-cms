@@ -13,7 +13,7 @@ title: Denní menu - EN
 
 ## MAIN DISHES
 
-* **Pork gyros and baked jasmine rice** 185 CZK
+* **Pork Stroganoff and baked jasmine rice** 185 CZK
 * **"Svíčková"- Beef sirloin meat in vegetable creamy sauce, homemade dumplings** 215 CZK
 * **Serbian pork risotto with cheese, pickles** 175 CZK
 * **Beef Bolognese spaghetti with cheese** 185 CZK
