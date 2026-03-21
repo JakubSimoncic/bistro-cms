@@ -4,7 +4,7 @@ title: Denní menu CZ
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)
 
 * **MENU 1: Polévka + Domácí sekaná se šťouchaným bramborem, kyselá okurka** 195 Kč
-* **MENU 2: Polévka + Vepřová plec v mrkvi se šťouchaným bramborem** 205 Kč
+* **MENU 2: Polévka + Vepřová plec v mrkvi se šťouchaným bramborem** 195 Kč
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
