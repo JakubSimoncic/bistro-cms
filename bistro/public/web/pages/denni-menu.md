@@ -3,20 +3,20 @@ title: Denní menu CZ
 ---
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)
 
-* **MENU 1: Polévka + Srbské vepřové rizoto se sýrem, kyselá okurka** 195 Kč
-* **MENU 2: Polévka + Boloňské špagety se sýrem** 205 Kč
+* **MENU 1: Polévka + Domácí sekaná se šťouchaným bramborem, kyselá okurka** 195 Kč
+* **MENU 2: Polévka + Vepřová plec v mrkvi se šťouchaným bramborem** 205 Kč
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
-* **Zelná polévka s klobásou** 35 Kč
-* **Hrachová polévka s uzeninou** 35 Kč
+* **Hříbkový krém** 35 Kč
+* **Bramborová polévka** 35 Kč
 
 ## HLAVNÍ JÍDLA
 
-* **Vepřové nudličky Stroganoff a pečená jasmínová rýže** 185 Kč
-* **Svíčková na smetaně, domácí houskový knedlík, brusinkový terč** 215 Kč
-* **Srbské vepřové rizoto se sýrem, kyselá okurka** 175 Kč
-* **Boloňské špagety se sýrem** 185 Kč
+* **Domácí sekaná se šťouchaným bramborem, kyselá okurka** 175 Kč
+* **Vepřová plec v mrkvi se šťouchaným bramborem** 175 Kč
+* **Vepřový perkelt, jasmínová rýže** 175 Kč
+* **Kuřecí stripsy v cornflakes strouhance, hranolky, BBQ majonéza** 185 Kč
 * **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 185 Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek coleslaw** 185 Kč
 * **Hovězí guláš s cibulkou a beraním rohem, domácí houskový knedlík** 195 Kč
@@ -25,8 +25,8 @@ title: Denní menu CZ
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTATNĚ – 500ml
 
-* **Zelná polévka s klobásou nebo hrachová polévka s uzeninou** 75 Kč
+* **Hříbkový krém nebo bramborová polévka** 75 Kč
 
 
-***Nabídka platí v sobotu 21.3. od 10:30 do zavírací hodiny nebo do vyprodání.***
+***Nabídka platí v neděli 21.3. od 10:30 do zavírací hodiny nebo do vyprodání.***
 
