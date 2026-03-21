@@ -14,7 +14,7 @@ title: Denní menu - EN
 ## MAIN COURSES
 
 * **Homemade meatloaf with mashed potatoes, pickled cucumber** 175 CZK
-* ** Pork shoulder with sauce and with mashed potatoes** 175 CZK
+* **Pork shoulder with sauce and with mashed potatoes** 175 CZK
 * **Pork perkelt, jasmine rice** 175 CZK
 * **Chicken strips in cornflakes breadcrumbs, fries, BBQ mayonnaise** 185 CZK
 * **Grilled stuffed wheat tortilla of your choice and French Fries** 185 CZK
