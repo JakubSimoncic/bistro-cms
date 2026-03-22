@@ -3,20 +3,20 @@ title: Denní menu CZ
 ---
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)
 
-* **MENU 1: Polévka + Domácí sekaná se šťouchaným bramborem, kyselá okurka** 195 Kč
-* **MENU 2: Polévka + Vepřová plec v mrkvi se šťouchaným bramborem** 195 Kč
+* **MENU 1: Polévka + Halušky s uzeným masem, zelí, cibulka** 195 Kč
+* **MENU 2: Polévka + Holandský řízek, bramborová kaše, okurka** 205 Kč
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
-* **Hříbkový krém s bylinkové krutony** 35 Kč
-* **Bramborová polévka** 35 Kč
+* **Valašská kyselice** 35 Kč
+* **Frankfurtská polévka** 35 Kč
 
 ## HLAVNÍ JÍDLA
 
-* **Domácí sekaná se šťouchaným bramborem, kyselá okurka** 175 Kč
-* **Vepřová plec v mrkvi se šťouchaným bramborem** 175 Kč
-* **Vepřový perkelt, jasmínová rýže** 175 Kč
-* **Kuřecí stripsy v cornflakes strouhance, hranolky, BBQ majonéza** 185 Kč
+* **Halušky s uzeným masem, zelí, cibulka** 175 Kč
+* **Holandský řízek, bramborová kaše, kyselá okurka** 185 Kč
+* **Kuřecí nudličky na kari s pórkem, pečená jasmínová rýže** 175 Kč
+* **Spaghetti aglio olio e peperoncino - Jídlo týdne** 185 Kč
 * **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 185 Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek coleslaw** 185 Kč
 * **Hovězí guláš s cibulkou a beraním rohem, domácí houskový knedlík** 195 Kč
@@ -25,8 +25,8 @@ title: Denní menu CZ
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTATNĚ – 500ml
 
-* **Hříbkový krém nebo bramborová polévka** 75 Kč
+* **Valašská kyselice nebo Frankfurtská polévka** 75 Kč
 
 
-***Nabídka platí v neděli 21.3. od 10:30 do zavírací hodiny nebo do vyprodání.***
+***Nabídka platí v Pondělí 22.3. od 10:30 do zavírací hodiny nebo do vyprodání.***
 
