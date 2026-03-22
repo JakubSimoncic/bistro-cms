@@ -3,12 +3,12 @@ title: Denní menu - EN
 ---
 ## SPECIAL OFFER (soup + main course)
 
-* **MENU 1: Soup + Homemade meatballs with mashed potatoes, pickled cucumber** 195 CZK
+* **MENU 1: Soup + Homemade meatloaf with mashed potatoes, pickled cucumber** 195 CZK
 * **MENU 2: Soup + Pork shoulder with sauce and with mashed potatoes** 195 CZK
 
 ## SMALL SOUP FOR THE MAIN COURSE – 250ml
 
-* **Mushroom cream** 35 CZK
+* **Mushroom cream with herb croutons** 35 CZK
 * **Potato soup** 35 CZK
 
 ## MAIN COURSES
