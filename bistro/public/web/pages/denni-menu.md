@@ -8,7 +8,7 @@ title: Denní menu CZ
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
-* **Hříbkový krém** 35 Kč
+* **Hříbkový krém s bylinkové krutony** 35 Kč
 * **Bramborová polévka** 35 Kč
 
 ## HLAVNÍ JÍDLA
