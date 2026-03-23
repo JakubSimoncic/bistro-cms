@@ -28,5 +28,5 @@ title: Denní menu CZ
 * **Valašská kyselice nebo Dršťková polévka** 75 Kč
 
 
-***Nabídka platí v Pondělí 22.3. od 10:30 do zavírací hodiny nebo do vyprodání.***
+***Nabídka platí v úterý 24.3. od 10:30 do zavírací hodiny nebo do vyprodání.***
 
