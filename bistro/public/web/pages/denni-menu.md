@@ -16,7 +16,7 @@ title: Denní menu CZ
 * **Zapečené brambory s mletým hovězím masem, lilkem, cuketou a sýrem** 185 Kč
 * **Hamburská vepřová plec, domácí houskový knedlík** 175 Kč
 * **Smažený holandský řízek, bramborová kaše, kyselá okurka** 185 Kč
-* **špagety Aglio Olio e Peperoncino - Jídlo týdne** 185 Kč
+* **Špagety Aglio Olio e Peperoncino - Jídlo týdne** 185 Kč
 * **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 185 Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek coleslaw** 185 Kč
 * **Hovězí guláš s cibulkou a beraním rohem, domácí houskový knedlík** 195 Kč
