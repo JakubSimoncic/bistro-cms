@@ -3,8 +3,8 @@ title: Denní menu - EN
 ---
 ## SPECIAL OFFER (soup + main course)
 
-* **MENU 1: Soup + Pork shoulder in cream with ham and pickles, homemade bread dumpling ** 195 CZK
-* **MENU 2: Soup + Baked potatoes with minced beef, eggplant, zucchini and cheese ** 205 CZK
+* **MENU 1: Soup + Pork shoulder in cream with ham and pickles, homemade bread dumpling** 195 CZK
+* **MENU 2: Soup + Baked potatoes with minced beef, eggplant, zucchini and cheese** 205 CZK
 
 ## SMALL SOUP FOR THE MAIN COURSE – 250ml
 
