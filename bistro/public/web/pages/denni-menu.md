@@ -4,7 +4,7 @@ title: Denní menu CZ
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)
 
 * **MENU 1: Polévka + Hamburská vepřová plec, domácí houskový knedlík** 195 Kč
-* **MENU 2: Polévka + Moravský vrabec, dušené bílé zelí, bramborový knedlík** 195 Kč
+* **MENU 2: Polévka + Moravský vrabec, dušené bílé zelí, bramborový knedlík** 205 Kč
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
@@ -14,7 +14,7 @@ title: Denní menu CZ
 ## HLAVNÍ JÍDLA
 
 * **Hamburská vepřová plec, domácí houskový knedlík** 175 Kč
-* **Moravský vrabec, dušené bílé zelí, bramborový knedlík** 175 Kč
+* **Moravský vrabec, dušené bílé zelí, bramborový knedlík** 185 Kč
 * **Vídeňská hovězí roštěná, pečená jasmínová rýže/ opečený brambor, tatarka** 215 Kč
 * **Špagety Aglio Olio e Peperoncino - Jídlo týdne** 185 Kč
 * **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 185 Kč
