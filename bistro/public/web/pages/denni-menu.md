@@ -15,7 +15,7 @@ title: Denní menu CZ
 
 * **Hamburská vepřová plec, domácí houskový knedlík** 175 Kč
 * **Moravský vrabec, dušené bílé zelí, bramborový knedlík** 175 Kč
-* **Vídeňská hovězí roštěná, pečená jasmínová rýze/ opečený brambor, tatarka** 195 Kč/205 Kč
+* **Vídeňská hovězí roštěná, pečená jasmínová rýže/ opečený brambor, tatarka** 215 Kč
 * **Špagety Aglio Olio e Peperoncino - Jídlo týdne** 185 Kč
 * **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 185 Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek coleslaw** 185 Kč
