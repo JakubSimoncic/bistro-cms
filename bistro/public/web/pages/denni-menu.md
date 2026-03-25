@@ -14,7 +14,7 @@ title: Denní menu CZ
 ## HLAVNÍ JÍDLA
 
 * **Moravský vrabec, dušené bílé zelí, bramborový knedlík** 185 Kč
-* **Telecí kýta se šípkovou omáčkou a domácí karlovarský knedlík** 215 Kč
+* **Telecí kýta se šípkovou omáčkou a domácí karlovarský knedlík** 205 Kč
 * **Grilovaná rolovaná pečeně plněná slaninou a pestem ze sušených rajčat, bazalková omáčka a opečené brambory** 195 Kč
 * **Špagety Aglio Olio e Peperoncino - Jídlo týdne** 185 Kč
 * **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 185 Kč
