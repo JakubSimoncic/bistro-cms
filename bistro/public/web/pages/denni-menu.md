@@ -9,13 +9,13 @@ title: Denní menu CZ
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
 * **Gulášová polévka** 35 Kč
-* **Frankfurtská polévka** 35 Kč
+* **Frankfurtská polévka s uzeninou** 35 Kč
 
 ## HLAVNÍ JÍDLA
 
 * **Hamburská vepřová plec, domácí houskový knedlík** 175 Kč
 * **Moravský vrabec, dušené bílé zelí, bramborový knedlík** 185 Kč
-* **Vídeňská hovězí roštěná, pečená jasmínová rýže/ opečený brambor, tatarka** 215 Kč
+* **Vídeňská hovězí roštěná, opečený brambor a tatarka nebo pečená jasmínová rýže** 235 Kč
 * **Špagety Aglio Olio e Peperoncino - Jídlo týdne** 185 Kč
 * **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 185 Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek coleslaw** 185 Kč
