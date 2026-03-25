@@ -3,19 +3,19 @@ title: Denní menu CZ
 ---
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)
 
-* **MENU 1: Polévka + Hamburská vepřová plec, domácí houskový knedlík** 195 Kč
-* **MENU 2: Polévka + Moravský vrabec, dušené bílé zelí, bramborový knedlík** 205 Kč
+* **MENU 1: Polévka + Moravský vrabec, dušené bílé zelí, bramborový knedlík** 205 Kč
+* **MENU 2: Polévka + Grilovaná rolovaná pečeně plněná slaninou a pestem ze sušených rajčat, bazalková omáčka a opečené brambory** 215 Kč
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
+* **Hrachová polévka** 35 Kč
 * **Gulášová polévka** 35 Kč
-* **Frankfurtská polévka s uzeninou** 35 Kč
 
 ## HLAVNÍ JÍDLA
 
-* **Hamburská vepřová plec, domácí houskový knedlík** 175 Kč
 * **Moravský vrabec, dušené bílé zelí, bramborový knedlík** 185 Kč
-* **Vídeňská hovězí roštěná, opečený brambor a tatarka nebo pečená jasmínová rýže** 235 Kč
+* **Telecí kýta se šípkovou omáčkou a domácí karlovarský knedlík** 215 Kč
+* **Grilovaná rolovaná pečeně plněná slaninou a pestem ze sušených rajčat, bazalková omáčka a opečené brambory** 195 Kč
 * **Špagety Aglio Olio e Peperoncino - Jídlo týdne** 185 Kč
 * **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 185 Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek coleslaw** 185 Kč
@@ -25,8 +25,8 @@ title: Denní menu CZ
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTATNĚ – 500ml
 
-* **Gulášová polévka nebo Frankfurtská polévka** 75 Kč
+* **Hrachová polévka nebo gulášová polévka** 75 Kč
 
 
-***Nabídka platí v středu 25.3. od 10:30 do zavírací hodiny nebo do vyprodání.***
+***Nabídka platí ve čtvrtek 26.3. od 10:30 do zavírací hodiny nebo do vyprodání.***
 
