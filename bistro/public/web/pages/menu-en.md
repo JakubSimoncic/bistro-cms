@@ -3,7 +3,7 @@ title: Denní menu - EN
 ---
 ## SPECIAL OFFER (soup + main course)
 
-* **MENU 1: Soup + Pork shoulder in cream with ham and pickles, homemade bread dumpling** 195 CZK
+* **MENU 1: Soup + Pork meat in creamy sauce with ham and pickles, homemade dumplings** 195 CZK
 * **MENU 2: Soup + Roasted pork shoulder, stewed white cabbage, potato dumpling** 205 CZK
 
 ## SMALL SOUP FOR THE MAIN COURSE – 250ml
@@ -14,9 +14,9 @@ title: Denní menu - EN
 
 ## MAIN COURSES
 
-* **Pork shoulder in cream with ham and pickles, homemade bread dumpling** 175 CZK
-* **Roasted pork shoulder, stewed white cabbage, potato dumpling** 185 CZK
-* **Viennese beef sirloin, baked jasmine rice/roasted potato, tartar sauce** 215 CZK
+* **Pork meat in creamy sauce with ham and pickles, homemade dumplings** 175 CZK
+* **Roasted pork meat, stewed white cabbage, potato dumplings** 185 CZK
+* **Viennese beef sirloin, roasted potato and tartar sauce or baked jasmine rice** 235 CZK
 * **Spaghetti aglio olio e peperoncino - Meal of the week** 185 CZK
 * **Grilled stuffed wheat tortilla of your choice and French Fries** 185 CZK
 * **Pulled pork meat in our BBQ sauce, roasted potatoes and Coleslaw salad** 185 CZK
