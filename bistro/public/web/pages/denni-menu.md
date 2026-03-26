@@ -3,19 +3,19 @@ title: Denní menu CZ
 ---
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)
 
-* **MENU 1: Polévka + Moravský vrabec, dušené bílé zelí, bramborový knedlík** 205 Kč
-* **MENU 2: Polévka + Grilovaná rolovaná pečeně plněná slaninou a pestem ze sušených rajčat, bazalková omáčka a opečené brambory** 215 Kč
+* **MENU 1: Polévka + Zapečené šunkofleky s uzeným masem, okurka** 195 Kč
+* **MENU 2: Polévka + Mexická pikantní vepřová směs se zeleninou a fazolemi, pečená jasmínová rýže** 205 Kč
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
-* **Hrachová polévka** 35 Kč
-* **Gulášová polévka** 35 Kč
+* **Kuřecí vývar s masem, zeleninou a celestýnskými nudlemi ** 35 Kč
+* **Hráškový krém s bylinkovými krutony** 35 Kč
 
 ## HLAVNÍ JÍDLA
 
-* **Moravský vrabec, dušené bílé zelí, bramborový knedlík** 185 Kč
-* **Telecí kýta se šípkovou omáčkou a domácí karlovarský knedlík** 205 Kč
-* **Grilovaná rolovaná pečeně plněná slaninou a pestem ze sušených rajčat, bazalková omáčka a opečené brambory** 195 Kč
+* **Zapečené šunkofleky s uzeným masem, okurka** 175 Kč
+* **Mexická pikantní vepřová směs se zeleninou a fazolemi, pečená jasmínová rýže** 185 Kč
+* **Telecí řízečky s vídeňským jarním bramborovým salátem, citron** 215 Kč
 * **Špagety Aglio Olio e Peperoncino - Jídlo týdne** 185 Kč
 * **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 185 Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek coleslaw** 185 Kč
@@ -25,8 +25,8 @@ title: Denní menu CZ
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTATNĚ – 500ml
 
-* **Hrachová polévka nebo gulášová polévka** 75 Kč
+* **Kuřecí vývar s masem, zeleninou a celestýnskými nudlemi nebo Hráškový krém s bylinkovými krutony** 75 Kč
 
 
-***Nabídka platí ve čtvrtek 26.3. od 10:30 do zavírací hodiny nebo do vyprodání.***
+***Nabídka platí ve Pátek 27.3. od 10:30 do zavírací hodiny nebo do vyprodání.***
 
