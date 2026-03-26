@@ -8,7 +8,7 @@ title: Denní menu CZ
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
-* **Kuřecí vývar s masem, zeleninou a celestýnskými nudlemi ** 35 Kč
+* **Kuřecí vývar s masem, zeleninou a celestýnskými nudlemi** 35 Kč
 * **Hráškový krém s bylinkovými krutony** 35 Kč
 
 ## HLAVNÍ JÍDLA
