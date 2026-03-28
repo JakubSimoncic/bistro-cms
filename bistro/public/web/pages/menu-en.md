@@ -15,7 +15,7 @@ title: Denní menu - EN
 
 * **Baked pasta with smoked meat, pickled cucumber** 175 CZK
 * **Szeged pork goulash, homemade bread dumpling** 185 CZK
-* **Veal leg with rosehip sauce, homemade dumpling** 215 CZK
+* **Veal leg with rosehip sauce, homemade dumpling** 205 CZK
 * **Mexican pork mixture with vegetables and beans, rice\fries** 185 CZK
 * **Grilled stuffed wheat tortilla of your choice and French Fries** 185 CZK
 * **Pulled pork meat in our BBQ sauce, roasted potatoes and Coleslaw salad** 185 CZK
