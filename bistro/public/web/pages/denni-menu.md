@@ -15,7 +15,7 @@ title: Denní menu CZ
 
 * **Zapečené šunkofleky s uzeným masem, kyselá okurka** 175 Kč
 * **Segedínský vepřový guláš, domácí houskový knedlík** 185 Kč
-* **Telecí kýta se šípkovou omáčkou, karlovarský knedlík** 215 Kč
+* **Telecí kýta se šípkovou omáčkou, karlovarský knedlík** 205 Kč
 * **Mexická vepřová směs se zeleninou a fazolemi, rýže\ hranolky** 185 Kč
 * **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 185 Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek coleslaw** 185 Kč
