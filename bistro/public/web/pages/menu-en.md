@@ -25,6 +25,6 @@ title: Denní menu - EN
 * **Fried cheese, French Fries and tartar sauce** 195 CZK
 
 ## LARGE SOUP ORDERED SEPARATELY – 500ml
-* **Wallachian sourdough or Leek cream with herb croutons** 85 CZK
+* **Wallachian sourdough or Leek cream with herb croutons** 75 CZK
 
 ***Offer valid on Satday 28.3. from 10:30 until closing time or until sold out.***
