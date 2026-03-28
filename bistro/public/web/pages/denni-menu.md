@@ -15,7 +15,7 @@ title: Denní menu CZ
 
 * **Zapečené brambory s mletým hovězím masem, cuketou, lilkem a sýrem** 185 Kč
 * **Hamburská vepřová plec, domácí houskový knedlík** 185 Kč
-* **Kuřecí nudličky na kari, pečená jasmínová rýže ** 185 Kč
+* **Kuřecí nudličky na kari, pečená jasmínová rýže** 185 Kč
 * **BBQ kuřecí křídla, americké brambory, salátek coleslaw** 185 Kč
 * **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 185 Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek coleslaw** 185 Kč
