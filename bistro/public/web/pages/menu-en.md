@@ -3,7 +3,7 @@ title: Denní menu - EN
 ---
 ## SPECIAL OFFER (soup + main course)
 
-* **MENU 1: Soup + Pork shoulder with paprika sauce and pasta (fusilli)** 205 Kč
+* **MENU 1: Soup + Pork shoulder with paprika sauce and pasta (fusilli)** 195 Kč
 * **MENU 2: Soup + Stuffed potato dumpling with smoked meat, cabbage, onion, and pickled onions** 195 Kč
 
 ## SMALL SOUP WITH MAIN COURSE – 250ml
@@ -13,10 +13,10 @@ title: Denní menu - EN
 
 ## MAIN COURSES
 
-* **Pork shoulder with paprika sauce and pasta (fusilli)** 185 Kč
+* **Pork shoulder with paprika sauce and pasta (fusilli)** 175 Kč
 * **Stuffed potato dumpling with smoked meat, cabbage, onion, and pickled onions** 175 Kč
 * **Veal strips in red curry with coconut milk, roasted jasmine rice** 205 Kč
-* **Roast beef with roasted grenaille potatoes, meat jus, and tartar sauce** 255 Kč
+* **Roast beef with roasted grenaille potatoes, meat jus, and tartar sauce** 265 Kč
 * **Grilled stuffed wheat tortilla of your choice and French Fries** 185 CZK
 * **Pulled pork meat in our BBQ sauce, roasted potatoes and Coleslaw salad** 185 CZK
 * **Beef goulash with onion, homemade dumplings** 215 CZK
