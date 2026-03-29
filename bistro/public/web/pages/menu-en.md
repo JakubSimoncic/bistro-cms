@@ -3,20 +3,20 @@ title: Denní menu - EN
 ---
 ## SPECIAL OFFER (soup + main course)
 
-* **MENU 1: Soup + Baked pasta with smoked meat, pickled cucumber** 195 CZK
-* **MENU 2: Soup + Szeged pork goulash, homemade bread dumpling** 205 CZK
+* **MENU 1: Soup + Pork shoulder with paprika sauce and pasta (fusilli)** 205 Kč
+* **MENU 2: Soup + Stuffed potato dumpling with smoked meat, cabbage, onion, and pickled onions** 195 Kč
 
-## SMALL SOUP FOR MAIN COURSE – 250ml
+## SMALL SOUP WITH MAIN COURSE – 250ml
 
-* **Chicken broth** 35 CZK
-* **Pea cream with croutons** 35 CZK
+* **Borscht with sour cream** 35 Kč
+* **Creamy onion soup with croutons and cheese** 35 Kč
 
 ## MAIN COURSES
 
-* **Baked pasta with smoked meat, pickled cucumber** 175 CZK
-* **Szeged pork goulash, homemade bread dumpling** 185 CZK
-* **Veal leg with rosehip sauce, homemade dumpling** 205 CZK
-* **Mexican pork mixture with vegetables and beans, rice\fries** 185 CZK
+* **Pork shoulder with paprika sauce and pasta (fusilli)** 185 Kč
+* **Stuffed potato dumpling with smoked meat, cabbage, onion, and pickled onions** 175 Kč
+* **Veal strips in red curry with coconut milk, roasted jasmine rice** 205 Kč
+* **Roast beef with roasted grenaille potatoes, meat jus, and tartar sauce** 255 Kč
 * **Grilled stuffed wheat tortilla of your choice and French Fries** 185 CZK
 * **Pulled pork meat in our BBQ sauce, roasted potatoes and Coleslaw salad** 185 CZK
 * **Beef goulash with onion, homemade dumplings** 215 CZK
@@ -25,6 +25,6 @@ title: Denní menu - EN
 
 ## LARGE SOUP ORDERED SEPARATELY – 500ml
 
-* **Chicken broth or Pea cream with croutons**  75 CZK
+* **Borscht with sour cream or Borscht with sour cream**  75 CZK
 
-***Offer valid on Sunday 29.3. from 10:30 until closing time or until sold out.***
+***Offer valid on Monday 30.3. from 10:30 until closing time or until sold out.***
