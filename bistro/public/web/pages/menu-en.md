@@ -24,6 +24,7 @@ title: Denní menu - EN
 * **Fried cheese, French Fries and tartar sauce** 195 CZK
 
 ## LARGE SOUP ORDERED SEPARATELY – 500ml
-* ** Chicken broth or Pea cream with croutons**  75 CZK
+
+* **Chicken broth or Pea cream with croutons**  75 CZK
 
 ***Offer valid on Sunday 29.3. from 10:30 until closing time or until sold out.***
