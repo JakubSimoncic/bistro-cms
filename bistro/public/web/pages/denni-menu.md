@@ -16,7 +16,7 @@ title: Denní menu CZ
 * **Vepřová plec na paprice s těstovinami (fusilli)** 185 Kč
 * **Plněný bramborový knedlík s uzeným masem, zelí, cibulka a vídeňská cibulka** 175 Kč
 * **Telecí nudličky na červeném kari s kokosovým mlékem, pečená jasmínová rýže** 205 Kč
-* **Pečený Roasbeef s restovanými grenaille brambůrkami, masovým výpekem a tatarskou omáčkou** 255 Kč
+* **Pečený Roastbeef s restovanými grenaille brambůrkami, masovým výpekem a tatarskou omáčkou** 255 Kč
 * **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 185 Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek coleslaw** 185 Kč
 * **Hovězí guláš s cibulkou a beraním rohem, domácí houskový knedlík** 215 Kč
