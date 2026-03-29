@@ -25,7 +25,7 @@ title: Denní menu CZ
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTATNĚ – 500ml
 
-* **Valašská kyselice nebo Pórkový krém s bylinkovými krutony** 75 Kč
+* **Slepičí vývar nebo Hráškový krém s bylinkovými krutony** 75 Kč
 
 
 ***Nabídka platí v neděli 29.3. od 10:30 do zavírací hodiny nebo do vyprodání.***
