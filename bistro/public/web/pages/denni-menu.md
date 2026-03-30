@@ -16,7 +16,7 @@ title: Denní menu CZ
 * **Smažený hermelín plněný šunkou, vařené brambory, tatarská omáčka** 185 Kč
 * **Vepřové na houbách s karlovarským knedlíkem** 185 Kč
 * **Telecí nudličky na červeném kari s kokosovým mlékem, pečená jasmínová rýže** 205 Kč
-* **Pečený Roastbeef s restovanými grenaille brambůrkami, masovým výpekem a tatarskou omáčkou** 265 Kč
+* **Pečený Roastbeef s restovanými grenaille brambůrkami, masovým výpekem a tatarskou omáčkou - JÍDLO TÝDNE** 265 Kč
 * **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 185 Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek coleslaw** 185 Kč
 * **Hovězí guláš s cibulkou a beraním rohem, domácí houskový knedlík** 215 Kč
