@@ -3,7 +3,7 @@ title: Denní menu CZ
 ---
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)
 
-* **MENU 1: Polévka + Vepřová plec na paprice s těstovinami (fusilli)** 195 Kč
+* **MENU 1: Polévka + Vepřová plec na paprice s těstovinami (fusilli)** 205 Kč
 * **MENU 2: Polévka + Plněný bramborový knedlík s uzeným masem, zelí, cibulka a vídeňská cibulka** 195 Kč
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
