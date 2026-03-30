@@ -3,7 +3,7 @@ title: Denní menu - EN
 ---
 ## SPECIAL OFFER (soup + main course)
 
-* **MENU 1: Soup + Pork shoulder with paprika sauce and pasta (fusilli)** 195 Kč
+* **MENU 1: Soup + Pork shoulder with paprika sauce and pasta (fusilli)** 205 Kč
 * **MENU 2: Soup + Stuffed potato dumpling with smoked meat, cabbage, onion, and pickled onions** 195 Kč
 
 ## SMALL SOUP WITH MAIN COURSE – 250ml
