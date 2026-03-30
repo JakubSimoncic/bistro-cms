@@ -3,7 +3,7 @@ title: Denní menu - EN
 ---
 ## SPECIAL OFFER (soup + main course)
 
-* **MENU 1: Soup + Pork on mushrooms with Carlsbad dumplings** 195 CZK
+* **MENU 1: Soup + Pork on mushrooms with Carlsbad dumplings** 205 CZK
 * **MENU 2: Soup + Veal strips in red curry with coconut milk, roasted jasmine rice** 225  CZK
 
 ## SMALL SOUP WITH MAIN COURSE – 250ml
@@ -13,8 +13,8 @@ title: Denní menu - EN
 
 ## MAIN COURSES
 
-* **Fried camembert stuffed with ham, boiled potatoes, tartar sauce** 175 CZK
-* **Pork on mushrooms with Carlsbad dumplings** 175 CZK
+* **Fried camembert stuffed with ham, boiled potatoes, tartar sauce** 185 CZK
+* **Pork on mushrooms with Carlsbad dumplings** 185 CZK
 * **Veal strips in red curry with coconut milk, roasted jasmine rice** 205 CZK
 * **Roast beef with roasted grenaille potatoes, meat jus, and tartar sauce** 265 CZK
 * **Grilled stuffed wheat tortilla of your choice and French Fries** 185 CZK
