@@ -13,7 +13,7 @@ title: Denní menu - EN
 
 ## MAIN COURSES
 
-* **Pork shoulder with paprika sauce and pasta (fusilli)** 175 Kč
+* **Pork shoulder with paprika sauce and pasta (fusilli)** 185 Kč
 * **Stuffed potato dumpling with smoked meat, cabbage, onion, and pickled onions** 175 Kč
 * **Veal strips in red curry with coconut milk, roasted jasmine rice** 205 Kč
 * **Roast beef with roasted grenaille potatoes, meat jus, and tartar sauce** 265 Kč
