@@ -3,7 +3,7 @@ title: Denní menu CZ
 ---
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)
 
-* **MENU 1: Polévka + Vepřové na houbách s karlovarským knedlíkem** 195 Kč
+* **MENU 1: Polévka + Vepřové na houbách s karlovarským knedlíkem** 205 Kč
 * **MENU 2: Polévka + Telecí nudličky na červeném kari s kokosovým mlékem, pečená jasmínová rýže** 225 Kč
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
@@ -13,8 +13,8 @@ title: Denní menu CZ
 
 ## HLAVNÍ JÍDLA
 
-* **Smažený hermelín plněný šunkou, vařené brambory, tatarská omáčka** 175 Kč
-* **Vepřové na houbách s karlovarským knedlíkem** 175 Kč
+* **Smažený hermelín plněný šunkou, vařené brambory, tatarská omáčka** 185 Kč
+* **Vepřové na houbách s karlovarským knedlíkem** 185 Kč
 * **Telecí nudličky na červeném kari s kokosovým mlékem, pečená jasmínová rýže** 205 Kč
 * **Pečený Roastbeef s restovanými grenaille brambůrkami, masovým výpekem a tatarskou omáčkou** 265 Kč
 * **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 185 Kč
