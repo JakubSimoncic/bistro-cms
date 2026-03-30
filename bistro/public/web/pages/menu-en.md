@@ -16,7 +16,7 @@ title: Denní menu - EN
 * **Fried camembert stuffed with ham, boiled potatoes, tartar sauce** 185 CZK
 * **Pork on mushrooms with Carlsbad dumplings** 185 CZK
 * **Veal strips in red curry with coconut milk, roasted jasmine rice** 205 CZK
-* **Roast beef with roasted grenaille potatoes, meat jus, and tartar sauce** 265 CZK
+* **Roast beef with roasted grenaille potatoes, meat jus, and tartar sauce - MEAL OF THE WEEK** 265 CZK
 * **Grilled stuffed wheat tortilla of your choice and French Fries** 185 CZK
 * **Pulled pork meat in our BBQ sauce, roasted potatoes and Coleslaw salad** 185 CZK
 * **Beef goulash with onion, homemade dumplings** 215 CZK
