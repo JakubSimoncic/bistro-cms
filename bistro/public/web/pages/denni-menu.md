@@ -19,7 +19,7 @@ title: Denní menu CZ
 * **Pečený Roastbeef s restovanými grenaille brambůrkami, masovým výpekem a tatarskou omáčkou** 265 Kč
 * **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 185 Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek coleslaw** 185 Kč
-* **Hovězí guláš s cibulkou a beraním rohem, domácí houskový knedlík** 205 Kč
+* **Hovězí guláš s cibulkou a beraním rohem, domácí houskový knedlík** 215 Kč
 * **Kuřecí řízek, bramborový salát a citron** 195 Kč
 * **Smažený sýr, hranolky a tatarská omáčka** 195 Kč
 
