@@ -19,7 +19,7 @@ title: Denní menu - EN
 * **Roast beef with roasted grenaille potatoes, meat jus, and tartar sauce** 265 CZK
 * **Grilled stuffed wheat tortilla of your choice and French Fries** 185 CZK
 * **Pulled pork meat in our BBQ sauce, roasted potatoes and Coleslaw salad** 185 CZK
-* **Beef goulash with onion, homemade dumplings** 205 CZK
+* **Beef goulash with onion, homemade dumplings** 215 CZK
 * **Chicken schnitzel, potato salad and lemon** 195 CZK
 * **Fried cheese, French Fries and tartar sauce** 195 CZK
 
