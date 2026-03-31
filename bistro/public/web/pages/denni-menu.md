@@ -14,8 +14,8 @@ title: Denní menu CZ
 ## HLAVNÍ JÍDLA
 
 * **Plněný bramborový knedlík uzeným masem, zelí, cibulka a vídeňská cibulka** 175 Kč
-* ** Savojské vepřové řízečky, bramborová kaše, okurka ** 185 Kč
-* ** Rozlítaný španělský vepřový ptáček a pečená jasmínová rýže ** 185 Kč
+* **Savojské vepřové řízečky, bramborová kaše, okurka** 185 Kč
+* **Rozlítaný španělský vepřový ptáček a pečená jasmínová rýže** 185 Kč
 * **Pečený Roastbeef s restovanými grenaille brambůrkami, masovým výpekem a tatarskou omáčkou - JÍDLO TÝDNE** 265 Kč
 * **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 185 Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek coleslaw** 185 Kč
