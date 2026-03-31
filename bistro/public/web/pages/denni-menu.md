@@ -25,7 +25,7 @@ title: Denní menu CZ
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTATNĚ – 500ml
 
-* ** Bramborová polévka nebo zelná s paprikovou klobásou** 75 Kč
+* **Zelná s paprikovou klobásou nebo bramborová polévka** 75 Kč
 
 
 ***Nabídka platí ve středu 1.4. od 10:30 do zavírací hodiny nebo do vyprodání.***
