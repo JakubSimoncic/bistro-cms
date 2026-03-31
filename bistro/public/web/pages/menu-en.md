@@ -3,20 +3,21 @@ title: Denní menu - EN
 ---
 ## SPECIAL OFFER (soup + main course)
 
-* **MENU 1: Soup + Pork on mushrooms with Carlsbad dumplings** 205 CZK
-* **MENU 2: Soup + Veal strips in red curry with coconut milk, roasted jasmine rice** 225  CZK
+* **MENU 1: Soup + Savoy fried pork schnitzel, mashed potatoes, pickles** 205 CZK
+1.	**MENU 2: Soup + Pork meat in meat souce with eggs, bacon and pickles, roasted jasmine rice** 205 CZK
 
 ## SMALL SOUP WITH MAIN COURSE – 250ml
 
-* **Borscht with sour cream** 35 CZK
-* **Cabbage soup with pepper sausage** 35 CZK
+* **Cabbage soup with paprika sausage** 35 CZK
+* **Potato soup** 35 CZK
 
 ## MAIN COURSES
 
-* **Fried camembert stuffed with ham, boiled potatoes, tartar sauce** 185 CZK
-* **Pork on mushrooms with Carlsbad dumplings** 185 CZK
-* **Veal strips in red curry with coconut milk, roasted jasmine rice** 205 CZK
-* **Roast beef with roasted grenaille potatoes, meat jus, and tartar sauce - MEAL OF THE WEEK** 265 CZK
+* **Stuffed potato dumpling with smoked meat, cabbage, onion, and fried onion** 175 CZK
+* **Savoy pork sfried chnitzel, mashed potatoes, pickles** 185 CZK
+* ** Pork meat in meat souce with eggs, bacon and pickles, roasted jasmine rice ** 185 CZK
+* **Roast beef with roasted grenaille potatoes, meat gravy, and tartar sauce - DISH OF THE WEEK** 265 CZK
+
 * **Grilled stuffed wheat tortilla of your choice and French Fries** 185 CZK
 * **Pulled pork meat in our BBQ sauce, roasted potatoes and Coleslaw salad** 185 CZK
 * **Beef goulash with onion, homemade dumplings** 215 CZK
@@ -25,6 +26,6 @@ title: Denní menu - EN
 
 ## LARGE SOUP ORDERED SEPARATELY – 500ml
 
-* **Borscht with sour cream or Cabbage soup with pepper sausage**  75 CZK
+* **Cabbage soup with paprika sausage or Potato soup**  75 CZK
 
-***Offer valid on Monday 30.3. from 10:30 until closing time or until sold out.***
+***Offer valid on Wednesday 1.4. from 10:30 until closing time or until sold out.***
