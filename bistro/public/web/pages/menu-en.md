@@ -4,7 +4,7 @@ title: Denní menu - EN
 ## SPECIAL OFFER (soup + main course)
 
 * **MENU 1: Soup + Savoy fried pork schnitzel, mashed potatoes, pickles** 205 CZK
-1.	**MENU 2: Soup + Pork meat in meat souce with eggs, bacon and pickles, roasted jasmine rice** 205 CZK
+* **MENU 2: Soup + Pork meat in meat souce with eggs, bacon and pickles, roasted jasmine rice** 205 CZK
 
 ## SMALL SOUP WITH MAIN COURSE – 250ml
 
@@ -15,7 +15,7 @@ title: Denní menu - EN
 
 * **Stuffed potato dumpling with smoked meat, cabbage, onion, and fried onion** 175 CZK
 * **Savoy pork sfried chnitzel, mashed potatoes, pickles** 185 CZK
-* ** Pork meat in meat souce with eggs, bacon and pickles, roasted jasmine rice ** 185 CZK
+* **Pork meat in meat souce with eggs, bacon and pickles, roasted jasmine rice** 185 CZK
 * **Roast beef with roasted grenaille potatoes, meat gravy, and tartar sauce - DISH OF THE WEEK** 265 CZK
 
 * **Grilled stuffed wheat tortilla of your choice and French Fries** 185 CZK
