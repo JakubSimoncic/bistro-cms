@@ -17,7 +17,6 @@ title: Denní menu - EN
 * **Savoy pork sfried chnitzel, mashed potatoes, pickles** 185 CZK
 * **Pork meat in meat souce with eggs, bacon and pickles, roasted jasmine rice** 185 CZK
 * **Roast beef with roasted grenaille potatoes, meat gravy, and tartar sauce - DISH OF THE WEEK** 265 CZK
-
 * **Grilled stuffed wheat tortilla of your choice and French Fries** 185 CZK
 * **Pulled pork meat in our BBQ sauce, roasted potatoes and Coleslaw salad** 185 CZK
 * **Beef goulash with onion, homemade dumplings** 215 CZK
