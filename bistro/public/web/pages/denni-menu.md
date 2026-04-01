@@ -3,7 +3,7 @@ title: Denní menu CZ
 ---
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)
 
-* **MENU 1: Polévka + Smažený karbanátek, bramborová kaše, okurka** 205 Kč
+* **MENU 1: Polévka + Smažený karbanátek, bramborová kaše, okurka** 195 Kč
 * **MENU 2: Polévka + Rozlítaný španělský vepřový ptáček a pečená jasmínová rýže** 205 Kč
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
@@ -13,7 +13,7 @@ title: Denní menu CZ
 
 ## HLAVNÍ JÍDLA
 
-* **Smažený karbanátek, bramborová kaše, okurka** 185 Kč
+* **Smažený karbanátek, bramborová kaše, okurka** 175 Kč
 * **Vepřové na houbách, domácí houskový knedlík** 185 Kč
 * **Rozlítaný španělský vepřový ptáček a pečená jasmínová rýže** 185 Kč
 * **Pečený Roastbeef s restovanými grenaille brambůrkami, masovým výpekem a tatarskou omáčkou - JÍDLO TÝDNE** 265 Kč
