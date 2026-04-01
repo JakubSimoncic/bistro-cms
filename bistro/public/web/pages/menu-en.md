@@ -3,7 +3,7 @@ title: Denní menu - EN
 ---
 ## SPECIAL OFFER (soup + main course)
 
-* **MENU 1: Soup + Fried minced meat, mashed potatoes, cucumber** 205 CZK
+* **MENU 1: Soup + Fried minced meat, mashed potatoes, cucumber** 195 CZK
 * **MENU 2: Soup + Pork meat in meat souce with eggs, bacon and pickles, roasted jasmine rice** 205 CZK
 
 ## SMALL SOUP WITH MAIN COURSE – 250ml
@@ -13,7 +13,7 @@ title: Denní menu - EN
 
 ## MAIN COURSES
 
-* **Fried minced meat, mashed potatoes, cucumber** 185 CZK
+* **Fried minced meat, mashed potatoes, cucumber** 175 CZK
 * **Homemade minced meat, mashed potatoes, pickles** 185 CZK
 * **Pork meat in meat souce with eggs, bacon and pickles, roasted jasmine rice** 185 CZK
 * **Roast Beef with Roasted Grenaille Chips, Roast Meat and Tartar Sauce - MEAL OF THE WEEK** 265 CZK
