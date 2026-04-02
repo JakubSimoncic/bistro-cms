@@ -13,8 +13,8 @@ title: Denní menu CZ
 
 ## HLAVNÍ JÍDLA
 
-* **Cmunda po kaplicku (bramborák plněný uzeným masem a zelím)** 1*85 Kč
-* **Vepřové kostky na česneku, listový špenát, bramborový knedlík* 185 Kč
+* **Cmunda po kaplicku (bramborák plněný uzeným masem a zelím)** 185 Kč
+* **Vepřové kostky na česneku, listový špenát, bramborový knedlík** 185 Kč
 * **Smažený květák, vařené brambory, tatarka** 175 Kč
 * **Pečený Roastbeef s restovanými grenaille brambůrkami, masovým výpekem a tatarskou omáčkou - JÍDLO TÝDNE** 265 Kč
 * **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 185 Kč
