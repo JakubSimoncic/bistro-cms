@@ -16,7 +16,7 @@ title: Denní menu CZ
 * **Plněný bramborový knedlík uzeným masem, dušené zelí, restovaná a vídeňská cibulka** 175 Kč
 * **Vepřové na česneku, dušený špenát a bramborový knedlík** 185 Kč
 * **Smažený karbanátek, vařené brambory, hořčice a okurka** 185 Kč
-* **Bramborák plněný mexickou vepřovou pikantní směsí se zeleninou a fazolemi,** 185 Kč
+* **Bramborák plněný mexickou vepřovou pikantní směsí se zeleninou a fazolemi** 185 Kč
 * **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 185 Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek coleslaw** 185 Kč
 * **Hovězí guláš s cibulkou a beraním rohem, domácí houskový knedlík** 215 Kč
