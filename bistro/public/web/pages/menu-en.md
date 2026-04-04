@@ -3,20 +3,20 @@ title: Denní menu - EN
 ---
 ## SPECIAL OFFER (soup + main course)
 
-* **MENU 1: Soup + Potato pancake filled with smoked meat and cabbage** 205 CZK
-* **MENU 2: Soup + Pork shoulder with rosehip sauce, homemade dumplings** 205 CZK
+* **MENU 1: Soup + Pork meat with garlic, stewed spinach and potato dumplings** 205 CZK
+* **MENU 2: Soup + Fried meatball from minced meat, boiled potatoes, mustard and pickles** 205 CZK
 
 ## SMALL SOUP WITH MAIN COURSE – 250ml
 
-* **Leek cream with croutons** 35 CZK
-* **Cabbage with sausage** 35 CZK
+* **Bean soup** 35 CZK
+* **Creamy onion soup with cheese and croutons** 35 CZK
 
 ## MAIN COURSES
 
-* **Potato pancake filled with smoked meat and cabbage** 185 CZK
-* **Veal noodles on red curry with coconut milk and roasted jasmine rice** 205 CZK
-* **Pork shoulder with rosehip sauce, homemade dumplings** 185 CZK
-* **Roast Beef with Roasted Grenaille Chips, Roast Meat and Tartar Sauce - MEAL OF THE WEEK** 265 CZK
+* **Potato dumpling stuffed with smoked meat, stewed cabbage, sautéed and fried onion** 175 CZK
+* **Pork meat with garlic, stewed spinach and potato dumplings** 185 CZK
+* **Fried meatball from minced meat, boiled potatoes, mustard and pickles** 185 CZK
+* **Potato pancake filled with Mexican pork spicy mixture with vegetables and beans** 185 CZK
 * **Grilled stuffed wheat tortilla of your choice and French Fries** 185 CZK
 * **Pulled pork meat in our BBQ sauce, roasted potatoes and Coleslaw salad** 185 CZK
 * **Beef goulash with onion, homemade dumplings** 215 CZK
@@ -25,6 +25,6 @@ title: Denní menu - EN
 
 ## LARGE SOUP ORDERED SEPARATELY – 500ml
 
-* **Leek cream with croutons or Cabbage with sausage**  75 CZK
+* **Bean soup or creamy onion soup with cheese and croutons**  75 CZK
 
-***Offer valid on Saturday 4.4. from 10:30 until closing time or until sold out.***
+***Offer valid on Sunday 5.4. from 10:30 until closing time or until sold out.***
