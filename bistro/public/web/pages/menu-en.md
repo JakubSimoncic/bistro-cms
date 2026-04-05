@@ -4,7 +4,7 @@ title: Denní menu - EN
 ## SPECIAL OFFER (soup + main course)
 
 * **MENU 1: Soup + Roasted chicken leg, sausage stuffing and mashed potatoes with spring onion** 205 CZK
-* **MENU 2: Soup + Roast beef with tomato sauce, bread dumpling** 205 CZK
+* **MENU 2: Soup + Roast beef with tomato sauce, bread dumpling** 215 CZK
 
 ## SMALL SOUP WITH MAIN COURSE – 250ml
 
