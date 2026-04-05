@@ -4,7 +4,7 @@ title: Denní menu CZ
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)
 
 * **MENU 1: Polévka + Pečené kuřecí stehno , nádivka s uzeninou a šťouchané brambory s jarní cibulkou** 205 Kč
-* **MENU 2: Polévka + Hovězí rajská pečeně, houskový knedlík** 
+* **MENU 2: Polévka + Hovězí rajská pečeně, houskový knedlík** 215 Kč
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
