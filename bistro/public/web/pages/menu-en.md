@@ -8,12 +8,12 @@ title: Denní menu - EN
 
 ## SMALL SOUP WITH MAIN COURSE – 250ml
 
-* **Bean soup** 35 CZK
+* **Borscht with sour cream** 35 CZK
 * **Creamy onion soup with cheese and croutons** 35 CZK
 
 ## MAIN COURSES
 
-* **Potato dumpling stuffed with smoked meat, stewed cabbage, sautéed and fried onion** 175 CZK
+* **A spilled pork Spanish bird with roasted jasmine rice** 185 CZK
 * **Pork meat with garlic, stewed spinach and potato dumplings** 185 CZK
 * **Fried meatball from minced meat, boiled potatoes, mustard and pickles** 185 CZK
 * **Potato pancake filled with Mexican pork spicy mixture with vegetables and beans** 185 CZK
@@ -25,6 +25,6 @@ title: Denní menu - EN
 
 ## LARGE SOUP ORDERED SEPARATELY – 500ml
 
-* **Bean soup or creamy onion soup with cheese and croutons**  75 CZK
+* **Borscht with sour cream or creamy onion soup with cheese and croutons**  75 CZK
 
 ***Offer valid on Sunday 5.4. from 10:30 until closing time or until sold out.***
