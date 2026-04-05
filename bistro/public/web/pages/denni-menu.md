@@ -8,12 +8,12 @@ title: Denní menu CZ
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
-* **Fazolová polévka** 35 Kč
+* **Boršč se zakysanou smetanou** 35 Kč
 * **Krémová cibulačka se sýrem a krutony** 35 Kč
 
 ## HLAVNÍ JÍDLA
 
-* **Plněný bramborový knedlík uzeným masem, dušené zelí, restovaná a vídeňská cibulka** 175 Kč
+* **Rozlítaný vepřový španělský ptáček s pečenou jasmínovou rýží** 185 Kč
 * **Vepřové na česneku, dušený špenát a bramborový knedlík** 185 Kč
 * **Smažený karbanátek, vařené brambory, hořčice a okurka** 185 Kč
 * **Bramborák plněný mexickou vepřovou pikantní směsí se zeleninou a fazolemi** 185 Kč
@@ -25,7 +25,7 @@ title: Denní menu CZ
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTATNĚ – 500ml
 
-* **Fazolová polévka nebo krémová cibulačka se sýrem a krutony** 75 Kč
+* **Boršč se zakysanou smetanou nebo krémová cibulačka se sýrem a krutony** 75 Kč
 
 
 ***Nabídka platí v neděli 5.4. od 10:00 do zavírací hodiny nebo do vyprodání.***
