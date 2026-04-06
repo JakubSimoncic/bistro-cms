@@ -3,19 +3,19 @@ title: Denní menu CZ
 ---
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)
 
-* **MENU 1: Polévka + Pečené kuřecí stehno , nádivka s uzeninou a šťouchané brambory s jarní cibulkou** 205 Kč
-* **MENU 2: Polévka + Hovězí rajská pečeně, houskový knedlík** 215 Kč
+* **MENU 1: Polévka + Kuřecí na paprice s těstovinami (Fusilli) nebo houskovým knedlíkem** 195 Kč
+* **MENU 2: Polévka + Pečené kuřecí stehno, nádivka s uzeninou a šťouchané brambory s jarní cibulkou** 205 Kč
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
-* **Dršťková polévka** 35 Kč
-* **Krémová česnečka z medvědího česneku, krutony, sýr** 35 Kč
+* **Frankfurtská polévka** 35 Kč
+* **Dršťková** 35 Kč
 
 ## HLAVNÍ JÍDLA
 
-* **Halušky s uzeným masem a zelím, cibulka** 175 Kč
-* **Pečené kuřecí stehno , nádivka s uzeninou a šťouchané brambory s jarní cibulkou** 185 Kč
-* **Hovězí rajská pečeně, houskový knedlík** 195 Kč
+* **Hovězí rajská pečeně s houskovým knedlíkem nebo těstovinami (Fusilli)** 195 Kč
+* **Kuřecí na paprice s těstovinami (Fusilli) nebo houskovým knedlíkem** 175 Kč
+* **Pečené kuřecí stehno, nádivka s uzeninou a šťouchané brambory s jarní cibulkou** 185 Kč
 * **Špagety Carbonara, parmazán - JÍDLO TÝDNE** 225 Kč
 * **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 185 Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek coleslaw** 185 Kč
@@ -25,8 +25,8 @@ title: Denní menu CZ
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTATNĚ – 500ml
 
-* **Boršč se zakysanou smetanou nebo krémová cibulačka se sýrem a krutony** 75 Kč
+* **Frankfurtská nebo Dršťková** 75 Kč
 
 
-***Nabídka platí v pondělí 6.4. od 10:00 do zavírací hodiny nebo do vyprodání.***
+***Nabídka platí v úterý 7.4. od 10:30 do zavírací hodiny nebo do vyprodání.***
 
