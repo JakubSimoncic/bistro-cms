@@ -29,4 +29,3 @@ title: Denní menu CZ
 
 
 ***Nabídka platí v úterý 7.4. od 10:30 do zavírací hodiny nebo do vyprodání.***
-
