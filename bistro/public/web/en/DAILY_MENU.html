@@ -5,7 +5,6 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta name="description" content="Discover the daily menu at Bistro Florenc in Florenc | goulash with homemade bread dumplings, schnitzel, sirloin steak, fried cheese, soups. We serve morning breakfast and all day daily menu.">
         <meta name="keywords" content="breakfast, daily menu, bistro, Florenc, goulash, schnitzel, svíčková, homemade, smažák, soups, daily menu, Prague, Karlín">
-        <link rel="stylesheet" href="/web/css/styles.css">
 
         <!-- Canonical URL -->
         <link rel="canonical" href="https://www.bistroflorenc.cz/web/en/DAILY_MENU.html">
@@ -64,15 +63,178 @@
 
         <title>Bistro Florenc | Daily menu</title>
         <style>
-            body {  margin: 0;
+                        body {  margin: 0;
                 padding: 0;
                 font-family: Arial, Helvetica, sans-serif;
                 color:#0F3825
+            }
+            header {
+                position: fixed;
+                width: 100%;
+                top: 0;
+                left: 0;
+                display: flex;
+                justify-content: space-between;
+                align-items: center;
+                padding: 15px 20px;
+                background: #0F3825;
+                box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+                z-index: 1000;
+                transition: transform 0.7s ease;
+            }
+            .logo {
+                    margin-left: 20px;
+            }
+            .logo img {
+                height: 120px;
+            }
+            .print-only {
+                display: none !important;
+            }
+            .screen-only {
+                display: block;
+            }
+            #menu-toggle {
+                display: none;
+                font-size: 30px;
+                background: none;
+                border: none;
+                cursor: pointer;
+                color: #F5F1E3;
+            }
+            nav {
+                display: flex;
+                align-items: center;
+                margin-right: 50px;
+            }
+            nav a {
+                color: #F5F1E3;
+                text-decoration: none;
+                margin: 0 15px;
+                font-size: 20px;
+                text-transform: uppercase;
+                font-weight: bold;
+                transition: color 0.3s;
+            }
+            nav a:hover {
+                color: #d4a373;
+                text-decoration: underline;
+            }
+            .vlajka {
+                display: flex;
+                gap: 10px;
+                align-items: center;
+                margin-left: 100px;
+            }
+
+            .vlajka a {
+                display: inline-block;
+                border-radius: 50%;
+                overflow: hidden;
+                width: 40px;
+                height: 40px;
+                box-shadow: 0 2px 6px rgba(0,0,0,0.3);
+                transition: transform 0.3s, box-shadow 0.3s;
+            }
+
+            .vlajka a img {
+                width: 100%;
+                height: 100%;
+                object-fit: cover;
+                display: block;
+            }
+
+            .vlajka a:hover {
+                transform: scale(1.1);
+                box-shadow: 0 4px 12px rgba(0,0,0,0.4);
             }
             span {
                 width: 50px;
                 color: #000000;
             }
+            @media (max-width: 768px) {
+                .logo img {
+                    height: 80px;
+                }
+                .vlajka {
+                    display: flex;  
+                    justify-content: center;
+                    align-items: center;
+                    text-align: center;
+                    gap: 30px;
+                    box-shadow: none;
+                    margin: 0;
+                    padding: 0;
+                    background: none;
+                }
+                .vlajka a {
+                    width: 30px;
+                    height: 30px;
+                    border-radius: 50%;
+                    display: flex;
+                    overflow: hidden;
+                    justify-content: center;
+                    align-items: center;
+                    background: none;
+                    box-shadow: none;
+                }
+                .vlajka img {
+                    width: 100%;
+                    height: 100%;
+                    border-radius: 50%;
+                    object-fit: cover;
+                    display: block;
+                }
+                #menu-toggle {
+                    display: block;
+                    position: absolute;
+                    margin-right: 30px;
+                    top: 15px;
+                    right: 20px;
+                }  
+                            @media (max-width: 768px) {
+                .logo img {
+                    height: 80px;
+                }
+                #menu-toggle {
+                    display: block;
+                    position: absolute;
+                    margin-right: 30px;
+                    top: 15px;
+                    right: 20px;
+                }
+                nav {
+                    display: none;
+                    flex-direction: column;
+                    position: absolute;
+                    top: 100px;
+                    left: 0;
+                    width: 100%;
+                    background: #0F3825;
+                    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+                    text-align: center;
+                    overflow-x: hidden;
+                    padding-left: 0;
+                    padding-right: 0;
+                    max-width: none;
+                }
+                nav a {
+                    padding: 15px 0;
+                    display: block;
+                    color: #F5F1E3;
+                    margin: 0 auto;
+                    text-align: center;
+                    width: 100%;
+                    max-width: 300px;
+                }
+                nav.show {
+                    display: flex;
+                }
+            }
+                nav.show {
+                    display: flex;
+                }
+                }
                 main {
                     background-color: #FFFFFF;
                 }
