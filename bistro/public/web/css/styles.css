@@ -65,7 +65,12 @@ nav a:hover {
     transition: transform 0.3s;
 }
 
-.vlajka a img { width: 100%; height: 100%; object-fit: cover; display: block; }
+/* Oprava v externím CSS */
+.vlajka img {
+    width: 35px; /* Nastav pevnou šířku */
+    height: auto; /* Výšku nech dopočítat prohlížečem */
+    display: block; /* Pojistka pro správné vykreslení */
+}
 
 /* Mobilní verze */
 @media (max-width: 768px) {
