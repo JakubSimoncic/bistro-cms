@@ -372,41 +372,19 @@
                       <p id="datum"></p>
                   </div>
               </footer>
+        <script src="/web/js/script.js"></script>
         <script>
-            document.getElementById('menu-toggle').addEventListener('click', function() {
-                document.getElementById('nav-menu').classList.toggle('show');
-            });
-             fetch('/web/pages/menu-en.md')
-        .then(response => response.text())
-        .then(markdown => {
-            const content = markdown.replace(/^---[\s\S]*?---\s*/, '');
-            const html = marked.parse(content);
-            document.getElementById('menu-content').innerHTML = html;
-        })
-        .catch(error => {
-            document.getElementById('menu-content').innerHTML = 'Nepodařilo se načíst denní menu.';
-            console.error(error);
-        });
-
-    // >>> Scroll efekt pro hlavičku s prahem
-    const header = document.querySelector("header");
-    let lastScroll = 0;
-    const delta = 50; // hlavička reaguje jen při větším scrollu
-    window.addEventListener("scroll", () => {
-        const currentScroll = window.pageYOffset;
-
-        if (Math.abs(currentScroll - lastScroll) < delta) return;
-
-        if (currentScroll > lastScroll && currentScroll > 100) {
-            // scroll dolů → skrýt hlavičku
-            header.style.transform = "translateY(-100%)";
-        } else {
-            // scroll nahoru → zobrazit hlavičku
-            header.style.transform = "translateY(0)";
-        }
-
-        lastScroll = currentScroll;
-    });
+        fetch('/web/pages/menu-en.md')
+                .then(response => response.text())
+                .then(markdown => {
+                    const content = markdown.replace(/^---[\s\S]*?---\s*/, '');
+                    const html = marked.parse(content);
+                    document.getElementById('menu-content').innerHTML = html;
+                })
+                .catch(error => {
+                    document.getElementById('menu-content').innerHTML = 'Nepodařilo se načíst denní menu.';
+                    console.error(error);
+                });
         </script>
     </body>
 
