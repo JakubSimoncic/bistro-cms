@@ -183,36 +183,39 @@
                 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/TkxlEAl4fEo?si=EWNEpeot-WZhWLH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
             </div>
         </main>
+        <script src="/web/js/script.js"></script>
         <script>
-            document.getElementById('menu-toggle').addEventListener('click', function() {
-                document.getElementById('nav-menu').classList.toggle('show');
-            });
+            // Logika pro Slideshow
             let slideIndex = 0;
             showSlides();
 
             function showSlides() {
                 let slides = document.getElementsByClassName("slide");
+                if (slides.length === 0) return; // Ochrana, pokud by slides neexistovaly
                 for (let i = 0; i < slides.length; i++) {
                     slides[i].style.display = "none";
                 }
                 slideIndex++;
                 if (slideIndex > slides.length) {slideIndex = 1}
                 slides[slideIndex - 1].style.display = "block";
-                setTimeout (showSlides, 5000);
+                setTimeout(showSlides, 5000);
             }
+
+            // Logika pro zavření plovoucího videa
             document.getElementById('cornerVideoClose').onclick = function() {
                 document.getElementById('cornerVideo').style.display = 'none';
             };
         </script>
+
         <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
-            <script>
-              if (window.netlifyIdentity) {
+        <script>
+            if (window.netlifyIdentity) {
                 window.netlifyIdentity.on("init", (user) => {
-                  if (!user) {
-                    window.netlifyIdentity.on("login", () => {
-                      document.location.href = "/admin/";
-                    });
-                  }
+                    if (!user) {
+                        window.netlifyIdentity.on("login", () => {
+                            document.location.href = "/admin/";
+                        });
+                    }
                 });
             }
         </script>
