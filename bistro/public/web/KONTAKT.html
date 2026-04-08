@@ -160,29 +160,6 @@
         <footer>
             <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d319.97390262462454!2d14.44030634157498!3d50.09019565333138!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x470b95002f68b10d%3A0xc70f2e5f17a5522a!2sBISTRO%20flo-renc!5e0!3m2!1scs!2scz!4v1743093560477!5m2!1scs!2scz" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
         </footer>
-        <script>
-            document.getElementById('menu-toggle').addEventListener('click', function() {
-                document.getElementById('nav-menu').classList.toggle('show');
-            });
-    // >>> Scroll efekt pro hlavičku s prahem
-    const header = document.querySelector("header");
-	let lastScroll = 0;
-    const delta = 50; // hlavička reaguje jen při větším scrollu
-    window.addEventListener("scroll", () => {
-        const currentScroll = window.pageYOffset;
-
-        if (Math.abs(currentScroll - lastScroll) < delta) return;
-
-        if (currentScroll > lastScroll && currentScroll > 100) {
-            // scroll dolů → skrýt hlavičku
-            header.style.transform = "translateY(-100%)";
-        } else {
-            // scroll nahoru → zobrazit hlavičku
-            header.style.transform = "translateY(0)";
-        }
-
-        lastScroll = currentScroll;
-    });
-        </script>
+		<script src="/web/js/script.js"></script>
     </body>
 </html>
