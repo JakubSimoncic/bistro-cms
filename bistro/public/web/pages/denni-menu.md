@@ -16,7 +16,7 @@ title: Denní menu CZ
 * **Grilovaný telecí steak, opečené brambory a houbové ragú** 235 Kč
 * **Mexické krůtí ragú s fazolemi a bramboráčky, zdobené čedarem** 185 Kč
 * **Smažený kapustový karbanátek s mletým masem, bramborová kaše, zelný salát** 175 Kč
-* **Špagety Carbonara (pancetta, česnek, žloutek), sypané parmazánem - JÍDLO TÝDNE** 225 Kč
+* **Špagety Carbonara (pancetta, česnek, žloutek), parmazán - JÍDLO TÝDNE** 225 Kč
 * **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 185 Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek coleslaw** 185 Kč
 * **Hovězí guláš s cibulkou a beraním rohem, domácí houskový knedlík** 215 Kč
