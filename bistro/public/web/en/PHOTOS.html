@@ -192,6 +192,7 @@
                 <button class="arrow arrow-right" onclick="changeImage(1)">&#10095;</button>
             </div>
         </main>
+        <script src="/web/js/script.js"></script>
         <script>
             let images = document.querySelectorAll(".galerie-img");
             let currentIndex = 0;
@@ -218,32 +219,6 @@
                     if (event.key === "Escape") closeLightbox();
                 }
             });
-            document.getElementById("menu-toggle").addEventListener("click", function() {
-            document.getElementById("nav-menu").classList.toggle("show");
-            });
-    // >>> Scroll efekt pro hlavičku s prahem
-    const header = document.querySelector("header");    
-    let lastScroll = 0;
-    const delta = 50; // hlavička reaguje jen při větším scrollu
-    window.addEventListener("scroll", () => {
-        const currentScroll = window.pageYOffset;
-
-        if (Math.abs(currentScroll - lastScroll) < delta) return;
-
-        if (currentScroll > lastScroll && currentScroll > 100) {
-            // scroll dolů → skrýt hlavičku
-            header.style.transform = "translateY(-100%)";
-        } else {
-            // scroll nahoru → zobrazit hlavičku
-            header.style.transform = "translateY(0)";
-        }
-
-        lastScroll = currentScroll;
-    });
         </script>
     </body>
 </html>
-
-
-
-
