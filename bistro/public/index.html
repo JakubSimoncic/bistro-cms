@@ -113,10 +113,33 @@
                 font-weight: bold;
                 transition: color 0.3s;
                 text-align: center;
+                /* Klíčové pro efekt linky: */
+                position: relative;
+                display: inline-block; 
+                padding-bottom: 5px;
             }
+
+            /* Vytvoření neviditelné linky */
+            nav a::after {
+                content: '';
+                position: absolute;
+                width: 0;
+                height: 2px;
+                bottom: 0;
+                left: 0;
+                background-color: #d4a373;
+                transition: width 0.3s ease;
+            }
+
             nav a:hover {
                 color: #d4a373;
-                text-decoration: underline;
+                /* Odstranili jsme staré podtržení, aby se netlouklo s animací */
+                text-decoration: none; 
+            }
+
+            /* Aktivace linky při hoveru */
+            nav a:hover::after {
+                width: 100%;
             }
             .vlajka {
                 display: flex;
