@@ -1,5 +1,4 @@
-/* SPOLEČNÝ HEADER PRO VŠECHNY STRÁNKY */
-
+/* --- POUZE SPOLEČNÁ LIŠTA --- */
 header {
     background-color: #0F3825;
     display: flex;
@@ -12,16 +11,13 @@ header {
     width: 100%;
     z-index: 1000;
     box-sizing: border-box;
-    transition: transform 0.3s ease-in-out;
 }
 
-/* Logo */
 .logo img {
-    height: 80px;
+    height: 80px; 
     display: block;
 }
 
-/* Navigace */
 nav {
     display: flex;
     align-items: center;
@@ -32,47 +28,28 @@ nav a {
     color: #F5F1E3;
     text-decoration: none;
     font-weight: bold;
-    font-size: 16px;
-    transition: color 0.3s;
 }
 
-nav a:hover {
-    color: #d4a373;
-}
-
-/* Vlajky */
 .vlajka {
     display: flex;
     gap: 15px;
-    margin-left: 10px;
 }
 
 .vlajka img {
     width: 25px;
-    height: auto;
-    transition: transform 0.2s;
 }
 
-.vlajka img:hover {
-    transform: scale(1.2);
-}
-
-/* Mobilní tlačítko (v základu schované) */
+/* Mobilní menu - schované v základu */
 #menu-toggle {
     display: none;
     font-size: 30px;
     background: none;
     border: none;
-    cursor: pointer;
     color: #F5F1E3;
 }
 
-/* RESPONSIVITA PRO LIŠTU */
 @media (max-width: 900px) {
-    #menu-toggle {
-        display: block;
-    }
-
+    #menu-toggle { display: block; }
     nav {
         display: none;
         flex-direction: column;
@@ -84,8 +61,5 @@ nav a:hover {
         padding: 20px 0;
         text-align: center;
     }
-
-    nav.show {
-        display: flex;
-    }
+    nav.show { display: flex; }
 }
