@@ -193,54 +193,37 @@
                 <button class="arrow arrow-right" onclick="changeImage(1)">&#10095;</button>
             </div>
         </main>
+        <script src="/web/js/script.js"></script>
+        
         <script>
+            // Musíme znovu nadefinovat tyto proměnné a funkce zde
             let images = document.querySelectorAll(".galerie-img");
             let currentIndex = 0;
-            
+        
             function openLightbox(imgElement) {
                 currentIndex = Array.from(images).indexOf(imgElement);
                 document.getElementById("lightbox-img").src = imgElement.src;
                 document.getElementById("lightbox").style.display = "flex";
             }
-
+        
             function closeLightbox() {
                 document.getElementById("lightbox").style.display = "none";
             }
-            
+        
             function changeImage(direction) {
                 currentIndex = (currentIndex + direction + images.length) % images.length;
                 document.getElementById("lightbox-img").src = images[currentIndex].src;
             }
-            
+        
+            // Ovládání klávesnicí
             document.addEventListener("keydown", function(event) {
-                if (document.getElementById("lightbox").style.display === "flex") {
+                const lb = document.getElementById("lightbox");
+                if (lb && lb.style.display === "flex") {
                     if (event.key === "ArrowRight") changeImage(1);
                     if (event.key === "ArrowLeft") changeImage(-1);
                     if (event.key === "Escape") closeLightbox();
                 }
             });
-            document.getElementById("menu-toggle").addEventListener("click", function() {
-            document.getElementById("nav-menu").classList.toggle("show");
-            });
-    // >>> Scroll efekt pro hlavičku s prahem
-    const header = document.querySelector("header");    
-    let lastScroll = 0;
-    const delta = 50; // hlavička reaguje jen při větším scrollu
-    window.addEventListener("scroll", () => {
-        const currentScroll = window.pageYOffset;
-
-        if (Math.abs(currentScroll - lastScroll) < delta) return;
-
-        if (currentScroll > lastScroll && currentScroll > 100) {
-            // scroll dolů → skrýt hlavičku
-            header.style.transform = "translateY(-100%)";
-        } else {
-            // scroll nahoru → zobrazit hlavičku
-            header.style.transform = "translateY(0)";
-        }
-
-        lastScroll = currentScroll;
-    });
-        </script>    
+        </script>  
     </body>
 </html>
