@@ -4,7 +4,7 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta name="description" content="Bistro Florenc | Breakfast - 8:00 - 10:00 every weekday - English breakfast, pancakes, scrambled eggs, fresh juice, coffee">
-        <meta name="keywords" content="breakfast, Englich breakfast, pancakes, scrambled eggs, fresh juice, bistro Florenc, sandwich, baguettes, meal, snack, lunch, coffee, Karlín, Prague">
+        <meta name="keywords" content="breakfast, English breakfast, pancakes, scrambled eggs, fresh juice, bistro Florenc, sandwich, baguettes, meal, snack, lunch, coffee, Karlín, Prague">
 		<link rel="stylesheet" href="/web/css/styles.css">
                 
         <!-- Canonical URL -->
@@ -235,41 +235,7 @@
                     <span>155CZK</span>
                 </div>
         </footer>
-        <script>
-            document.addEventListener("DOMContentLoaded", function() {
-        const menuButton = document.getElementById('menu-toggle');
-        const navMenu = document.getElementById('nav-menu');
-    
-        if (!menuButton || !navMenu) {
-            console.error("❌ Element menu-toggle nebo nav-menu nebyl nalezen!");
-            return;
-        }
-    
-        menuButton.addEventListener('click', function() {
-            navMenu.classList.toggle('show');
-            console.log("✅ Menu přepnuto!");
-        });
-    });
-    // >>> Scroll efekt pro hlavičku s prahem
-    const header = document.querySelector("header");    
-	let lastScroll = 0;
-    const delta = 50; // hlavička reaguje jen při větším scrollu
-    window.addEventListener("scroll", () => {
-        const currentScroll = window.pageYOffset;
-
-        if (Math.abs(currentScroll - lastScroll) < delta) return;
-
-        if (currentScroll > lastScroll && currentScroll > 100) {
-            // scroll dolů → skrýt hlavičku
-            header.style.transform = "translateY(-100%)";
-        } else {
-            // scroll nahoru → zobrazit hlavičku
-            header.style.transform = "translateY(0)";
-        }
-
-        lastScroll = currentScroll;
-    });
-        </script>
+		<script src="/web/js/script.js"></script>
     </body>
 
 </html>
