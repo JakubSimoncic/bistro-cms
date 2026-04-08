@@ -1,55 +1,76 @@
-/* --- POUZE SPOLEČNÁ LIŠTA --- */
+/* --- ČISTĚ STYLY PRO HORNÍ LIŠTU --- */
 header {
-    background-color: #0F3825;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 10px 40px;
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
+    padding: 15px 20px;
+    background: #0F3825;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
     z-index: 1000;
     box-sizing: border-box;
+    transition: transform 0.7s ease;
 }
 
-.logo img {
-    height: 80px; 
-    display: block;
-}
+.logo { margin-left: 20px; }
+.logo img { height: 120px; display: block; }
 
-nav {
-    display: flex;
-    align-items: center;
-    gap: 25px;
-}
-
-nav a {
-    color: #F5F1E3;
-    text-decoration: none;
-    font-weight: bold;
-}
-
-.vlajka {
-    display: flex;
-    gap: 15px;
-}
-
-.vlajka img {
-    width: 25px;
-}
-
-/* Mobilní menu - schované v základu */
 #menu-toggle {
     display: none;
     font-size: 30px;
     background: none;
     border: none;
+    cursor: pointer;
     color: #F5F1E3;
 }
 
-@media (max-width: 900px) {
-    #menu-toggle { display: block; }
+nav {
+    display: flex;
+    align-items: center;
+    margin-right: 50px;
+}
+
+nav a {
+    color: #F5F1E3;
+    text-decoration: none;
+    margin: 0 15px;
+    font-size: 20px;
+    text-transform: uppercase;
+    font-weight: bold;
+    transition: color 0.3s;
+}
+
+nav a:hover {
+    color: #d4a373;
+    text-decoration: underline;
+}
+
+.vlajka {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    margin-left: 100px;
+}
+
+.vlajka a {
+    display: inline-block;
+    border-radius: 50%;
+    overflow: hidden;
+    width: 40px;
+    height: 40px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.3);
+    transition: transform 0.3s;
+}
+
+.vlajka a img { width: 100%; height: 100%; object-fit: cover; display: block; }
+
+/* Mobilní verze */
+@media (max-width: 768px) {
+    .logo img { height: 80px; }
+    #menu-toggle { display: block; position: absolute; top: 15px; right: 20px; }
     nav {
         display: none;
         flex-direction: column;
@@ -57,9 +78,10 @@ nav a {
         top: 100%;
         left: 0;
         width: 100%;
-        background-color: #0F3825;
+        background: #0F3825;
         padding: 20px 0;
-        text-align: center;
     }
     nav.show { display: flex; }
+    nav a { padding: 15px 0; width: 100%; text-align: center; }
+    .vlajka { margin: 20px 0 0 0; justify-content: center; gap: 30px; }
 }
