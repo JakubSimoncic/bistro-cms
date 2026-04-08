@@ -113,13 +113,11 @@
                 font-weight: bold;
                 transition: color 0.3s;
                 text-align: center;
-                /* Klíčové pro efekt linky: */
                 position: relative;
                 display: inline-block; 
                 padding-bottom: 5px;
             }
 
-            /* Vytvoření neviditelné linky */
             nav a::after {
                 content: '';
                 position: absolute;
@@ -128,12 +126,11 @@
                 bottom: 0;
                 left: 0;
                 background-color: #d4a373;
-                transition: width 0.3s ease;
+                transition: width 0.9s ease;
             }
 
             nav a:hover {
                 color: #d4a373;
-                /* Odstranili jsme staré podtržení, aby se netlouklo s animací */
                 text-decoration: none; 
             }
 
