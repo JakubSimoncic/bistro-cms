@@ -131,10 +131,8 @@
                 </div>
             </div>
         </main>
+        <script src="/web/js/script.js"></script>
         <script>
-            document.getElementById('menu-toggle').addEventListener('click', function() {
-                document.getElementById('nav-menu').classList.toggle('show');
-            });
             let slideIndex = 0;
             showSlides();
 
@@ -146,39 +144,21 @@
                 slideIndex++;
                 if (slideIndex > slides.length) {slideIndex = 1}
                 slides[slideIndex - 1].style.display = "block";
-                setTimeout (showSlides, 5000);
+                setTimeout(showSlides, 5000);
             }
         </script>
+
         <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
-            <script>
-              if (window.netlifyIdentity) {
+        <script>
+            if (window.netlifyIdentity) {
                 window.netlifyIdentity.on("init", (user) => {
-                  if (!user) {
-                    window.netlifyIdentity.on("login", () => {
-                      document.location.href = "/admin/";
-                    });
-                  }
+                    if (!user) {
+                        window.netlifyIdentity.on("login", () => {
+                            document.location.href = "/admin/";
+                        });
+                    }
                 });
-              }
-    // >>> Scroll efekt pro hlavičku s prahem
-    const header = document.querySelector("header");    
-    let lastScroll = 0;
-    const delta = 50; // hlavička reaguje jen při větším scrollu
-    window.addEventListener("scroll", () => {
-        const currentScroll = window.pageYOffset;
-
-        if (Math.abs(currentScroll - lastScroll) < delta) return;
-
-        if (currentScroll > lastScroll && currentScroll > 100) {
-            // scroll dolů → skrýt hlavičku
-            header.style.transform = "translateY(-100%)";
-        } else {
-            // scroll nahoru → zobrazit hlavičku
-            header.style.transform = "translateY(0)";
-        }
-
-        lastScroll = currentScroll;
-    });
+            }
         </script>
     </body>
 </html>
