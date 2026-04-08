@@ -68,22 +68,27 @@
                 margin: 0;
                 padding: 0;
                 font-family: Arial, Helvetica, sans-serif;
-                overflow-x: hidden;
+                overflow: hidden;
                 color:#0F3825
             }
             header {
-                background: rgba(15, 56, 37, 0.85); 
-                backdrop-filter: blur(12px);
-                -webkit-backdrop-filter: blur(12px);
-                border-bottom: 1px solid rgba(212, 163, 115, 0.2);
-                padding: 10px 40px;
-                height: 80px;
+                position: fixed;
+                width: 100%;
+                top: 0;
+                left: 0;
+                display: flex;
+                justify-content: space-between;
+                align-items: center;
+                padding: 15px 20px;
+                background: #0F3825;
+                box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+                z-index: 1000;
             }
             .logo {
                     margin-left: 20px;
             }
             .logo img {
-                height: 60px;
+                height: 120px;
             }
             #menu-toggle {
                 display: none;
@@ -94,40 +99,25 @@
                 color: #F5F1E3;
                 right: 0px;
             }
-        /* 1. Úprava základního odkazu (přidáváme pozici pro linku) */
-        nav a {
-            color: #F5F1E3;
-            text-decoration: none;
-            margin: 0 15px;
-            font-size: 20px;
-            text-transform: uppercase;
-            font-weight: bold;
-            transition: color 0.3s;
-            text-align: center;
-            position: relative; /* Nutné pro animaci linky */
-            padding-bottom: 5px; /* Prostor pro linku pod textem */
-        }
-
-        /* 2. Vytvoření neviditelné linky (před najetím) */
-        nav a::after {
-            content: '';
-            position: absolute;
-            width: 0;
-            height: 2px;
-            bottom: 0;
-            left: 0;
-            background-color: #d4a373; /* Zlatá barva linky */
-            transition: width 0.3s ease; /* Plynulé vysouvání */
-        }
-        
-        /* 3. Akce při najetí myší (Hover) */
-        nav a:hover {
-            color: #d4a373; /* Text zezlátne */
-        }
-        
-        nav a:hover::after {
-            width: 100%; /* Linka se roztáhne na 100% šířky slova */
-        }
+            nav {
+                display: flex;
+                align-items: center;
+                margin-right: 50px;
+            }
+            nav a {
+                color: #F5F1E3;
+                text-decoration: none;
+                margin: 0 15px;
+                font-size: 20px;
+                text-transform: uppercase;
+                font-weight: bold;
+                transition: color 0.3s;
+                text-align: center;
+            }
+            nav a:hover {
+                color: #d4a373;
+                text-decoration: underline;
+            }
             .vlajka {
                 display: flex;
                 gap: 10px;
@@ -197,23 +187,28 @@
                     right: 20px;
                 }
                 nav {
-                    display: none; /* Skryté, dokud se neklikne na menu-toggle */
+                    display: none;
                     flex-direction: column;
                     position: absolute;
-                    top: 80px;
+                    top: 100px;
                     left: 0;
                     width: 100%;
-                    background: rgba(15, 56, 37, 0.95);
-                    padding: 20px 0;
-                }
-                nav.show {
-                    display: flex;
+                    background: #0F3825;
+                    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+                    text-align: center;
+                    overflow-x: hidden;
+                    padding-left: 0;
+                    padding-right: 0;
+                    max-width: none;
                 }
                 nav a {
                     padding: 15px 0;
-                    display: inline-block; /* Aby linka byla jen pod textem */
-                    width: fit-content;    /* Přizpůsobí se délce slova */
+                    display: block;
+                    color: #F5F1E3;
                     margin: 0 auto;
+                    text-align: center;
+                    width: 100%;
+                    max-width: 300px;
                 }
                 nav.show {
                     display: flex;
