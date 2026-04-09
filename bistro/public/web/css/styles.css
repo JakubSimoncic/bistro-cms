@@ -1,4 +1,7 @@
 /* --- ČISTĚ STYLY PRO HORNÍ LIŠTU --- */
+* {
+    font-family: Arial, Helvetica, sans-serif !important;
+    }
 header {
     position: fixed;
     width: 100%;
