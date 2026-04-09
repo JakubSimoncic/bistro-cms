@@ -4,7 +4,7 @@ title: Denní menu CZ
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)
 
 * **MENU 1: Polévka + Smažený kapustový karbanátek s mletým masem, bramborová kaše, zelný salát** 195 Kč
-* **MENU 2: Polévka + Mexické krůtí ragú s fazolemi a bramboráčky, zdobené čedarem** 195 Kč
+* **MENU 2: Polévka + Mexické krůtí ragú s fazolemi a bramboráčky, zdobené čedarem** 205 Kč
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
