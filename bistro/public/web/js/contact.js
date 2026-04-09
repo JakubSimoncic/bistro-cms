@@ -1,1 +1,1 @@
-console.log("Kontakt načteno.");
+console.log("Kontakt načten.");
