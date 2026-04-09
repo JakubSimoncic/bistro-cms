@@ -28,4 +28,4 @@ title: Denní menu CZ
 * **Čočková s uzeným masem nebo Kapustová s paprikovou klobásou a bramborem** 75 Kč
 
 
-***Nabídka platí ve pátek 10.4. od 10:30 do zavírací hodiny nebo do vyprodání.***
+***Nabídka platí v pátek 10.4. od 10:30 do zavírací hodiny nebo do vyprodání.***
