@@ -1,0 +1,67 @@
+/* nabidky-menu.css - Pouze styly pro jídelní lístek */
+
+.menu-section {
+    margin-bottom: 30px;
+}
+
+.menu-item {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding: 12px 0;
+    border-bottom: 1px solid #000000;
+    align-items: baseline;
+}
+
+.menu-item:last-child {
+    border-bottom: none;
+}
+
+.menu-item div {
+    flex: 1;
+    min-width: 0;
+    word-wrap: break-word;
+}
+
+.menu-item h4 {
+    margin: 0;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.menu-item p {
+    margin: 5px 0 0 0;
+    font-size: 14px;
+    color: #666;
+    flex-basis: 100%;
+    display: block;
+    white-space: pre-wrap;
+}
+
+.menu-item span {
+    font-weight: bold;
+    margin-left: 15px;
+    white-space: nowrap;
+}
+
+/* Specifické pro nadpisy sekcí uvnitř lístku */
+h2 {
+    border-bottom: 2px solid #1E5F3F;
+    padding-bottom: 5px;
+    font-size: 35px;
+    margin-top: 50px;
+    color: #1E5F3F;
+}
+
+/* Responzivita pro mobilní zobrazení cen */
+@media (max-width: 768px) {
+    .menu-item {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+    .menu-item span {
+        margin-left: auto;
+        margin-top: 5px;
+        font-size: 16px;
+    }
+}
