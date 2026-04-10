@@ -28,3 +28,4 @@
                     }
                 });
             }
+console.log("Stránka načtena.");
