@@ -3,8 +3,8 @@ title: Denní menu CZ
 ---
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)
 
-* **MENU 1: Polévka + Halušky s uzeným masem, zelím a cibulkou ** 195 Kč
-* **MENU 2: Polévka + Telecí nudličky Stroganoff, pečená jasmínová rýže ** 245 Kč
+* **MENU 1: Polévka + Halušky s uzeným masem, zelím a cibulkou** 195 Kč
+* **MENU 2: Polévka + Telecí nudličky Stroganoff, pečená jasmínová rýže** 245 Kč
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
