@@ -44,11 +44,26 @@ nav a {
     text-transform: uppercase;
     font-weight: bold;
     transition: color 0.3s;
+    position: relative;
 }
 
 nav a:hover {
     color: #d4a373;
-    text-decoration: underline;
+}
+
+nav a:not(.vlajka a)::after {
+    content: '';
+    position: absolute;
+    width: 0;
+    height: 2px;
+    bottom: -5px;
+    left: 0;
+    background-color: #d4a373; /* Tvoje zlatá */
+    transition: width 0.3s ease;
+}
+
+nav a:not(.vlajka a):hover::after {
+    width: 100%;
 }
 
 .vlajka {
