@@ -9,4 +9,4 @@
                     document.getElementById('menu-content').innerHTML = 'Nepodařilo se načíst denní menu.';
                     console.error(error);
                 });
-consol.log("Menu načteno");
+console.log("Menu načteno.");
