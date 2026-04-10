@@ -1,0 +1,42 @@
+            body {
+                margin: 0;
+                padding: 0;
+                font-family: Arial, Helvetica, sans-serif;
+                color:#0F3825;
+            }
+            main {
+                padding-top: 190px;
+                text-align: center;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                flex-direction: column;
+                font-size: 20px;
+                font-family: Arial, Helvetica, sans-serif;
+                padding-left: 20px;
+                padding-right: 20px;
+                background-color: #ffffff;
+            }
+            .mrizka {
+                display: grid;
+                grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+                gap: 20px;
+                margin: 0 auto;
+                width: 100%;
+            }
+            .mrizka-item {
+                background: #0F3825;
+                padding: 0px;
+                border-radius: 10px;
+                box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+            }
+            .mrizka-img {
+                width: 100%;
+                height: 200px;
+                object-fit: cover;
+                border-radius: 10px;
+            }
+            p {
+                color: #F5F1E3;
+                font-weight: bold;
+            }
