@@ -15,9 +15,14 @@
             }
 
             // Logika pro zavření plovoucího videa
-            document.getElementById('cornerVideoClose').onclick = function() {
-                document.getElementById('cornerVideo').style.display = 'none';
-            };
+            const closeBtn = document.getElementById('cornerVideoClose');
+            const videoBox = document.getElementById('cornerVideo');
+
+            if (closeBtn && videoBox) {
+                closeBtn.onclick = function() {
+                    videoBox.style.display = 'none';
+                };
+            }
 
             if (window.netlifyIdentity) {
                 window.netlifyIdentity.on("init", (user) => {
@@ -28,4 +33,5 @@
                     }
                 });
             }
+
 console.log("Stránka načtena.");
