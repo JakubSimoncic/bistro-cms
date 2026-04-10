@@ -23,3 +23,4 @@
                     if (event.key === "Escape") closeLightbox();
                 }
             });
+console.log("Fotky načteny.");
