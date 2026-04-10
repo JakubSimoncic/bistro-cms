@@ -6,6 +6,7 @@
         <meta name="description" content="Bistro in Florenc with hot meals all day, coffee, sandwiches and baguettes. Come and taste traditional and modern flavors in a pleasant environment.">
         <meta name="keywords" content="bistro, Florenc, fresh food,  sandwiches, baguettes, meal, snack, restaurants Karlín, Prague, Czech Republic, Bistro Florenc, Bistro in Prague, Bistro with hot meals, Bistro with coffee, Bistro with sandwiches, Bistro with baguettes">
         <link rel="stylesheet" href="/web/css/styles.css">
+        <link rel="stylesheet" href="/web/css/index.css">
 
         <!-- Canonical URL -->
         <link rel="canonical" href="https://www.bistroflorenc.cz/web/en/index.html">
@@ -63,46 +64,6 @@
               </script>
         
         <title>Bistro Florenc</title>
-        <style>
-            body {
-                margin: 0;
-                padding: 0;
-                font-family: Arial, Helvetica, sans-serif;
-                overflow: hidden;
-                color:#0F3825
-            }
-            main {
-                margin-top: 110px;
-                object-position: center;
-                overflow: hidden;
-            }
-            .slideshow-container {
-                position: relative;
-                max-width: 100%;
-                margin: auto;
-            }
-            .slide {
-                width: 100vw;  
-                height: 100vh;  
-                display: flex;
-                justify-content: center;
-                align-items: center;
-                overflow: hidden;
-            }
-            .slide img {
-                width: 100%;
-                height: 100%;
-                object-fit: cover;
-                object-position: center;
-            }
-            .fade {
-                animation: fadeEffect 0.5s ease-in-out;
-            }
-            @keyframes fadeEffect {
-                from {opacity: 0.5;} 
-                to {opacity: 1;}
-            }
-        </style>
     </head>
     <body>
         <header>
@@ -132,33 +93,7 @@
             </div>
         </main>
         <script src="/web/js/script.js"></script>
-        <script>
-            let slideIndex = 0;
-            showSlides();
-
-            function showSlides() {
-                let slides = document.getElementsByClassName("slide");
-                for (let i = 0; i < slides.length; i++) {
-                    slides[i].style.display = "none";
-                }
-                slideIndex++;
-                if (slideIndex > slides.length) {slideIndex = 1}
-                slides[slideIndex - 1].style.display = "block";
-                setTimeout(showSlides, 5000);
-            }
-        </script>
-
         <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
-        <script>
-            if (window.netlifyIdentity) {
-                window.netlifyIdentity.on("init", (user) => {
-                    if (!user) {
-                        window.netlifyIdentity.on("login", () => {
-                            document.location.href = "/admin/";
-                        });
-                    }
-                });
-            }
-        </script>
+        <script src="/web/js/index.js"></script>
     </body>
 </html>
