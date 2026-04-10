@@ -14,7 +14,7 @@ title: Denní menu CZ
 ## HLAVNÍ JÍDLA
 
 * **Rajská omáčka s hovězím masem, domácí houskový knedlík** 195 Kč
-* **Grilovaný hermelín, brusinková majonéza a vařené brambory ** 185 Kč
+* **Grilovaný hermelín, brusinková majonéza a vařené brambory** 185 Kč
 * **Halušky s uzeným masem, zelím a cibulkou** 175 Kč
 * **Telecí nudličky Stroganoff, pečená jasmínová rýže** 225 Kč
 * **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 185 Kč
@@ -25,7 +25,7 @@ title: Denní menu CZ
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTATNĚ – 500ml
 
-* **Čočková s uzeným masem nebo květákový krém s medvědím česnekem a krutony ** 75 Kč
+* **Čočková s uzeným masem nebo květákový krém s medvědím česnekem a krutony** 75 Kč
 
 
 ***Nabídka platí v sobotu 11.4. od 10:30 do zavírací hodiny nebo do vyprodání.***
