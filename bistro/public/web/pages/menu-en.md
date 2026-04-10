@@ -9,7 +9,7 @@ title: Denní menu - EN
 ## SMALL SOUP WITH MAIN COURSE – 250ml
 
 * **Lentils soup with smoked meat** 35 CZK
-* ** Cauliflower cream with wild garlic and croutons** 35 CZK
+* **Cauliflower cream with wild garlic and croutons** 35 CZK
 
 ## MAIN COURSES
 
