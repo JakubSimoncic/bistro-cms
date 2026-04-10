@@ -1,4 +1,4 @@
-        fetch('/web/pages/denni_menu.md')
+        fetch('pages/denni-menu.md')
                 .then(response => response.text())
                 .then(markdown => {
                     const content = markdown.replace(/^---[\s\S]*?---\s*/, '');
