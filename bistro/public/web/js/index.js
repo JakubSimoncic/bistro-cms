@@ -33,5 +33,20 @@
                     }
                 });
             }
+document.addEventListener('DOMContentLoaded', function() {
+    const placeholder = document.getElementById('videoPlaceholder');
+    if (placeholder) {
+        placeholder.addEventListener('click', function() {
+            const container = document.getElementById('cornerVideo');
+            // Teď tam teprve vložíme skutečné video
+            container.innerHTML = '<span id="cornerVideoClose">&times;</span><iframe width="100%" height="100%" src="https://www.youtube-nocookie.com/embed/TkxlEAl4fEo?autoplay=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>';
+            
+            // Musíme znovu zprovoznit křížek pro zavření
+            document.getElementById('cornerVideoClose').onclick = function() {
+                container.style.display = 'none';
+            };
+        });
+    }
+});
 
 console.log("Stránka načtena.");
