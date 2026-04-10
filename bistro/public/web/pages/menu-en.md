@@ -25,6 +25,6 @@ title: Denní menu - EN
 
 ## LARGE SOUP ORDERED SEPARATELY – 500ml
  
-* **Lentil soup with smoked meat or Cauliflower cream with wild garlic and croutons **  75 CZK
+* **Lentil soup with smoked meat or Cauliflower cream with wild garlic and croutons**  75 CZK
 
 ***Offer valid on Saturday 11.4. from 10:30 until closing time or until sold out.***
