@@ -3,7 +3,7 @@ title: Denní menu - EN
 ---
 ## SPECIAL OFFER (soup + main course)
 
-* **MENU 1: Soup + „Halušky“ – Czech gnocchi with smoked meat, cabbage and sautéed onion** 205 CZK
+* **MENU 1: Soup + „Halušky“ – Czech gnocchi with smoked meat, cabbage and sautéed onion** 195 CZK
 * **MENU 2: Soup + Stroganoff from Veal meat, roasted jasmine rice** 245 CZK
 
 ## SMALL SOUP WITH MAIN COURSE – 250ml
