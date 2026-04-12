@@ -3,20 +3,20 @@ title: Denní menu CZ
 ---
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)
 
-* **MENU 1: Polévka + Segedínský vepřový guláš s houskovým knedlíkem** 205 Kč
-* **MENU 2: Polévka + Mexické drůbeží ragú s fazolemi, zdobené čedarem, pečená jasmínová rýže** 215 Kč
+* **MENU 1: Polévka + Srbské vepřové rizoto sypané sýrem, kyselá okurka** 185 Kč
+* **MENU 2: Polévka + Moravský vrabec, bramborový knedlík, dušené zelí** 205 Kč
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
-* **Kapustová polévka s klobásou a bramborem** 35 Kč
-* **Dršťková polévka** 35 Kč
+* **Gulášová polévka** 35 Kč
+* **Brokolicový krém se zakysanou smetanou a krutony** 35 Kč
 
 ## HLAVNÍ JÍDLA
 
-* **Smažené telecí řízečky s domácím bramborovým salátem, citron** 265 Kč
-* **Rajská hovězí pečeně, houskový knedlík** 195 Kč
-* **Mexické drůbeží ragú s fazolemi, zdobené čedarem, pečená jasmínová rýže** 195 Kč
-* **Segedínský vepřový guláš s houskovým knedlíkem** 185 Kč
+* **Kuřecí nudličky gyros s hranolky, zelný salátek, česneková majonéza** 195 Kč
+* **Polévka + Moravský vrabec, bramborový knedlík, dušené zelí** 185 Kč
+* **Srbské vepřové rizoto sypané sýrem, kyselá okurka** 165 Kč
+* **Caesar salát s kuřecím masem, cherry rajčaty, krutony, parmazánem, toast - JÍDLO TÝDNE** 185 Kč
 * **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 185 Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek coleslaw** 185 Kč
 * **Hovězí guláš s cibulkou a beraním rohem, domácí houskový knedlík** 215 Kč
@@ -25,7 +25,7 @@ title: Denní menu CZ
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTATNĚ – 500ml
 
-* **Kapustová polévka s klobásou a bramborem nebo dršťková polévka** 75 Kč
+* **Gulášová polévka nebo Brokolicový krém se zakysanou smetanou a krutony** 75 Kč
 
 
-***Nabídka platí v neděli 12.4. od 10:30 do zavírací hodiny nebo do vyprodání.***
+***Nabídka platí v pondělí 13.4. od 10:30 do zavírací hodiny nebo do vyprodání.***
