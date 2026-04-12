@@ -14,9 +14,9 @@ title: Denní menu CZ
 ## HLAVNÍ JÍDLA
 
 * **Kuřecí nudličky gyros s hranolky, zelný salátek, česneková majonéza** 195 Kč
-* **Polévka + Moravský vrabec, bramborový knedlík, dušené zelí** 185 Kč
+* **Moravský vrabec, bramborový knedlík, dušené zelí** 185 Kč
 * **Srbské vepřové rizoto sypané sýrem, kyselá okurka** 165 Kč
-* **Caesar salát s kuřecím masem, cherry rajčaty, krutony, parmazánem, toast - JÍDLO TÝDNE** 185 Kč
+* **Caesar salát s kuřecím masem, cherry rajčaty, krutony, parmazánem, toast - JÍDLO TÝDNE** 235 Kč
 * **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 185 Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek coleslaw** 185 Kč
 * **Hovězí guláš s cibulkou a beraním rohem, domácí houskový knedlík** 215 Kč
