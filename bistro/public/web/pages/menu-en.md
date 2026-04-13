@@ -9,7 +9,7 @@ title: Denní menu - EN
 ## SMALL SOUP WITH MAIN COURSE – 250ml
 
 * **Goulash soup** 35 CZK
-* **Broccoli cream with sour cream and croutons** 35 CZK
+* **Kale soup with sausage** 35 CZK
 
 ## MAIN COURSES
 
@@ -25,6 +25,6 @@ title: Denní menu - EN
 
 ## LARGE SOUP ORDERED SEPARATELY – 500ml
  
-* **Goulash soup or Broccoli cream with sour cream and croutons** 75 CZK
+* **Goulash soup or Kale soup with sausage** 75 CZK
 
 ***Offer valid on Monday 13.4. from 10:30 until closing time or until sold out.***
