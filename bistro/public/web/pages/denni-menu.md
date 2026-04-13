@@ -28,4 +28,4 @@ title: Denní menu CZ
 * **Gulášová polévka nebo Brokolicový krém se zakysanou  smetanou a krutony** 75 Kč
 
 
-***Nabídka platí v pondělí 13.4. od 10:30 do zavírací hodiny nebo do vyprodání.***
+***Nabídka platí v úterý 14.4. od 10:30 do zavírací hodiny nebo do vyprodání.***
