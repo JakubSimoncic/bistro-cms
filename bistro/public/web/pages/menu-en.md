@@ -27,4 +27,4 @@ title: Denní menu - EN
  
 * **Goulash soup or Broccoli cream with sour cream and croutons** 75 CZK
 
-***Offer valid on Monday 14.4. from 10:30 until closing time or until sold out.***
+***Offer valid on Tuesday 14.4. from 10:30 until closing time or until sold out.***
