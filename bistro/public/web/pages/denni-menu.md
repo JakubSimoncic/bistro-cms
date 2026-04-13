@@ -9,7 +9,7 @@ title: Denní menu CZ
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
 * **Gulášová polévka** 35 Kč
-* **Brokolicový krém se zakysanou smetanou a krutony** 35 Kč
+* **Kapustová s uzeninou** 35 Kč
 
 ## HLAVNÍ JÍDLA
 
@@ -25,7 +25,7 @@ title: Denní menu CZ
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTATNĚ – 500ml
 
-* **Gulášová polévka nebo Brokolicový krém se zakysanou smetanou a krutony** 75 Kč
+* **Gulášová polévka nebo Kapustová s uzeninou** 75 Kč
 
 
 ***Nabídka platí v pondělí 13.4. od 10:30 do zavírací hodiny nebo do vyprodání.***
