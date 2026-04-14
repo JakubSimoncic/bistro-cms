@@ -3,19 +3,19 @@ title: Denní menu CZ
 ---
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)
 
-* **MENU 1: Polévka + Vepřová pečeně na slanině, pečená jasmínová rýže** 205 Kč
-* **MENU 2: Polévka + Pečené vepřové koleno na pivě, bramborová kaše, kyselá okurka** 205 Kč
+* **MENU 1: Polévka + Vepřové po sečuánsku, pečená jasmínová rýže** 205 Kč
+* **MENU 2: Polévka + Medailonky z vepřové panenky, houbové ragú se smetanou a šťouchané brambory** 235 Kč
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
-* **Gulášová polévka** 35 Kč
-* **Brokolicový krém se zakysanou  smetanou a krutony** 35 Kč
+* **Zelňačka s uzeninou** 35 Kč
+* **staročeská bramboračka** 35 Kč
 
 ## HLAVNÍ JÍDLA
 
-* **Vepřová pečeně na slanině, pečená jasmínová rýže** 185 Kč
-* **Moravský vrabec, bramborový knedlík, dušené zelí** 185 Kč
-* **Pečené vepřové koleno na pivě, bramborová kaše, kyselá okurka** 185 Kč
+* **Kuřecí gyros v tortille se zelným salátkem, česnekovým dresinkem a sýrem; smažené hranolky** 185 Kč
+* **Vepřové po sečuánsku, pečená jasmínová rýže** 185 Kč
+* **Medailonky z vepřové panenky, houbové ragú se smetanou a šťouchané brambory** 215 Kč
 * **Caesar salát s kuřecím masem, cherry rajčaty, krutony, parmazánem, toast - JÍDLO TÝDNE** 235 Kč
 * **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 185 Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek coleslaw** 185 Kč
@@ -25,7 +25,7 @@ title: Denní menu CZ
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTATNĚ – 500ml
 
-* **Gulášová polévka nebo Brokolicový krém se zakysanou  smetanou a krutony** 75 Kč
+* **Zelňačka s uzeninou nebo staročeská bramboračka** 75 Kč
 
 
-***Nabídka platí v úterý 14.4. od 10:30 do zavírací hodiny nebo do vyprodání.***
+***Nabídka platí ve středu 15.4. od 10:30 do zavírací hodiny nebo do vyprodání.***
