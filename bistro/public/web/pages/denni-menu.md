@@ -9,7 +9,7 @@ title: Denní menu CZ
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
 * **Zelňačka s uzeninou** 35 Kč
-* **staročeská bramboračka** 35 Kč
+* **Staročeská bramboračka** 35 Kč
 
 ## HLAVNÍ JÍDLA
 
