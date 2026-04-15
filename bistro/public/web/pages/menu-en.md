@@ -4,7 +4,7 @@ title: Denní menu - EN
 ## SPECIAL OFFER (soup + main course)
 
 * **MENU 1: Soup + Fried schnitzel from minced pork meat, mashed potatoes and pickles** 205 CZK
-* **MENU 2: Soup + Bolognese spaghetti with beef meat and Parmesan cheese** 215 CZK
+* **MENU 2: Soup + Spaghetti Bolognese with beef minced meat and Parmesan cheese** 215 CZK
 
 ## SMALL SOUP WITH MAIN COURSE – 250ml
 
@@ -15,7 +15,7 @@ title: Denní menu - EN
 
 * **Pork meat with mushroom sauce and baked jasmine rice** 185 CZK
 * **Fried schnitzel from minced pork meat, mashed potatoes and pickles** 185 CZK
-* **Bolognese spaghetti with beef meat and Parmesan cheese** 195 CZK
+* **Spaghetti Bolognese with beef minced meat and Parmesan cheese** 195 CZK
 * **Caesar salad with Chicken meat, cherry tomatoes, croutons, Parmesan cheese, toast - DISH OF THE WEEK** 235 CZK
 * **Grilled stuffed wheat tortilla of your choice and French Fries** 185 CZK
 * **Pulled pork meat in our BBQ sauce, roasted potatoes and Coleslaw salad** 185 CZK
