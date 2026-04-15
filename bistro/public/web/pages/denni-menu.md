@@ -25,7 +25,7 @@ title: Denní menu CZ
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTATNĚ – 500ml
 
-* **Zelňačka s uzeninou nebo brokolicový krém s krutony a zakysanou smetanou ** 75 Kč
+* **Zelňačka s uzeninou nebo brokolicový krém s krutony a zakysanou smetanou** 75 Kč
 
 
 ***Nabídka platí ve čtvrtek 16.4. od 10:30 do zavírací hodiny nebo do vyprodání.***
