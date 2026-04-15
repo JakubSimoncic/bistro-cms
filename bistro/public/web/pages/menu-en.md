@@ -16,7 +16,7 @@ title: Denní menu - EN
 * **Pork meat with mushroom sauce and baked jasmine rice** 185 CZK
 * **Fried schnitzel from minced pork meat, mashed potatoes and pickles** 185 CZK
 * **Bolognese spaghetti with beef meat and Parmesan cheese** 195 CZK
-* **Caesar salad with Chicken meat, cherry tomatoes, croutons, Parmesan, toast - DISH OF THE WEEK** 235 CZK
+* **Caesar salad with Chicken meat, cherry tomatoes, croutons, Parmesan cheese, toast - DISH OF THE WEEK** 235 CZK
 * **Grilled stuffed wheat tortilla of your choice and French Fries** 185 CZK
 * **Pulled pork meat in our BBQ sauce, roasted potatoes and Coleslaw salad** 185 CZK
 * **Beef goulash with onion, homemade dumplings** 215 CZK
