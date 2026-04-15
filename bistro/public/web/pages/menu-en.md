@@ -4,7 +4,7 @@ title: Denní menu - EN
 ## SPECIAL OFFER (soup + main course)
 
 * **MENU 1: Soup + Fried schnitzel from minced pork meat, mashed potatoes and pickles** 205 CZK
-* **MENU 2: Soup + Spaghetti Bolognese with beef minced meat and Parmesan** 215 CZK
+* **MENU 2: Soup + Spaghetti Bolognese with beef minced meat and Parmesan cheese** 215 CZK
 
 ## SMALL SOUP WITH MAIN COURSE – 250ml
 
