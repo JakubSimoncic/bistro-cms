@@ -13,9 +13,9 @@ title: Denní menu CZ
 
 ## HLAVNÍ JÍDLA
 
+* **Hovězí karabáček se šípkovou omáčkou, domácí houskový knedlík** 225 Kč
 * **Zapečené šunkofleky s uzeným masem, kyselá okurka** 185 Kč
 * **Vepřové nudličky po sečuánsku, pečená jasmínová rýže** 185 Kč
-* **Hovězí karabáček se šípkovou omáčkou, domácí houskový knedlík** 225 Kč
 * **Boloňské špagety s mletým masem, parmazán** 195 Kč
 * **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 185 Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek coleslaw** 185 Kč
