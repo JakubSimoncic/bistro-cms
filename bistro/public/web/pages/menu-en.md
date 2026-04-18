@@ -3,20 +3,20 @@ title: Denní menu - EN
 ---
 ## SPECIAL OFFER (soup + main course)
 
-* **MENU 1: Soup + Dutch schnitzel with boiled potato, pickles** 205 CZK
-* **MENU 2: Soup + Pork with mushrooms, pasta (fusilli)** 205 CZK
+* **MENU 1: Soup + Baked pasta with smoked meat, pickle** 205 CZK
+* **MENU 2: Soup + Sichuan pork strips, roasted jasmine rice** 205 CZK
 
 ## SMALL SOUP FOR THE MAIN COURSE – 250ml
 
-* **Lentils with sausage** 35 CZK
-* **Kulajda - cream soup with dill, potatoes and mushrooms** 35 CZK
+* **Chicken broth with meat, vegetables and frittata noodles** 35 CZK
+* **Old Bohemian potato soup** 35 CZK
 
 ## MAIN COURSES
 
-* **Serbian pork risotto sprinkled with cheese, pickles** 175 CZK
-* **Roasted pork knuckle, braised white cabbage, dumpling variation (bread/potato)** 185 CZK 
-* **Dutch schnitzel with boiled potato, pickles** 185 CZK
-* **Pork with mushrooms, pasta (fusilli)** 185 CZK
+* **Beef carabau with rosehip sauce, homemade bread dumplings** 225 CZK
+* **Baked pasta with smoked meat, pickle** 185 CZK 
+* **Sichuan pork strips, roasted jasmine rice** 185 CZK
+* **Spaghetti bolognese with minced meat, parmesan** 195 CZK
 * **Grilled stuffed wheat tortilla of your choice and French Fries** 185 CZK
 * **Pulled pork meat in our BBQ sauce, roasted potatoes and Coleslaw salad** 185 CZK
 * **Beef goulash with onion, homemade dumplings** 215 CZK
@@ -25,6 +25,6 @@ title: Denní menu - EN
 
 ## LARGE SOUP ORDERED SEPARATELY – 500ml
  
-* **Lentils with sausage or Kulajda - dill soup** 75 CZK
+* **Chicken broth with meat, vegetables and frittata noodles or Old Bohemian potato soup** 75 CZK
 
-***Offer valid on Saturday 18.4. from 10:00 until closing time or until sold out.***
+***Offer valid on Sunday 19.4. from 10:00 until closing time or until sold out.***
