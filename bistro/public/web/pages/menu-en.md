@@ -3,19 +3,19 @@ title: Denní menu - EN
 ---
 ## SPECIAL OFFER (soup + main course)
 
-* **MENU 1: Soup + Roasted chicken drumsticks with oranges and ginger, mashed potatoes/rice** 205 Kč
-* **MENU 2: Soup + Country-style roast pork neck, cabbage, potato dumpling** 205 Kč
+* **MENU 1: Soup + Roasted chicken drumsticks with oranges and ginger, mashed potatoes/rice** 205 CZK
+* **MENU 2: Soup + Country-style roast pork neck, cabbage, potato dumpling** 205 CZK
 
 ## SMALL SOUP WITH MAIN COURSE – 250ml
 
-* **Frankfurt soup** 35 Kč
-* **Creamy garlic soup with croutons and cheese** 35 Kč
+* **Frankfurt soup** 35 CZK
+* **Creamy garlic soup with croutons and cheese** 35 CZK
 
 ## MAIN COURSES
 
-* **Pork meat with vegetables, roasted jasmine rice** 185 Kč
-* **Roasted chicken drumsticks with oranges and ginger, mashed potatoes/rice** 185 Kč
-* **Country-style roast pork neck, cabbage, potato dumpling** 185 Kč
+* **Pork meat with vegetables, roasted jasmine rice** 185 CZK
+* **Roasted chicken drumsticks with oranges and ginger, mashed potatoes/rice** 185 CZK
+* **Country-style roast pork neck, cabbage, potato dumpling** 185 CZK
 * **Smoked beef tongue, horseradish sauce and Carlsbad dumplings - MEAL OF THE WEEK** 215 CZK
 * **Grilled stuffed wheat tortilla of your choice and French Fries** 185 CZK
 * **Pulled pork meat in our BBQ sauce, roasted potatoes and Coleslaw salad** 185 CZK
