@@ -3,19 +3,19 @@ title: Denní menu - EN
 ---
 ## SPECIAL OFFER (soup + main course)
 
-* **MENU 1: Soup + Baked pasta with smoked ham, pickle** 195 CZK
-* **MENU 2: Soup + Pork shoulder Stephen style, baked jasmine rice** 195 CZK
+* **MENU 1: Soup + Roasted chicken drumsticks with oranges and ginger, mashed potatoes/rice** 205 Kč
+* **MENU 2: Soup + Country-style roast pork neck, cabbage, potato dumpling** 205 Kč
 
-## SMALL SOUP FOR THE MAIN COURSE – 250ml
+## SMALL SOUP WITH MAIN COURSE – 250ml
 
-* **Chicken broth with meat, vegetables and frittata noodles** 35 CZK
-* **Tripe soupTripe soup** 35 CZK
+* **Frankfurt soup** 35 Kč
+* **Creamy garlic soup with croutons and cheese** 35 Kč
 
 ## MAIN COURSES
 
-* **Baked pasta with smoked ham, pickle** 175 CZK
-* **Pork shoulder Stephen style, baked jasmine rice** 175 CZK 
-* **Grilled filleted pork tenderloin, roasted potatoes, green pepper sauce** 225 CZK
+* **Pork meat with vegetables, roasted jasmine rice** 185 Kč
+* **Roasted chicken drumsticks with oranges and ginger, mashed potatoes/rice** 185 Kč
+* **Country-style roast pork neck, cabbage, potato dumpling** 185 Kč* **
 * **Smoked beef tongue, horseradish sauce and Carlsbad dumplings - MEAL OF THE WEEK** 215 CZK
 * **Grilled stuffed wheat tortilla of your choice and French Fries** 185 CZK
 * **Pulled pork meat in our BBQ sauce, roasted potatoes and Coleslaw salad** 185 CZK
@@ -25,6 +25,6 @@ title: Denní menu - EN
 
 ## LARGE SOUP ORDERED SEPARATELY – 500ml
  
-* **Chicken broth with meat, vegetables and frittata noodles or Tripe soup** 75 CZK
+* **Frankfurt soup or Creamy garlic soup with croutons and cheese** 75 CZK
 
-***Offer valid on Monday 20.4. from 10:00 until closing time or until sold out.***
+***Offer valid on Thuesday 21.4. from 10:30 until closing time or until sold out.***
