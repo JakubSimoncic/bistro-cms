@@ -15,7 +15,7 @@ title: Denní menu - EN
 
 * **Pork meat with vegetables, roasted jasmine rice** 185 Kč
 * **Roasted chicken drumsticks with oranges and ginger, mashed potatoes/rice** 185 Kč
-* **Country-style roast pork neck, cabbage, potato dumpling** 185 Kč* **
+* **Country-style roast pork neck, cabbage, potato dumpling** 185 Kč
 * **Smoked beef tongue, horseradish sauce and Carlsbad dumplings - MEAL OF THE WEEK** 215 CZK
 * **Grilled stuffed wheat tortilla of your choice and French Fries** 185 CZK
 * **Pulled pork meat in our BBQ sauce, roasted potatoes and Coleslaw salad** 185 CZK
