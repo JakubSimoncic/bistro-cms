@@ -9,7 +9,7 @@ title: Denní menu - EN
 ## SMALL SOUP WITH MAIN COURSE – 250ml
 
 * **Frankfurt soup** 35 CZK
-* **Creamy garlic soup with croutons and cheese** 35 CZK
+* **Creamy onion soup with croutons and cheese** 35 CZK
 
 ## MAIN COURSES
 
@@ -25,6 +25,6 @@ title: Denní menu - EN
 
 ## LARGE SOUP ORDERED SEPARATELY – 500ml
  
-* **Frankfurt soup or Creamy garlic soup with croutons and cheese** 75 CZK
+* **Frankfurt soup or Creamy onion soup with croutons and cheese** 75 CZK
 
 ***Offer valid on Thuesday 21.4. from 10:30 until closing time or until sold out.***
