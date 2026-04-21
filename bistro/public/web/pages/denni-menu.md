@@ -9,7 +9,7 @@ title: Denní menu CZ
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
 * **Frankfurtská polévka** 35 Kč
-* **Krémová česnečka s krutony a sýrem** 35 Kč
+* **Krémová cibulačka s krutony a sýrem** 35 Kč
 
 ## HLAVNÍ JÍDLA
 
@@ -25,6 +25,6 @@ title: Denní menu CZ
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTATNĚ – 500ml
 
-* **Frankfurtská polévka a Krémová česnečka s krutony a sýrem** 75 Kč
+* **Frankfurtská polévka a Krémová cibulačka s krutony a sýrem** 75 Kč
 
 ***Nabídka platí v úterý 21.4. od 10:30 do zavírací hodiny nebo do vyprodání.***
