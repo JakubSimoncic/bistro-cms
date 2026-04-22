@@ -3,19 +3,19 @@ title: Denní menu CZ
 ---
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)
 
-* **MENU 1: Polévka + Hovězí koprová omáčka, domácí houskový knedlík** 215 Kč
-* **MENU 2: Polévka + Selská vepřová pečeně, dušené zelí, bramborový knedlík** 205 Kč
+* **MENU 1: Polévka + Smažený květák s vařeným bramborem a tatarkou** 195 Kč
+* **MENU 2: Polévka + Vepřová játra na slanině s pečenou jasmínovou rýží** 185 Kč
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
-* **Dršťková polévka** 35 Kč
-* **Žampiónový krém s krutony** 35 Kč
+* **Boršč se zakysanou smetanou** 35 Kč
+* **Frankfurtská** 35 Kč
 
 ## HLAVNÍ JÍDLA
 
-* **Fusilli s vepřovou panenkou, listovým špenátem, smetanou a parmazánem** 225 Kč
-* **Selská vepřová pečeně, dušené zelí, bramborový knedlík** 185 Kč
-* **Hovězí koprová omáčka, domácí houskový knedlík** 195 Kč
+* **Cmunda po kaplicku (uzené maso a kysané zelí v bramboráku)** 185 Kč
+* **Vepřová játra na slanině s pečenou jasmínovou rýží** 165 Kč
+* **Smažený květák s vařeným bramborem a tatarkou** 175 Kč
 * **Uzený hovězí jazyk, křenová omáčka a karlovarský knedlík - JÍDLO TÝDNE** 215 Kč
 * **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 185 Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek coleslaw** 185 Kč
@@ -25,6 +25,6 @@ title: Denní menu CZ
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTATNĚ – 500ml
 
-* **Dršťková polévka nebo Žampiónový krém s krutony** 75 Kč
+* **Boršč se zakysanou smetanou nebo Frankfurtská** 75 Kč
 
-***Nabídka platí ve středu 22.4. od 10:30 do zavírací hodiny nebo do vyprodání.***
+***Nabídka platí ve čtvrtek 23.4. od 10:30 do zavírací hodiny nebo do vyprodání.***
