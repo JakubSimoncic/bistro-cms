@@ -3,19 +3,19 @@ title: Denní menu - EN
 ---
 ## SPECIAL OFFER (soup + main course)
 
-* **MENU 1: Soup + Beef meat with dill sauce, homemade bread dumpling** 215 CZK
-* **MENU 2: Soup + Country-style pork roast, braised cabbage, potato dumpling** 205 CZK
+* **MENU 1: Soup + Fried cauliflower with boiled potatoes and tartare sauce** 195 CZK
+* **MENU 2: Soup + Pork liver on bacon with baked jasmine rice** 185 CZK
 
 ## SMALL SOUP WITH MAIN COURSE – 250ml
 
-* **Tripe soup** 35 CZK
-* **Mushroom cream soup with croutons** 35 CZK
+* **Borscht with sour cream** 35 CZK
+* **Frankfurt** 35 CZK
 
 ## MAIN COURSES
 
-* **Fusilli with pork tenderloin, spinach leaves, cream and parmesan** 225 CZK
-* **Country-style roast pork, braised cabbage, potato dumpling** 185 CZK
-* **Beef meat with dill sauce, homemade bread dumpling** 195 CZK
+* **Cmunda po kaplicku (smoked meat and sauerkraut in a potato pancake)** 185 CZK
+* **Pork liver on bacon with baked jasmine rice** 165 CZK
+* **Fried cauliflower with boiled potatoes and tartare sauce** 175 CZK
 * **Smoked beef tongue, horseradish sauce and Carlsbad dumplings - MEAL OF THE WEEK** 215 CZK
 * **Grilled stuffed wheat tortilla of your choice and French Fries** 185 CZK
 * **Pulled pork meat in our BBQ sauce, roasted potatoes and Coleslaw salad** 185 CZK
@@ -25,6 +25,6 @@ title: Denní menu - EN
 
 ## LARGE SOUP ORDERED SEPARATELY – 500ml
  
-* **Tripe soup or Mushroom cream soup with croutons** 75 CZK
+* **Borscht with sour cream or Frankfurt** 75 CZK
 
-***Offer valid on Wednesday 22.4. from 10:30 until closing time or until sold out.***
+***Offer valid on on Thursday 23.4. from 10:30 until closing time or until sold out.***
