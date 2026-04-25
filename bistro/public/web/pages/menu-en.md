@@ -14,8 +14,8 @@ title: Denní menu - EN
 ## MAIN COURSES
 
 * **Pork cheeks in red wine and vegetables, mashed potatoes** 195 CZK
-* **Smoked beef tongue, horseradish-creamy sauce and Carlsbad dumplings** 215 CZK
 * **Chicken meat with orange souce, baked jasmine rice** 185 CZK
+* **Smoked beef tongue, horseradish-creamy sauce and Carlsbad dumplings** 215 CZK
 * **Beef meat wit creamy dill sauce, homemade dumplings** 195 CZK
 * **Grilled stuffed wheat tortilla of your choice and French Fries** 185 CZK
 * **Pulled pork meat in our BBQ sauce, roasted potatoes and Coleslaw salad** 185 CZK
