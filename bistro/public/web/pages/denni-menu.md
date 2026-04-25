@@ -14,8 +14,8 @@ title: Denní menu CZ
 ## HLAVNÍ JÍDLA
 
 * **Vepřová líčka na červeném víně a zelenině, šťouchané brambory** 195 Kč
-* **Uzený hovězí jazyk s křenovou omáčkou, karlovarský knedlík** 215 Kč
 * **Kuřecí nudličky na pomerančích, pečená jasmínová rýže** 185 Kč
+* **Uzený hovězí jazyk s křenovou omáčkou, karlovarský knedlík** 215 Kč
 * **Koprová omáčka s hovězím masem, domácí houskový knedlík** 185 Kč
 * **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 185 Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek coleslaw** 185 Kč
