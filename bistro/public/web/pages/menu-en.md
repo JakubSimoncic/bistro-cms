@@ -4,7 +4,7 @@ title: Denní menu - EN
 ## SPECIAL OFFER (soup + main course)
 
 * **MENU 1: Soup + Chicken meat with orange souce, baked jasmine rice** 205 CZK
-* **MENU 2: Soup +  Beef meat wit creamy dill sauce, homemade dumplings** 205 CZK
+* **MENU 2: Soup +  Beef meat wit creamy dill sauce, homemade dumplings** 215 CZK
 
 ## SMALL SOUP WITH MAIN COURSE – 250ml
 
