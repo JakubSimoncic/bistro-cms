@@ -27,4 +27,4 @@ title: Denní menu CZ
 
 * **Zelná polévka s uzeninou nebo Kulajda** 75 Kč
 
-***Nabídka platí v pondělí 28.4. od 10:30 do zavírací hodiny nebo do vyprodání.***
+***Nabídka platí v úterý 28.4. od 10:30 do zavírací hodiny nebo do vyprodání.***
