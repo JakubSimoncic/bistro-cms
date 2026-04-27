@@ -24,6 +24,6 @@ title: Denní menu - EN
 * **Fried cheese, French Fries and tartar sauce** 195 CZK
 
 ## LARGE SOUP ORDERED SEPARATELY – 500ml
-* ** Cabbage soup with sausage or Garlic soup with English bacon, croutons and cheese** 75 CZK
+* **Cabbage soup with sausage or Garlic soup with English bacon, croutons and cheese** 75 CZK
 
 ***Offer valid on Moday 27.4. from 10:30 until closing time or until sold out.***
