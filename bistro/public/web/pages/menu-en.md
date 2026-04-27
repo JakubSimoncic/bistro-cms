@@ -26,4 +26,4 @@ title: Denní menu - EN
 ## LARGE SOUP ORDERED SEPARATELY – 500ml
 * **Cabbage soup with sausage or Kulajda - creamy dill soup** 75 CZK
 
-***Offer valid on Moday 27.4. from 10:30 until closing time or until sold out.***
+***Offer valid on Tuesday 28.4. from 10:30 until closing time or until sold out.***
