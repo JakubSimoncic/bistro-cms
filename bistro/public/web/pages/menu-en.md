@@ -13,7 +13,7 @@ title: Denní menu - EN
 
 ## MAIN COURSES
 
-* **Beef meat with Gypsy sauce, baked jasmine rice** 195 CZK
+* **Beef meat, Gypsy sauce (bacon, paprika and tomatoes in meat sauce), baked jasmine rice** 195 CZK
 * **Homemade meatloaf, mashed potatoes, pickles** 165 CZK
 * **Baked rabbit meat in creamy sauce and homemade dumplings** 225 CZK
 * **500g - BBQ baked pork ribs, Coleslaw, chilli peppers, toasted bread - DISH OF THE WEEK** 245 CZK
