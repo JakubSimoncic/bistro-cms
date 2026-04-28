@@ -4,7 +4,7 @@ title: Denní menu CZ
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)
 
 * **MENU 1: Polévka + Domácí sekaná pečeně, bramborová kaše, kyselá okurka** 185 Kč
-* **MENU 2: Polévka + Králík na smetaně a domácí houskový knedlík** 235 Kč
+* **MENU 2: Polévka + Králík na smetaně a domácí houskový knedlík** 245 Kč
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
@@ -15,7 +15,7 @@ title: Denní menu CZ
 
 * **Cikánská hovězí pečeně a pečená jasmínová rýže** 195 Kč
 * **Domácí sekaná, bramborová kaše, kyselá okurka** 165 Kč
-* **Králík na smetaně a domácí houskový knedlík** 215 Kč
+* **Králík na smetaně a domácí houskový knedlík** 225 Kč
 * **500g - BBQ pečená vepřová žebra, salát Coleslaw, beraní rohy, rozpečený chléb - JÍDLO TÝDNE** 245 Kč
 * **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 185 Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek coleslaw** 185 Kč
