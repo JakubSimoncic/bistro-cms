@@ -3,19 +3,19 @@ title: Denní menu CZ
 ---
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)
 
-* **MENU 1: Polévka + Domácí sekaná pečeně, bramborová kaše, kyselá okurka** 185 Kč
-* **MENU 2: Polévka + Králík na smetaně a domácí houskový knedlík** 245 Kč
+* **MENU 1: Polévka + Smažený hermelín plněný šunkou, vařené brambory a tatarská omáčka** 205 Kč
+* **MENU 2: Polévka + Moravský vrabec, dušené červené zelí s jablky a bramborový knedlík** 205 Kč
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
-* **Jihočeská kulajda** 35 Kč
+* **Staročeská bramboračka** 35 Kč
 * **Gulášová polévka** 35 Kč
 
 ## HLAVNÍ JÍDLA
 
 * **Cikánská hovězí pečeně a pečená jasmínová rýže** 195 Kč
-* **Domácí sekaná, bramborová kaše, kyselá okurka** 165 Kč
-* **Králík na smetaně a domácí houskový knedlík** 225 Kč
+* **Smažený hermelín plněný šunkou, vařené brambory a tatarská omáčka** 185 Kč
+* **Moravský vrabec, dušené červené zelí s jablky a bramborový knedlík** 185 Kč
 * **500g - BBQ pečená vepřová žebra, salát Coleslaw, beraní rohy, rozpečený chléb - JÍDLO TÝDNE** 245 Kč
 * **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 185 Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek coleslaw** 185 Kč
@@ -25,6 +25,6 @@ title: Denní menu CZ
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTATNĚ – 500ml
 
-* **Jihočeská kulajda nebo gulášová polévka** 75 Kč
+* **Staročeská bramboračka nebo gulášová polévka** 75 Kč
 
-***Nabídka platí ve středu 29.4. od 10:30 do zavírací hodiny nebo do vyprodání.***
+***Nabídka platí ve čtvrtek 30.4. od 10:30 do zavírací hodiny nebo do vyprodání.***
