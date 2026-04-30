@@ -4,7 +4,7 @@ title: Denní menu - EN
 ## SPECIAL OFFER (soup + main course)
 
 * **MENU 1: Soup + Pork meat on green pepper sauce with Fusilli pasta** 205 CZK
-* **MENU 2: Soup + Pork liver on bacon sauce, baked jasmine rice* 185 CZK
+* **MENU 2: Soup + Pork liver on bacon sauce, baked jasmine rice** 185 CZK
 
 ## SMALL SOUP FOR THE MAIN COURSE – 250ml
 
