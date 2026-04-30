@@ -4,7 +4,7 @@ title: Denní menu CZ
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)
 
 * **MENU 1: Polévka + Vepřové kostky na zeleném pepři s těstovinami Fusilli** 205 Kč
-* **MENU 2: Polévka + Vepřová játra na slanině, pečená jasmínová rýže* 185 Kč
+* **MENU 2: Polévka + Vepřová játra na slanině, pečená jasmínová rýže** 185 Kč
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
