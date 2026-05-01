@@ -4,7 +4,7 @@ title: Denní menu CZ
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)
 
 * **MENU 1: Polévka + Halušky se zelím a uzeným masem, cibulka** 195 Kč
-* **MENU 2: Polévka + Domácí sekaný s bramborovým salátem** 205 Kč
+* **MENU 2: Polévka + Domácí sekaná s bramborovým salátem** 205 Kč
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
@@ -15,7 +15,7 @@ title: Denní menu CZ
 
 * **Křenová omáčka s uzenou kýtou, houskový knedlík** 185 Kč
 * **Halušky se zelím a uzeným masem, cibulka** 175 Kč
-* **Domácí sekaný s bramborovým salátem** 185 Kč
+* **Domácí sekaná s bramborovým salátem** 185 Kč
 * **500g - BBQ pečená vepřová žebra, salát Coleslaw, beraní rohy, rozpečený chléb - JÍDLO TÝDNE** 245 Kč
 * **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 185 Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek coleslaw** 185 Kč
