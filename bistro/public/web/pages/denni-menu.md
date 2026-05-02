@@ -13,7 +13,7 @@ title: Denní menu CZ
 
 ## HLAVNÍ JÍDLA
 
-* **Zapečené francouzské brambory, kyselá okurka** 175 Kč
+* **Zapečené francouzské brambory s uzeným masem, kyselá okurka** 175 Kč
 * **Selská vepřová krkovice, bílé dušené zelí, houskový knedlík** 185 Kč
 * **Hovězí cikánská pečeně, pečená jasmínová rýže** 195 Kč
 * **500g - BBQ pečená vepřová žebra, salát Coleslaw, beraní rohy, rozpečený chléb - JÍDLO TÝDNE** 245 Kč
