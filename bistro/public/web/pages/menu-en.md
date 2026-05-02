@@ -8,7 +8,7 @@ title: Denní menu - EN
 
 ## SMALL SOUP FOR THE MAIN COURSE – 250ml
 
-* **Cabbage soup with sausage** 35 CZK
+* **Old Bohemian potato soup** 35 CZK
 * **Garlic soup with English bacon, croutons and cheese** 35 CZK
 
 ## MAIN COURSES
@@ -24,6 +24,6 @@ title: Denní menu - EN
 * **Fried cheese, French Fries and Tartar Sauce** 195 CZK
 
 ## LARGE SOUP ORDERED SEPARATELY – 500ml
-* **Garlic soup with English bacon, croutons and cheese or Cabbage soup with sausage** 75 CZK
+* **Garlic soup with English bacon, croutons and cheese or Old Bohemian potato soup** 75 CZK
 
 ***Offer is valid on Sunday 3.5. from 10:00AM until closing time or until sold out.***
