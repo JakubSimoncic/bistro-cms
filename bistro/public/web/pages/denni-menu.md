@@ -8,7 +8,7 @@ title: Denní menu CZ
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
-* **Valašská kyselice s uzeninou** 35 Kč
+* **Staročeská bramboračka** 35 Kč
 * **Česnečka s anglickou slaninou, krutony a sýrem** 35 Kč
 
 ## HLAVNÍ JÍDLA
@@ -25,6 +25,6 @@ title: Denní menu CZ
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTATNĚ – 500ml
 
-* **Valašská kyselice s uzeninou nebo Česnečka s anglickou slaninou, krutony a sýrem** 75 Kč
+* **Staročeská bramboračka nebo Česnečka s anglickou slaninou, krutony a sýrem** 75 Kč
 
 ***Nabídka platí v neděli 3.5. od 10:00 do zavírací hodiny nebo do vyprodání.***
