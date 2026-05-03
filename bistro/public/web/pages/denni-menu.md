@@ -15,7 +15,7 @@ title: Denní menu CZ
 
 * **-**
 * **Selská vepřová krkovice, bílé dušené zelí, houskový knedlík** 185 Kč
-* **Vepřová plec se šípkovou omáčkou, houskový knedlík** 195 Kč
+* **Vepřová plec se šípkovou omáčkou, houskový knedlík** 185 Kč
 * **500g - BBQ pečená vepřová žebra, salát Coleslaw, beraní rohy, rozpečený chléb - JÍDLO TÝDNE** 245 Kč
 * **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 185 Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek coleslaw** 185 Kč
