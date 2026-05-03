@@ -3,20 +3,20 @@ title: Denní menu CZ
 ---
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)
 
-* **MENU 1: Polévka + Selská vepřová krkovice, bílé dušené zelí, houskový knedlík** 205 Kč
-* **MENU 2: Polévka + -**
+* **MENU 1: Polévka + Kuřecí stripsy v cornflakes, pečené brambory, BBQ majonéza** 195 Kč
+* **MENU 2: Polévka + Vepřová plec teriyaki s wasabi-bramborovou kaší a salátkem s fermentovanou ředkví a zázvorem** 205 Kč
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
-* **Staročeská bramboračka** 35 Kč
-* **Kulajda** 35 Kč
+* **Valašská kyselice s uzeninou** 35 Kč
+* **Krémová cibulačka s krutony** 35 Kč
 
 ## HLAVNÍ JÍDLA
 
-* **-**
-* **Selská vepřová krkovice, bílé dušené zelí, houskový knedlík** 185 Kč
-* **Vepřová plec se šípkovou omáčkou, houskový knedlík** 185 Kč
-* **500g - BBQ pečená vepřová žebra, salát Coleslaw, beraní rohy, rozpečený chléb - JÍDLO TÝDNE** 245 Kč
+* **Rozlítaný vepřový španělský ptáček s pečenou jasmínovou rýží** 185 Kč
+* **Kuřecí stripsy v cornflakes, pečené brambory, BBQ majonéza** 175 Kč
+* **Vepřová plec teriyaki s wasabi-bramborovou kaší a salátkem s fermentovanou ředkví a zázvorem** 185 Kč
+* **Špagety Carbonara (pancetta, žloutek, česnek), parmazán - JÍDLO TÝDNE** 225 Kč
 * **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 185 Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek coleslaw** 185 Kč
 * **Hovězí guláš s cibulkou a beraním rohem, domácí houskový knedlík** 215 Kč
@@ -25,6 +25,6 @@ title: Denní menu CZ
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTATNĚ – 500ml
 
-* **Staročeská bramboračka nebo Kulajda** 75 Kč
+* **Valašská kyselice s uzeninou nebo Krémová cibulačka s krutony** 75 Kč
 
-***Nabídka platí v neděli 3.5. od 10:00 do zavírací hodiny nebo do vyprodání.***
+***Nabídka platí v pondělí 4.5. od 10:30 do zavírací hodiny nebo do vyprodání.***
