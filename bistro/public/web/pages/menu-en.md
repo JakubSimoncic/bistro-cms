@@ -15,7 +15,7 @@ title: Denní menu - EN
 
 * **Pork meat with sauce with eggs, sausage and pickles, roasted jasmine rice** 185 CZK
 * **Chicken strips in cornflakes, baked potatoes, BBQ mayonnaise** 175 CZK
-* **eriyaki pork shoulder with wasabi-mashed potatoes and salad with fermented radish and ginger** 185 CZK
+* **Teriyaki pork shoulder with wasabi-mashed potatoes and salad with fermented radish and ginger** 185 CZK
 * **Spaghetti Carbonara (pancetta, egg yolk, garlic), Parmesan cheese - DISH OF THE WEEK** 225 CZK
 * **Grilled stuffed wheat tortilla of your choice and French Fries** 185 CZK
 * **Pulled pork meat in our BBQ sauce, roasted potatoes and coleslaw salad** 185 CZK
