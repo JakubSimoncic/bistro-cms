@@ -4,18 +4,18 @@ title: Denní menu CZ
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)
 
 * **MENU 1: Polévka + Selská vepřová krkovice, bílé dušené zelí, houskový knedlík** 205 Kč
-* **MENU 2: Polévka + Hovězí cikánská pečeně, pečená jasmínová rýže** 215 Kč
+* **MENU 2: Polévka + -**
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
 * **Staročeská bramboračka** 35 Kč
-* **Česnečka s anglickou slaninou, krutony a sýrem** 35 Kč
+* **Kulajda** 35 Kč
 
 ## HLAVNÍ JÍDLA
 
-* **Zapečené francouzské brambory s uzeným masem, kyselá okurka** 175 Kč
+* **-**
 * **Selská vepřová krkovice, bílé dušené zelí, houskový knedlík** 185 Kč
-* **Hovězí cikánská pečeně, pečená jasmínová rýže** 195 Kč
+* **Vepřová plec se šípkovou omáčkou, houskový knedlík** 195 Kč
 * **500g - BBQ pečená vepřová žebra, salát Coleslaw, beraní rohy, rozpečený chléb - JÍDLO TÝDNE** 245 Kč
 * **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 185 Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek coleslaw** 185 Kč
@@ -25,6 +25,6 @@ title: Denní menu CZ
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTATNĚ – 500ml
 
-* **Staročeská bramboračka nebo Česnečka s anglickou slaninou, krutony a sýrem** 75 Kč
+* **Staročeská bramboračka nebo Kulajda** 75 Kč
 
 ***Nabídka platí v neděli 3.5. od 10:00 do zavírací hodiny nebo do vyprodání.***
