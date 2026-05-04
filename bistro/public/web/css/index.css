@@ -8,17 +8,20 @@ body, html {
 
 .uvodni-sekce {
     display: flex;
-    height: 100vh; /* Celá výška obrazovky */
-    padding-top: 110px; /* Mezera pro tvůj header */
+    /* Musíme odečíst skutečnou výšku tvého fixního headeru */
+    height: calc(100vh - 150px); 
+    /* Toto odsazení zajistí, že sekce začne až pod zelenou lištou */
+    margin-top: 150px; 
+    padding-top: 0;
     box-sizing: border-box;
 }
 
 .levy-blok {
-    flex: 1; /* Zabere 50 % nebo více dle obsahu */
+    flex: 1;
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: #F5F1E3; /* Krémové pozadí, aby text seděl k designu */
+    background-color: #F5F1E3; /* Krémová barva ladící k menu */
     padding: 60px;
 }
 
@@ -39,6 +42,10 @@ body, html {
     font-size: clamp(3rem, 5vw, 5rem);
     line-height: 1;
     margin: 10px 0 25px 0;
+}
+
+.obsah h1, .podnadpis {
+    color: #0F3825; /* Musí být stejná jako pozadí headeru */
 }
 
 .obsah p {
@@ -82,7 +89,7 @@ body, html {
     flex: 1;
     background: url('../fotky/slide_3.jpg') no-repeat;
     background-size: cover;
-    background-position: right center; /* To nejdůležitější (vitrína) je vpravo */
+    background-position: right center; /* Klíčové pro viditelnost baru na foto slide_3.jpg */
 }
 
 /* Video odkaz dole */
