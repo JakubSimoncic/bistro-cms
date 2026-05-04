@@ -106,7 +106,8 @@ body, html {
     background-repeat: no-repeat;
     background-size: cover;
     height: 100%;
-    transition: background-image 1s ease-in-out;}
+    transition: background-image 0.5s cubic-bezier(0.4, 0, 0.2, 1);
+}
 
 .video-odkaz a {
     display: flex;
