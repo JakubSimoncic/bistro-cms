@@ -2,14 +2,14 @@
                 margin: 0;
                 padding: 0;
                 font-family: Arial, Helvetica, sans-serif;
-		        color:#0F3825
+		        color:#F5F1E3;
             }
             main {
                 padding-top: 160px;
                 text-align: center;
                 margin-left: 10px;
                 margin-right: 10px;
-		        background-color: #FFFFFF;
+		        background-color: #F5F1E3;
             }
             footer {
                 display: flex;
@@ -20,14 +20,14 @@
                 padding: 20px;
                 margin: 0 auto;
                 width: 80%;
-		        background-color: #1E5F3F;
+		        background-color: #0F3825;
                 color: #F5F1E3;
             }
                 main {
                     padding: 120 20px;
                     max-width: 800px;
                     margin: 0 auto;
-                    background-color: #FFFFFF;
+                    background-color: #F5F1E3;
                     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
                 }
             h1 {
@@ -39,7 +39,7 @@
             }
             h2 {
                 font-size: 30px;
-                color: #1E5F3F;
+                color: #0F3825;
                 text-align: center
             }
             p {
