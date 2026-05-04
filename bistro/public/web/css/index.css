@@ -29,6 +29,13 @@ body, html {
     max-height: 100%; 
     overflow-y: auto; 
     box-sizing: border-box;
+    scrollbar-width: none; /* Skryje scrollbar ve Firefoxu */
+    -ms-overflow-style: none;
+}
+
+.levy-blok::-webkit-scrollbar {
+    width: 0px; /* Skryje scrollbar v Chrome/Safari/Edge */
+    background: transparent;
 }
 
 .obsah {
