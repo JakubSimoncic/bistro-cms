@@ -10,11 +10,12 @@ body, html {
 .uvodni-sekce {
     display: flex;
     flex-wrap: wrap;
-    min-height: calc(100vh - 150px);
+    height: calc(100vh - 150px);
     align-items: stretch;
     margin-top: 150px; 
     box-sizing: border-box;
     background-color: #F5F1E3;
+    overflow: hidden;
 }
 
 .levy-blok {
@@ -25,6 +26,9 @@ body, html {
     justify-content: center;
     background-color: #F5F1E3;
     padding: 60px;
+    max-height: 100%; 
+    overflow-y: auto; 
+    box-sizing: border-box;
 }
 
 .obsah {
@@ -91,7 +95,7 @@ body, html {
     min-width: 500px;
     background: url('../fotky/slide_3.jpg') no-repeat center center;
     background-size: cover;
-    min-height: 400px;
+    height: 100%;
 }
 
 .video-odkaz a {
@@ -108,13 +112,16 @@ body, html {
     .uvodni-sekce {
         flex-direction: column;
         margin-top: 100px; /* Přizpůsobení menšímu logu na mobilu */
-        min-height: auto;
+        height: auto;
+        overflow: visible;
     }
 
     .levy-blok {
         min-width: 100%;
         padding: 40px 20px;
         order: 1; /* Text bude nahoře */
+        max-height: none;
+        overflow-y: visible;
     }
 
     .pravy-blok {
