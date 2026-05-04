@@ -1,7 +1,8 @@
 /* --- ČISTĚ STYLY PRO HORNÍ LIŠTU --- */
 * {
     font-family: Arial, Helvetica, sans-serif !important;
-    }
+}
+
 header {
     position: fixed;
     width: 100%;
@@ -45,6 +46,7 @@ nav a {
     font-weight: bold;
     display: inline-block;
     position: relative;
+    /* Plynulé zvětšování, které jsme vyladili */
     transition: color 0.3s ease, transform 0.5s ease; 
     backface-visibility: hidden;
 }
@@ -54,6 +56,7 @@ nav a:hover {
     transform: scale(1.05); 
 }
 
+/* Linka pod textem */
 nav a:not(.vlajka a)::after {
     content: '';
     position: absolute;
@@ -61,7 +64,7 @@ nav a:not(.vlajka a)::after {
     height: 2px;
     bottom: -5px;
     left: 0;
-    background-color: #d4a373; /* Tvoje zlatá */
+    background-color: #d4a373;
     transition: width 0.3s ease;
 }
 
@@ -83,24 +86,24 @@ nav a:not(.vlajka a):hover::after {
     width: 40px;
     height: 40px;
     box-shadow: 0 2px 6px rgba(0,0,0,0.3);
-    transition: transform 0.3s;
+    transition: transform 0.5s ease; /* Sjednoceno s textem */
 }
 
 .vlajka a img { width: 100%; height: 100%; object-fit: cover; display: block; }
 
-/* Mobilní verze */
-@media (max-width: 768px) {
+/* --- MOBILNÍ / TABLETOVÁ VERZE --- */
+/* Změněno ze 768px na 1150px, aby se menu nezačalo překrývat */
+@media (max-width: 1150px) {
     .logo img { 
         height: 80px; 
     }
+
     #menu-toggle { 
         display: block; 
-        position: absolute; 
-        top: 15px; 
-        right: 20px; 
     }
+
     nav {
-        display: none;
+        display: none; /* Skryto, dokud se nepřidá třída .show přes JS */
         flex-direction: column;
         position: absolute;
         top: 100%;
@@ -108,41 +111,37 @@ nav a:not(.vlajka a):hover::after {
         width: 100%;
         background: #0F3825;
         padding: 20px 0;
+        margin-right: 0;
     }
+
     nav.show { 
         display: flex; 
     }
-    nav a { padding: 15px 0; 
-           width: 100%; 
-           text-align: center; 
+
+    nav a { 
+        padding: 15px 0; 
+        width: 100%; 
+        text-align: center;
+        margin: 0; 
     }
-                .vlajka {
-                    display: flex;  
-                    justify-content: center;
-                    align-items: center;
-                    text-align: center;
-                    gap: 30px;
-                    box-shadow: none;
-                    margin: 0;
-                    padding: 0;
-                    background: none;
-                }
-                .vlajka a {
-                    width: 30px;
-                    height: 30px;
-                    border-radius: 50%;
-                    display: flex;
-                    overflow: hidden;
-                    justify-content: center;
-                    align-items: center;
-                    background: none;
-                    box-shadow: none;
-                }
-                .vlajka img {
-                    width: 100%;
-                    height: 100%;
-                    border-radius: 50%;
-                    object-fit: cover;
-                    display: block;
+
+    /* Úprava linky pro centrovaný text v mobilu */
+    nav a:not(.vlajka a)::after {
+        left: 50%;
+        transform: translateX(-50%);
+    }
+
+    .vlajka {
+        margin-left: 0;
+        margin-top: 20px;
+        justify-content: center;
+        width: 100%;
+        gap: 20px;
+    }
+
+    .vlajka a {
+        width: 45px; /* V mobilu o něco větší pro snadnější klikání */
+        height: 45px;
+        box-shadow: 0 2px 6px rgba(0,0,0,0.3); /* Vrácení stínu v mobilu */
     }
 }
