@@ -9,9 +9,6 @@ document.addEventListener("DOMContentLoaded", function() {
             navMenu.classList.toggle('show');
         });
     }
-    document.getElementById('menu-toggle').addEventListener('click', function() {
-    document.querySelector('nav').classList.toggle('show');
-});
 
     // 2. CHYTRÉ SCHOVÁVÁNÍ LIŠTY PŘI SKROLU
     const header = document.querySelector("header");
