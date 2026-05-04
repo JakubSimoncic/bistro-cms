@@ -91,8 +91,7 @@ nav a:not(.vlajka a):hover::after {
 
 .vlajka a img { width: 100%; height: 100%; object-fit: cover; display: block; }
 
-/* --- MOBILNÍ / TABLETOVÁ VERZE --- */
-/* Změněno ze 768px na 1150px, aby se menu nezačalo překrývat */
+/* --- MOBILNÍ VERZE --- */
 @media (max-width: 1150px) {
     .logo img { 
         height: 80px; 
@@ -103,7 +102,7 @@ nav a:not(.vlajka a):hover::after {
     }
 
     nav {
-        display: none; /* Skryto, dokud se nepřidá třída .show přes JS */
+        display: none;
         flex-direction: column;
         position: absolute;
         top: 100%;
@@ -112,6 +111,7 @@ nav a:not(.vlajka a):hover::after {
         background: #0F3825;
         padding: 20px 0;
         margin-right: 0;
+        align-items: center; /* Vycentruje položky jako bloky na střed */
     }
 
     nav.show { 
@@ -120,28 +120,48 @@ nav a:not(.vlajka a):hover::after {
 
     nav a { 
         padding: 15px 0; 
-        width: 100%; 
+        width: auto; /* DŮLEŽITÉ: Linka teď bude jen pod textem */
         text-align: center;
         margin: 0; 
     }
 
-    /* Úprava linky pro centrovaný text v mobilu */
+    /* Oprava podtržení v mobilu */
     nav a:not(.vlajka a)::after {
-        left: 50%;
-        transform: translateX(-50%);
+        left: 0;
+        transform: none;
+        width: 0;
+    }
+    nav a:not(.vlajka a):hover::after {
+        width: 100%; /* Rozšíří se na šířku textu */
     }
 
     .vlajka {
         margin-left: 0;
-        margin-top: 20px;
+        margin-top: 25px;
         justify-content: center;
         width: 100%;
         gap: 20px;
+        display: flex;
     }
 
     .vlajka a {
-        width: 45px; /* V mobilu o něco větší pro snadnější klikání */
-        height: 45px;
-        box-shadow: 0 2px 6px rgba(0,0,0,0.3); /* Vrácení stínu v mobilu */
+        width: 45px !important;  /* Fixní šířka, aby nebyly oválné */
+        height: 45px !important; /* Fixní výška */
+        border-radius: 50%;
+        overflow: hidden;
+        flex-shrink: 0;         /* Zabrání deformaci */
+        box-shadow: 0 4px 8px rgba(0,0,0,0.3);
+        padding: 0;             /* Zruší padding, co mají ostatní odkazy */
+        display: block;
+    }
+
+    .vlajka a::after {
+        display: none !important; /* Odstraní zlatou linku pod vlajkami */
+    }
+
+    .vlajka img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
     }
 }
