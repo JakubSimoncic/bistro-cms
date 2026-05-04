@@ -1,58 +1,49 @@
-body {
-    margin: 0;
-    padding: 0;
-    font-family: Arial, Helvetica, sans-serif;
-    color: #0F3825;
-    background-color: #ffffff;
-}
-
 main {
-    padding: 180px 20px 40px 20px; 
-    max-width: 1200px;
-    margin: 0 auto;
-    display: block;
+    /* Odečteme výšku headeru a zbytek plochy využijeme pro centrování */
+    min-height: calc(100vh - 150px); 
+    display: flex;
+    justify-content: center; /* Horizontální centr */
+    align-items: center;     /* Vertikální centr */
+    padding: 160px 40px 60px 40px; /* Horní padding kvůli headeru */
+    box-sizing: border-box;
 }
 
 .mrizka {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-    gap: 30px;
+    /* Zvětšíme minimální šířku karty na 300px pro lepší čitelnost na velkých LCD */
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 40px;
     width: 100%;
+    /* Na obřích monitorech se to roztáhne až na 1400px */
+    max-width: 1400px; 
+    margin: 0 auto;
 }
 
 .mrizka-item {
     background: #0F3825;
     border-radius: 15px;
-    box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.15);
+    box-shadow: 0px 8px 20px rgba(0, 0, 0, 0.15);
     overflow: hidden;
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
-    display: flex;
-    flex-direction: column;
-}
-
-.mrizka-item:hover {
-    transform: translateY(-8px);
-    box-shadow: 0px 12px 24px rgba(0, 0, 0, 0.2);
+    transition: transform 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+    height: 100%;
 }
 
 .mrizka-img {
     width: 100%;
-    height: 220px;
+    /* Výška obrázku se teď může mírně přizpůsobit (250px místo 200px) */
+    height: 250px; 
     object-fit: cover;
-    border: none;
-    transition: transform 0.5s ease;
 }
 
-.mrizka-item:hover .mrizka-img {
-    transform: scale(1.05);
-}
-
-.mrizka-item p {
-    color: #F5F1E3;
-    font-weight: bold;
-    text-transform: uppercase;
-    margin: 0;
-    padding: 20px 10px;
-    font-size: 1.1rem;
-    letter-spacing: 1px;
+/* Mobilní doladění */
+@media (max-width: 768px) {
+    main {
+        padding-top: 120px; /* Menší mezera od loga na mobilu */
+        align-items: flex-start; /* Na mobilu raději začít odshora, aby se nemuselo scrollovat pro začátek */
+    }
+    
+    .mrizka {
+        grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+        gap: 20px;
+    }
 }
