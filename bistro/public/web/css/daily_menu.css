@@ -14,14 +14,14 @@
                 color: #000000;
             }
                 main {
-                    background-color: #FFFFFF;
+                    background-color: #F5F1E3 !important;
                 }
                 footer{
                     padding-top: 140px;
                     max-width: 768px;
                     margin: 0 auto;
-                    background-color: #FFFFFF;
-                    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+                    background-color: #F5F1E3 !important;
+                    box-shadow: none;
                     padding-left: 5%;
                     padding-right: 5%;
                 }
@@ -67,8 +67,9 @@
                 justify-content: space-between;
                 flex-wrap: wrap;
                 padding: 10px 0;
-                border-bottom: 1px solid #000;
+                border-bottom: 1px solid #0F3825;
                 align-items: center;
+                color: #0F3825;
             }
 
             /* Text položky (název jídla), tučné místo h4 */
@@ -99,6 +100,11 @@
                 text-align: right;
                 color: #000;
             }
+
+            span, li > p, li > span, h4 {
+                color: #0F3825 !important; /* Aby text nebyl černý, ale ladil do zelena */
+            }
+
             .datum {
                 text-align: left;
                 font-weight: bold;
