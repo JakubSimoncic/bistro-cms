@@ -1,9 +1,9 @@
 document.addEventListener('DOMContentLoaded', function() {
     const pravyBlok = document.querySelector('.pravy-blok');
     const cesty = [
-        'web/fotky/slide_3.jpg',
-        'web/fotky/slide_1.jpg',
-        'web/fotky/slide_2.jpg'
+        '/web/fotky/slide_3.jpg',
+        '/web/fotky/slide_1.jpg',
+        '/web/fotky/slide_2.jpg'
     ];
 
     const nacteneObrazky = [];
