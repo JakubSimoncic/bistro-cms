@@ -121,6 +121,7 @@ body, html {
         min-width: 100%;
         height: 350px; /* Pevná výška, aby fotka na mobilu nezmizela */
         order: 2; /* Fotka bude pod textem */
+        margin-bottom: 25px;
     }
     
     .akce {
