@@ -9,19 +9,21 @@ body, html {
 
 .uvodni-sekce {
     display: flex;
-    height: calc(100vh - 150px); 
+    flex-wrap: wrap;
+    min-height: calc(100vh - 150px);
+    align-items: stretch;
     margin-top: 150px; 
-    padding-top: 0;
     box-sizing: border-box;
     background-color: #F5F1E3;
 }
 
 .levy-blok {
     flex: 1;
+    min-width: 500px;    
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: #F5F1E3; /* Krémová barva ladící k menu */
+    background-color: #F5F1E3;
     padding: 60px;
 }
 
@@ -34,7 +36,6 @@ body, html {
 }
 
 .podnadpis {
-    color: #0F3825;
     text-transform: uppercase;
     letter-spacing: 2px;
     font-weight: bold;
@@ -42,14 +43,9 @@ body, html {
 }
 
 .obsah h1 {
-    color: #0F3825;
     font-size: clamp(3rem, 5vw, 5rem);
     line-height: 1;
     margin: 10px 0 25px 0;
-}
-
-.obsah h1, .podnadpis {
-    color: #0F3825; /* Musí být stejná jako pozadí headeru */
 }
 
 .obsah p {
@@ -89,15 +85,15 @@ body, html {
     box-shadow: 0 5px 15px rgba(0,0,0,0.1);
 }
 
-/* Fotka vpravo */
+/* OPRAVENÁ SEKCE PRAVÝ BLOK */
 .pravy-blok {
     flex: 1;
-    background: url('../fotky/slide_3.jpg') no-repeat;
+    min-width: 500px;
+    background: url('../fotky/slide_3.jpg') no-repeat center center;
     background-size: cover;
-    background-position: right center; /* Klíčové pro viditelnost baru na foto slide_3.jpg */
+    min-height: 400px;
 }
 
-/* Video odkaz dole */
 .video-odkaz a {
     display: flex;
     align-items: center;
@@ -107,19 +103,27 @@ body, html {
     font-weight: bold;
 }
 
-/* Mobilní zobrazení */
+/* OPRAVENÁ MOBILNÍ SEKCE */
 @media (max-width: 900px) {
     .uvodni-sekce {
-        flex-direction: column; /* Na mobilu pod sebou */
-        height: auto;
-        margin-top: 100px;
+        flex-direction: column;
+        margin-top: 100px; /* Přizpůsobení menšímu logu na mobilu */
+        min-height: auto;
     }
-    .pravy-blok {
-        height: 400px; /* Na mobilu fotka jen jako menší pruh */
-        order: -1;
-    }
+
     .levy-blok {
+        min-width: 100%;
         padding: 40px 20px;
-        background-color: #F5F1E3;
+        order: 1; /* Text bude nahoře */
+    }
+
+    .pravy-blok {
+        min-width: 100%;
+        height: 350px; /* Pevná výška, aby fotka na mobilu nezmizela */
+        order: 2; /* Fotka bude pod textem */
+    }
+    
+    .akce {
+        flex-direction: column; /* Tlačítka pod sebou pro lepší klikatelnost */
     }
 }
