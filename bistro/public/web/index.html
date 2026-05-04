@@ -86,11 +86,28 @@
             </nav>
         </header>
         <main>
-            <div class="slideshow-container">
-                <div class="slide fade">
-                    <img src="fotky/slide_4.jpg" alt="provozovna Bistro Florenc">
+            <section class="hero">
+                <!-- Pozadí je řešeno přes CSS -->
+                <div class="hero-content">
+                    <div class="hero-text">
+                        <h1>BISTRO FLO-RENC</h1>
+                        <p>Poctivá česká kuchyně, čerstvé snídaně a výběrová káva v srdci Karlína.</p>
+                        
+                        <div class="hero-actions">
+                            <a href="MENU.html" class="btn-primary">DENNÍ MENU</a>
+                            <a href="NASE_NABIDKA.html" class="btn-secondary">CELÁ NABÍDKA</a>
+                        </div>
+                    </div>
+                    
+                    <!-- Video zmenšíme a dáme mu popisek, aby nepůsobilo jako chyba -->
+                    <div class="hero-video-preview">
+                        <div class="video-container">
+                            <iframe src="https://www.youtube.com/embed/VASE_ID_VIDEA" title="YouTube video" frameborder="0" allowfullscreen></iframe>
+                        </div>
+                        <span>Nová nádražka na Florenci? Podívejte se na reportáž!</span>
+                    </div>
                 </div>
-            </div>
+            </section>
         </main>
         <script src="/web/js/script.js"></script>
         <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
