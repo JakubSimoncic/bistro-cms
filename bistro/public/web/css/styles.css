@@ -68,6 +68,7 @@ nav a {
 nav a:hover {
     color: #d4a373;
     transform: translateY(-2px);
+        transform: scale(1.05);
 }
 
 nav a:not(.vlajka a)::after {
