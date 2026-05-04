@@ -3,7 +3,7 @@ main {
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 160px 40px 60px 40px;
+    padding: 180px 40px 60px 40px;
     box-sizing: border-box;
 }
 
