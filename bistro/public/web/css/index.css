@@ -119,7 +119,7 @@ body, html {
     .uvodni-sekce {
         flex-direction: column;
         margin-top: 100px; /* Přizpůsobení menšímu logu na mobilu */
-        height: auto;
+        height: auto !important;
         overflow: visible;
     }
 
@@ -127,8 +127,8 @@ body, html {
         min-width: 100%;
         padding: 40px 20px;
         order: 1; /* Text bude nahoře */
-        max-height: none;
-        overflow-y: visible;
+        max-height: none !important;
+        overflow-y: visible !important;
     }
 
     .pravy-blok {
@@ -136,6 +136,7 @@ body, html {
         height: 350px; /* Pevná výška, aby fotka na mobilu nezmizela */
         order: 2; /* Fotka bude pod textem */
         margin-bottom: 25px;
+        display: block !important;
     }
     
     .akce {
