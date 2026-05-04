@@ -1,9 +1,12 @@
 /* --- ČISTĚ STYLY PRO HORNÍ LIŠTU --- */
 * {
     font-family: Arial, Helvetica, sans-serif !important;
+    box-sizing: border-box;
 }
 body, html{
     background-color: #F5F1E3 !important;
+    margin: 0;
+    padding: 0;
     }
 
 header {
@@ -16,22 +19,31 @@ header {
     align-items: center;
     padding: 15px 20px;
     background: #0F3825;
-    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
     z-index: 1000;
     box-sizing: border-box;
-    transition: transform 0.7s ease;
+    transition: transform 0.4s ease, background 0.3s ease;
 }
 
 .logo { margin-left: 20px; }
-.logo img { height: 120px; display: block; }
+.logo img { 
+    height: 120px; 
+    display: block; 
+    transition: height 0.4s ease; 
+}
 
 #menu-toggle {
     display: none;
-    font-size: 30px;
+    font-size: 35px;
     background: none;
     border: none;
     cursor: pointer;
     color: #F5F1E3;
+    transition: transform 0.3s ease;
+}
+
+#menu-toggle:active {
+    transform: scale(0.9);
 }
 
 nav {
@@ -44,18 +56,18 @@ nav a {
     color: #F5F1E3;
     text-decoration: none;
     margin: 0 15px;
-    font-size: 20px;
+    font-size: 18px;
     text-transform: uppercase;
     font-weight: bold;
     display: inline-block;
     position: relative;
-    transition: color 0.3s ease, transform 0.5s ease; 
+    transition: color 0.3s ease, transform 0.3s ease; 
     backface-visibility: hidden;
 }
 
 nav a:hover {
     color: #d4a373;
-    transform: scale(1.05); 
+    transform: translateY(-2px);
 }
 
 nav a:not(.vlajka a)::after {
@@ -75,22 +87,32 @@ nav a:not(.vlajka a):hover::after {
 
 .vlajka {
     display: flex;
-    gap: 10px;
+    gap: 12px;
     align-items: center;
-    margin-left: 100px;
+    margin-left: 60px;
 }
 
 .vlajka a {
     display: inline-block;
     border-radius: 50%;
     overflow: hidden;
-    width: 40px;
-    height: 40px;
+    width: 35px;
+    height: 35px;
     box-shadow: 0 2px 6px rgba(0,0,0,0.3);
-    transition: transform 0.5s ease;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    margin: 0;
+}
+.vlajka a:hover {
+    transform: scale(1.1);
+    box-shadow: 0 4px 10px rgba(0,0,0,0.4);
 }
 
-.vlajka a img { width: 100%; height: 100%; object-fit: cover; display: block; }
+.vlajka a img { 
+    width: 100%; 
+    height: 100%; 
+    object-fit: cover; 
+    display: block; 
+}
 
 /* --- MOBILNÍ VERZE --- */
 @media (max-width: 1150px) {
@@ -99,7 +121,8 @@ nav a:not(.vlajka a):hover::after {
     }
 
     #menu-toggle { 
-        display: block; 
+        display: block;
+        margin-right: 10px;
     }
 
     nav {
@@ -109,10 +132,12 @@ nav a:not(.vlajka a):hover::after {
         top: 100%;
         left: 0;
         width: 100%;
+        max-height: 85vh;
         background: #0F3825;
-        padding: 20px 0;
+        padding: 30px 0;
         margin-right: 0;
         align-items: center;
+        box-shadow: 0px 10px 20px rgba(0,0,0,0.2);
     }
 
     nav.show { 
@@ -120,16 +145,17 @@ nav a:not(.vlajka a):hover::after {
     }
 
     nav a { 
-        padding: 15px 0; 
+        padding: 12px 0;
+        width: 80%;    
         width: auto;
         text-align: center;
-        margin: 0; 
+        margin: 5px 0;
+        font-size: 20px;
     }
 
     nav a:not(.vlajka a)::after {
-        left: 0;
-        transform: none;
-        width: 0;
+        left: 50%;
+        transform: translateX(-50%);
     }
     nav a:not(.vlajka a):hover::after {
         width: 100%;
