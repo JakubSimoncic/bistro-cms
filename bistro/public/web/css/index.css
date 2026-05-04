@@ -27,7 +27,7 @@ body, html {
     background-color: #F5F1E3;
     padding: 60px;
     max-height: 100%; 
-    overflow-y: hidden; 
+    overflow-y: auto; 
     box-sizing: border-box;
     scrollbar-width: none; /* Skryje scrollbar ve Firefoxu */
     -ms-overflow-style: none;
