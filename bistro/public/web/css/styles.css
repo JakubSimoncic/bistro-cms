@@ -43,12 +43,14 @@ nav a {
     font-size: 20px;
     text-transform: uppercase;
     font-weight: bold;
-    transition: color 0.3s;
+    transition: color 0.3, stransform 0.3s; /*zkouska*/
+    display: inline-block; /*zkouska*/
     position: relative;
 }
 
 nav a:hover {
     color: #d4a373;
+    transform: scale(1.1); /*zkouska*/
 }
 
 nav a:not(.vlajka a)::after {
