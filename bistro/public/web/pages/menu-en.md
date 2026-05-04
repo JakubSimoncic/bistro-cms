@@ -1,21 +1,19 @@
 ---
 title: Denní menu - EN
 ---
-## SPECIAL OFFER (soup + main course)
+* **MENU 1: Soup + Fried meat patty with buttery mashed potatoes, pickled cucumber** 195 CZK
+* **MENU 2: Soup + Rustic roast pork, potato dumpling, cabbage** 205 CZK
 
-* **MENU 1: Soup + Chicken strips in cornflakes, baked potatoes, BBQ mayonnaise** 195 CZK
-* **MENU 2: Soup + Teriyaki pork shoulder with wasabi-mashed potatoes and salad with fermented radish and ginger** 205 CZK
+## SMALL SOUP WITH MAIN COURSE – 250ml
 
-## SMALL SOUP FOR THE MAIN COURSE – 250ml
-
-* **Cabbage soup with sausage** 35 CZK
-* **Creamy onion soup with croutons** 35 CZK
+* **Wallachian sour soup with smoked sausage** 35 CZK
+* **Beef broth with liver rice and frittata noodles** 35 CZK
 
 ## MAIN COURSES
 
 * **Pork meat with sauce with eggs, sausage and pickles, roasted jasmine rice** 185 CZK
-* **Chicken strips in cornflakes, baked potatoes, BBQ mayonnaise** 175 CZK
-* **Teriyaki pork shoulder with wasabi-mashed potatoes and salad with fermented radish and ginger** 185 CZK
+* **Fried meat patty with buttery mashed potatoes, pickled cucumber** 175 CZK
+* **Rustic roast pork, potato dumpling, cabbage** 185 CZK
 * **Spaghetti Carbonara (pancetta, egg yolk, garlic), Parmesan cheese - DISH OF THE WEEK** 225 CZK
 * **Grilled stuffed wheat tortilla of your choice and French Fries** 185 CZK
 * **Pulled pork meat in our BBQ sauce, roasted potatoes and coleslaw salad** 185 CZK
@@ -24,6 +22,7 @@ title: Denní menu - EN
 * **Fried cheese, French Fries and Tartar Sauce** 195 CZK
 
 ## LARGE SOUP ORDERED SEPARATELY – 500ml
-* **Cabbage soup with sausage or Creamy onion soup with croutons** 75 CZK
 
-***Offer is valid on Monday 4.5. from 10:30AM until closing time or until sold out.***
+* **Peas soup with pepper sausage and croutons or Beef broth with liver rice and frittata noodles** 75 CZK
+
+***Offer is valid on Thuesday 5.5. from 10:30AM until closing time or until sold out.***
