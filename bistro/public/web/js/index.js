@@ -1,21 +1,24 @@
 document.addEventListener('DOMContentLoaded', function() {
-    console.log("Stránka načtena a připravena.");
-
-    // 1. LOGIKA PRO SLIDESHOW
     const pravyBlok = document.querySelector('.pravy-blok');
-    const obrazky = [
-        '/web/fotky/slide_3.jpg',
-        '/web/fotky/slide_1.jpg',
-        '/web/fotky/slide_2.jpg'
+    const cesty = [
+        'web/fotky/slide_3.jpg',
+        'web/fotky/slide_1.jpg',
+        'web/fotky/slide_2.jpg'
     ];
 
+    const nacteneObrazky = [];
     let slideIndex = 0;
+
+    // --- AGRESIVNÍ PRELOADING ---
+    cesty.forEach((cesta, index) => {
+        nacteneObrazky[index] = new Image();
+        nacteneObrazky[index].src = cesta;
+    });
 
     function zmenObrazek() {
         if (pravyBlok) {
-            const cesta = obrazky[slideIndex];
-            pravyBlok.style.backgroundImage = `url('${cesta}')`;
-            slideIndex = (slideIndex + 1) % obrazky.length;
+            pravyBlok.style.backgroundImage = `url('${nacteneObrazky[slideIndex].src}')`;
+            slideIndex = (slideIndex + 1) % nacteneObrazky.length;
         }
     }
 
