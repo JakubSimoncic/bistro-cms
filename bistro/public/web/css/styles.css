@@ -2,6 +2,9 @@
 * {
     font-family: Arial, Helvetica, sans-serif !important;
 }
+body, html{
+    background-color: #F5F1E3 !important;
+    }
 
 header {
     position: fixed;
