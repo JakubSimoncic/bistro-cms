@@ -4,9 +4,9 @@ document.addEventListener('DOMContentLoaded', function() {
     // 1. LOGIKA PRO SLIDESHOW
     const pravyBlok = document.querySelector('.pravy-blok');
     const obrazky = [
-        'web/fotky/slide_3.jpg',
-        'web/fotky/slide_1.jpg',
-        'web/fotky/slide_2.jpg'
+        '/web/fotky/slide_3.jpg',
+        '/web/fotky/slide_1.jpg',
+        '/web/fotky/slide_2.jpg'
     ];
 
     let slideIndex = 0;
