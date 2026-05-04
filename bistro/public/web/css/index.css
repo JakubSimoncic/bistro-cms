@@ -100,10 +100,13 @@ body, html {
 .pravy-blok {
     flex: 1;
     min-width: 500px;
-    background: url('../fotky/slide_3.jpg') no-repeat center center;
+    background-size: cover;
+    background-color: #0F3825;
+    background-position: center center;
+    background-repeat: no-repeat;
     background-size: cover;
     height: 100%;
-}
+    transition: background-image 1s ease-in-out;}
 
 .video-odkaz a {
     display: flex;
