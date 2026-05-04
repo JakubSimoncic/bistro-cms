@@ -1,88 +1,85 @@
-/* Reset pro jistotu */
-body, html {
-    margin: 0;
-    padding: 0;
-    width: 100%;
-}
+            body {
+                margin: 0;
+                padding: 0;
+                font-family: Arial, Helvetica, sans-serif;
+                overflow: hidden;
+                color:#0F3825
+            }
+            main {
+                margin-top: 110px;
+                object-position: center;
+                overflow: hidden;
+            }
+                .slideshow-container {
+                    position: relative;
+                    max-width: 100%;
+                    margin: auto;
+                }
+                .slide {
+                    width: 100vw;  
+                    height: 100vh;  
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                    overflow: hidden;
+                }
+                .slide img {
+                    width: 100%;
+                    height: 100%;
+                    object-fit: cover;
+                    object-position: center;
+                }
+                .fade {
+                    animation: fadeEffect 0.5s ease-in-out;
+                }
+                @keyframes fadeEffect {
+                    from {opacity: 0.5;} 
+                    to {opacity: 1;}
+                }
+            #cornerVideo {
+                position: fixed;
+                top: 180px;
+                left: 20px;
+                width: 320px;
+                height: 180px;
+                background-color: #000;
+                border: 2px solid #d4a373;
+                border-radius: 8px;
+                box-shadow: 0 0 10px rgba(0,0,0,0.5);
+                z-index: 999;
+            }
+            #cornerVideo iframe {
+                width: 100%;
+                height: 100%;
+                border: none;
+                border-radius: 8px;
+            }
+            #cornerVideoClose {
+                position: absolute;
+                top: 5px;
+                right: 10px;
+                color: white;
+                font-size: 22px;
+                font-weight: bold;
+                cursor: pointer;
+                -webkit-user-select: none;
+                user-select: none;
+            }
+            #cornerVideoClose:hover {
+                color: #d4a373;
+            }
+            @media (max-width: 768px) {
+                #cornerVideo {
+                    width: 200px;
+                    height: 112px;
+                    top: 90px;
+                    right: 10px;
+                    margin-top: 80px;
+                }
 
-.home-hero {
-    margin-top: 110px; /* Výška tvého headeru */
-    position: relative;
-    width: 100%;
-    height: 80vh; /* Zmírníme výšku na 80 % obrazovky */
-    min-height: 500px;
-    background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url('../fotky/slide_4.jpg');
-    background-size: cover;
-    background-position: center;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-
-.hero-overlay {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    width: 90%;
-    max-width: 1200px;
-    gap: 40px;
-}
-
-.hero-text {
-    flex: 1;
-    color: #F5F1E3;
-}
-
-.hero-text h1 {
-    font-size: 3.5rem;
-    margin: 0 0 15px 0;
-}
-
-.hero-text p {
-    font-size: 1.2rem;
-    margin-bottom: 30px;
-}
-
-/* Tlačítka */
-.hero-btns {
-    display: flex;
-    gap: 15px;
-}
-
-.btn-hlavni, .btn-vedlejsi {
-    padding: 12px 25px;
-    text-decoration: none;
-    border-radius: 5px;
-    font-weight: bold;
-    transition: 0.3s;
-}
-
-.btn-hlavni { background: #F5F1E3; color: #0F3825; }
-.btn-vedlejsi { border: 2px solid #F5F1E3; color: #F5F1E3; }
-
-/* Video box */
-.hero-video {
-    flex: 0 0 400px; /* Pevná šířka videa na PC */
-    text-align: center;
-}
-
-.hero-video iframe {
-    width: 100%;
-    height: 225px; /* Poměr 16:9 */
-    border-radius: 10px;
-    box-shadow: 0 10px 30px rgba(0,0,0,0.5);
-}
-
-.hero-video p {
-    color: white;
-    font-size: 0.8rem;
-    margin-top: 10px;
-}
-
-/* Mobilní verze - aby to nebylo rozbité */
-@media (max-width: 900px) {
-    .home-hero { height: auto; padding: 40px 0; }
-    .hero-overlay { flex-direction: column; text-align: center; }
-    .hero-btns { justify-content: center; }
-    .hero-video { flex: 1; width: 100%; max-width: 400px; }
-}
+                #cornerVideoClose {
+                    font-size: 20px;
+                    top: 3px;
+                    right: 8px;
+                }
+            }
