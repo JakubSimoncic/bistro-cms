@@ -21,7 +21,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
     if (pravyBlok) {
         zmenObrazek();
-        setInterval(zmenObrazek, 1000);
+        setInterval(zmenObrazek, 5000);
     }
 
     // 2. LOGIKA PRO VIDEO (PLACEHOLDER A ZAVŘENÍ)
