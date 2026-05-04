@@ -1,52 +1,63 @@
-            // Logika pro Slideshow
-            let slideIndex = 0;
-            showSlides();
+document.addEventListener('DOMContentLoaded', function() {
+    console.log("Stránka načtena a připravena.");
 
-            function showSlides() {
-                let slides = document.getElementsByClassName("slide");
-                if (slides.length === 0) return; // Ochrana, pokud by slides neexistovaly
-                for (let i = 0; i < slides.length; i++) {
-                    slides[i].style.display = "none";
-                }
-                slideIndex++;
-                if (slideIndex > slides.length) {slideIndex = 1}
-                slides[slideIndex - 1].style.display = "block";
-                setTimeout(showSlides, 5000);
-            }
+    // 1. LOGIKA PRO SLIDESHOW
+    const pravyBlok = document.querySelector('.pravy-blok');
+    const obrazky = [
+        'web/fotky/slide_3.jpg',
+        'web/fotky/slide_1.jpg',
+        'web/fotky/slide_2.jpg'
+    ];
 
-            // Logika pro zavření plovoucího videa
-            const closeBtn = document.getElementById('cornerVideoClose');
-            const videoBox = document.getElementById('cornerVideo');
+    let slideIndex = 0;
 
-            if (closeBtn && videoBox) {
-                closeBtn.onclick = function() {
+    function zmenObrazek() {
+        if (pravyBlok) {
+            const cesta = obrazky[slideIndex];
+            pravyBlok.style.backgroundImage = `url('${cesta}')`;
+            slideIndex = (slideIndex + 1) % obrazky.length;
+        }
+    }
+
+    if (pravyBlok) {
+        zmenObrazek();
+        setInterval(zmenObrazek, 5000);
+    }
+
+    // 2. LOGIKA PRO VIDEO (PLACEHOLDER A ZAVŘENÍ)
+    const placeholder = document.getElementById('videoPlaceholder');
+    const videoBox = document.getElementById('cornerVideo');
+    const closeBtn = document.getElementById('cornerVideoClose');
+
+    // Kliknutí na placeholder (načtení videa)
+    if (placeholder) {
+        placeholder.addEventListener('click', function() {
+            if (videoBox) {
+                videoBox.innerHTML = '<span id="cornerVideoClose">&times;</span><iframe width="100%" height="100%" src="https://www.youtube-nocookie.com/embed/TkxlEAl4fEo?autoplay=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>';
+                
+                // Re-aktivace křížku po vložení HTML
+                document.getElementById('cornerVideoClose').onclick = function() {
                     videoBox.style.display = 'none';
                 };
             }
+        });
+    }
 
-            if (window.netlifyIdentity) {
-                window.netlifyIdentity.on("init", (user) => {
-                    if (!user) {
-                        window.netlifyIdentity.on("login", () => {
-                            document.location.href = "/admin/";
-                        });
-                    }
+    // Zavření videa (pokud už tam křížek je od začátku)
+    if (closeBtn && videoBox) {
+        closeBtn.onclick = function() {
+            videoBox.style.display = 'none';
+        };
+    }
+
+    // 3. NETLIFY IDENTITY
+    if (window.netlifyIdentity) {
+        window.netlifyIdentity.on("init", (user) => {
+            if (!user) {
+                window.netlifyIdentity.on("login", () => {
+                    document.location.href = "/admin/";
                 });
             }
-document.addEventListener('DOMContentLoaded', function() {
-    const placeholder = document.getElementById('videoPlaceholder');
-    if (placeholder) {
-        placeholder.addEventListener('click', function() {
-            const container = document.getElementById('cornerVideo');
-            // Teď tam teprve vložíme skutečné video
-            container.innerHTML = '<span id="cornerVideoClose">&times;</span><iframe width="100%" height="100%" src="https://www.youtube-nocookie.com/embed/TkxlEAl4fEo?autoplay=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>';
-            
-            // Musíme znovu zprovoznit křížek pro zavření
-            document.getElementById('cornerVideoClose').onclick = function() {
-                container.style.display = 'none';
-            };
         });
     }
 });
-
-console.log("Stránka načtena.");
