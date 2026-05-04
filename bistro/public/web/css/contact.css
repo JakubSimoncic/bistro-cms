@@ -1,54 +1,37 @@
-body {
+/* Sjednocení pozadí celé stránky */
+body, html {
+    background-color: #F5F1E3 !important;
     margin: 0;
     padding: 0;
-    font-family: Arial, Helvetica, sans-serif;
-    /* ZMĚNA: Barva textu musí být tmavá (zelená), aby byla na krémové vidět */
-    color: #0F3825; 
-    background-color: #F5F1E3 !important;
 }
 
+/* Hlavní blok s textem */
 main {
-    padding-top: 160px; /* Dostatečný prostor pod fixním headerem */
-    padding-bottom: 60px;
+    padding-top: 160px;
+    padding-bottom: 40px;
     text-align: center;
     max-width: 800px;
     margin: 0 auto;
-    background-color: #F5F1E3 !important;
-    /* ZMĚNA: Stín (box-shadow) doporučuji smazat nebo zjemnit, 
-       aby plocha plynule navazovala na zbytek stránky */
-    box-shadow: none; 
-    min-height: calc(100vh - 160px); /* Pojistka, aby krémová byla až k footeru */
+    background-color: #F5F1E3 !important; /* Oprava z bílé na krémovou */
+    box-shadow: none; /* Odstraní ten stín, co tam dělá bílý obdélník */
 }
 
-h1 {
-    font-size: 60px;
-    margin-bottom: 30px;
-    margin-top: 20px;
-    text-align: center;
-    color: #0F3825;
-}
-
-h2 {
-    font-size: 30px;
-    color: #0F3825;
-    text-align: center;
-}
-
-p {
-    font-size: 18px;
-    text-align: center;
-    color: #333; /* Odstíny šedé nebo tmavě zelené jsou pro delší text čitelnější */
-}
-
+/* Ten tmavě zelený pruh s mapou */
 footer {
     display: flex;
-    flex-direction: column;
+    justify-content: center;
     align-items: center;
-    justify-content: flex-start;
-    text-align: center;
-    padding: 20px;
-    margin: 0 auto;
-    width: 100%; /* Změna z 80% na 100%, pokud chceš, aby zelený pruh seděl na šířku */
-    background-color: #0F3825;
-    color: #F5F1E3; /* V tmavém footeru krémové písmo nechej */
+    padding: 40px 0;
+    width: 100%;
+    background-color: #0F3825; /* Jednotná tmavě zelená */
+    margin-top: 20px;
+}
+
+/* Oprava mapy pro obě verze */
+footer iframe {
+    width: 90% !important;  /* Aby nebyla úplně ke krajům */
+    max-width: 1000px;      /* Ale aby nebyla obří na 4K monitorech */
+    height: 450px;
+    border: 10px solid #0F3825; /* Ten zelený rám, co vidím na screenshotu */
+    border-radius: 8px;      /* Jemné zaoblení pro moderní vzhled */
 }
