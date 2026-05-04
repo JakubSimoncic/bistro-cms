@@ -1,8 +1,6 @@
-/* --- FINÁLNÍ SJEDNOCENÝ SKRIPT PRO BISTRO FLORENC --- */
-
 document.addEventListener("DOMContentLoaded", function() {
 
-    // 1. OVLÁDÁNÍ MOBILNÍHO MENU (☰)
+    // 1. OVLÁDÁNÍ HAMBURGER MENU
     const menuToggle = document.getElementById('menu-toggle');
     const navMenu = document.getElementById('nav-menu');
 
@@ -11,24 +9,24 @@ document.addEventListener("DOMContentLoaded", function() {
             navMenu.classList.toggle('show');
         });
     }
+    document.getElementById('menu-toggle').addEventListener('click', function() {
+    document.querySelector('nav').classList.toggle('show');
+});
 
     // 2. CHYTRÉ SCHOVÁVÁNÍ LIŠTY PŘI SKROLU
     const header = document.querySelector("header");
     let lastScroll = 0;
-    const delta = 50; // Tolerance v pixelech, aby lišta nekmitala
+    const delta = 50;
 
     window.addEventListener("scroll", () => {
         const currentScroll = window.pageYOffset;
 
-        // Pokud je rozdíl skrolu menší než delta, nic nedělej
         if (Math.abs(currentScroll - lastScroll) < delta) return;
 
         if (currentScroll > lastScroll && currentScroll > 100) {
-            // Skrol dolů -> Schovat lištu
             header.style.transform = "translateY(-100%)";
-            if (navMenu) navMenu.classList.remove('show'); // Pro jistotu zavře menu
+            if (navMenu) navMenu.classList.remove('show');
         } else {
-            // Skrol nahoru -> Ukázat lištu
             header.style.transform = "translateY(0)";
         }
         lastScroll = currentScroll;
