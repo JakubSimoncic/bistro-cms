@@ -79,8 +79,9 @@ body, html {
 /* Fotka vpravo */
 .pravy-blok {
     flex: 1;
-    background: url('../fotky/slide_4.jpg') no-repeat center center;
+    background: url('../fotky/TATO_NOVA_FOTKA.jpg') no-repeat;
     background-size: cover;
+    background-position: right center; /* To nejdůležitější (vitrína) je vpravo */
 }
 
 /* Video odkaz dole */
