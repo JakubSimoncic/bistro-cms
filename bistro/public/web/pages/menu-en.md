@@ -27,4 +27,4 @@ title: Denní menu - EN
 
 * **Hungarian bean soup with sausage or Beef broth with liver rice and frittata noodles** 75 CZK
 
-*** Offer valid on Wednesday 6.5. from 10:30 until closing time or until sold out.***
+***Offer valid on Wednesday 6.5. from 10:30 until closing time or until sold out.***
