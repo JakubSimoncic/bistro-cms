@@ -1,19 +1,22 @@
 ---
 title: Denní menu - EN
 ---
+## SPECIAL OFFER (soup + main course)
+
 * **MENU 1: Soup + Fried meat patty with buttery mashed potatoes, pickled cucumber** 195 CZK
-* **MENU 2: Soup + Rustic roast pork, potato dumpling, cabbage** 205 CZK
+* **MENU 2: Soup + Dumplings with smoked meat, cabbage, and sautéed onions** 195 CZK
 
 ## SMALL SOUP WITH MAIN COURSE – 250ml
 
-* **Wallachian sour soup with smoked sausage** 35 CZK
-* **Beef broth with liver rice and frittata noodles** 35 CZK
+* **Hungarian bean soup with sausage** 35 CZK
+* **Beef broth with liver rice and fritata noodles** 35 CZK
 
 ## MAIN COURSES
 
-* **Pork meat with sauce with eggs, sausage and pickles, roasted jasmine rice** 185 CZK
+* **BBQ chicken quesadilla with a variety of cheeses, small salad, sour cream** 195 CZK
 * **Fried meat patty with buttery mashed potatoes, pickled cucumber** 175 CZK
-* **Rustic roast pork, potato dumpling, cabbage** 185 CZK
+* **Dumplings with smoked meat, cabbage, and sautéed onions** 175 CZK
+
 * **Spaghetti Carbonara (pancetta, egg yolk, garlic), Parmesan cheese - DISH OF THE WEEK** 225 CZK
 * **Grilled stuffed wheat tortilla of your choice and French Fries** 185 CZK
 * **Pulled pork meat in our BBQ sauce, roasted potatoes and coleslaw salad** 185 CZK
@@ -23,6 +26,6 @@ title: Denní menu - EN
 
 ## LARGE SOUP ORDERED SEPARATELY – 500ml
 
-* **Peas soup with pepper sausage and croutons or Beef broth with liver rice and frittata noodles** 75 CZK
+* **Hungarian bean soup with sausage or Beef broth with liver rice and frittata noodles** 75 CZK
 
-***Offer is valid on Thuesday 5.5. from 10:30AM until closing time or until sold out.***
+***Offer valid on Wednesday 6.5. from 10:30 until closing time or until sold out.***
