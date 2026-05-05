@@ -4,7 +4,7 @@ title: Denní menu CZ
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)
 
 * **MENU 1: Polévka + Smažený karbanátek s máslovou bramborovou kaší, kyselá okurka** 195 Kč
-* **MENU 2: Polévka + Selská vepřová pečeně, bramborový knedlík, zelí** 205 Kč
+* **MENU 2: Polévka + Selská vepřová pečeně, bramborový knedlík, dušené kysané bílé zelí** 205 Kč
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
@@ -15,7 +15,7 @@ title: Denní menu CZ
 
 * **Rozlítaný vepřový španělský ptáček s pečenou jasmínovou rýží** 185 Kč
 * **Smažený karbanátek s máslovou bramborovou kaší, kyselá okurka** 175 Kč
-* **Selská vepřová pečeně, bramborový knedlík, zelí** 185 Kč
+* **Selská vepřová pečeně, bramborový knedlík, dušené kysané bílé zelí** 185 Kč
 * **Špagety Carbonara (pancetta, žloutek, česnek), parmazán - JÍDLO TÝDNE** 225 Kč
 * **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 185 Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek coleslaw** 185 Kč
