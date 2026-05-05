@@ -16,7 +16,6 @@ title: Denní menu - EN
 * **BBQ chicken quesadilla with a variety of cheeses, small salad, sour cream** 195 CZK
 * **Fried meat patty with buttery mashed potatoes, pickled cucumber** 175 CZK
 * **Dumplings with smoked meat, cabbage, and sautéed onions** 175 CZK
-
 * **Spaghetti Carbonara (pancetta, egg yolk, garlic), Parmesan cheese - DISH OF THE WEEK** 225 CZK
 * **Grilled stuffed wheat tortilla of your choice and French Fries** 185 CZK
 * **Pulled pork meat in our BBQ sauce, roasted potatoes and coleslaw salad** 185 CZK
