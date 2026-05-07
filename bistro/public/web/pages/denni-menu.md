@@ -3,18 +3,18 @@ title: Denní menu CZ
 ---
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)
 
-* **MENU 1: Polévka + Vepřová plec teriyaki s wasabi bramborovou kaší, salát s fermentovanou ředkví a zázvorem** 205 Kč
-* **MENU 2: Polévka + Hovězí znojemská pečeně, pečená jasmínová rýže** 215 Kč
+* **MENU 1: Polévka + Zapečené špenátové těstoviny s kuřecím mletým masem, malý rajčatový salátek** 195 Kč
+* **MENU 2: Polévka + Záhorácký závitek, šťouchané brambory** 205 Kč
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
 * **Kachní kaldoun s masem a zeleninou** 35 Kč
-* **Maďarska fazolová polévka s klobásou** 35 Kč
+* **Gulášová** 35 Kč
 
 ## HLAVNÍ JÍDLA
 
-* **Kachní roláda plněná červeným zelím, anglickou slaninou a hruškami, bramborový knedlík a vídeňská cibulka** 245 Kč
-* **Vepřová plec teriyaki s wasabi bramborovou kaší, salát s fermentovanou ředkví a zázvorem** 185 Kč
+* **Zapečené špenátové těstoviny s kuřecím mletým masem, malý rajčatový salátek** 175 Kč
+* **Záhorácký závitek, šťouchané brambory** 185 Kč
 * **Hovězí znojemská pečeně, pečená jasmínová rýže** 195 Kč
 * **Špagety Carbonara (pancetta, žloutek, česnek), parmazán - JÍDLO TÝDNE** 225 Kč
 * **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 185 Kč
@@ -25,6 +25,6 @@ title: Denní menu CZ
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTATNĚ – 500ml
 
-* **Kachní kaldoun s masem a zeleninou nebo Maďarská fazolová polévka s klobásou** 75 Kč
+* **Kachní kaldoun s masem a zeleninou nebo Gulášová** 75 Kč
 
-***Nabídka platí ve čtvrtek 7.5. od 10:30 do zavírací hodiny nebo do vyprodání.***
+***Nabídka platí ve pátek 8.5. od 10:30 do zavírací hodiny nebo do vyprodání.***
