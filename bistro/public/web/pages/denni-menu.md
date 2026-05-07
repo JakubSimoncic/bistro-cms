@@ -3,7 +3,7 @@ title: Denní menu CZ
 ---
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)
 
-* **MENU 1: Polévka + Vepřová plec teriyaki, wasabi bramborovou kaši, salát s fermentovanou ředkví a zázvorem** 205 Kč
+* **MENU 1: Polévka + Vepřová plec teriyaki s wasabi bramborovou kaší, salát s fermentovanou ředkví a zázvorem** 205 Kč
 * **MENU 2: Polévka + Hovězí znojemská pečeně, pečená jasmínová rýže** 215 Kč
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
@@ -14,7 +14,7 @@ title: Denní menu CZ
 ## HLAVNÍ JÍDLA
 
 * **Kachní roláda plněná červeným zelím, anglickou slaninou a hruškami, bramborový knedlík a vídeňská cibulka** 245 Kč
-* **Vepřová plec teriyaki, wasabi bramborovou kaši, salát s fermentovanou ředkví a zázvorem** 185 Kč
+* **Vepřová plec teriyaki s wasabi bramborovou kaší, salát s fermentovanou ředkví a zázvorem** 185 Kč
 * **Hovězí znojemská pečeně, pečená jasmínová rýže** 195 Kč
 * **Špagety Carbonara (pancetta, žloutek, česnek), parmazán - JÍDLO TÝDNE** 225 Kč
 * **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 185 Kč
