@@ -9,7 +9,7 @@ title: Denní menu CZ
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
 * **Gulášová polévka** 35 Kč
-* **Krémová cibulačka s krutony a sýrem* 35 Kč
+* **Krémová cibulačka s krutony a sýrem** 35 Kč
 
 ## HLAVNÍ JÍDLA
 
@@ -25,6 +25,6 @@ title: Denní menu CZ
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTATNĚ – 500ml
 
-* **Krémová cibulačka s krutony a sýrem nebo Gulášová** 75 Kč
+* **Krémová cibulačka s krutony a sýrem nebo gulášová polévka** 75 Kč
 
 ***Nabídka platí v sobotu 9.5. od 10:30 do zavírací hodiny nebo do vyprodání.***
