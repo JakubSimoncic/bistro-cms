@@ -3,8 +3,8 @@ title: Denní menu - EN
 ---
 ## SPECIAL OFFER (soup + main course)
 
-* **MENU 1: Soup + Baked spinach pasta with minced chicken, small tomato salad** 195 CZK
-* **MENU 2: Soup + Záhorácký roll with mashed potatoes** 205 CZK
+* **MENU 1: Soup + Baked pasta with minced chicken meat and spinach, small tomato salad** 195 CZK
+* **MENU 2: Soup + Pork meat stuffed with cabbage and bacon, mashed potatoes** 205 CZK
 
 ## SMALL SOUP WITH MAIN COURSE – 250ml
 
