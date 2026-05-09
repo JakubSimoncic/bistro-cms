@@ -25,6 +25,6 @@ title: Denní menu - EN
 
 ## LARGE SOUP ORDERED SEPARATELY – 500ml
 
-* ** Wallachian sour cabagge soup or Hungarian bean soup with sausage ** 75 CZK
+* **Wallachian sour cabagge soup or Hungarian bean soup with sausage** 75 CZK
 
 ***Offer valid on Sunday 10.5. from 10:30 until closing time or until sold out.***
