@@ -8,7 +8,7 @@ title: Denní menu - EN
 
 ## SMALL SOUP WITH MAIN COURSE – 250ml
 
-* **Wallachian sour soup** 35 CZK
+* **Wallachian sour cabagge soup** 35 CZK
 * **Hungarian bean soup with sausage** 35 CZK
 
 ## MAIN COURSES
@@ -25,6 +25,6 @@ title: Denní menu - EN
 
 ## LARGE SOUP ORDERED SEPARATELY – 500ml
 
-* ** Wallachian sour soup or Hungarian bean soup with sausage ** 75 CZK
+* ** Wallachian sour cabagge soup or Hungarian bean soup with sausage ** 75 CZK
 
 ***Offer valid on Sunday 10.5. from 10:30 until closing time or until sold out.***
