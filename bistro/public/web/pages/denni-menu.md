@@ -14,7 +14,7 @@ title: Denní menu CZ
 ## HLAVNÍ JÍDLA
 
 * **Zapečené špenátové těstoviny s kuřecím mletým masem, malý rajčatový salátek** 175 Kč
-* **Vepřová plec teriyaki, šťouchaný brambor, zeleninový salátek** 185 Kč
+* **Vepřová plec teriyaki, bramborová kaše, zeleninový salátek** 185 Kč
 * **Hovězí znojemská pečeně, pečená jasmínová rýže** 195 Kč
 * **Sekaná svíčková s domácím houskovým knedlíkem** 175 Kč
 * **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 185 Kč
