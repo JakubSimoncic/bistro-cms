@@ -25,6 +25,6 @@ title: Denní menu CZ
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTATNĚ – 500ml
 
-* **Valašská kyselice nebo Maďarská fazolová polévka s klobásou** 75 Kč
+* **Dršťková polévka nebo Krémová česnečka s krutony a sýrem** 75 Kč
 
 ***Nabídka platí v pondělí 11.5. od 10:30 do zavírací hodiny nebo do vyprodání.***
