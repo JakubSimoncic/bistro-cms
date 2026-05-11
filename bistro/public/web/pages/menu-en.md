@@ -27,4 +27,4 @@ title: Denní menu - EN
 
 * **Tripe soup or Spinach cream with croutons and sour cream** 75 CZK
 
-***Offer valid on Moday 11.5. from 10:30 until closing time or until sold out.***
+***Offer valid on Tuesday 12.5. from 10:30 until closing time or until sold out.***
