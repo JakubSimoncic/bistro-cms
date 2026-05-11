@@ -27,4 +27,4 @@ title: Denní menu CZ
 
 * **Dršťková polévka nebo Špenátový krém s krutony a zakysanou smetanou** 75 Kč
 
-***Nabídka platí v pondělí 12.5. od 10:30 do zavírací hodiny nebo do vyprodání.***
+***Nabídka platí v úterý 12.5. od 10:30 do zavírací hodiny nebo do vyprodání.***
