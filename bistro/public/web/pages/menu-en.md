@@ -17,7 +17,7 @@ title: Denní menu - EN
 * **Szeged pork goulash with homemade bread dumplings** 185 CZK
 * **Pork Stroganoff Strips with roasted jasmine rice** 185 CZK
 * **Fusilli pasta with pork tenderloin, porcini cream sauce, white wine, and parmesan - DISH OF THE WEEK** 225 CZK
-* **Grilled stuffed wheat tortilla of your choice and French Fries** 185 CZK
+* **Grilled pork neck, farmhouse beans with garlic and bacon, cheddar sauce with jalapeños peppers, french fries** 225 CZK
 * **Pulled pork meat in our BBQ sauce, roasted potatoes and coleslaw salad** 185 CZK
 * **Beef goulash with onion and chilli peppers, homemade dumplings** 215 CZK
 * **Chicken schnitzel, homemade potato salad, lemon** 195 CZK
