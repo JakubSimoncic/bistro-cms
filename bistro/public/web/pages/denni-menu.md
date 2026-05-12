@@ -17,7 +17,7 @@ title: Denní menu CZ
 * **Segedínský vepřový guláš s domácím houskovým knedlíkem** 185 Kč
 * **Vepřové nudličky Stroganoff s pečenou jasmínovou rýží** 185 Kč
 * **Těstoviny fusilli s vepřovou panenkou, hříbkovou smetanovou omáčkou, bílým vínem a parmazánem - JÍDLO TÝDNE** 225 Kč
-* **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 185 Kč
+* **Grilovaná vepřová krkovice, selské fazolky s česnekem a slaninou, čedarová omáčka s jalapeños papričkami, hranolky** 225 Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek coleslaw** 185 Kč
 * **Hovězí guláš s cibulkou a beraním rohem, domácí houskový knedlík** 215 Kč
 * **Kuřecí řízek, domácí bramborový salát, citron** 195 Kč
