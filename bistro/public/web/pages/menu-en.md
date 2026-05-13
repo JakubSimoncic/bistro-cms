@@ -15,7 +15,8 @@ title: Denní menu - EN
 
 * **Roast pork, braised white cabbage, potato dumpling** 185 CZK
 * **Braised pork shoulder in wine and rosemary with mashed potatoes** 185 CZK
-* **Chicken strips in curry with leeks and baked jasmine rice** 185 CZK* **Fusilli pasta with pork tenderloin, porcini cream sauce, white wine, and parmesan - DISH OF THE WEEK** 225 CZK
+* **Chicken strips in curry with leeks and baked jasmine rice** 185 CZK
+* **Fusilli pasta with pork tenderloin, porcini cream sauce, white wine, and parmesan - DISH OF THE WEEK** 225 CZK
 * **Grilled stuffed wheat tortilla of your choice and French Fries** 185 CZK
 * **Pulled pork meat in our BBQ sauce, roasted potatoes and coleslaw salad** 185 CZK
 * **Beef goulash with onion and chilli peppers, homemade dumplings** 215 CZK
