@@ -15,7 +15,7 @@ title: Denní menu CZ
 
 * **Pikantní vepřová směs se zeleninou a pečenou jasmínovou rýží** 185 Kč
 * **Dušená vepřová plec na víně a rozmarýnu se šťouchaným bramborem** 185 Kč
-* **Zapečené smetanové brambory s kuřecím masem, anglickou smetanou a sýrem** 185 Kč
+* **Zapečené smetanové brambory s kuřecím masem, anglickou slaninou a sýrem** 185 Kč
 * **Těstoviny fusilli s vepřovou panenkou, houbovou smetanovou omáčkou, bílým vínem a parmazánem - JÍDLO TÝDNE** 225 Kč
 * **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 185 Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek coleslaw** 185 Kč
