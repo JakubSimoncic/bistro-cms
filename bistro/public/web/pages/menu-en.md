@@ -3,20 +3,20 @@ title: Denní menu - EN
 ---
 ## SPECIAL OFFER (soup + main course)
 
-* **MENU 1: Soup + Spicy pork mix with vegetables and baked jasmine rice** 205 CZK
-* **MENU 2: Soup + Braised pork shoulder in wine and rosemary with mashed potatoes** 205 CZK
+* **MENU 1: Soup + Dumplings with smoked meat and cabbage, onion** 195 CZK
+* **MENU 2: Soup + Pork goulash with cabbage, bread dumplings** 205 CZK
 
 ## SMALL SOUP WITH MAIN COURSE – 250ml
 
-* **South Bohemian Kulajda** 35 CZK
-* **Pea soup with sausage** 35 CZK
+* **Creamy garlic soup with croutons and cheese** 35 CZK
+* **Goulash** 35 CZK
 
 ## MAIN COURSES
 
-* **Spicy pork mix with vegetables and baked jasmine rice** 185 CZK
-* **Braised pork shoulder in wine and rosemary with mashed potatoes** 185 CZK
-* **Baked creamy potatoes with chicken, bacon, and cheese** 185 CZK
-* **Fusilli pasta with pork tenderloin, porcini cream sauce, white wine, and parmesan - DISH OF THE WEEK** 225 CZK
+* **Pork meat stuffed cabbage and bacon, boiled potatoes** 185 CZK
+* **Chicken strips on curry with leeks, baked jasmine rice** 185 CZK
+* **Dumplings with smoked meat and cabbage, onion** 175 CZK
+* **Pork goulash with cabbage, bread dumplings** 185 CZK
 * **Grilled stuffed wheat tortilla of your choice and French Fries** 185 CZK
 * **Pulled pork meat in our BBQ sauce, roasted potatoes and coleslaw salad** 185 CZK
 * **Beef goulash with onion and chilli peppers, homemade dumplings** 215 CZK
@@ -25,7 +25,7 @@ title: Denní menu - EN
 
 ## LARGE SOUP ORDERED SEPARATELY – 500ml
 
-* **South Bohemian Kulajda or Pea soup with sausage** 75 CZK
+* **Creamy garlic soup with croutons and cheese or Goulash** 75 CZK
 
-***Offer valid on Friday 15.5. from 10:30 until closing time or until sold out.***
+***Offer valid on Saturday 16.5. from 10:30 until closing time or until sold out.***
 
