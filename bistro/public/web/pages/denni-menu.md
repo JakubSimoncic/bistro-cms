@@ -9,7 +9,7 @@ title: Denní menu CZ
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
 * **Francouzská cibulačka se sýrem a krutony** 35 Kč
-* **Gulášová** 35 Kč
+* **Frankfurtská polévka s uzeninou** 35 Kč
 
 ## HLAVNÍ JÍDLA
 
@@ -25,6 +25,6 @@ title: Denní menu CZ
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTATNĚ – 500ml
 
-* **Francouzská cibulačka se sýrem a krutony a sýrem nebo Gulášová** 75 Kč
+* **Francouzská cibulačka se sýrem a krutony a sýrem nebo frankfurtská polévka s uzeninou** 75 Kč
 
 ***Nabídka platí v sobotu 16.5. od 10:30 do zavírací hodiny nebo do vyprodání.***
