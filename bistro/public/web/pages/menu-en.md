@@ -8,8 +8,8 @@ title: Denní menu - EN
 
 ## SMALL SOUP WITH MAIN COURSE – 250ml
 
-* **Creamy garlic soup with croutons and cheese** 35 CZK
-* **Goulash** 35 CZK
+* **French onion soup with cheese and croutons** 35 CZK
+* **Goulash soup** 35 CZK
 
 ## MAIN COURSES
 
@@ -25,7 +25,7 @@ title: Denní menu - EN
 
 ## LARGE SOUP ORDERED SEPARATELY – 500ml
 
-* **Creamy garlic soup with croutons and cheese or Goulash** 75 CZK
+* **French onion soup with croutons and cheese or Goulash soup** 75 CZK
 
 ***Offer valid on Saturday 16.5. from 10:30 until closing time or until sold out.***
 
