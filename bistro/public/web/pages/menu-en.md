@@ -3,20 +3,20 @@ title: Denní menu - EN
 ---
 ## SPECIAL OFFER (soup + main course)
 
-* **MENU 1: Soup + Dumplings with smoked meat and cabbage, onion** 195 CZK
-* **MENU 2: Soup + Pork goulash with cabbage, bread dumplings** 205 CZK
+* **MENU 1: Soup + Pork strips Stroganoff, baked jasmine rice** 205 CZK
+* **MENU 2: Soup + Spicy pork mixture with vegetables, baked jasmine rice** 205 CZK
 
 ## SMALL SOUP WITH MAIN COURSE – 250ml
 
-* **French onion soup with cheese and croutons** 35 CZK
-* **Goulash soup** 35 CZK
+* **Cabbage with sausage** 35 CZK
+* **Pea soup with sausage** 35 CZK
 
 ## MAIN COURSES
 
-* **Pork meat stuffed cabbage and bacon, boiled potatoes** 185 CZK
-* **Chicken strips on curry with leeks, baked jasmine rice** 185 CZK
-* **Dumplings with smoked meat and cabbage, onion** 175 CZK
-* **Pork goulash with cabbage, bread dumplings** 185 CZK
+* **Pork meat with sauce (egg, pickles, sausage), baked jasmine rice** 185 CZK
+* **Veal schnitzel with potato salad** 255 CZK
+* **Pork strips Stroganoff, baked jasmine rice** 185 CZK
+* **Spicy pork mixture with vegetables, baked jasmine rice** 185 CZK
 * **Grilled stuffed wheat tortilla of your choice and French Fries** 185 CZK
 * **Pulled pork meat in our BBQ sauce, roasted potatoes and coleslaw salad** 185 CZK
 * **Beef goulash with onion and chilli peppers, homemade dumplings** 215 CZK
@@ -25,7 +25,7 @@ title: Denní menu - EN
 
 ## LARGE SOUP ORDERED SEPARATELY – 500ml
 
-* **French onion soup with croutons and cheese or Goulash soup** 75 CZK
+* **Cabbage with sausage or Pea soup with sausage** 75 CZK
 
-***Offer valid on Saturday 16.5. from 10:30 until closing time or until sold out.***
+***Offer valid on Sunday 17.5. from 10:30 until closing time or until sold out.***
 
