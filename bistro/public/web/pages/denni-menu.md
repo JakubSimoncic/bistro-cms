@@ -8,7 +8,7 @@ title: Denní menu CZ
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
-* **-** 35 Kč
+* **Bramborová polévka** 35 Kč
 * **Hrachová s uzeninou** 35 Kč
 
 ## HLAVNÍ JÍDLA
