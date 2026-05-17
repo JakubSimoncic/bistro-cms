@@ -3,20 +3,20 @@ title: Denní menu - EN
 ---
 ## SPECIAL OFFER (soup + main course)
 
-* **MENU 1: Soup + Pork strips Stroganoff, baked jasmine rice** 205 CZK
-* **MENU 2: Soup + -** 205 CZK
+* **MENU 1: Soup + Serbian pork risotto with cheese, pickles** 205 CZK
+* **MENU 2: Soup + Pork belly meat roasted with beer, mashed potatoes** 195 CZK
 
 ## SMALL SOUP WITH MAIN COURSE – 250ml
 
-* **Potato soup* 35 CZK
-* **Pea soup with sausage** 35 CZK
+* **Old Czech potato soup** 35 CZK
+* **Garlic soup with sausage and egg, croutons and cheese** 35 CZK
 
 ## MAIN COURSES
 
-* **Pork meat with sauce (egg, pickles, sausage), baked jasmine rice** 185 CZK
-* **Veal schnitzel with potato salad** 255 CZK
-* **Pork strips Stroganoff, baked jasmine rice** 185 CZK
-* **-** 185 CZK
+* **“Svíčková“- Sirloin in vegetable creamy sauce, homemade dumplings** 215 CZK
+* **Serbian pork risotto with cheese, pickles** 185 CZK
+* **Pork belly meat roasted with beer, mashed potatoes** 175 CZK
+* **Roasted BBQ chicken wings, French Fries and Coleslaw salad** 215 CZK
 * **Grilled stuffed wheat tortilla of your choice and French Fries** 185 CZK
 * **Pulled pork meat in our BBQ sauce, roasted potatoes and coleslaw salad** 185 CZK
 * **Beef goulash with onion and chilli peppers, homemade dumplings** 215 CZK
@@ -25,7 +25,7 @@ title: Denní menu - EN
 
 ## LARGE SOUP ORDERED SEPARATELY – 500ml
 
-* **Cabbage with sausage or Pea soup with sausage** 75 CZK
+* **Old Czech potato soup or Garlic soup with sausage and egg, croutons and cheese** 75 CZK
 
-***Offer valid on Sunday 17.5. from 10:30 until closing time or until sold out.***
+***Offer valid on Monday 18.5. from 10:30 until closing time or until sold out.***
 
