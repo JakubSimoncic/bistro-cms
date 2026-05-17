@@ -4,11 +4,11 @@ title: Denní menu - EN
 ## SPECIAL OFFER (soup + main course)
 
 * **MENU 1: Soup + Pork strips Stroganoff, baked jasmine rice** 205 CZK
-* **MENU 2: Soup + Spicy pork mixture with vegetables, baked jasmine rice** 205 CZK
+* **MENU 2: Soup + -** 205 CZK
 
 ## SMALL SOUP WITH MAIN COURSE – 250ml
 
-* **Cabbage with sausage** 35 CZK
+* **-* 35 CZK
 * **Pea soup with sausage** 35 CZK
 
 ## MAIN COURSES
@@ -16,7 +16,7 @@ title: Denní menu - EN
 * **Pork meat with sauce (egg, pickles, sausage), baked jasmine rice** 185 CZK
 * **Veal schnitzel with potato salad** 255 CZK
 * **Pork strips Stroganoff, baked jasmine rice** 185 CZK
-* **Spicy pork mixture with vegetables, baked jasmine rice** 185 CZK
+* **-** 185 CZK
 * **Grilled stuffed wheat tortilla of your choice and French Fries** 185 CZK
 * **Pulled pork meat in our BBQ sauce, roasted potatoes and coleslaw salad** 185 CZK
 * **Beef goulash with onion and chilli peppers, homemade dumplings** 215 CZK
