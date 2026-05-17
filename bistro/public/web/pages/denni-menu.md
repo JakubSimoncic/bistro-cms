@@ -4,11 +4,11 @@ title: Denní menu CZ
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)
 
 * **MENU 1: Polévka + Vepřové nudličky Stroganoff, pečená jasmínová rýže** 205 Kč
-* **MENU 2: Polévka + Pikantní vepřová směs se zeleninou, pečená jasmínová rýže** 205 Kč
+* **MENU 2: Polévka + -** 205 Kč
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
-* **Valašská kyselice s uzeninou** 35 Kč
+* **-** 35 Kč
 * **Hrachová s uzeninou** 35 Kč
 
 ## HLAVNÍ JÍDLA
@@ -16,7 +16,7 @@ title: Denní menu CZ
 * **Rozlítaný vepřový španělský ptáček s houskovým knedlíkem** 185 Kč
 * **Telecí řízek s bramborovým salátem** 255 Kč
 * **Vepřové nudličky Stroganoff, pečená jasmínová rýže** 185 Kč
-* **Pikantní vepřová směs se zeleninou, pečená jasmínová rýže** 185 Kč
+* **-** 185 Kč
 * **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 185 Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek coleslaw** 185 Kč
 * **Hovězí guláš s cibulkou a beraním rohem, domácí houskový knedlík** 215 Kč
