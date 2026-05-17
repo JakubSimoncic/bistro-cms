@@ -8,7 +8,7 @@ title: Denní menu - EN
 
 ## SMALL SOUP WITH MAIN COURSE – 250ml
 
-* **-* 35 CZK
+* **Potato soup* 35 CZK
 * **Pea soup with sausage** 35 CZK
 
 ## MAIN COURSES
