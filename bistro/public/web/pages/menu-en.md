@@ -4,7 +4,7 @@ title: Denní menu - EN
 ## SPECIAL OFFER (soup + main course)
 
 * **MENU 1: Soup + Savoy-style pork schnitzels with buttery mashed potatoes** 205 CZK
-* **MENU 2: Soup + Svíčková - Sirloin in vegetables cream sauce, homemade bread dumpling, and cranberry garnish ** 235 CZK
+* **MENU 2: Soup + Svíčková - Sirloin in vegetables cream sauce, homemade bread dumpling, and cranberry garnish** 235 CZK
 
 ## SMALL SOUP WITH MAIN COURSE – 250ml
 
