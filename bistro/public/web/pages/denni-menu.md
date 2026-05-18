@@ -3,8 +3,8 @@ title: Denní menu CZ
 ---
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)  
 
-* **MENU 1: Polévka + Savojské vepřové řízečky s máslovou bramborovou kaší** 205 Kč 
-* **MENU 2: Polévka + Svíčková na smetaně, domácí houskový knedlík a brusinkový terč** 235 Kč  
+* **MENU 1: Polévka + Savojské vepřové řízečky s máslovou bramborovou kaší, kyselá okurka** 205 Kč 
+* **MENU 2: Polévka + Hovězí svíčková na smetaně, domácí houskový knedlík a brusinkový terč** 235 Kč  
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml  
 
@@ -14,8 +14,8 @@ title: Denní menu CZ
 ## HLAVNÍ JÍDLA  
 
 * **Italské hříbkové rizoto s grilovanou filírovanou panenkou a parmazánem** 215 Kč
-* **Savojské vepřové řízečky s máslovou bramborovou kaší** 185 Kč
-* **Svíčková na smetaně, domácí houskový knedlík a brusinkový terč** 215 Kč
+* **Savojské vepřové řízečky s máslovou bramborovou kaší, kyselá okurka** 185 Kč
+* **Hovězí svíčková na smetaně, domácí houskový knedlík a brusinkový terč** 215 Kč
 * **Pečená BBQ kuřecí křídla smažené hranolky a salátek Coleslaw - JÍDLO TÝDNE** 215 Kč
 * **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 185 Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek coleslaw** 185 Kč
