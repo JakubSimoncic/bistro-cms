@@ -25,6 +25,6 @@ title: Denní menu CZ
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTATNĚ – 500ml
 
-* **Staročeská bramboračka nebo Hovězí vývar s masem, zeleninou a játrovou rýží* 75 Kč
+* **Staročeská bramboračka nebo Hovězí vývar s masem, zeleninou a játrovou rýží** 75 Kč
 
 ***Nabídka platí v úterý 19.5. od 10:30 do zavírací hodiny nebo do vyprodání.***
