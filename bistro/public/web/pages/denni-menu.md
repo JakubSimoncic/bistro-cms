@@ -3,19 +3,19 @@ title: Denní menu CZ
 ---
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)  
 
-* **MENU 1: Polévka + Savojské vepřové řízečky s máslovou bramborovou kaší, kyselá okurka** 205 Kč 
-* **MENU 2: Polévka + Hovězí svíčková na smetaně, domácí houskový knedlík a brusinkový terč** 235 Kč  
+* **MENU 1: Polévka + Pečený vepřový bok na pivu se šťouchaným bramborem** 195 Kč 
+* **MENU 2: Polévka + Kuřecí stehno na paprice s těstovinami - fusilli** 205 Kč  
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml  
 
-* **Staročeská bramborová polévka** 35 Kč 
-* **Hovězí vývar s masem, zeleninou a játrovou rýží** 35 Kč  
+* **Zelňačka s paprikovou klobásou** 35 Kč 
+* **Česnečka s krutony a sýrem** 35 Kč  
 
 ## HLAVNÍ JÍDLA  
 
-* **Italské hříbkové rizoto s grilovanou filírovanou panenkou a parmazánem** 215 Kč
-* **Savojské vepřové řízečky s máslovou bramborovou kaší, kyselá okurka** 185 Kč
-* **Hovězí svíčková na smetaně, domácí houskový knedlík a brusinkový terč** 215 Kč
+* **Hovězí rajská pečeně s domácím houskovým knedlíkem** 215 Kč
+* **Pečený vepřový bok na pivu se šťouchaným bramborem** 175 Kč
+* **Kuřecí stehno na paprice s těstovinami - fusilli** 185 Kč
 * **Pečená BBQ kuřecí křídla smažené hranolky a salátek Coleslaw - JÍDLO TÝDNE** 215 Kč
 * **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 185 Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek coleslaw** 185 Kč
@@ -25,6 +25,6 @@ title: Denní menu CZ
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTATNĚ – 500ml
 
-* **Staročeská bramboračka nebo Hovězí vývar s masem, zeleninou a játrovou rýží** 75 Kč
+* **Zelňačka s paprikovou klobásou nebo Česnečka s krutony a sýrem** 75 Kč
 
-***Nabídka platí v úterý 19.5. od 10:30 do zavírací hodiny nebo do vyprodání.***
+***Nabídka platí ve středu 20.5. od 10:30 do zavírací hodiny nebo do vyprodání.***
