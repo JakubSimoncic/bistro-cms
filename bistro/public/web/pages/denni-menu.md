@@ -3,7 +3,7 @@ title: Denní menu CZ
 ---
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)  
 
-* **MENU 1: Polévka + Smažený holandský řízek, bramborová kaše, kyselá okurka** 195 Kč 
+* **MENU 1: Polévka + Smažený holandský řízek, bramborová kaše, kyselá okurka** 205 Kč 
 * **MENU 2: Polévka + Rajská omáčka s hovězím masem, domácí houskový knedlík** 235 Kč  
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml  
@@ -13,7 +13,7 @@ title: Denní menu CZ
 
 ## HLAVNÍ JÍDLA  
 
-* **Vepřové výpečky, bíké zelí, bramborový knedlík** 185 Kč
+* **Vepřové výpečky, bílé zelí, bramborový knedlík** 185 Kč
 * **Smažený holandský řízek, bramborová kaše, kyselá okurka** 185 Kč
 * **Rajská omáčka s hovězím masem, domácí houskový knedlík** 215 Kč
 * **Pečená BBQ kuřecí křídla smažené hranolky a salátek Coleslaw - JÍDLO TÝDNE** 215 Kč
