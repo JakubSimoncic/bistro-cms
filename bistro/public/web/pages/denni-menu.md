@@ -3,19 +3,19 @@ title: Denní menu CZ
 ---
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)  
 
-* **MENU 1: Polévka + Pečený vepřový bok na pivu se šťouchaným bramborem** 195 Kč 
-* **MENU 2: Polévka + Kuřecí stehno na paprice s těstovinami - fusilli** 205 Kč  
+* **MENU 1: Polévka + Smažený holandský řízek, bramborová kaše, kyselá okurka** 195 Kč 
+* **MENU 2: Polévka + Rajská omáčka s hovězím masem, domácí houskový knedlík** 235 Kč  
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml  
 
 * **Zelňačka s paprikovou klobásou** 35 Kč 
-* **Česnečka s krutony a sýrem** 35 Kč  
+* **Dršťková polévka** 35 Kč  
 
 ## HLAVNÍ JÍDLA  
 
-* **Hovězí rajská pečeně s domácím houskovým knedlíkem** 215 Kč
-* **Pečený vepřový bok na pivu se šťouchaným bramborem** 175 Kč
-* **Kuřecí stehno na paprice s těstovinami - fusilli** 185 Kč
+* **Vepřové výpečky, bíké zelí, bramborový knedlík** 185 Kč
+* **Smažený holandský řízek, bramborová kaše, kyselá okurka** 185 Kč
+* **Rajská omáčka s hovězím masem, domácí houskový knedlík** 215 Kč
 * **Pečená BBQ kuřecí křídla smažené hranolky a salátek Coleslaw - JÍDLO TÝDNE** 215 Kč
 * **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 185 Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek coleslaw** 185 Kč
@@ -25,6 +25,6 @@ title: Denní menu CZ
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTATNĚ – 500ml
 
-* **Zelňačka s paprikovou klobásou nebo Česnečka s krutony a sýrem** 75 Kč
+* **Zelňačka s paprikovou klobásou nebo dršťková polévka** 75 Kč
 
-***Nabídka platí ve středu 20.5. od 10:30 do zavírací hodiny nebo do vyprodání.***
+***Nabídka platí ve čtvrtek 21.5. od 10:30 do zavírací hodiny nebo do vyprodání.***
