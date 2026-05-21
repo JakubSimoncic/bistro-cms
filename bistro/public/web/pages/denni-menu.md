@@ -13,7 +13,7 @@ title: Denní menu CZ
 
 ## HLAVNÍ JÍDLA  
 
-* **Smažený holandský řízek, bramborová kaše, kyselá okurka** 185 Kč
+* **Smažený holandský řízek, šťouchané brambory, kyselá okurka** 185 Kč
 * **Vepřové výpečky, bílé zelí, bramborový knedlík** 185 Kč
 * **Boloňské špagety s hovězím mletým masem a parmazánem** 195 Kč
 * **Pečená BBQ kuřecí křídla smažené hranolky a salátek Coleslaw - JÍDLO TÝDNE** 215 Kč
