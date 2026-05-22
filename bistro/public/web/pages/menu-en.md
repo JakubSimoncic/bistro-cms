@@ -13,7 +13,7 @@ title: Denní menu - EN
 
 ## MAIN COURSES
 
-* ** Pork shoulder with bacon sauce and baked jasmine rice** 185 CZK
+* **Pork shoulder with bacon sauce and baked jasmine rice** 185 CZK
 * **Chicken gyros noodles with french fries, tzatziki** 195 CZK
 * **Baked pork minced meat with boiled potatoes, onions and mustard** 185 CZK
 * **Roast beef in wine sauce with mashed potatoes** 215 CZK
