@@ -3,20 +3,20 @@ title: Denní menu - EN
 ---
 ## SPECIAL OFFER (soup + main course)
 
-* **MENU 1: Soup + Roast pork meat, white cabbage, potato dumplings** 205 CZK
-* **MENU 2: Soup + Spaghetti Bolognese with minced beef meat and parmesan cheese** 215 CZK
+* **MENU 1: Soup + Pork shoulder with bacon sauce with baked jasmine rice** 205 CZK
+* **MENU 2: Soup + Chicken gyros noodles with  french fries, tzatziki** 215 CZK
 
-## SMALL SOUP WITH MAIN COURSE – 250ml
+## SMALL SOUP FOR THE MAIN COURSE – 250ml
 
-* **Tripe soup** 35 CZK
-* **Beef broth with meat, vegetables and noodles** 35 CZK
+* **Old Bohemian potato soup** 35 CZK
+* **Goulash soup** 35 CZK
 
 ## MAIN COURSES
 
-* **Fried schnitzel from minced meat, mashed potatoes, pickles** 185 CZK
-* **Roast pork meat, white cabbage, potato dumplings** 185 CZK
-* **Spaghetti Bolognese with minced beef meat and parmesan cheese** 195 CZK
-* **Roasted BBQ chicken wings, French Fries and Coleslaw salad - DISH OF THE WEEK** 215 CZK
+* ** Pork shoulder with bacon sauce and baked jasmine rice** 185 CZK
+* **Chicken gyros noodles with french fries, tzatziki** 195 CZK
+* **Baked pork minced meat with boiled potatoes, onions and mustard** 185 CZK
+* **Roast beef in wine sauce with mashed potatoes** 215 CZK
 * **Grilled stuffed wheat tortilla of your choice and French Fries** 185 CZK
 * **Pulled pork meat in our BBQ sauce, roasted potatoes and coleslaw salad** 185 CZK
 * **Beef goulash with onion and chilli peppers, homemade dumplings** 215 CZK
@@ -25,7 +25,7 @@ title: Denní menu - EN
 
 ## LARGE SOUP ORDERED SEPARATELY – 500ml
 
-* **Tripe soup or Beef broth with meat, vegetables and noodles** 75 CZK
-
-***Offer valid on Friday 22.5. from 10:30 until closing time or until sold out.***
+* **Old Bohemian potato soup or Goulash soup** 75 CZK
+ 
+***Offer valid on Saturday 23.5. from 10:30 until closing time or until sold out.***
 
