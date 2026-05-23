@@ -3,7 +3,7 @@ title: Denní menu - EN
 ---
 ## SPECIAL OFFER (soup + main course)
 
-* **MENU 1: Soup + Chicken thight on pepper sauce with baked jasmine rice** 205 CZK
+* **MENU 1: Soup + Chicken thigh on pepper sauce with baked jasmine rice** 205 CZK
 * **MENU 2: Soup + Pork shoulder with cream vegetable sauce and ham,with homemade bread dumpling** 205 CZK
 
 ## SMALL SOUP FOR THE MAIN COURSE – 250ml
@@ -13,7 +13,7 @@ title: Denní menu - EN
 
 ## MAIN COURSES
 
-* **Chicken thight on pepper sauce with baked jasmine rice** 185 CZK
+* **Chicken thigh on pepper sauce with baked jasmine rice** 185 CZK
 * **Pork shoulder with cream vegetable sauce and ham,with homemade bread dumpling** 185 CZK
 * **Spaghetti Bolognese with minced beef and parmesan** 195 CZK
 * **Chicken gyros noodles with french fries and tzatziki** 195 CZK
