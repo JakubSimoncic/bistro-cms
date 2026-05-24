@@ -3,7 +3,7 @@ title: Denní menu CZ
 ---
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)  
 
-* **MENU 1: Polévka + Smažený květák s vařeným bramborem, tatarská omáčka** 205 Kč 
+* **MENU 1: Polévka + Smažený květák s vařeným bramborem, tatarská omáčka** 195 Kč 
 * **MENU 2: Polévka + Vepřová plec na houbách s pečenou jasmínovou rýží** 205 Kč  
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml  
