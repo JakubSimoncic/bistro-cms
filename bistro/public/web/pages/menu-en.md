@@ -15,7 +15,7 @@ title: Denní menu - EN
 
 * **Fried cauliflower with boiled potatoes, tartar sauce** 175 CZK
 * **Pork shoulder with mushrooms sauce with baked jasmine rice** 185 CZK
-* **Pork roast, white cabbage and potato dumpling** 195 CZK
+* **Roast pork, white cabbage and potato dumpling** 195 CZK
 * **Pasta - Penne with salmon, cherry tomatoes, pesto, cream, red onion and parmesan - MEAL OF THE WEEK** 235 CZK
 * **Grilled stuffed wheat tortilla of your choice and French Fries** 185 CZK
 * **Pulled pork meat in our BBQ sauce, roasted potatoes and coleslaw salad** 185 CZK
