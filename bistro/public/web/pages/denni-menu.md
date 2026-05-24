@@ -13,7 +13,7 @@ title: Denní menu CZ
 
 ## HLAVNÍ JÍDLA  
 
-* **Smažený květák s vařeným bramborem, tatarská omáčka** 185 Kč
+* **Smažený květák s vařeným bramborem, tatarská omáčka** 175 Kč
 * **Vepřová plec na houbách s pečenou jasmínovou rýží** 185 Kč
 * **Vepřové výpečky, bílé zelí a bramborový knedlík** 195 Kč
 * **Těstoviny - Penne s lososem , cherry rajčaty, pestem, smetanou, červenou cibulí a parmazánem - JÍDLO TÝDNE** 235 Kč
