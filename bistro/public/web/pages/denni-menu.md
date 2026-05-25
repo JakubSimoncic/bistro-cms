@@ -3,19 +3,19 @@ title: Denní menu CZ
 ---
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)  
 
-* **MENU 1: Polévka + Smažený květák s vařeným bramborem, tatarská omáčka** 195 Kč 
-* **MENU 2: Polévka + Vepřová plec na houbách s pečenou jasmínovou rýží** 205 Kč  
+* **MENU 1: Polévka + Halušky s uzeným masem, zelím a restovanou cibulkou** 195 Kč 
+* **MENU 2: Polévka + Boloňské lasagne s mletým masem a italskou rajčatovou omáčkou** 215 Kč  
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml  
 
-* **Boršč se zakysanou smetanou** 35 Kč 
+* **Gulášová** 35 Kč 
 * **Čočková polévka s uzeninou** 35 Kč  
 
 ## HLAVNÍ JÍDLA  
 
-* **Smažený květák s vařeným bramborem, tatarská omáčka** 175 Kč
-* **Vepřová plec na houbách s pečenou jasmínovou rýží** 185 Kč
-* **Vepřové výpečky, bílé zelí a bramborový knedlík** 195 Kč
+* **Smažená kuřecí křídla v cornflakes strouhance, opečený brambor, coleslaw a česnekový dip** 215 Kč
+* **Halušky s uzeným masem, zelím a restovanou cibulkou** 175 Kč
+* **Boloňské lasagne s mletým masem a italskou rajčatovou omáčkou** 195 Kč
 * **Těstoviny - Penne s lososem , cherry rajčaty, pestem, smetanou, červenou cibulí a parmazánem - JÍDLO TÝDNE** 235 Kč
 * **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 185 Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek coleslaw** 185 Kč
@@ -25,6 +25,6 @@ title: Denní menu CZ
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTATNĚ – 500ml
 
-* **Boršč se zakysanou smetanou nebo Čočková polévka s uzeninou** 75 Kč
+* **Gulášová nebo Čočková polévka s uzeninou** 75 Kč
 
-***Nabídka platí v pondělí 25.5. od 10:30 do zavírací hodiny nebo do vyprodání.***
+***Nabídka platí v úterý 26.5. od 10:30 do zavírací hodiny nebo do vyprodání.***
