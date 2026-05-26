@@ -27,4 +27,4 @@ title: Denní menu CZ
 
 * **Pórkový krém s kuřecím masem nebo Frankfurtská** 75 Kč
 
-***Nabídka platí ve středu 26.5. od 10:30 do zavírací hodiny nebo do vyprodání.***
+***Nabídka platí ve středu 27.5. od 10:30 do zavírací hodiny nebo do vyprodání.***
