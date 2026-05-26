@@ -3,18 +3,18 @@ title: Denní menu CZ
 ---
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)  
 
-* **MENU 1: Polévka + Halušky s uzeným masem, zelím a restovanou cibulkou** 195 Kč 
+* **MENU 1: Polévka + Dušená vepřová kýta v mrkvi, šťouchané brambory s jarní cibulkou a pažitkou** 205 Kč 
 * **MENU 2: Polévka + Boloňské lasagne s mletým masem a italskou rajčatovou omáčkou** 215 Kč  
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml  
 
-* **Gulášová** 35 Kč 
-* **Čočková polévka s uzeninou** 35 Kč  
+* **Pórkový krém s kuřecím masem** 35 Kč 
+* **Frankfurtská** 35 Kč  
 
 ## HLAVNÍ JÍDLA  
 
-* **Smažená kuřecí křídla v cornflakes strouhance, opečený brambor, coleslaw a česnekový dip** 215 Kč
-* **Halušky s uzeným masem, zelím a restovanou cibulkou** 175 Kč
+* **Cmunda po kaplicku (uzené maso a zelí v bramboráku)** 185 Kč
+* **Dušená vepřová kýta v mrkvi, šťouchané brambory s jarní cibulkou a pažitkou** 185 Kč
 * **Boloňské lasagne s mletým masem a italskou rajčatovou omáčkou** 195 Kč
 * **Těstoviny - Penne s lososem , cherry rajčaty, pestem, smetanou, červenou cibulí a parmazánem - JÍDLO TÝDNE** 235 Kč
 * **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 185 Kč
@@ -25,6 +25,6 @@ title: Denní menu CZ
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTATNĚ – 500ml
 
-* **Gulášová nebo Čočková polévka s uzeninou** 75 Kč
+* **Pórkový krém s kuřecím masem nebo Frankfurtská** 75 Kč
 
-***Nabídka platí v úterý 26.5. od 10:30 do zavírací hodiny nebo do vyprodání.***
+***Nabídka platí ve středu 26.5. od 10:30 do zavírací hodiny nebo do vyprodání.***
