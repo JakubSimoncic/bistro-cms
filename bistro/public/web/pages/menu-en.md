@@ -4,7 +4,7 @@ title: Denní menu - EN
 ## SPECIAL OFFER (soup + main course)
 
 * **MENU 1: Soup + Fried butter pork meatball with mashed potatoes, pickled cucumber** 195 CZK
-* **MENU 2: Soup + Garlic pork meat with spinach and potato dumplings ** 205 CZK
+* **MENU 2: Soup + Garlic pork meat with spinach and potato dumplings** 205 CZK
 
 ## SMALL SOUP FOR THE MAIN COURSE – 250ml
 
