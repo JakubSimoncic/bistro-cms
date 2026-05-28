@@ -4,7 +4,7 @@ title: Denní menu - EN
 ## SPECIAL OFFER (soup + main course)
 
 * **MENU 1: Soup + Roasted pork knuckle with ginger and garlic, mashed potatoes** 205 CZK
-* **MENU 2: Soup + Roasted pork with mushrooms sauce andhomemade bread dumplings** 205 CZK
+* **MENU 2: Soup + Roasted pork with mushrooms sauce and homemade bread dumplings** 205 CZK
 
 ## SMALL SOUP FOR THE MAIN COURSE – 250ml
 
