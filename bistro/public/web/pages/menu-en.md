@@ -14,7 +14,7 @@ title: Denní menu - EN
 ## MAIN COURSES
 
 * **"Cmunda" (smoked pork meat and white cabbage in potato pancake)** 185 CZK
-* **Czech gnocchi with smoked meat, cabbage and sauéed onion** 175 CZK
+* **Czech gnocchi with smoked meat, cabbage and sautéed onion** 175 CZK
 * **Pork meat with garlic, leaf spinach and potato dumplings** 185 CZK
 * **Bolognese lasagne with minced meat, tomato sauce** 195 CZK
 * **Grilled stuffed wheat tortilla of your choice and French Fries** 185 CZK
