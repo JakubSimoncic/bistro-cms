@@ -3,20 +3,20 @@ title: Denní menu - EN
 ---
 ## SPECIAL OFFER (soup + main course)
 
-* **MENU 1: Soup + Roasted pork knuckle with ginger and garlic, mashed potatoes** 205 CZK
-* **MENU 2: Soup + Roasted pork with mushrooms sauce and homemade bread dumplings** 205 CZK
+* **MENU 1: Soup + Pork meat with garlic, leaf spinach and potato dumplings** 205 CZK
+* **MENU 2: Soup + Bolognese lasagne with minced meat, tomato sauce** 215 CZK
 
 ## SMALL SOUP FOR THE MAIN COURSE – 250ml
 
-* **Borsch with sour cream** 35 CZK
-* **Lentil soup with pepper sausage** 35 CZK
+* **Vegetable minestrone soup with parmesan cheese** 35 CZK
+* **Leek cream with chicken meat** 35 CZK
 
 ## MAIN COURSES
 
-* **Roasted pork knuckle with ginger and garlic, mashed potatoes** 185 CZK
-* **Roasted pork with mushrooms sauce with homemade bread dumplings** 185 CZK
-* **Cmunda po Kaplicku (potato pancake, smoked meat, white cabbage)** 185 CZK
-* **Pasta - Fusilli with salmon, cherry tomatoes, pesto, cream, red onion and parmesan - MEAL OF THE WEEK** 235 CZK
+* **"Cmunda" (smoked pork meat and white cabbage in potato pancake)** 185 CZK
+* **Czech gnocchi with smoked meat, cabbage and sauéed onion** 175 CZK
+* **Pork meat with garlic, leaf spinach and potato dumplings** 185 CZK
+* **Bolognese lasagne with minced meat, tomato sauce** 195 CZK
 * **Grilled stuffed wheat tortilla of your choice and French Fries** 185 CZK
 * **Pulled pork meat in our BBQ sauce, roasted potatoes and coleslaw salad** 185 CZK
 * **Beef goulash with onion and chilli peppers, homemade dumplings** 215 CZK
@@ -25,8 +25,8 @@ title: Denní menu - EN
 
 ## LARGE SOUP ORDERED SEPARATELY – 500ml
 
-* **Borsch with sour cream or Lentil soup with pepper sausage** 75 CZK
+* **Minestrone soup with parmesan cheese or Leek cream with chicken meat** 75 CZK
 
-***Offer valid on Friday 29.5. from 10:30 until closing time or until sold out.***
+***Offer valid on Saturday 30.5. from 10:30 until closing time or until sold out.***
 
 
