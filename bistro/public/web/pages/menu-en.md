@@ -16,7 +16,7 @@ title: Denní menu - EN
 * **Slowly roasted pork belly, stewed white cabbage, potato dumplings** 185 CZK
 * **Fried butter meatball, boiled potato, mustard, pickles** 185 CZK
 * **Braised pork with carrots, boiled potatoes** 185 CZK
-* **Pork with porcini mushroom sauce, homemade dumplings ** 185 CZK
+* **Pork with porcini mushroom sauce, homemade dumplings** 185 CZK
 * **Grilled stuffed wheat tortilla of your choice and French Fries** 185 CZK
 * **Pulled pork meat in our BBQ sauce, roasted potatoes and coleslaw salad** 185 CZK
 * **Beef goulash with onion and chilli peppers, homemade dumplings** 215 CZK
