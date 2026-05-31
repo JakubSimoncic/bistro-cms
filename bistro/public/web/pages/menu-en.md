@@ -3,20 +3,20 @@ title: Denní menu - EN
 ---
 ## SPECIAL OFFER (soup + main course)
 
-* **MENU 1: Soup + Braised pork with carrots, boiled potatoes** 205 CZK
-* **MENU 2: Soup + Beef goulash with onion, homemade dumplings** 235 CZK
+* **MENU 1: Soup + Chicken strips on red curry, baked jasmine rice** 205 CZK
+* **MENU 2: Soup + Pork Hungarian perkelt, bread dumplings** 205 CZK
 
 ## SMALL SOUP FOR THE MAIN COURSE – 250ml
 
-* **Vegetable minestrone soup with parmesan cheese** 35 CZK
-* **Garlic soup with bacon and egg, croutons and cheese** 35 CZK
+* **Kulajda - creamy dill soup** 35 CZK
+* **Creamy onion soup with croutons and cheese** 35 CZK
 
 ## MAIN COURSES
 
-* **Slowly roasted pork belly, stewed white cabbage, potato dumplings** 185 CZK
-* **Fried butter meatball, boiled potato, mustard, pickles** 185 CZK
-* **Braised pork with carrots, boiled potatoes** 185 CZK
-* **Pork with porcini mushroom sauce, homemade dumplings** 185 CZK
+* **Fried pork tenderloin schnitzels with mashed potatoes, lemon, pickles** 215 CZK
+* **Chicken strips on red curry, baked jasmine rice** 185 CZK
+* **Pork Hungarian perkelt, bread dumplings** 185 CZK
+* **MEAL OF THE WEEK - Chicken Caesar salad with toasted toast** 225 CZK
 * **Grilled stuffed wheat tortilla of your choice and French Fries** 185 CZK
 * **Pulled pork meat in our BBQ sauce, roasted potatoes and coleslaw salad** 185 CZK
 * **Beef goulash with onion and chilli peppers, homemade dumplings** 215 CZK
@@ -25,8 +25,8 @@ title: Denní menu - EN
 
 ## LARGE SOUP ORDERED SEPARATELY – 500ml
 
-* **Minestrone soup with parmesan cheese or Garlic soup with bacon and egg, croutons and cheese** 75 CZK
+* **Kulajda - creamy dill soup or Creamy onion soup with croutons and cheese** 75 CZK
 
-***Offer valid on Sunday 31.5. from 10:30 until closing time or until sold out.***
+***Offer valid on Monday 01.06. from 10:30 until closing time or until sold out.***
 
 
