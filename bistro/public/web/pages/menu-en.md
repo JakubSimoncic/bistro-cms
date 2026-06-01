@@ -14,7 +14,7 @@ title: Denní menu - EN
 ## MAIN COURSES
 
 * **Baked French potatoes with smoked meat** 175 CZK
-* ** Roast beef with sauce with eggs and jasmine rice 195 CZK
+* **Roast beef with sauce with eggs and jasmine rice** 195 CZK
 * **Fried Camembert filled with ham with boiled potatoes and tartar sauce** 195 CZK
 * **MEAL OF THE WEEK - Chicken Caesar salad with toasted toast** 225 CZK
 * **Grilled stuffed wheat tortilla of your choice and French Fries** 185 CZK
