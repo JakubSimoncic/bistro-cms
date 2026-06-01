@@ -3,19 +3,19 @@ title: Denní menu CZ
 ---
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)  
 
-* **MENU 1: Polévka + Kuřecí nudličky na červeném kari, pečená jasmínová rýže** 205 Kč 
-* **MENU 2: Polévka + Vepřový maďarský perkelt, houskový knedlík** 205 Kč  
+* **MENU 1: Polévka + Zapečené francouzské brambory s uzeným masem** 195 Kč 
+* **MENU 2: Polévka + Hovězí štěpánská pečeně s jasmínovou rýží** 215 Kč  
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml  
 
-* **Kulajda** 35 Kč 
-* **Krémová cibulačka s krutony a sýrem** 35 Kč  
+* **Mexická kukuřičná polévka s kokosovým mlékem a smaženou tortillou** 35 Kč 
+* **Zelná polévka s uzeninou** 35 Kč  
 
 ## HLAVNÍ JÍDLA  
 
-* **Smažené řízečky z vepřové panenky se šťouchaným bramborem, citron, okurka** 215 Kč
-* **Kuřecí nudličky na červeném kari, pečená jasmínová rýže** 185 Kč
-* **Vepřový maďarský perkelt, houskový knedlík** 185 Kč
+* **Zapečené francouzské brambory s uzeným masem** 175 Kč
+* **Hovězí štěpánská pečeně s jasmínovou rýží** 195 Kč
+* **Smažený hermelín plněný šunkou s vařeným bramborem a tatarskou omáčkou** 195 Kč
 * **JÍDLO TÝDNE - Kuřecí Caesar salát s opečeným toastem** 225 Kč
 * **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 185 Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek coleslaw** 185 Kč
@@ -25,6 +25,6 @@ title: Denní menu CZ
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTATNĚ – 500ml
 
-* **Kulajda nebo Krémová cibulačka s krutony a sýrem** 75 Kč
+* **Mexická kukuřičná polévka s kokosovým mlékem a smaženou tortillou nebo Zelná polévka s uzeninou** 75 Kč
 
-***Nabídka platí v pondělí 1.6. od 10:30 do zavírací hodiny nebo do vyprodání.***
+***Nabídka platí v pondělí 2.6. od 10:30 do zavírací hodiny nebo do vyprodání.***
