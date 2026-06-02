@@ -15,7 +15,7 @@ title: Denní menu CZ
 
 * **Segedínský guláš s domácím houskovým knedlíkem** 185 Kč
 * **Domácí sekaná s máslovou bramborovou kaší, kyselá okurka** 175 Kč
-* **Špenátové rizoto s kuřecím masem a smetanou, sypané sýrem* 185 Kč
+* **Špenátové rizoto s kuřecím masem a smetanou, sypané sýrem** 185 Kč
 * **JÍDLO TÝDNE - Kuřecí Caesar salát s opečeným toastem** 225 Kč
 * **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 185 Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek coleslaw** 185 Kč
