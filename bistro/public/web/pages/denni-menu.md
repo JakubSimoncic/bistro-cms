@@ -3,19 +3,19 @@ title: Denní menu CZ
 ---
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)  
 
-* **MENU 1: Polévka + Zapečené francouzské brambory s uzeným masem** 195 Kč 
-* **MENU 2: Polévka + Hovězí štěpánská pečeně s jasmínovou rýží** 215 Kč  
+* **MENU 1: Polévka + Selská vepřová plec, zelí, bramborový knedlík** 205 Kč 
+* **MENU 2: Polévka + Chilli con carne s pečenou jasmínovou rýží** 215 Kč  
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml  
 
-* **Mexická kukuřičná polévka s kokosovým mlékem a smaženou tortillou** 35 Kč 
-* **Zelná polévka s uzeninou** 35 Kč  
+* **Valašská kyselice** 35 Kč 
+* **Hrachovka s uzeninou** 35 Kč  
 
 ## HLAVNÍ JÍDLA  
 
-* **Zapečené francouzské brambory s uzeným masem** 175 Kč
-* **Hovězí štěpánská pečeně s jasmínovou rýží** 195 Kč
-* **Smažený hermelín plněný šunkou s vařeným bramborem a tatarskou omáčkou** 195 Kč
+* **Holandský řízek s vařeným bramborem, kyselá okurka** 185 Kč
+* **Chilli con carne s pečenou jasmínovou rýží** 195 Kč
+* **Selská vepřová plec, zelí, bramborový knedlík** 185 Kč
 * **JÍDLO TÝDNE - Kuřecí Caesar salát s opečeným toastem** 225 Kč
 * **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 185 Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek coleslaw** 185 Kč
@@ -25,6 +25,6 @@ title: Denní menu CZ
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTATNĚ – 500ml
 
-* **Mexická kukuřičná polévka s kokosovým mlékem a smaženou tortillou nebo Zelná polévka s uzeninou** 75 Kč
+* **Valašská kyselice nebo Hrachovka s uzeninou** 75 Kč
 
-***Nabídka platí v pondělí 2.6. od 10:30 do zavírací hodiny nebo do vyprodání.***
+***Nabídka platí v úterý 3.6. od 10:30 do zavírací hodiny nebo do vyprodání.***
