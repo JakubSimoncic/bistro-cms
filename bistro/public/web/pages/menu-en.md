@@ -3,19 +3,19 @@ title: Denní menu - EN
 ---
 ## SPECIAL OFFER (soup + main course)
 
-* **MENU 1: Soup + Baked French potatoes with smoked meat** 195 CZK
-* **MENU 2: Soup + Roast beef with sauce with eggs and jasmine rice** 215 CZK
+* **MENU 1: Soup + Country-style pork shoulder, cabbage, potato dumpling** 205 CZK
+* **MENU 2: Soup + Chili con carne with baked jasmine rice** 215 CZK
 
 ## SMALL SOUP WITH MAIN COURSE – 250ml
 
-* **Mexican corn soup with coconut milk and fried tortilla** 35 CZK
-* **Cabbage soup with sausage** 35 CZK
+* **Cabbage soup with potatoes and mushroom** 35 CZK
+* **Pea soup with sausage** 35 CZK
 
 ## MAIN COURSES
 
-* **Baked French potatoes with smoked meat** 175 CZK
-* **Roast beef with sauce with eggs and jasmine rice** 195 CZK
-* **Fried Camembert filled with ham with boiled potatoes and tartar sauce** 195 CZK
+* **Dutch schnitzel with boiled potatoes, pickled cucumber** 185 CZK
+* **Chili con carne with baked jasmine rice** 195 CZK
+* **Country-style pork shoulder, cabbage, potato dumpling** 185 CZK
 * **MEAL OF THE WEEK - Chicken Caesar salad with toasted toast** 225 CZK
 * **Grilled stuffed wheat tortilla of your choice and French Fries** 185 CZK
 * **Pulled pork meat in our BBQ sauce, roasted potatoes and coleslaw salad** 185 CZK
@@ -25,9 +25,11 @@ title: Denní menu - EN
 
 ## LARGE SOUP ORDERED SEPARATELY – 500ml
 
-* **Mexican corn soup with coconut milk and fried tortilla or Cabbage soup with sausage** 75 CZK
+* **Cabbage soup with potatoes and mushroom or Pea soup with sausage** 75 CZK
 
-***Offer valid on Thuesday 2.6. from 10:30 until closing time or until sold out.***
+***Offer valid on Wednesday 3.6. from 10:30 until closing time or until sold out.***
+
+
 
 
 
