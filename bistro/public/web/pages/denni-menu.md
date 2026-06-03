@@ -13,7 +13,7 @@ title: Denní menu CZ
 
 ## HLAVNÍ JÍDLA  
 
-* **Holandský řízek s vařeným bramborem** 185 Kč
+* **Holandský řízek s vařeným bramborem, kyselá okurka** 185 Kč
 * **Selská vepřová plec, dušené bílé zelí, bramborový knedlík** 185 Kč
 * **Chilli con carne s pečenou jasmínovou rýží** 195 Kč
 * **JÍDLO TÝDNE - Kuřecí Caesar salát s opečeným toastem** 225 Kč
