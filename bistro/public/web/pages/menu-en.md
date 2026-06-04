@@ -13,7 +13,7 @@ title: Denní menu - EN
 
 ## MAIN COURSES
 
-* **Beef meat, meat sauce with bacon and eggs, baked jasmine rice **195 CZK
+* **Beef meat, meat sauce with bacon and eggs, baked jasmine rice**195 CZK
 * **Fried schnitzel from minced meat with cheese, mashed potatoes, pickles** 185 CZK
 * **Hungarian pork goulash, homemade dumplings** 185 CZK
 * **MEAL OF THE WEEK - Chicken Caesar salad with toasted toast** 225 CZK
