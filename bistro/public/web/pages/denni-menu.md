@@ -3,19 +3,19 @@ title: Denní menu CZ
 ---
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)  
 
-* **MENU 1: Polévka + Selská vepřová plec, dušené bílé zelí, bramborový knedlík** 205 Kč 
-* **MENU 2: Polévka + Chilli con carne s pečenou jasmínovou rýží** 215 Kč  
+* **MENU 1: Polévka + Smažený holandský řízek, bramborová kaše, kyselá okurka** 205 Kč 
+* **MENU 2: Polévka + Maďarský vepřový guláš, domácí houskový knedlík** 205 Kč  
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml  
 
-* **Valašská kyselice** 35 Kč 
-* **Hrachovka s uzeninou** 35 Kč  
+* **Hrachovka s uzeninou** 35 Kč 
+* **Zeleninová polévka minestrone s parmazánem** 35 Kč  
 
 ## HLAVNÍ JÍDLA  
 
-* **Holandský řízek s vařeným bramborem, kyselá okurka** 185 Kč
-* **Selská vepřová plec, dušené bílé zelí, bramborový knedlík** 185 Kč
-* **Chilli con carne s pečenou jasmínovou rýží** 195 Kč
+* **Hovězí štěpánská pečeně, pečená jasmínová rýže** 195 Kč
+* **Smažený holandský řízek, bramborová kaše, kyselá okurka** 185 Kč
+* **Maďarský vepřový guláš, domácí houskový knedlík** 185 Kč
 * **JÍDLO TÝDNE - Kuřecí Caesar salát s opečeným toastem** 225 Kč
 * **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 185 Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek coleslaw** 185 Kč
@@ -25,6 +25,6 @@ title: Denní menu CZ
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTATNĚ – 500ml
 
-* **Valašská kyselice nebo Hrachovka s uzeninou** 75 Kč
+* **Hrachovka s uzeninou nebo zeleninová polévka minestrone s parmazánem** 75 Kč
 
-***Nabídka platí ve čtvrtek 4.6. od 10:30 do zavírací hodiny nebo do vyprodání.***
+***Nabídka platí v pátek 5.6. od 10:30 do zavírací hodiny nebo do vyprodání.***
