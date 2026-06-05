@@ -14,7 +14,7 @@ title: Denní menu CZ
 ## HLAVNÍ JÍDLA  
 
 * **Vepřová plec v mrkvi s vařeným bramborem** 185 Kč
-* **Chilli con carne s jasmínovou rýží, jarní cibulkou a opečenou tortillo** 195 Kč
+* **Chilli con carne s jasmínovou rýží, jarní cibulkou a opečenou tortillou** 195 Kč
 * **Holandský řízek s vařeným bramborem, kyselá okurka** 185 Kč
 * **Segedínský vepřový guláš s domácím houskovým knedlíkem** 185 Kč
 * **Kuřecí nudličky na červeném kari s pečenou jasmínovou rýží** 185 Kč
@@ -26,6 +26,6 @@ title: Denní menu CZ
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTATNĚ – 500ml
 
-* **HKrémová cibulačka s krutony a sýrem nebo Jihočeská kulajda* 75 Kč
+* **Krémová cibulačka s krutony a sýrem nebo Jihočeská kulajda** 75 Kč
 
 ***Nabídka platí v sobotu 6.6. od 10:30 do zavírací hodiny nebo do vyprodání.***
