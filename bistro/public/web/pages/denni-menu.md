@@ -3,19 +3,19 @@ title: Denní menu CZ
 ---
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)  
 
-* **MENU 1: Polévka + Segedínský vepřový guláš s domácím houskovým knedlíkem** 205 Kč 
-* **MENU 2: Polévka + Chilli con carne s pečenou jasmínovou rýží, jarní cibulkou a tortillou** 215 Kč  
+* **MENU 1: Polévka + Vepřová plec po cikánsku, pečená jasmínová rýže** 205 Kč 
+* **MENU 2: Polévka + Mexické Burrito s mletým masem, fazolemi, čedarem, restovanou cibulkou, paprikou, fazolovou pastou, podávané se zakysanou smetanou a zelným salátem** 205 Kč  
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml  
 
-* **Staročeská bramboračka** 35 Kč 
-* **Valašská kyselice s paprikovou klobásou** 35 Kč  
+* **Zelná s paprikovou klobásou** 35 Kč 
+* **Krémová cibulačka s krutony a sýrem** 35 Kč  
 
 ## HLAVNÍ JÍDLA  
 
-* **Grilovaný hermelín s vařeným bramborem a brusinkovou majonézou s limetu a chilli** 195 Kč
-* **Segedínský vepřový guláš s domácím houskovým knedlíkem** 185 Kč
-* **Chilli con carne s pečenou jasmínovou rýží, jarní cibulkou a tortillou** 195 Kč
+* **Pečená uzená kýta, dušené bílé zelí, bramborový knedlík** 185 Kč
+* **Vepřová plec po cikánsku, pečená jasmínová rýže** 185 Kč
+* **Mexické Burrito s mletým masem, fazolemi, čedarem, restovanou cibulkou, paprikou, fazolovou pastou, podávané se zakysanou smetanou a zelným salátem** 185 Kč
 * **Špagety Carbonara sypané parmazánem - JÍDLO TÝDNE** 225 Kč
 * **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 185 Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek coleslaw** 185 Kč
@@ -25,6 +25,6 @@ title: Denní menu CZ
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTATNĚ – 500ml
 
-* **Staročeská bramboračka nebo Valašská kyselice s paprikovou klobásou** 75Kč
+* **Zelná s paprikovou klobásou nebo Krémová cibulačka s krutony a sýrem** 75Kč
 
-***Nabídka platí v pondělí 8.6. od 10:30 do zavírací hodiny nebo do vyprodání.***
+***Nabídka platí v úterý 9.6. od 10:30 do zavírací hodiny nebo do vyprodání.***
