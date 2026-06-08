@@ -4,7 +4,7 @@ title: Denní menu CZ
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)  
 
 * **MENU 1: Polévka + Vepřová plec po cikánsku, pečená jasmínová rýže** 205 Kč 
-* **MENU 2: Polévka + Mexické Burrito s mletým masem, fazolemi, čedarem, restovanou cibulkou, paprikou, fazolovou pastou, podávané se zakysanou smetanou a zelným salátem** 205 Kč  
+* **MENU 2: Polévka + Mexické Burrito s mletým masem, fazolemi, čedarem, restovanou cibulkou, paprikou, fazolovou pastou, podávané se zakysanou smetanou a salátkem** 205 Kč  
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml  
 
@@ -15,7 +15,7 @@ title: Denní menu CZ
 
 * **Pečená uzená kýta, dušené bílé zelí, bramborový knedlík** 185 Kč
 * **Vepřová plec po cikánsku, pečená jasmínová rýže** 185 Kč
-* **Mexické Burrito s mletým masem, fazolemi, čedarem, restovanou cibulkou, paprikou, fazolovou pastou, podávané se zakysanou smetanou a zelným salátem** 185 Kč
+* **Mexické Burrito s mletým masem, fazolemi, čedarem, restovanou cibulkou, paprikou, fazolovou pastou, podávané se zakysanou smetanou a salátkem** 185 Kč
 * **Špagety Carbonara sypané parmazánem - JÍDLO TÝDNE** 225 Kč
 * **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 185 Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek coleslaw** 185 Kč
