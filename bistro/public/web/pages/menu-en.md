@@ -16,7 +16,7 @@ title: Denní menu - EN
 * **Roasted smoked pork meat, stewed white cabbage, potato dumplings** 185 CZK
 * **Roast pork in a tomato and pepper sauce, baked jasmine rice** 185 CZK
 * **Mexican Burrito with minced meat, beans, cheddar, sautéed onion, peppers, bean paste, served with sour cream and small salad** 185 CZK
-* **Spaghetti Carbonara topped with parmesan - MEAL OF THE WEEK** 225 CZK
+* **Spaghetti Carbonara (pancetta, garlic, egg yolk), parmesan - MEAL OF THE WEEK** 225 CZK
 * **Grilled stuffed wheat tortilla of your choice and French Fries** 185 CZK
 * **Pulled pork meat in our BBQ sauce, roasted potatoes and coleslaw salad** 185 CZK
 * **Beef goulash with onion and chilli peppers, homemade dumplings** 215 CZK
