@@ -13,7 +13,7 @@ title: Denní menu CZ
 
 ## HLAVNÍ JÍDLA  
 
-* **Hovězí svíčková pečeně, houskový knedlík, brusinkový terč** 195 Kč
+* **Hovězí svíčková pečeně, houskový knedlík, brusinkový terč** 215 Kč
 * **Čevabčiči, vařené brambory, hořčice, cibulka** 185 Kč
 * **Kuřecí nudličky po sečuánsku, pečená jasmínová rýže** 185 Kč
 * **Špagety Carbonara (pancetta, česnek, žloutek),sypané parmazánem - JÍDLO TÝDNE** 225 Kč
