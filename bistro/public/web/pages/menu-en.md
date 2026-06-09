@@ -14,7 +14,7 @@ title: Denní menu - EN
 
 ## MAIN COURSES
 
-* **Svíčková - Roast sirloin in sour cream sauce with dumplings** 195 CZK
+* **Svíčková - Roast sirloin in sour cream sauce with dumplings** 215 CZK
 * **Cevapcici (minced meat rolls),boiled potatoes, mustard, onion** 185 CZK
 * **Sichuan-style chicken strips, baked jasmine rice** 185 CZK
 * **Spaghetti Carbonara (pancetta, garlic, egg yolk), parmesan - MEAL OF THE WEEK** 225 CZK
