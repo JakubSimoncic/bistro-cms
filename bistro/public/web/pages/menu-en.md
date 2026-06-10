@@ -3,8 +3,7 @@ title: Denní menu - EN
 ---
 ## SPECIAL OFFER (soup + main course)
 
-* **MENU 1: Soup + Cevapcici (minced meat rolls),boiled potatoes, mustard, onion
-** 205 CZK
+* **MENU 1: Soup + Cevapcici (minced meat rolls),boiled potatoes, mustard, onion** 205 CZK
 * **MENU 2: Soup + Sichuan-style chicken strips, baked jasmine rice** 205 CZK
 
 ## SMALL SOUP FOR THE MAIN COURSE – 250ml
