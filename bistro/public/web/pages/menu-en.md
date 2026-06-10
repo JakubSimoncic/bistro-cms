@@ -18,7 +18,7 @@ cranberry target** 235 CZK
 herb sauce** 185 CZK
 * **Fried pork liver, boiled potatoes, tartar sauce** 185 CZK
 * **Svíčková - Roast beef tenderloin, bread dumpling, cranberry
-target** dumpling, cranberry target** 215 CZK
+target** 215 CZK
 * **Spaghetti Carbonara (pancetta, garlic, egg yolk), parmesan - MEAL
 OF THE WEEK** 225 CZK
 * **Grilled stuffed wheat tortilla of your choice and French Fries** 185 CZK
