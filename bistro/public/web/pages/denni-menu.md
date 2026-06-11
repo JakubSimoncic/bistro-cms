@@ -3,20 +3,19 @@ title: Denní menu CZ
 ---
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)  
 
-* **MENU 1: Polévka + Smažená vepřová játra, vařené brambory, tatarka** 195 Kč 
-* **MENU 2: Polévka + Hovězí svíčková pečeně, houskový knedlík, brusinkový terč** 235 Kč  
+* **MENU 1: Polévka + Kuřecí paličky na paprice s těstovinami - fusilli** 205 Kč 
+* **MENU 2: Polévka + Kapustový karbanátek s mletým masem, máslová bramborová kaše, kyselá okurka** 195 Kč  
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml  
 
 * **Dršťková polévka** 35 Kč 
-* **Brokolicový krém s krutony** 35 Kč  
+* **Frankfurtská polévka** 35 Kč  
 
 ## HLAVNÍ JÍDLA
 
-* **Pomalu pečený rolovaný vepřový bok, pečené brambory s cibulí a
-bylinková omáčka** 185 Kč
-* **Smažená vepřová játra, vařené brambory, tatarka** 175 Kč
-* **Hovězí svíčková pečeně, houskový knedlík, brusinkový terč** 215 Kč
+* **Vepřová plec po cikánsku, pečená jasmínová rýže** 185 Kč
+* **Kuřecí paličky na paprice s těstovinami - fusilli** 185 Kč
+* **Kapustový karbanátek s mletým masem, máslová bramborová kaše, kyselá okurka** 175 Kč
 * **Špagety Carbonara (pancetta, česnek, žloutek),sypané parmazánem -
 JÍDLO TÝDNE** 225 Kč
 * **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 185 Kč
@@ -28,8 +27,8 @@ coleslaw** 185 Kč
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTATNĚ – 500ml
 
-* **Dršťková polévka nebo Brokolicový krém s krutony** 75Kč
+* **Dršťková polévka nebo Frankfurtská polévka** 75Kč
 
-***Nabídka platí ve čtvrtek 11.6. od 10:30 do zavírací hodiny nebo do
+***Nabídka platí ve pátek 12.6. od 10:30 do zavírací hodiny nebo do
 vyprodání.***
 
