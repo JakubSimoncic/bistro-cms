@@ -3,7 +3,7 @@ title: Denní menu CZ
 ---
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)  
 
-* **MENU 1: Polévka + Smažená vepřová játra, vařené brambory, tatarka** 205 Kč 
+* **MENU 1: Polévka + Smažená vepřová játra, vařené brambory, tatarka** 195 Kč 
 * **MENU 2: Polévka + Hovězí svíčková pečeně, houskový knedlík, brusinkový terč** 235 Kč  
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml  
@@ -15,7 +15,7 @@ title: Denní menu CZ
 
 * **Pomalu pečený rolovaný vepřový bok, pečené brambory s cibulí a
 bylinková omáčka** 185 Kč
-* **Smažená vepřová játra, vařené brambory, tatarka** 185 Kč
+* **Smažená vepřová játra, vařené brambory, tatarka** 175 Kč
 * **Hovězí svíčková pečeně, houskový knedlík, brusinkový terč** 215 Kč
 * **Špagety Carbonara (pancetta, česnek, žloutek),sypané parmazánem -
 JÍDLO TÝDNE** 225 Kč
