@@ -3,7 +3,7 @@ title: Denní menu - EN
 ---
 ## SPECIAL OFFER (soup + main course)
 
-* **MENU 1: Soup + Fried pork liver, boiled potatoes, tartar sauce** 205 CZK
+* **MENU 1: Soup + Fried pork liver, boiled potatoes, tartar sauce** 195 CZK
 * **MENU 2: Soup + Svíčková - Roast beef tenderloin, bread dumpling,
 cranberry target** 235 CZK
 
@@ -16,7 +16,7 @@ cranberry target** 235 CZK
 
 * **Slowly roasted rolled pork flank, baked potatoes with onions and
 herb sauce** 185 CZK
-* **Fried pork liver, boiled potatoes, tartar sauce** 185 CZK
+* **Fried pork liver, boiled potatoes, tartar sauce** 175 CZK
 * **Svíčková - Roast beef tenderloin, bread dumpling, cranberry
 target** 215 CZK
 * **Spaghetti Carbonara (pancetta, garlic, egg yolk), parmesan - MEAL
