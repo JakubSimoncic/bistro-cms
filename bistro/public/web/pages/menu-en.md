@@ -14,7 +14,7 @@ title: Denní menu - EN
 ## MAIN COURSES
 
 * **Roast pork shoulder with sauce with papper, baked jasmine rice** 185 CZK
-* **Chicken drumsticks on pepper with pasta - fusilli** ** 185 CZK
+* **Chicken drumsticks on pepper with pasta - fusilli** 185 CZK
 * **Kale patty with minced meat, mashed potatoes, cucumber** 175 CZK 
 * **Spaghetti Carbonara (pancetta, garlic, egg yolk), parmesan - MEAL
 OF THE WEEK** 225 CZK
