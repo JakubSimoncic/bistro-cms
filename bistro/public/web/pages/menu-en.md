@@ -1,23 +1,22 @@
 ---
 title: Denní menu - EN
 ---
-## SPECIAL OFFER (soup + main course)
+##  SPECIAL OFFER (soup + main course)
 
-* **MENU 1: Soup + Chicken drumsticks on pepper sauce with pasta - fusilli** 205 CZK
-* **MENU 2: Soup + Kale patty with minced meat, mashed potatoes, cucumber** 195 CZK
+* **MENU 1: Soup + Čevabčiči – minced meat rolls with boiled potatoes, mustard, onion** 205 CZK
+* **MENU 2: Soup + Hungarian pork goulash with homemade bread dumplings** 205 CZK
 
 ## SMALL SOUP FOR THE MAIN COURSE – 250ml
 
-* **Tripe soup** 35 CZK
+* **Creamy onion soup with croutons and cheese** 35 CZK
 * **Frankfurt soup** 35 CZK
 
 ## MAIN COURSES
 
-* **Roast pork shoulder with sauce with papper, baked jasmine rice** 185 CZK
-* **Chicken drumsticks on pepper with pasta - fusilli** 185 CZK
-* **Kale patty with minced meat, mashed potatoes, cucumber** 175 CZK 
-* **Spaghetti Carbonara (pancetta, garlic, egg yolk), parmesan - MEAL
-OF THE WEEK** 225 CZK
+* **Čevabčiči – minced meat rolls with boiled potatoes, mustard, onion** 185 CZK
+* **Hungarian pork goulash with homemade bread dumplings** 185 CZK
+* **Szechuan chicken noodles with roasted jasmine rice** 185 CZK
+* **Chicken drumsticks on paprika sauce with pasta or with bread dumpling** 185 CZK
 * **Grilled stuffed wheat tortilla of your choice and French Fries** 185 CZK
 * **Pulled pork meat in our BBQ sauce, roasted potatoes and coleslaw
 salad** 185 CZK
@@ -26,7 +25,7 @@ salad** 185 CZK
 * **Fried cheese, French Fries and Tartar Sauce** 195 CZK
 ## LARGE SOUP ORDERED SEPARATELY – 500ml
 
-* **Tripe soup or Frankfurt soup** 75 CZK
+* **Creamy onion soup with croutons and cheese or Frankfurt soup** 75 CZK
 
-***Offer valid on Friday 12.6. from 10:30 until closing time or
-until sold out.***
+***Offer valid on Saturday 13.6. from 10:30 until closing time or until sold out.***
+
