@@ -3,21 +3,20 @@ title: Denní menu CZ
 ---
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)  
 
-* **MENU 1: Polévka + Kuřecí paličky na paprice s těstovinami - fusilli** 205 Kč 
-* **MENU 2: Polévka + Kapustový karbanátek s mletým masem, máslová bramborová kaše, kyselá okurka** 195 Kč  
+* **MENU 1: Polévka + Čevabčiči s vařeným bramborem, hořčice, cibulka** 205 Kč 
+* **MENU 2: Polévka + Maďarský vepřový guláš s domácím houskovým knedlíkem** 205 Kč  
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml  
 
-* **Dršťková polévka** 35 Kč 
+* **Krémová cibulačka s krutony a sýrem** 35 Kč
 * **Frankfurtská polévka** 35 Kč  
 
 ## HLAVNÍ JÍDLA
 
-* **Vepřová plec po cikánsku, pečená jasmínová rýže** 185 Kč
-* **Kuřecí paličky na paprice s těstovinami - fusilli** 185 Kč
-* **Kapustový karbanátek s mletým masem, máslová bramborová kaše, kyselá okurka** 175 Kč
-* **Špagety Carbonara (pancetta, česnek, žloutek),sypané parmazánem -
-JÍDLO TÝDNE** 225 Kč
+* **Čevabčiči s vařeným bramborem, hořčice, cibulka** 185 Kč
+* **Maďarský vepřový guláš s domácím houskovým knedlíkem** 185 Kč
+* **Kuřecí nudličky po sečuánsku s pečenou jasmínovou rýží** 185 Kč
+* **Kuřecí paličky na paprice s těstovinami nebo s houskovým knedlíkem** 185 Kč
 * **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 185 Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek
 coleslaw** 185 Kč
@@ -27,8 +26,8 @@ coleslaw** 185 Kč
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTATNĚ – 500ml
 
-* **Dršťková polévka nebo Frankfurtská polévka** 75Kč
+* **Krémová cibulačka s krutony a sýrem nebo Frankfurtská polévka** 75Kč
 
-***Nabídka platí ve pátek 12.6. od 10:30 do zavírací hodiny nebo do
+***Nabídka platí ve sobota 13.6. od 10:30 do zavírací hodiny nebo do
 vyprodání.***
 
