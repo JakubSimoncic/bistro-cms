@@ -4,7 +4,7 @@ title: Denní menu CZ
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)  
 
 * **MENU 1: Polévka + Čevabčiči s vařeným bramborem, hořčice, cibulka** 205 Kč 
-* **MENU 2: Polévka + Maďarský vepřový guláš s domácím houskovým knedlíkem** 205 Kč  
+* **MENU 2: Polévka + Segedínský vepřový guláš, houskový knedlík** 205 Kč  
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml  
 
@@ -14,7 +14,7 @@ title: Denní menu CZ
 ## HLAVNÍ JÍDLA
 
 * **Čevabčiči s vařeným bramborem, hořčice, cibulka** 185 Kč
-* **Maďarský vepřový guláš s domácím houskovým knedlíkem** 185 Kč
+* **Segedínský vepřový guláš, houskový knedlík** 185 Kč
 * **Kuřecí nudličky po sečuánsku s pečenou jasmínovou rýží** 185 Kč
 * **Kuřecí paličky na paprice s těstovinami nebo s houskovým knedlíkem** 185 Kč
 * **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 185 Kč
