@@ -3,8 +3,8 @@ title: Denní menu - EN
 ---
 ##  SPECIAL OFFER (soup + main course)
 
-* **MENU 1: Soup + Čevabčiči – minced meat rolls with boiled potatoes, mustard, onion** 205 CZK
-* **MENU 2: Soup + Hungarian pork goulash with homemade bread dumplings** 205 CZK
+* **MENU 1: Soup + Cevapcici – minced meat rolls with boiled potatoes, mustard, onion** 205 CZK
+* **MENU 2: Soup + Pork goulash with cabbage, homemade dumplings** 205 CZK
 
 ## SMALL SOUP FOR THE MAIN COURSE – 250ml
 
@@ -13,8 +13,8 @@ title: Denní menu - EN
 
 ## MAIN COURSES
 
-* **Čevabčiči – minced meat rolls with boiled potatoes, mustard, onion** 185 CZK
-* **Hungarian pork goulash with homemade bread dumplings** 185 CZK
+* **Cevapcici – minced meat rolls with boiled potatoes, mustard, onion** 185 CZK
+* **Pork goulash with cabbage, homemade dumplings** 185 CZK
 * **Szechuan chicken noodles with roasted jasmine rice** 185 CZK
 * **Chicken drumsticks on paprika sauce with pasta or with bread dumpling** 185 CZK
 * **Grilled stuffed wheat tortilla of your choice and French Fries** 185 CZK
