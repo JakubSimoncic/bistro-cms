@@ -28,6 +28,5 @@ coleslaw** 185 Kč
 
 * **Čočková polévka s párkem nebo brokolicový krém s krutony a zakysanou smetanou** 75Kč
 
-***Nabídka platí v neděli 14.6. od 10:30 do zavírací hodiny nebo do
-vyprodání.***
+***Nabídka platí v neděli 14.6. od 10:30 do zavírací hodiny nebo do vyprodání.***
 
