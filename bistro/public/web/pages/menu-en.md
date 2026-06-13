@@ -3,7 +3,7 @@ title: Denní menu - EN
 ---
 ##  SPECIAL OFFER (soup + main course)
 
-* **MENU 1: Soup + Rolled pork flank, boiled potatoes and herb sauce** 205 CZK
+* **MENU 1: Soup + Roll from pork meat, boiled potatoes and herb sauce** 205 CZK
 * **MENU 2: Soup + "Svíčková" sirloin meat in vegetable creamy sauce, homemade dumplings** 225 CZK
 
 ## SMALL SOUP FOR THE MAIN COURSE – 250ml
@@ -15,7 +15,7 @@ title: Denní menu - EN
 
 * **Fried meatball from minced meat and cabbage, mashed potatoes and pickles** 185 CZK
 * **Pork meat, meat sauce with paprika, baked jasmine rice** 185 CZK
-* **Rolled pork flank, boiled potatoes and herb sauce** 185 CZK
+* **Roll from pork meat, boiled potatoes and herb sauce** 185 CZK
 * **"Svíčková" sirloin meat in vegetable creamy sauce, homemade dumplings** 205 CZK
 * **Grilled stuffed wheat tortilla of your choice and French Fries** 185 CZK
 * **Pulled pork meat in our BBQ sauce, roasted potatoes and coleslaw
