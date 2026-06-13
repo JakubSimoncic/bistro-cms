@@ -14,7 +14,7 @@ title: Denní menu - EN
 ## MAIN COURSES
 
 * **Fried meatball from minced meat and cabbage, mashed potatoes and pickles** 185 CZK
-* **Pork meat, meat souce with paprika, baked jasmine rice** 185 CZK
+* **Pork meat, meat sauce with paprika, baked jasmine rice** 185 CZK
 * **Rolled pork flank, boiled potatoes and herb sauce** 185 CZK
 * **"Svíčková" sirloin meat in vegetable creamy sauce, homemade dumplings** 205 CZK
 * **Grilled stuffed wheat tortilla of your choice and French Fries** 185 CZK
