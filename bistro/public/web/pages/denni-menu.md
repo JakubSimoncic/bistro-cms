@@ -15,7 +15,7 @@ title: Denní menu CZ
 
 * **Vepřová játra na cibulce, pečená jasmínová rýže** 175 Kč
 * **Kuřecí roláda plněná kachními játry a slaninou, bramborová kaše** 185 Kč
-* **Rolovaný vepřový bok, vařené brambory a bylinková omáčka** 185 Kč
+* **Plněné bramborové knedlíky uzeným masem, zelí, cibulka a vídeňská cibulka** 185 Kč
 * **Těstoviny fusilli s vepřovou panenkou, brokolicí, červenou cibulí, kari omáčkou a parmazánem- JÍDLO TÝDNE** 225 Kč
 * **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 185 Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek
