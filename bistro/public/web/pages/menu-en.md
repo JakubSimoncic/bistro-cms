@@ -27,5 +27,5 @@ salad** 185 CZK
 
 * **Lentil soup with sausage or potato cream with mushrooms** 75 CZK
 
-***Offer valid on Sunday 15.6. from 10:30 until closing time or until sold out.***
+***Offer valid on Monday 15.6. from 10:30 until closing time or until sold out.***
 
