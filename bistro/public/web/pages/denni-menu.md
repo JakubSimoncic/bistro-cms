@@ -26,7 +26,7 @@ coleslaw** 185 Kč
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTATNĚ – 500ml
 
-* **Čočková polévka s párkem nebo Bramborový krém s hříbky** 75Kč
+* **Čočková polévka s párkem nebo bramborový krém s hříbky** 75Kč
 
 ***Nabídka platí v pondělí 15.6. od 10:30 do zavírací hodiny nebo do vyprodání.***
 
