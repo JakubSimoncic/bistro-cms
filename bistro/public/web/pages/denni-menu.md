@@ -3,20 +3,20 @@ title: Denní menu CZ
 ---
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)  
 
-* **MENU 1: Polévka + Rolovaný vepřový bok, vařené brambory a bylinková omáčka** 205 Kč 
-* **MENU 2: Polévka + Svíčková na smetaně, brusinkový terč, domácí houskový knedlík** 225 Kč  
+* **MENU 1: Polévka + Kuřecí roláda plněná kachními játry a slaninou, bramborová kaše** 205 Kč 
+* **MENU 2: Polévka + Plněné bramborové knedlíky uzeným masem, zelí, cibulka a vídeňská cibulka** 205 Kč  
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml  
 
 * **Čočková polévka s párkem** 35 Kč
-* **Brokolicový krém s krutony a zakysanou smetanou** 35 Kč  
+* **Bramborový krém s hříbky** 35 Kč  
 
 ## HLAVNÍ JÍDLA
 
-* **Smažený masovo-kapustový karbanátek, bramborová kaše a kyselá okurka** 185 Kč
-* **Vepřová cikánská pečeně, pečená jasmínová rýže** 185 Kč
+* **Vepřová játra na cibulce, pečená jasmínová rýže** 175 Kč
+* **Kuřecí roláda plněná kachními játry a slaninou, bramborová kaše** 185 Kč
 * **Rolovaný vepřový bok, vařené brambory a bylinková omáčka** 185 Kč
-* **Svíčková na smetaně, brusinkový terč, domácí houskový knedlík** 205 Kč
+* **Těstoviny fusilli s vepřovou panenkou, brokolicí, červenou cibulí, kari omáčkou a parmazánem- JÍDLO TÝDNE** 225 Kč
 * **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 185 Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek
 coleslaw** 185 Kč
