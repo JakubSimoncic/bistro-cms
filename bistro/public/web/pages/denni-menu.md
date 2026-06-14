@@ -28,5 +28,5 @@ coleslaw** 185 Kč
 
 * **Čočková polévka s párkem nebo Bramborový krém s hříbky** 75Kč
 
-***Nabídka platí v PONDĚLÍ 15.6. od 10:30 do zavírací hodiny nebo do vyprodání.***
+***Nabídka platí v pondělí 15.6. od 10:30 do zavírací hodiny nebo do vyprodání.***
 
