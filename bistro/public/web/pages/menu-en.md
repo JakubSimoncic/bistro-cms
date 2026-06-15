@@ -26,5 +26,5 @@ title: Denní menu - EN
 
 * **Chicken broth with meat, vegetables and celestine noodles or Kale with pepper sausage and potato** 75 CZK
 
-***Offer valid on Tuesday 16.6. from 10:30 until closing time or until sold out.***
+***Offer valid on Tuesday 16.6. from 10:30 until closing time or until sold out***
 
