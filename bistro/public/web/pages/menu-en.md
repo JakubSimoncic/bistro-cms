@@ -4,7 +4,7 @@ title: Denní menu - EN
 ##  SPECIAL OFFER (soup + main course)
 
 * **MENU 1: Soup + Grilled Camembert packed in English bacon, boiled potatoes, tartar sauce** 205 CZK
-* **MENU 2: Soup + SStroganov pork noodles, roasted jasmine rice** 205 CZK
+* **MENU 2: Soup + Stroganov pork noodles, roasted jasmine rice** 205 CZK
 
 ## SMALL SOUP FOR THE MAIN COURSE – 250ml
 
