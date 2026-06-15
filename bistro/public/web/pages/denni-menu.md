@@ -3,18 +3,18 @@ title: Denní menu CZ
 ---
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)  
 
-* **MENU 1: Polévka + Kuřecí roláda plněná kachními játry a slaninou, bramborová kaše** 205 Kč 
-* **MENU 2: Polévka + Plněné bramborové knedlíky uzeným masem, zelí, cibulka a vídeňská cibulka** 205 Kč  
+* **MENU 1: Polévka + Grilovaný hermelín balený v anglické slanině, vařené brambory, tatarská omáčka** 205 Kč 
+* **MENU 2: Polévka + Vepřové nudličky Stroganov, pečená jasmínová rýže** 205 Kč  
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml  
 
-* **Čočková polévka s párkem** 35 Kč
-* **Bramborový krém s hříbky** 35 Kč  
+* **Slepičí vývar s masem, zeleninou a celestýnskými nudlemi** 35 Kč
+* **Kapustová s paprikovou klobásou a bramborem** 35 Kč  
 
 ## HLAVNÍ JÍDLA
 
-* **Vepřová játra na cibulce, pečená jasmínová rýže** 175 Kč
-* **Kuřecí roláda plněná kachními játry a slaninou, bramborová kaše** 185 Kč
+* **Grilovaný hermelín balený v anglické slanině, vařené brambory, tatarská omáčka** 185 Kč
+* **Vepřové nudličky Stroganov, pečená jasmínová rýže** 185 Kč
 * **Plněné bramborové knedlíky uzeným masem, zelí, cibulka a vídeňská cibulka** 185 Kč
 * **Těstoviny fusilli s vepřovou panenkou, brokolicí, červenou cibulkou, kari omáčkou a parmazánem- JÍDLO TÝDNE** 225 Kč
 * **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 185 Kč
@@ -26,7 +26,7 @@ coleslaw** 185 Kč
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTATNĚ – 500ml
 
-* **Čočková polévka s párkem nebo bramborový krém s hříbky** 75Kč
+* **Slepičí vývar s masem, zeleninou a celestýnskými nudlemi nebo Kapustová s paprikovou klobásou a bramborem** 75Kč
 
-***Nabídka platí v pondělí 15.6. od 10:30 do zavírací hodiny nebo do vyprodání.***
+***Nabídka platí v úterý 16.6. od 10:30 do zavírací hodiny nebo do vyprodání.***
 
