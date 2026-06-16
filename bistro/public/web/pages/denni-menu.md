@@ -28,5 +28,5 @@ coleslaw** 185 Kč
 
 * **Gulášová polévka nebo Kapustová s paprikovou klobásou a bramborem** 75Kč
 
-***Nabídka platí v úterý 17.6. od 10:30 do zavírací hodiny nebo do vyprodání.***
+***Nabídka platí ve středu 17.6. od 10:30 do zavírací hodiny nebo do vyprodání.***
 
