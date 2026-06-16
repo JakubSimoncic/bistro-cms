@@ -14,7 +14,7 @@ title: Denní menu CZ
 ## HLAVNÍ JÍDLA
 
 * **Vepřový katův šleh s bramboráčky** 185 Kč
-* **Grilovaný vepřový špíz, šťouchaný brambor, dijonská oomáčka** 185 Kč
+* **Grilovaný vepřový špíz, šťouchaný brambor, dijonská omáčka** 185 Kč
 * **Hovězí koprová omáčka, domácí houskový knedlík** 195 Kč
 * **Těstoviny fusilli s vepřovou panenkou, brokolicí, červenou cibulkou, kari omáčkou a parmazánem- JÍDLO TÝDNE** 225 Kč
 * **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 185 Kč
