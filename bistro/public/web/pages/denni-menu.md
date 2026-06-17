@@ -3,19 +3,19 @@ title: Denní menu CZ
 ---
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)  
 
-* **MENU 1: Polévka + Grilovaný vepřový špíz, šťouchaný brambor, dijonská oomáčka** 205 Kč 
-* **MENU 2: Polévka + Hovězí koprová omáčka, domácí houskový knedlík** 215 Kč  
+* **MENU 1: Polévka + Smažené žampiony, vařené brambory, tatarská omáčka** 195 Kč 
+* **MENU 2: Polévka + Hovězí rajská pečeně, houskový knedlík nebo těstoviny** 215 Kč  
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml  
 
 * **Gulášová polévka** 35 Kč
-* **Kapustová polévka s klobásou** 35 Kč  
+* **Slepičí vývar s masem, zeleninou a fritátovými nudlemi** 35 Kč  
 
 ## HLAVNÍ JÍDLA
 
-* **Vepřový katův šleh s bramboráčky** 185 Kč
-* **Grilovaný vepřový špíz, šťouchaný brambor, dijonská omáčka** 185 Kč
-* **Hovězí koprová omáčka, domácí houskový knedlík** 195 Kč
+* **Zapečená krkovice s angliskou slaninou a čedarem, hranolky, česnekový dip** 185 Kč
+* **Smažené žampiony, vařené brambory, tatarská omáčka** 175 Kč
+* **Hovězí rajská pečeně, houskový knedlík nebo těstoviny** 195 Kč
 * **Těstoviny fusilli s vepřovou panenkou, brokolicí, červenou cibulkou, kari omáčkou a parmazánem- JÍDLO TÝDNE** 225 Kč
 * **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 185 Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek
@@ -26,7 +26,7 @@ coleslaw** 185 Kč
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTATNĚ – 500ml
 
-* **Gulášová polévka nebo Kapustová s paprikovou klobásou a bramborem** 75Kč
+* **Gulášová polévka nebo Slepičí vývar s masem, zeleninou a fritátovými nudlemi** 75Kč
 
-***Nabídka platí ve středu 17.6. od 10:30 do zavírací hodiny nebo do vyprodání.***
+***Nabídka platí ve čtvrtek 18.6. od 10:30 do zavírací hodiny nebo do vyprodání.***
 
