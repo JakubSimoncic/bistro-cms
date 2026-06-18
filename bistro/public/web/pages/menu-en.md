@@ -13,7 +13,7 @@ title: Denní menu - EN
 
 ## MAIN COURSES
 
-* **Meatloaf with creamy sauce, homemade dumplings ** 185 CZK
+* **Meatloaf with creamy sauce, homemade dumplings** 185 CZK
 * **Fried mushrooms, boiled potatoes, tartar sauce** 175 CZK
 * **Pork meat with sauce (egg, sausage, pickles), jasmine rice** 185 CZK
 * **Fusilli with pork tenderloin meat, broccoli, red onion, curry sauce and parmesan cheese - MEAL OF THE WEEK** 225 CZK
