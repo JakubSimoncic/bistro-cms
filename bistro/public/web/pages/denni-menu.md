@@ -4,18 +4,18 @@ title: Denní menu CZ
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)  
 
 * **MENU 1: Polévka + Smažené žampiony, vařené brambory, tatarská omáčka** 195 Kč 
-* **MENU 2: Polévka + Hovězí rajská pečeně, houskový knedlík nebo těstoviny** 215 Kč  
+* **MENU 2: Polévka + Rozlítaný vepřový španělský ptáček, pečená jasmínová rýže** 215 Kč  
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml  
 
-* **Gulášová polévka** 35 Kč
-* **Slepičí vývar s masem, zeleninou a fritátovými nudlemi** 35 Kč  
+* **Boršč se zakysanou smetanou** 35 Kč
+* **Maďarská fazolová s mletým masem** 35 Kč  
 
 ## HLAVNÍ JÍDLA
 
-* **Zapečená krkovice s angliskou slaninou a čedarem, hranolky, česnekový dip** 185 Kč
+* **Sekaná svíčková s houskovým knedlíkem** 185 Kč
 * **Smažené žampiony, vařené brambory, tatarská omáčka** 175 Kč
-* **Hovězí rajská pečeně, houskový knedlík nebo těstoviny** 195 Kč
+* **Rozlítaný vepřový španělský ptáček, pečená jasmínová rýže** 195 Kč
 * **Těstoviny fusilli s vepřovou panenkou, brokolicí, červenou cibulkou, kari omáčkou a parmazánem- JÍDLO TÝDNE** 225 Kč
 * **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 185 Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek
@@ -26,7 +26,7 @@ coleslaw** 185 Kč
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTATNĚ – 500ml
 
-* **Gulášová polévka nebo Slepičí vývar s masem, zeleninou a fritátovými nudlemi** 75Kč
+* **Boršč se zakysanou smetanou nebo Maďarská fazolová s mletým masem** 75Kč
 
-***Nabídka platí ve čtvrtek 18.6. od 10:30 do zavírací hodiny nebo do vyprodání.***
+***Nabídka platí v pátek 19.6. od 10:30 do zavírací hodiny nebo do vyprodání.***
 
