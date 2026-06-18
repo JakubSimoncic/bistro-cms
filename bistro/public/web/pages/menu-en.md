@@ -24,7 +24,7 @@ title: Denní menu - EN
 * **Fried cheese, French Fries and Tartar Sauce** 195 CZK
 ## LARGE SOUP ORDERED SEPARATELY – 500ml
 
-* **Borscht with sour cream or Borscht with sour cream** 75 CZK
+* **Borscht with sour cream or Hungarian bean soup with minced meat** 75 CZK
 
 ***Offer valid on Friday 19.6. from 10:30 until closing time or until sold out***
 
