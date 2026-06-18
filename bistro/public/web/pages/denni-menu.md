@@ -4,7 +4,7 @@ title: Denní menu CZ
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)  
 
 * **MENU 1: Polévka + Smažené žampiony, vařené brambory, tatarská omáčka** 195 Kč 
-* **MENU 2: Polévka + Rozlítaný vepřový španělský ptáček, pečená jasmínová rýže** 215 Kč  
+* **MENU 2: Polévka + Rozlítaný vepřový španělský ptáček, pečená jasmínová rýže** 205 Kč  
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml  
 
@@ -15,7 +15,7 @@ title: Denní menu CZ
 
 * **Sekaná svíčková s houskovým knedlíkem** 185 Kč
 * **Smažené žampiony, vařené brambory, tatarská omáčka** 175 Kč
-* **Rozlítaný vepřový španělský ptáček, pečená jasmínová rýže** 195 Kč
+* **Rozlítaný vepřový španělský ptáček, pečená jasmínová rýže** 185 Kč
 * **Těstoviny fusilli s vepřovou panenkou, brokolicí, červenou cibulkou, kari omáčkou a parmazánem- JÍDLO TÝDNE** 225 Kč
 * **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 185 Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek
