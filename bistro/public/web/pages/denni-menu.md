@@ -3,20 +3,20 @@ title: Denní menu CZ
 ---
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)  
 
-* **MENU 1: Polévka + Smažené žampiony, vařené brambory, tatarská omáčka** 195 Kč 
-* **MENU 2: Polévka + Rozlítaný vepřový španělský ptáček, pečená jasmínová rýže** 205 Kč  
+* **MENU 1: Polévka + Vepřová plec na paprice a těstoviny fusilli** 205 Kč 
+* **MENU 2: Polévka + Koprová omáčka s vejcem a vařeným bramborem** 195 Kč  
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml  
 
-* **Boršč se zakysanou smetanou** 35 Kč
-* **Maďarská fazolová s mletým masem** 35 Kč  
+* **Slepičí vývar s masem, zeleninou a fritatovými nudlemi** 35 Kč
+* **Boršč se zakysanou smetanou** 35 Kč  
 
 ## HLAVNÍ JÍDLA
 
-* **Sekaná svíčková s houskovým knedlíkem** 185 Kč
-* **Smažené žampiony, vařené brambory, tatarská omáčka** 175 Kč
-* **Rozlítaný vepřový španělský ptáček, pečená jasmínová rýže** 185 Kč
-* **Těstoviny fusilli s vepřovou panenkou, brokolicí, červenou cibulkou, kari omáčkou a parmazánem- JÍDLO TÝDNE** 225 Kč
+* **Vepřový katův šleh a domácí bramboráčky** 185 Kč
+* **Plněné bramborové knedlíky uzeným masem, zelí, cibulka a vídeňská cibulka** 185 Kč
+* **Vepřová plec na paprice a těstoviny fusilli** 185 Kč
+* **Koprová omáčka s vejcem a vařeným bramborem** 175 Kč
 * **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 185 Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek
 coleslaw** 185 Kč
@@ -26,7 +26,7 @@ coleslaw** 185 Kč
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTATNĚ – 500ml
 
-* **Boršč se zakysanou smetanou nebo Maďarská fazolová s mletým masem** 75Kč
+* **Slepičí vývar s masem, zeleninou a fritatovými nudlemi nebo boršč se zakysanou** 75Kč
 
-***Nabídka platí v pátek 19.6. od 10:30 do zavírací hodiny nebo do vyprodání.***
+***Nabídka platí v sobotu 20.6. od 10:30 do zavírací hodiny nebo do vyprodání.***
 
