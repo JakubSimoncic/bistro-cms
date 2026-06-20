@@ -14,7 +14,7 @@ title: Denní menu CZ
 ## HLAVNÍ JÍDLA
 
 * **Vepřový katův šleh a domácí bramboráčky** 185 Kč
-* **Plněné bramborové knedlíky uzeným masem, zelí, cibulka a vídeňská cibulka** 185 Kč
+* **Plněný bramborový knedlík uzeným masem, zelí, cibulka a vídeňská cibulka** 185 Kč
 * **Vepřová plec na paprice a těstoviny fusilli** 185 Kč
 * **Koprová omáčka s vejcem a vařeným bramborem** 175 Kč
 * **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 185 Kč
