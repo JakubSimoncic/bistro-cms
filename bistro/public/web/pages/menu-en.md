@@ -24,7 +24,7 @@ title: Denní menu - EN
 * **Fried cheese, French Fries and Tartar Sauce** 195 CZK
 ## LARGE SOUP ORDERED SEPARATELY – 500ml
 
-* **Dill soup with potatoes and mushroom or Pea cream with herb croutons ** 75 CZK
+* **Dill soup with potatoes and mushroom or Pea cream with herb croutons** 75 CZK
 
 ***Offer valid on Monday 22.6. from 10:30 until closing time or until sold out.***
 
