@@ -9,7 +9,7 @@ title: Denní menu - EN
 ## SMALL SOUP FOR THE MAIN COURSE – 250ml
 
 * **South Bohemian kulajda** 35 CZK
-* **Pea cream with herb croutons** 35 CZK
+* **Borscht with sour cream** 35 CZK
 
 ## MAIN COURSES
 
@@ -24,7 +24,7 @@ title: Denní menu - EN
 * **Fried cheese, French Fries and Tartar Sauce** 195 CZK
 ## LARGE SOUP ORDERED SEPARATELY – 500ml
 
-* **Dill soup with potatoes and mushroom or Pea cream with herb croutons** 75 CZK
+* **Dill soup with potatoes and mushroom or Borscht with sour cream** 75 CZK
 
 ***Offer valid on Monday 22.6. from 10:30 until closing time or until sold out.***
 
