@@ -9,7 +9,7 @@ title: Denní menu CZ
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml  
 
 * **Jihočeská kulajda** 35 Kč
-* **Hráškový krém s bylinkovými krutony** 35 Kč  
+* **Boršč se zakysanou smetanou** 35 Kč  
 
 ## HLAVNÍ JÍDLA
 
@@ -26,7 +26,7 @@ coleslaw** 185 Kč
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTATNĚ – 500ml
 
-* **Jihočeská kulajda nebo Hráškový krém s bylinkovými krutony** 75Kč
+* **Jihočeská kulajda nebo Boršč se zakysanou smetanou** 75Kč
 
 ***Nabídka platí v pondělí 22.6. od 10:30 do zavírací hodiny nebo do vyprodání.***
 
