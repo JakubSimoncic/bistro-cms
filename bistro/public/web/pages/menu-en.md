@@ -3,19 +3,19 @@ title: Denní menu - EN
 ---
 ## SPECIAL OFFER (soup + main course)
 
-* **MENU 1: Soup + Sour lentils, smoked shoulder, onion and pickled cucumber** 195 CZK
-* **MENU 2: Soup + Roast pork, white cabbage, potato dumpling** 205 CZK
+* **MENU 1: Soup + Roast pork meat, white cabbage and potato dumplings** 205 CZK
+* **MENU 2: Soup + Fried schnitzel from minced meat, mashed potatoes, pickles** 205 CZK
 
 ## SMALL SOUP FOR THE MAIN COURSE – 250ml
 
-* **South Bohemian kulajda** 35 CZK
-* **Borscht with sour cream** 35 CZK
+* **Pea creamy soup with herb croutons** 35 CZK
+* **Cabbage soup with sausage** 35 CZK
 
 ## MAIN COURSES
 
-* **Veal schnitzels with homemade potato salad** 245 CZK
-* **Sour lentils, smoked shoulder, onion and pickled cucumber** 175 CZK
-* **Roast pork, white cabbage, potato dumpling** 185 CZK
+* **Pork meat, meat sauce with bacon, eggs and sausage, roasted jasmine rice** 185 CZK
+* **Roast pork meat, white cabbage and potato dumplings** 185 CZK
+* **Fried schnitzel from minced meat, mashed potatoes, pickles** 185 CZK
 * **Spaghetti Aglio olio e peperoncino with parmesan - MEAL OF THE WEEK** 215 CZK
 * **Grilled stuffed wheat tortilla of your choice and French Fries** 185 CZK
 * **Pulled pork meat in our BBQ sauce, roasted potatoes and coleslaw salad** 185 CZK
@@ -24,9 +24,6 @@ title: Denní menu - EN
 * **Fried cheese, French Fries and Tartar Sauce** 195 CZK
 ## LARGE SOUP ORDERED SEPARATELY – 500ml
 
-* **Dill soup with potatoes and mushroom or Borscht with sour cream** 75 CZK
+* **Pea creamy soup with herb croutons  or cabbage soup with sausage** 75 CZK
 
-***Offer valid on Monday 22.6. from 10:30 until closing time or until sold out.***
-
-
-
+***Offer valid on Tuesday 23.6. from 10:30 until closing time or until sold out.***
