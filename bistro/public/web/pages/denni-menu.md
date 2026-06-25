@@ -4,7 +4,7 @@ title: Denní menu CZ
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)  
 
 * **MENU 1: Polévka + Špagety s mletým vepřovým masem a boloňskou omáčkou, sypané sýrem** 205 Kč 
-* **MENU 2: Polévka + Zapečené smetanové brambory s vepřovou pečení, anglickou slaninou a sýrem, zelný salátek* 205 Kč  
+* **MENU 2: Polévka + Zapečené smetanové brambory s vepřovou pečení, anglickou slaninou a sýrem, zelný salátek** 205 Kč  
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml  
 
