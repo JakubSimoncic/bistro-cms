@@ -4,7 +4,7 @@ title: Denní menu - EN
 ## SPECIAL OFFER (soup + main course)
 
 * **MENU 1: Soup + Spaghetti with minced pork meat and Bolognese sauce, topped with cheese** 205CZK
-* **MENU 2: Soup + Baked creamy potatoes with roasted, English bacon and cheese, coleslaw* 205 CZK
+* **MENU 2: Soup + Baked creamy potatoes with roasted, English bacon and cheese, cabbage** 205 CZK
 
 
 ## SMALL SOUP FOR THE MAIN COURSE – 250ml
