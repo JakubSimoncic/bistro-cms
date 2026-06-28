@@ -15,7 +15,7 @@ title: Denní menu - EN
 ## MAIN COURSES
 
 * **Chicken medallions with roasted potatoes, vegetables ratatouille** 215 CZK
-* **Beef dill sauce, Carlsbad dumplings** 175 CZK
+* **Serbian pork risotto sprinkled with cheese, pickles** 175 CZK
 * **Chicken strips on mushrooms, baked jasmine rice** 175 CZK
 * **Black lentil salad with vegetables and fillered duck breast, honey-mustard dressing, spring onion - MEAL OF THE WEEK** 245 CZK
 * **Grilled stuffed wheat tortilla of your choice and French Fries** 185 CZK
