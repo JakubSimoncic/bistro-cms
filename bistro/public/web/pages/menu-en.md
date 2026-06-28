@@ -27,5 +27,5 @@ title: Denní menu - EN
 
 * **Kulajda - creamy dill soup or Pea cream with croutons** 75 CZK
 
-***Offer valid on Saturday 27.6. from 10:30 until closing time or until sold out.***
+***Offer valid on Sunday 28.6. from 10:30 until closing time or until sold out.***
 
