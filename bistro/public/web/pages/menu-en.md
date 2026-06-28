@@ -14,7 +14,7 @@ title: Denní menu - EN
 
 ## MAIN COURSES
 
-* **Lamb with rosemary, mashed potatoes** 245 CZK
+* **Lamb with rosemary, baked jasmine rice** 225 CZK
 * **Beef dill sauce, Carlsbad dumplings** 195 CZK
 * **Chicken strips on mushrooms, baked jasmine rice** 185 CZK
 * **Baked cream potatoes with roast pork, English bacon and cheese, cabbage salad** 185 CZK
