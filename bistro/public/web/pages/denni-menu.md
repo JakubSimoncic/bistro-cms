@@ -13,7 +13,7 @@ title: Denní menu CZ
 
 ## HLAVNÍ JÍDLA
 
-* **Dušená jehněčí kýta na rozmarýnu, šťouchané brambory** 245 Kč
+* **Dušená jehněčí kýta na rozmarýnu, pečená jasmínová rýže** 225 Kč
 * **Hovězí koprová omáčka, karlovarský knedlík** 195 Kč
 * **Kuřecí nudličky na žampionech, pečená jasmínová rýže** 185 Kč
 * **Zapečené smetanové brambory s vepřovou pečení, anglickou slaninou a sýrem, zelný salátek** 185 Kč
