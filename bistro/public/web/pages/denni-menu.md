@@ -3,19 +3,19 @@ title: Denní menu CZ
 ---
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)  
 
-* **MENU 1: Polévka + Srbské vepřové rizoto sypané sýrem, kyselá okurka** 195 Kč 
-* **MENU 2: Polévka + Vepřové na slanině s těstovinami** 195 Kč  
+* **MENU 1: Polévka + Savojské vepřové řízečky, bramborová kaše, okurka** 205 Kč 
+* **MENU 2: Polévka + Gratinovaný sekaný vepřový biftek s anglickou slaninou a čedarem, pepřová omáčka a opečený brambor** 215 Kč  
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml  
 
-* **Dršťková** 35 Kč
-* **Čočková polévka s uzeninou** 35 Kč  
+* **Hovězí vývar s masem, zeleninou a fritatovými nudlemi** 35 Kč
+* **Dršťková polévka** 35 Kč  
 
 ## HLAVNÍ JÍDLA
 
-* **Kuřecí medailonky s opečeným bramborem, zelenina ratatouille** 215 Kč
-* **Srbské vepřové rizoto sypané sýrem, kyselá okurka** 175 Kč
-* **Vepřové na slanině s těstovinami** 175 Kč
+* **Bramborové spatzle s kuřecím masem, omáčkou z modrého sýra, pórkem a zdobené rukolou** 185 Kč
+* **Savojské vepřové řízečky, bramborová kaše, okurka** 185 Kč
+* **Gratinovaný sekaný vepřový biftek s anglickou slaninou a čedarem, pepřová omáčka a opečený brambor** 195 Kč
 * **Salát z černé čočky se zeleninou a filírovaným kachním prsem, medovo-hořčičný dresink, jarní cibulka - JÍDLO TÝDNE** 245 Kč
 * **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 185 Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek coleslaw** 185 Kč
@@ -25,6 +25,6 @@ title: Denní menu CZ
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTATNĚ – 500ml
 
-* **Dršťková nebo čočková polévka s uzeninou** 75Kč
+* **Hovězí vývar s masem, zeleninou a fritatovými nudlemi nebo dršťková polévka** 75Kč
 
-***Nabídka platí v pondělí 29.6. od 10:30 do zavírací hodiny nebo do vyprodání.***
+***Nabídka platí v úterý 30.6. od 10:30 do zavírací hodiny nebo do vyprodání.***
