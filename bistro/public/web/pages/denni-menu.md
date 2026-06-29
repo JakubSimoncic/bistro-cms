@@ -13,7 +13,7 @@ title: Denní menu CZ
 
 ## HLAVNÍ JÍDLA
 
-* **Bramborové spatzle s kuřecím masem, omáčkou z modrého sýra, pórkem a zdobené rukolou** 185 Kč
+* **Bramborové špecle s kuřecím masem, omáčkou z modrého sýra, pórkem a zdobené rukolou** 185 Kč
 * **Savojské vepřové řízečky, bramborová kaše, okurka** 185 Kč
 * **Gratinovaný sekaný vepřový biftek s anglickou slaninou a čedarem, pepřová omáčka a opečený brambor** 195 Kč
 * **Salát z černé čočky se zeleninou a filírovaným kachním prsem, medovo-hořčičný dresink, jarní cibulka - JÍDLO TÝDNE** 245 Kč
