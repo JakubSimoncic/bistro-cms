@@ -16,7 +16,7 @@ title: Denní menu - EN
 
 * **Chicken medallions with roasted potatoes, vegetables ratatouille** 215 CZK
 * **Serbian pork risotto sprinkled with cheese, pickles** 175 CZK
-* **Chicken strips on mushrooms, baked jasmine rice** 175 CZK
+* **Pork on bacon with pasta** 175 CZK
 * **Black lentil salad with vegetables and fillered duck breast, honey-mustard dressing, spring onion - MEAL OF THE WEEK** 245 CZK
 * **Grilled stuffed wheat tortilla of your choice and French Fries** 185 CZK
 * **Pulled pork meat in our BBQ sauce, roasted potatoes and coleslaw salad** 185 CZK
