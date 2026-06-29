@@ -9,7 +9,7 @@ title: Denní menu CZ
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml  
 
 * **Dršťková** 35 Kč
-* **Krémová cibulačka s krutony a sýrem** 35 Kč  
+* **Čočková polévka s uzeninou** 35 Kč  
 
 ## HLAVNÍ JÍDLA
 
@@ -25,6 +25,6 @@ title: Denní menu CZ
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTATNĚ – 500ml
 
-* **Dršťková nebo Krémová cibulačka s krutony a sýrem** 75Kč
+* **Dršťková nebo čočková polévka s uzeninou** 75Kč
 
 ***Nabídka platí v pondělí 29.6. od 10:30 do zavírací hodiny nebo do vyprodání.***
