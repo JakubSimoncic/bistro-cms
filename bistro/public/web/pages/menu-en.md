@@ -10,7 +10,7 @@ title: Denní menu - EN
 ## SMALL SOUP FOR THE MAIN COURSE – 250ml
 
 * **Tripe soup** 35 CZK
-* **Creamy onion with croutons and cheese** 35 CZK
+* **Lentil soup with sausage** 35 CZK
 
 ## MAIN COURSES
 
@@ -25,7 +25,7 @@ title: Denní menu - EN
 * **Fried cheese, French Fries and Tartar Sauce** 195 CZK
 ## LARGE SOUP ORDERED SEPARATELY – 500ml
 
-* **Tripe soup Creamy onion with croutons and cheese** 75 CZK
+* **Tripe soup Lentil soup with sausage** 75 CZK
 
 ***Offer valid on Monday 29.6. from 10:30 until closing time or until sold out.***
 
