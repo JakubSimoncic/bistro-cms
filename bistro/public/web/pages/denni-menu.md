@@ -4,7 +4,7 @@ title: Denní menu CZ
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)  
 
 * **MENU 1: Polévka + Smažený květák, vařené brambory, tatarská omáčka** 195 Kč 
-* **MENU 2: Polévka + Vepřová kýta po cikánsku, pečená jasmínová rýže** 195 Kč  
+* **MENU 2: Polévka + Vepřová kýta po cikánsku, pečená jasmínová rýže** 205 Kč  
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml  
 
@@ -15,7 +15,7 @@ title: Denní menu CZ
 
 * **Grilovaná vepřová pečeně, čedarová omáčka, opečené brambory** 215 Kč
 * **Smažený květák, vařené brambory, tatarská omáčka** 175 Kč
-* **Vepřová kýta po cikánsku, pečená jasmínová rýže** 175 Kč
+* **Vepřová kýta po cikánsku, pečená jasmínová rýže** 185 Kč
 * **Salát z černé čočky se zeleninou a filírovaným kachním prsem, medovo-hořčičný dresink, jarní cibulka - JÍDLO TÝDNE** 245 Kč
 * **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 185 Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek coleslaw** 185 Kč
