@@ -133,49 +133,56 @@
                     margin: 0;
                     padding: 0;
                     font-family: Arial, Helvetica, sans-serif;
+                    transform: scale(0.85);
+                    transofrm-origin: top center;
+                    width: 117.6%;
                 }
 
                 header {
-                    position: relative !important;
+                    position: static !important;
                     background: none !important;
                     box-shadow: none !important;
                     padding-top: 20px !important;
-                    justify-content: center !important;
+                    display: flex !important;
+                    flex-direction: row !important;
+                    justify-content: space-between !important;
                     align-items: center !important;
+                    width: 100% !important;
                 }
                 header .screen-only {
                     display: none !important;
                 }
 
-
                 .logo {
-                    position: absolute !important;
-                    top: 20px !important;
-                    left: 80px !important;
+                    position: static !important;
+                    margin: 0 !important;
+                    flex: 0 0 auto !important;
                 }
                 .logo img {
-                    height: 160px !important;
+                    height: 140px !important;
+                    width: auto !important;
                 }
 
                 .QR {
-                    position: absolute !important;
-                    top: 50px !important;
-                    right: 145px !important;
+                    position: static !important;
+                    margin: 0 !important;
+                    flex: 0 0 auto ! important;
                 }
                 
                 .QR img {
-                    height: 120px !important;
+                    height: 110px !important;
+                    width: auto !important;
                 }
                 
                 .nadpis {
-                    display: block !important;
+                    position: static !important;
+                    flex: 1 1 auto !important;
                     text-align: center !important;
-                    margin: 0 auto 20px auto !important;
-                    padding-left: 0 !important;
-                    padding-right: 0 !important;
+                    margin: 0 10px !important;
+                    padding: 0 !important;
                 }
                 .nadpis h1 {
-                    font-size: 60px !important;
+                    font-size: 50px !important;
                     font-weight: bold !important;
                     color: #000 !important;
                     margin-bottom: 0 !important;
