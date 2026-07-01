@@ -4,7 +4,7 @@ title: Denní menu - EN
 ## SPECIAL OFFER (soup + main course)
 
 * **MENU 1: Soup + Baked potatoes stuffed with minced meat, tomatoes, basil and smoked cheese, sour cream** 195CZK
-* **MENU 2: Soup + Homemade meat loaf with cheese, mashed potatoes and spicy vegetable salad** 195 CZK
+* **MENU 2: Soup + Homemade meat loaf with cheddar and gouda cheese, mashed potatoes and spicy vegetable salad** 205 CZK
 
 
 ## SMALL SOUP FOR THE MAIN COURSE – 250ml
@@ -15,7 +15,7 @@ title: Denní menu - EN
 ## MAIN COURSES
 
 * **Baked potatoes stuffed with minced meat, tomatoes, basil and smoked cheese, sour cream** 175 CZK
-* **Homemade meatballs with cheese, mashed potatoes and spicy vegetable salad** 175 CZK
+* **Homemade meat loaf with cheddar and gouda cheese, mashed potatoes and spicy vegetable salad** 185 CZK
 * **Baked pork meat, leaf spinach and variation of Czech dumplings** 185 CZK
 * **Black lentil salad with vegetables and fillered duck breast, honey-mustard dressing, spring onion - MEAL OF THE WEEK** 245 CZK
 * **Grilled stuffed wheat tortilla of your choice and French Fries** 185 CZK
