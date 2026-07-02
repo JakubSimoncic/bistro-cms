@@ -3,19 +3,19 @@ title: Denní menu CZ
 ---
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)  
 
-* **MENU 1: Polévka + Smažený květák, vařené brambory, tatarská omáčka** 195 Kč 
-* **MENU 2: Polévka + Vepřová kýta po cikánsku, pečená jasmínová rýže** 205 Kč  
+* **MENU 1: Polévka + Zapečené šunkofleky s uzeným masem, kyselá okurka** 195 Kč 
+* **MENU 2: Polévka + Segedínský vepřový guláš, houskový knedlík** 205 Kč  
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml  
 
-* **Frankfurtská polévka** 35 Kč
-* **Krémová cibulačka se sýrem a krutony** 35 Kč  
+* **Valašská kyselice** 35 Kč
+* **Špenátový krém se zakysanou smetanou a krutony** 35 Kč  
 
 ## HLAVNÍ JÍDLA
 
-* **Grilovaná vepřová pečeně, čedarová omáčka, opečené brambory** 215 Kč
-* **Smažený květák, vařené brambory, tatarská omáčka** 175 Kč
-* **Vepřová kýta po cikánsku, pečená jasmínová rýže** 185 Kč
+* **Fish and chips s limetkovou majonézou** 215 Kč
+* **Zapečené šunkofleky s uzeným masem, kyselá okurka** 175 Kč
+* **Segedínský vepřový guláš, houskový knedlík** 185 Kč
 * **Salát z černé čočky se zeleninou a filírovaným kachním prsem, medovo-hořčičný dresink, jarní cibulka - JÍDLO TÝDNE** 245 Kč
 * **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 185 Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek coleslaw** 185 Kč
@@ -25,6 +25,6 @@ title: Denní menu CZ
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTATNĚ – 500ml
 
-* **Frankfurtská polévka nebo krémová cibulačka se sýrem a krutony** 75Kč
+* **Valašská kyselice nebo Špenátový krém se zakysanou smetanou a krutony** 75Kč
 
-***Nabídka platí ve čtvrtek 2.7. od 10:30 do zavírací hodiny nebo do vyprodání.***
+***Nabídka platí ve pátek 3.7. od 10:30 do zavírací hodiny nebo do vyprodání.***
