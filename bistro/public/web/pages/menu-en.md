@@ -23,6 +23,6 @@ title: Denní menu - EN
 * **Fried cheese, French Fries and Tartar Sauce** 195 CZK
 ## LARGE SOUP ORDERED SEPARATELY – 500ml
 
-* ** Tripe soup from oyster mushroom or Old Bohemian potato soup ** 75 CZK
+* **Tripe soup from oyster mushroom or Old Bohemian potato soup** 75 CZK
 
 ***Offer valid on Monday 6.7. from 10:30 until closing time or until sold out.***
