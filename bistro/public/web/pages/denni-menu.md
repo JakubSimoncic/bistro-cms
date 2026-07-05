@@ -15,7 +15,7 @@ title: Denní menu CZ
 
 * **Vepřové nudličky po sečuánsku, pečená jasmínová rýže** 185 Kč
 * **Smažený holandský řízek s vařeným bramborem, hořčicí a kyselou okurkou** 185 Kč
-* **Pečená drůbeží jatýrka s cibulí a žampióny, hranolky, tatarka ** 175 Kč
+* **Pečená drůbeží jatýrka s cibulí a žampióny, hranolky, tatarka** 175 Kč
 * **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 185 Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek coleslaw** 185 Kč
 * **Hovězí guláš s cibulkou a beraním rohem, domácí houskový knedlík** 215 Kč
