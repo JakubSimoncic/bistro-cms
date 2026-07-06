@@ -14,7 +14,7 @@ title: Denní menu - EN
 ## MAIN COURSES
 
 * **Szechuan pork noodles, baked jasmine rice** 185 CZK
-* **Fried Dutch schnitzel with boiled potatoes, mustard and pickle** 185 CZK
+* **Baked pasta with smoked meat and pickles** 175 CZK
 * **Roasted poultry liver with onions and mushrooms, fries, tartar sauce** 175 CZK
 * **Grilled stuffed wheat tortilla of your choice and French Fries** 185 CZK
 * **Pulled pork meat in our BBQ sauce, roasted potatoes and coleslaw salad** 185 CZK
