@@ -4,7 +4,7 @@ title: Denní menu CZ
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)  
 
 * **MENU 1: Polévka + Vepřové nudličky po sečuánsku, pečená jasmínová rýže** 205 Kč 
-* **MENU 2: Polévka + Šunkofleky s uzeným masem a kyselou okurkou** 205 Kč  
+* **MENU 2: Polévka + Šunkofleky s uzeným masem a kyselou okurkou** 195 Kč  
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml  
 
