@@ -16,7 +16,7 @@ title: Denní menu CZ
 * **Vepřové nudličky po sečuánsku s pečenou jasmínovou rýží** 185 Kč
 * **Smažený holandský řízek s máslovou bramborovou kaší a kyselou okurkou** 185 Kč
 * **Záhorácký závitek s bramborovým knedlíkem** 185 Kč
-* **Špagety s kuřecím masem, sušenými rajčaty, bazalkovou omáčkou, červenou cibulkou a parmazánem** 235Kč
+* **Špagety s kuřecím masem, sušenými rajčaty, bazalkovou omáčkou, červenou cibulkou a parmazánem - JÍDLO TÝDNE** 235Kč
 * **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 185 Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek coleslaw** 185 Kč
 * **Hovězí guláš s cibulkou a beraním rohem, domácí houskový knedlík** 215 Kč
