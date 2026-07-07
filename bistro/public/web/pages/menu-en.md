@@ -3,7 +3,7 @@ title: Denní menu - EN
 ---
 ## SPECIAL OFFER (soup + main course)
 
-* **MENU 1: Soup + Fried schnitzel from minced meat and cheese with buttery mashed potatoes and pickles** 205 CZK
+* **MENU 1: Soup + Fried schnitzel from minced meat and cheese with buttery mashed potatoes and pickles-SOLD OUT** 205 CZK
 * **MENU 2: Soup + Pork roll stufed with bacon and cabbage, potato dumplings** 205 CZK
 
 ## SMALL SOUP FOR THE MAIN COURSE – 250ml
@@ -14,7 +14,7 @@ title: Denní menu - EN
 ## MAIN COURSES
 
 * **Szechuan pork noodles with baked jasmine rice** 185 CZK
-* **Fried schnitzel from minced meat and cheese with buttery mashed potatoes and pickles** 185 CZK
+* **Fried schnitzel from minced meat and cheese with buttery mashed potatoes and pickles-SOLD OUT** 185 CZK
 * **Pork roll stufed with bacon and cabbage, potato dumplings** 185 CZK
 * **Spaghetti with chicken, dried tomatoes, basil sauce, red onion and parmesan – MEAL OF THE WEEK** 235 CZK
 
