@@ -3,7 +3,7 @@ title: Denní menu CZ
 ---
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)  
 
-* **MENU 1: Polévka + Smažený holandský řízek s máslovou bramborovou kaší a kyselou okurkou** 205 Kč 
+* **MENU 1: Polévka + Smažený holandský řízek s máslovou bramborovou kaší a kyselou okurkou - VÝPRODANO** 
 * **MENU 2: Polévka + Záhorácký závitek s bramborovým knedlíkem** 205 Kč  
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml  
@@ -14,7 +14,7 @@ title: Denní menu CZ
 ## HLAVNÍ JÍDLA
 
 * **Vepřové nudličky po sečuánsku s pečenou jasmínovou rýží** 185 Kč
-* **Smažený holandský řízek s máslovou bramborovou kaší a kyselou okurkou** 185 Kč
+* **Smažený holandský řízek s máslovou bramborovou kaší a kyselou okurkou-VÝPRODANO** 185 Kč
 * **Záhorácký závitek s bramborovým knedlíkem** 185 Kč
 * **Špagety s kuřecím masem, sušenými rajčaty, bazalkovou omáčkou, červenou cibulkou a parmazánem - JÍDLO TÝDNE** 235Kč
 * **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 185 Kč
