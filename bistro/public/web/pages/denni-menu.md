@@ -3,7 +3,7 @@ title: Denní menu CZ
 ---
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)  
 
-* **MENU 1: Polévka + Vepřové na paprice s těstovinami (fusilli) nebo houskovým knedlíkem** 
+* **MENU 1: Polévka + Vepřové na paprice s těstovinami (fusilli) nebo houskovým knedlíkem** 205
 * **MENU 2: Polévka + Cmunda po kaplicku (uzené maso a zelí v bramboráku)** 205 Kč  
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml  
