@@ -3,19 +3,19 @@ title: Denní menu CZ
 ---
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)  
 
-* **MENU 1: Polévka + Vepřové na paprice s těstovinami (fusilli) nebo houskovým knedlíkem** 205 Kč
-* **MENU 2: Polévka + Cmunda po kaplicku (uzené maso a zelí v bramboráku)** 205 Kč  
+* **MENU 1: Polévka + Vepřová plec na smetaně, domácí houskovým knedlíkem** 205 Kč
+* **MENU 2: Polévka + Vepřová roláda plněná mletým masem a listovým špenátem, bramborová kaše** 205 Kč  
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml  
 
-* **Zelná s paprikovou klobásou** 35 Kč
-* **Pórková s vejcem** 35 Kč  
+* **Boršč se zakysanou smetanou** 35 Kč
+* **Zelná s paprikovou klobásou** 35 Kč  
 
 ## HLAVNÍ JÍDLA
 
-* **Vepřové na paprice s těstovinami (fusilli) nebo houskovým knedlíkem** 185 Kč
-* **Smažený holandský řízek s máslovou bramborovou kaší a kyselou okurkou** 185 Kč
-* **Cmunda po kaplicku (uzené maso a zelí v bramboráku)** 185 Kč
+* **Fish & Chips, (smažená treska v nadýchaném těstíčku se podává s hranolkami a limetovou majonézu)** 225 Kč
+* **Vepřová plec na smetaně, domácí houskovým knedlíkem** 185 Kč
+* **Vepřová roláda plněná mletým masem a listovým špenátem, bramborová kaše** 185 Kč
 * **Špagety s kuřecím masem, sušenými rajčaty, bazalkovou omáčkou, červenou cibulkou a parmazánem - JÍDLO TÝDNE** 235Kč
 * **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 185 Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek coleslaw** 185 Kč
@@ -25,6 +25,6 @@ title: Denní menu CZ
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTATNĚ – 500ml
 
-* **Zelná s paprikovou klobásou nebo Pórková s vejcem** 75Kč
+* **Boršč se zakysanou smetanou nebo Zelná s paprikovou klobásou** 75Kč
 
-***Nabídka platí ve středu 8.7. od 10:30 do zavírací hodiny nebo do vyprodání.***
+***Nabídka platí ve čtvrtek 9.7. od 10:30 do zavírací hodiny nebo do vyprodání.***
