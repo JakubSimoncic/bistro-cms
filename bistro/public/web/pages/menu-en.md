@@ -3,20 +3,20 @@ title: Denní menu - EN
 ---
 ## SPECIAL OFFER (soup + main course)
 
-* **MENU 1: Soup + Roast pork, cabbage, dumplings variations - SOLD OUT** 205 CZK
-* **MENU 2: Soup + Pork roll stuffed with minced meat and leaf spinach, mashed potatoes - SOLD OUT** 205 CZK
+* **MENU 1: Soup + Gypsy-style pork meat with roasted jasmine rice** 205 CZK
+* **MENU 2: Soup + Roasted chicken liver with onions and mushrooms, french fries, tartar sauce** 205 CZK
 
 ## SMALL SOUP FOR THE MAIN COURSE – 250ml
 
-* **Borsch with sour cream** 35 CZK
-* **-** 35 CZK
+* **Cabbage soup** 35 CZK
+* **Creamy onion soup with croutons and cheese** 35 CZK
 
 ## MAIN COURSES
 
-* **Grilled minced beef steak with ham and egg, fries, tartar sauce** 235 CZK
-* **Roast pork, cabbage, dumplings variations - SOLD OUT** 185 CZK
-* **Pork roll stuffed with minced meat and leaf spinach spinach, mashed potatoes - SOLD OUT** 185 CZK
-* **Fusilli with chicken, dried tomatoes, basil sauce, red onion and parmesan - SOLD OUT – MEAL OF THE WEEK** 235 CZK
+* **Pork roll stuffed with cabbage and bacon with boiled potatoes** 235 CZK
+* **Roast pork, cabbage, homemade dumplings** 185 CZK
+* **Gypsy-style pork meat with roasted jasmine rice** 185 CZK
+* **Roasted chicken liver with onions and mushrooms, french fries, tartar sauce** 185 CZK
 * **Grilled stuffed wheat tortilla of your choice and French Fries** 185 CZK
 * **Pulled pork meat in our BBQ sauce, roasted potatoes and coleslaw salad** 185 CZK
 * **Beef goulash with onion and chilli peppers, homemade dumplings** 215 CZK
@@ -24,6 +24,6 @@ title: Denní menu - EN
 * **Fried cheese, French Fries and Tartar Sauce** 195 CZK
 ## LARGE SOUP ORDERED SEPARATELY – 500ml
 
-* **Borscht with sour cream or Goulash soup** 75 CZK
+* **Cabbage soup or Creamy onion soup with croutons and cheese** 75 CZK
 
-***Offer valid on Friday 10.7. from 10:30 until closing time or until sold out.***
+***Offer valid on Saturday 11.7. from 10:30 until closing time or until sold out.***
