@@ -3,7 +3,7 @@ title: Denní menu CZ
 ---
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)  
 
-* **MENU 1: Polévka + Moravský vrabec, zelí, variace knedlíků** 205 Kč
+* **MENU 1: Polévka + Moravský vrabec, zelí, variace knedlíků - VYPRODÁNO** 205 Kč
 * **MENU 2: Polévka + Vepřová roláda plněná mletým masem a listovým špenátem, bramborová kaše** 205 Kč  
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml  
@@ -14,7 +14,7 @@ title: Denní menu CZ
 ## HLAVNÍ JÍDLA
 
 * **Grilovaný mletý hovězí biftek se šunkou a vejcem, hranolky, tatarka** 235 Kč
-* **Moravský vrabec, zelí, variace knedlíků** 185 Kč
+* **Moravský vrabec, zelí, variace knedlíků - VYPRODÁNO** 185 Kč
 * **Vepřová roláda plněná mletým masem a listovým špenátem, bramborová kaše** 185 Kč
 * **Fusilli s kuřecím masem, sušenými rajčaty, bazalkovou omáčkou, červenou cibulkou a parmazánem - JÍDLO TÝDNE** 235Kč
 * **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 185 Kč
