@@ -16,7 +16,7 @@ title: Denní menu CZ
 * **Záhorácký závitek s vařeným bramborem** 185 Kč
 * **Moravský vrabec, zelí, houskový knedlík** 185 Kč
 * **Vepřová cikánská pečeně s pečenou jasmínovou rýží** 185 Kč
-* **Pečená kuřecí játra s cibulí a žampiony, hranolky, tatarka** 235Kč
+* **Pečená kuřecí játra s cibulí a žampiony, hranolky, tatarka** 185Kč
 * **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 185 Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek coleslaw** 185 Kč
 * **Hovězí guláš s cibulkou a beraním rohem, domácí houskový knedlík** 215 Kč
