@@ -13,7 +13,7 @@ title: Denní menu - EN
 
 ## MAIN COURSES
 
-* **Pork roll stuffed with cabbage and bacon with boiled potatoes** 235 CZK
+* **Pork roll stuffed with cabbage and bacon with boiled potatoes** 185 CZK
 * **Roast pork, cabbage, homemade dumplings** 185 CZK
 * **Gypsy-style pork meat with roasted jasmine rice** 185 CZK
 * **Roasted chicken liver with onions and mushrooms, french fries, tartar sauce** 185 CZK
