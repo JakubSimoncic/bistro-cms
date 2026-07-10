@@ -3,7 +3,7 @@ title: Denní menu - EN
 ---
 ## SPECIAL OFFER (soup + main course)
 
-* **MENU 1: Soup + Roast pork, cabbage, dumplings variations** 205 CZK
+* **MENU 1: Soup + Roast pork, cabbage, dumplings variations - SOLD OUT** 205 CZK
 * **MENU 2: Soup + Pork roll stuffed with minced meat and leaf spinach, mashed potatoes** 205 CZK
 
 ## SMALL SOUP FOR THE MAIN COURSE – 250ml
@@ -14,7 +14,7 @@ title: Denní menu - EN
 ## MAIN COURSES
 
 * **Grilled minced beef steak with ham and egg, fries, tartar sauce** 235 CZK
-* **Roast pork, cabbage, dumplings variations** 185 CZK
+* **Roast pork, cabbage, dumplings variations - SOLD OUT** 185 CZK
 * **Pork roll stuffed with minced meat and leaf spinach spinach, mashed potatoes** 185 CZK
 * **Fusilli with chicken, dried tomatoes, basil sauce, red onion and parmesan – MEAL OF THE WEEK** 235 CZK
 * **Grilled stuffed wheat tortilla of your choice and French Fries** 185 CZK
