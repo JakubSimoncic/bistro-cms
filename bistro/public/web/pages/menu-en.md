@@ -9,7 +9,7 @@ title: Denní menu - EN
 ## SMALL SOUP FOR THE MAIN COURSE – 250ml
 
 * **Borsch with sour cream** 35 CZK
-* **Goulash soup** 35 CZK
+* **-** 35 CZK
 
 ## MAIN COURSES
 
