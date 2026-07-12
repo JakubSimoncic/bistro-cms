@@ -8,15 +8,15 @@ title: Denní menu - EN
 
 ## SMALL SOUP FOR THE MAIN COURSE – 250ml
 
-* **Frankfurt** 35 CZK
+* **Frankfurt soup** 35 CZK
 * **Broccoli cream with sour cream** 35 CZK
 
 ## MAIN COURSES
 
 * **Pulled duck meat in potato pancakes with red cabbage** 225 CZK
 * **Fried camembert stuffed with ham, boiled potatoes, tartar sauce** 185 CZK
-* **Pork with sauce with egg, jasmine rice** 185 CZK
-* **Spaghetti Carbonara (pancetta, egg yolk, garlic) - MEAL OF THE WEEK** 225 CZK
+* **Pork meat, sauce with eggs and jasmine rice** 185 CZK
+* **Spaghetti Carbonara (pancetta, egg yolk, garlic, parmesan cheese) - MEAL OF THE WEEK** 225 CZK
 * **Grilled stuffed wheat tortilla of your choice and French Fries** 185 CZK
 * **Pulled pork meat in our BBQ sauce, roasted potatoes and coleslaw salad** 185 CZK
 * **Beef goulash with onion and chilli peppers, homemade dumplings** 215 CZK
@@ -24,6 +24,6 @@ title: Denní menu - EN
 * **Fried cheese, French Fries and Tartar Sauce** 195 CZK
 ## LARGE SOUP ORDERED SEPARATELY – 500ml
 
-* **Frankfurt or Broccoli cream with sour cream** 75 CZK
+* **Frankfurt soup or Broccoli cream with sour cream** 75 CZK
 
-***Offer valid on Monday 13.7. from 10:30 until closing time or until sold out.***
+***Offer is valid on Monday 13.7. from 10:30 until closing time or until sold out.***
