@@ -4,7 +4,7 @@ title: Denní menu - EN
 ## SPECIAL OFFER (soup + main course)
 
 * **MENU 1: Soup + Fried camembert stuffed with ham, boiled potatoes, tartar sauce** 205 CZK
-* **MENU 2: Soup + Pork meat, sauce with eggs and jasmine rice** 205 CZK
+* **MENU 2: Soup + Pork meat, meat sauce with eggs and jasmine rice** 205 CZK
 
 ## SMALL SOUP FOR THE MAIN COURSE – 250ml
 
@@ -15,7 +15,7 @@ title: Denní menu - EN
 
 * **Pulled duck meat in potato pancakes with red cabbage** 225 CZK
 * **Fried camembert stuffed with ham, boiled potatoes, tartar sauce** 185 CZK
-* **Pork meat, sauce with eggs and jasmine rice** 185 CZK
+* **Pork meat, meat sauce with eggs and jasmine rice** 185 CZK
 * **Spaghetti Carbonara (pancetta, egg yolk, garlic, parmesan cheese) - MEAL OF THE WEEK** 225 CZK
 * **Grilled stuffed wheat tortilla of your choice and French Fries** 185 CZK
 * **Pulled pork meat in our BBQ sauce, roasted potatoes and coleslaw salad** 185 CZK
