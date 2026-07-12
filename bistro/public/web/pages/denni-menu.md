@@ -16,7 +16,7 @@ title: Denní menu CZ
 * **Trhané kachní maso v bramboráku s červeným zelím** 225 Kč
 * **Smažený hermelín plněný šunkou, vařené brambory, tatarská omáčka** 185 Kč
 * **Vepřová kýta po štěpánsku, pečená jasmínová rýže** 185 Kč
-* **Špagety Carbonára (pancetta, žloutek, česnek)** 225Kč
+* **Špagety Carbonára (pancetta, žloutek, česnek) - JÍDLO TÝDNE** 225Kč
 * **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 185 Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek coleslaw** 185 Kč
 * **Hovězí guláš s cibulkou a beraním rohem, domácí houskový knedlík** 215 Kč
