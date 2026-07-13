@@ -14,7 +14,7 @@ title: Denní menu CZ
 ## HLAVNÍ JÍDLA
 
 * **Pečené kachní stehno, variace zelí a bramborový knedlík** 245 Kč
-* **Smažený kuřecí Cordon Bleu, máslová bramborová kaše, citron a kyselá okurka** 185 Kč
+* **Smažený kuřecí Cordon Bleu, máslová bramborová kaše, citron a kyselá okurka** 195 Kč
 * **Vepřové na houbách a pečená jasmínová rýže** 185 Kč
 * **Špagety Carbonara (pancetta, žloutek, česnek, parmazán) - JÍDLO TÝDNE** 225 Kč
 * **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 185 Kč
