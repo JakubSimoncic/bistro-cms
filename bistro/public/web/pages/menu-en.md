@@ -3,7 +3,7 @@ title: Denní menu - EN
 ---
 ## SPECIAL OFFER (soup + main course)
 
-* **MENU 1: Soup + Fried Chicken Cordon Bleu, mashed potatoes, lemon and pickles** 205 CZK
+* **MENU 1: Soup + Fried Chicken Cordon Bleu, mashed potatoes, lemon and pickles** 215 CZK
 * **MENU 2: Soup + Pork meat with mushroom sauce and baked jasmine rice** 205 CZK
 
 ## SMALL SOUP FOR THE MAIN COURSE – 250ml
