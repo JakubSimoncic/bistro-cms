@@ -3,7 +3,7 @@ title: Denní menu CZ
 ---
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)  
 
-* **MENU 1: Polévka + Smažený kuřecí Cordon Bleu, máslová bramborová kaše, citron a kyselá okurka** 205 Kč
+* **MENU 1: Polévka + Smažený kuřecí Cordon Bleu, máslová bramborová kaše, citron a kyselá okurka** 215 Kč
 * **MENU 2: Polévka + Vepřové na houbách a pečená jasmínová rýže** 205 Kč  
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml  
