@@ -24,6 +24,6 @@ title: Denní menu - EN
 * **Fried cheese, fries and tartar sauce** 195 CZK
 
 ## LARGE SOUP ORDERED SEPARATELY – 500ml
-* ** Garlic soup with cheese and croutons or Frankfurt soup with sausage** 75 CZK
+* **Garlic soup with cheese and croutons or Frankfurt soup with sausage** 75 CZK
 
 ***Offer is valid 14.7. 10:30 AM until closing time or until sold out.***
