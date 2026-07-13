@@ -16,7 +16,7 @@ title: Denní menu - EN
 * **Roasted duck tigh, cabbage variation and potato dumplings** 245 CZK
 * **Fried Chicken Cordon Bleu, mashed potatoes, lemon and pickles** 185 CZK
 * **Pork meat with mushroom sauce and baked jasmine rice** 185 CZK
-* **Spaghetti Carbonara (pancetta, egg yolk, garlic, parmesan) - MEAL OF THE WEEK** 225 CZK
+* **Spaghetti Carbonara (pancetta, egg yolk, garlic, parmesan cheese) - MEAL OF THE WEEK** 225 CZK
 * **Grilled stuffed wheat tortilla of your choice and fried fries** 185 CZK
 * **Pulled pork in our BBQ sauce, roasted potatoes and coleslaw** 185 CZK
 * **Beef goulash with onion and lamb's horn, homemade bread dumpling** 215 CZK
