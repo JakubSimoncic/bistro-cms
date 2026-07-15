@@ -4,7 +4,7 @@ title: Denní menu CZ
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)  
 
 * **MENU 1: Polévka + Hamburská vepřová kýta, domácí houskový knedlík** 205 Kč
-* **MENU 2: Polévka + Smažený karbanátek, máslová bramborová kaše, okurka** 205 Kč  
+* **MENU 2: Polévka + Smažený karbanátek, máslová bramborová kaše, okurka - VYPRODÁNO** 205 Kč  
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml  
 
@@ -15,7 +15,7 @@ title: Denní menu CZ
 
 * **Pečené kachní stehno, variace zelí a bramborový knedlík** 245 Kč
 * **Hamburská vepřová kýta, domácí houskový knedlík** 185 Kč
-* **Smažený karbanátek, máslová bramborová kaše, okurka** 185 Kč
+* **Smažený karbanátek, máslová bramborová kaše, okurka - VYPRODÁNO** 185 Kč
 * **Špagety Carbonara (pancetta, žloutek, česnek, parmazán) - JÍDLO TÝDNE** 225 Kč
 * **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 185 Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek coleslaw** 185 Kč
