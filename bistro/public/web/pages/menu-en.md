@@ -4,7 +4,7 @@ title: Denní menu - EN
 ## SPECIAL OFFER (soup + main course)
 
 * **MENU 1: Soup + Pork meat, creamy meat sauce with ham and pickes, homemade dumplings** 205 CZK
-* **MENU 2: Soup + Fried meatball from minced meat, mashed potatoes, pickles** 205 CZK
+* **MENU 2: Soup + Fried meatball from minced meat, mashed potatoes, pickles - SOLD OUT** 205 CZK
 
 ## SMALL SOUP FOR THE MAIN COURSE – 250ml
 
@@ -15,7 +15,7 @@ title: Denní menu - EN
 
 * **Roasted duck tigh, cabbage variation and potato dumplings** 245 CZK
 * **Pork meat, creamy meat sauce with ham and pickes, homemade dumplings** 185 CZK
-* **Fried meatball from minced meat, mashed potatoes, pickles** 185 CZK
+* **Fried meatball from minced meat, mashed potatoes, pickles - SOLD OUT** 185 CZK
 * **Spaghetti Carbonara (pancetta, egg yolk, garlic, parmesan cheese) - MEAL OF THE WEEK** 225 CZK
 * **Grilled stuffed wheat tortilla of your choice and fried fries** 185 CZK
 * **Pulled pork in our BBQ sauce, roasted potatoes and coleslaw** 185 CZK
