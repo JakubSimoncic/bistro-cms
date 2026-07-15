@@ -3,19 +3,19 @@ title: Denní menu CZ
 ---
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)  
 
-* **MENU 1: Polévka + Hamburská vepřová kýta, domácí houskový knedlík** 205 Kč
-* **MENU 2: Polévka + Smažený karbanátek, máslová bramborová kaše, okurka - VYPRODÁNO** 205 Kč  
+* **MENU 1: Polévka + Kapustový karbanátek s máslovou bramborovou kaší, kyselá okurka** 205 Kč
+* **MENU 2: Polévka + Rozlítaný vepřový španělský ptáček s pečenou jasmínovou rýží** 205 Kč  
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml  
 
-* **Česnečka se sýrem a krutony** 35 Kč
+* **Dršťková z hlívy ústřičné** 35 Kč
 * **Čočková polévka s uzeninou** 35 Kč  
 
 ## HLAVNÍ JÍDLA
 
-* **Pečené kachní stehno, variace zelí a bramborový knedlík** 245 Kč
-* **Hamburská vepřová kýta, domácí houskový knedlík** 185 Kč
-* **Smažený karbanátek, máslová bramborová kaše, okurka - VYPRODÁNO** 185 Kč
+* **Quesadilla s kuřecím masem, variací sýrů, rajčaty, karamelizovanou cibulkou, salátem, salsou a zakysanou smetanou** 195 Kč
+* **Kapustový karbanátek s máslovou bramborovou kaší, kyselá okurka** 185 Kč
+* **Rozlítaný vepřový španělský ptáček s pečenou jasmínovou rýží** 185 Kč
 * **Špagety Carbonara (pancetta, žloutek, česnek, parmazán) - JÍDLO TÝDNE** 225 Kč
 * **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 185 Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek coleslaw** 185 Kč
@@ -25,6 +25,6 @@ title: Denní menu CZ
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTATNĚ – 500ml
 
-* **Česnečka se sýrem a krutony nebo čočková polévka s uzeninou** 75 Kč
+* **Dršťková z hlívy ústřičné nebo čočková polévka s uzeninou** 75 Kč
 
-***Nabídka platí ve středu 15.7. od 10:30 do zavírací hodiny nebo do vyprodání.***
+***Nabídka platí ve čtvrtek 16.7. od 10:30 do zavírací hodiny nebo do vyprodání.***
