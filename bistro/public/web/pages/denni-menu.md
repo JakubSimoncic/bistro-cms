@@ -3,19 +3,19 @@ title: Denní menu CZ
 ---
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)  
 
-* **MENU 1: Polévka + Kapustový karbanátek s máslovou bramborovou kaší, kyselá okurka** 205 Kč
-* **MENU 2: Polévka + Rozlítaný vepřový španělský ptáček s pečenou jasmínovou rýží** 205 Kč  
+* **MENU 1: Polévka + Vepřové na houbách a pečená jasmínová rýže** 205 Kč
+* **MENU 2: Polévka + Pečená BBQ kuřecí křídla, smažené hranolky, salátek Coleslaw a Blue Cheese dip** 215 Kč  
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml  
 
-* **Dršťková z hlívy ústřičné** 35 Kč
-* **Čočková polévka s uzeninou** 35 Kč  
+* **Zeleninová polévka minestrone s parmazánem** 35 Kč
+* **Dršťková polévka z hlívy ústřičné** 35 Kč  
 
 ## HLAVNÍ JÍDLA
 
-* **Quesadilla s kuřecím masem, variací sýrů, rajčaty, karamelizovanou cibulkou, salátem, salsou a zakysanou smetanou** 195 Kč
-* **Kapustový karbanátek s máslovou bramborovou kaší, kyselá okurka** 185 Kč
-* **Rozlítaný vepřový španělský ptáček s pečenou jasmínovou rýží** 185 Kč
+* **Savojské vepřové řízečky, máslová bramborová kaše, okurka** 195 Kč
+* **Vepřové na houbách a pečená jasmínová rýže** 185 Kč
+* **Pečená BBQ kuřecí křídla, smažené hranolky, salátek Coleslaw a Blue Cheese dip** 195 Kč
 * **Špagety Carbonara (pancetta, žloutek, česnek, parmazán) - JÍDLO TÝDNE** 225 Kč
 * **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 185 Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek coleslaw** 185 Kč
@@ -25,6 +25,6 @@ title: Denní menu CZ
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTATNĚ – 500ml
 
-* **Dršťková z hlívy ústřičné nebo čočková polévka s uzeninou** 75 Kč
+* **Zeleninová polévka minestrone s parmazánem nebo dršťková polévka z hlívy ústřičné** 75 Kč
 
-***Nabídka platí ve čtvrtek 16.7. od 10:30 do zavírací hodiny nebo do vyprodání.***
+***Nabídka platí v pátek 17.7. od 10:30 do zavírací hodiny nebo do vyprodání.***
