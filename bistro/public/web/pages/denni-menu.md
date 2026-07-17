@@ -25,6 +25,6 @@ title: Denní menu CZ
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTATNĚ – 500ml
 
-* **Zeleninová polévka minestrone s parmazánem nebo dršťková polévka z hlívy ústřičné** 75 Kč
+* **Zelná s uzeninou nebo Česnečka s uzeninou, krutony a sýrem** 75 Kč
 
-***Nabídka platí v pátek 17.7. od 10:30 do zavírací hodiny nebo do vyprodání.***
+***Nabídka platí v sobotu 18.7. od 10:30 do zavírací hodiny nebo do vyprodání.***
