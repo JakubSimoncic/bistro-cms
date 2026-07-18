@@ -3,7 +3,7 @@ title: Denní menu - EN
 ---
 ## SPECIAL OFFER (soup + main course)
 
-* **MENU 1: Soup + Pork roled meat with cabage, mashed potatoes with spring onion** 195 CZK
+* **MENU 1: Soup + Pork rolled meat with cabage, mashed potatoes with spring onion** 195 CZK
 * **MENU 2: Soup + Pork meat, roasted Jasmine Rice** 205 CZK
 
 ## SMALL SOUP FOR THE MAIN COURSE – 250ml
@@ -14,7 +14,7 @@ title: Denní menu - EN
 ## MAIN COURSES
 
 * ** **
-* **Pork roled meat with cabage, mashed potatoes with spring onion** 175 CZK
+* **Pork rolled meat with cabage, mashed potatoes with spring onion** 175 CZK
 * **Pork meat, roasted Jasmine Rice** 185 CZK
 * **Pork with paprika, Fusilli pasta** 185 CZK
 * **Grilled stuffed wheat tortilla of your choice and fried fries** 185 CZK
