@@ -3,20 +3,20 @@ title: Denní menu CZ
 ---
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)  
 
-* **MENU 1: Polévka + Kapustový karbanátek s vařeným bramborem a kyselou okurkou** 205 Kč
-* **MENU 2: Polévka + Hamburská vepřová kýta s houskovým knedlíkem** 205 Kč  
+* **MENU 1: Polévka + Záhorácký závitek, šťouchané brambory s jarní cibulkou** 195 Kč
+* **MENU 2: Polévka + Rozlítaný vepřový španělský ptáček, pečená jasmínová rýže** 205 Kč  
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml  
 
-* **Zelná s uzeninou** 35 Kč
-* **Česnečka s uzeninou, krutony a sýrem** 35 Kč  
+* **Dršťková polévka z hlívy ústřičné** 35 Kč
+* **Brokolicový krém s krutony** 35 Kč  
 
 ## HLAVNÍ JÍDLA
 
 * ** **
-* **Kapustový karbanátek s vařeným bramborem a kyselou okurkou** 185 Kč
-* **Pečená BBQ kuřecí křídla, smažené hranolky, salátek Coleslaw a Blue Cheese dip** 195 Kč
-* **Hamburská vepřová kýta s houskovým knedlíkem** 185 Kč
+* **Záhorácký závitek, šťouchané brambory s jarní cibulkou** 175 Kč
+* **Rozlítaný vepřový španělský ptáček, pečená jasmínová rýže** 185 Kč
+* **Vepřové na paprice, těstoviny Fusilli** 185 Kč
 * **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 185 Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek coleslaw** 185 Kč
 * **Hovězí guláš s cibulkou a beraním rohem, domácí houskový knedlík** 215 Kč
@@ -25,6 +25,6 @@ title: Denní menu CZ
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTATNĚ – 500ml
 
-* **Zelná s uzeninou nebo Česnečka s uzeninou, krutony a sýrem** 75 Kč
+* **Dršťková polévka z hlívy ústřičné nebo Brokolicový krém s krutony** 75 Kč
 
-***Nabídka platí v sobotu 18.7. od 10:30 do zavírací hodiny nebo do vyprodání.***
+***Nabídka platí v nedělí 19.7. od 10:30 do zavírací hodiny nebo do vyprodání.***
