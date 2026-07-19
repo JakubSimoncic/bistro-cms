@@ -3,20 +3,21 @@ title: Denní menu - EN
 ---
 ## SPECIAL OFFER (soup + main course)
 
-* **MENU 1: Soup + Pork rolled meat with cabage, mashed potatoes with spring onion** 195 CZK
-* **MENU 2: Soup + Pork meat, roasted Jasmine Rice** 205 CZK
+* **MENU 1: Soup + Dumplings with smoked meat, cabbage and onion** 195 CZK
+* **MENU 2: Soup + Fried cauliflower, boiled potatoes, tartar sauce** 195 CZK
 
 ## SMALL SOUP FOR THE MAIN COURSE – 250ml
 
-* **Tripe oyster mushroom soup** 35 CZK
-* **Broccoli cream with croutons** 35 CZK
+* **South Bohemian kulajda** 35 CZK
+* **Vegetable minestrone with parmesan cheese** 35 CZK
 
 ## MAIN COURSES
 
-* ** **
-* **Pork rolled meat with cabage, mashed potatoes with spring onion** 175 CZK
-* **Pork meat, roasted Jasmine Rice** 185 CZK
-* **Pork with paprika, Fusilli pasta** 185 CZK
+* **Dumplings with smoked meat, cabbage and onion** 175 CZK
+* **Fried cauliflower, boiled potatoes, tartar sauce** 175 CZK
+* **Chicken strips in curry sauce with vegetables, baked jasmine rice** 185 CZK
+* **Smoked beef tongue in teriyaki sauce, roasted potatoes, vegetable salad, wasabi mayonnaise - MEAL OF THE WEEK
+** 185 CZK
 * **Grilled stuffed wheat tortilla of your choice and fried fries** 185 CZK
 * **Pulled pork in our BBQ sauce, roasted potatoes and coleslaw** 185 CZK
 * **Beef goulash with onion and lamb's horn, homemade bread dumpling** 215 CZK
@@ -24,6 +25,6 @@ title: Denní menu - EN
 * **Fried cheese, fries and tartar sauce** 195 CZK
 
 ## LARGE SOUP ORDERED SEPARATELY – 500ml
-* **Tripe oyster mushroom soup or Broccoli cream with croutons** 75 CZK
+* **South Bohemian kulajda or Vegetable minestrone with parmesan cheese** 75 CZK
 
-***Offer is valid on Sunday 19.7. 10:30 AM until closing time or until sold out.***
+***Offer is valid on Monday 20.7. 10:30 AM until closing time or until sold out.***
