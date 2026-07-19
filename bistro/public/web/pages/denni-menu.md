@@ -9,7 +9,7 @@ title: Denní menu CZ
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml  
 
 * **Jihočeská kulajda** 35 Kč
-* **Zeleninová minestrone s parmazánem ** 35 Kč  
+* **Zeleninová minestrone s parmazánem** 35 Kč  
 
 ## HLAVNÍ JÍDLA
 
