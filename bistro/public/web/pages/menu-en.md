@@ -16,7 +16,7 @@ title: Denní menu - EN
 * **Dumplings with smoked meat, cabbage and onion** 175 CZK
 * **Fried cauliflower, boiled potatoes, tartar sauce** 175 CZK
 * **Chicken strips in curry sauce with vegetables, baked jasmine rice** 185 CZK
-* **Smoked beef tongue in teriyaki sauce, roasted potatoes, vegetable salad, wasabi mayonnaise - MEAL OF THE WEEK** 185 CZK
+* **Smoked beef tongue in teriyaki sauce, roasted potatoes, vegetable salad, wasabi mayonnaise - MEAL OF THE WEEK** 225 CZK
 * **Grilled stuffed wheat tortilla of your choice and fried fries** 185 CZK
 * **Pulled pork in our BBQ sauce, roasted potatoes and coleslaw** 185 CZK
 * **Beef goulash with onion and lamb's horn, homemade bread dumpling** 215 CZK
