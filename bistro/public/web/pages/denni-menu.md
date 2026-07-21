@@ -3,7 +3,7 @@ title: Denní menu CZ
 ---
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)  
 
-* **MENU 1: Polévka + Zapečené francouzské brambory s uzeným masem, kyselá okurka ** 195 Kč
+* **MENU 1: Polévka + Zapečené francouzské brambory s uzeným masem, kyselá okurka** 195 Kč
 * **MENU 2: Polévka + Smažené vepřové řízečky v bylinkové strouhance, máslová bramborová kaše a okurkový salátek** 215 Kč  
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml  
