@@ -3,7 +3,7 @@ title: Denní menu CZ
 ---
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)  
 
-* **MENU 1: Polévka + Kuřecí stehno ala bažant, špenát nebo červené zelí, bramborový knedlík** 195 Kč
+* **MENU 1: Polévka + Kuřecí stehno ala bažant, špenát nebo červené zelí, bramborový knedlík** 205 Kč
 * **MENU 2: Polévka + Hovězí koprová omáčka, houskový knedlík** 215 Kč  
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml  
