@@ -13,7 +13,7 @@ title: Denní menu CZ
 
 ## HLAVNÍ JÍDLA
 
-* **Srbské vepřové rizoto sypané sýrem, kyselá okurka** 185 Kč
+* **Srbské vepřové rizoto sypané sýrem, kyselá okurka** 175 Kč
 * **Kuřecí stehno ala bažant, špenát nebo červené zelí, bramborový knedlík** 185 Kč
 * **Hovězí koprová omáčka, houskový knedlík** 195 Kč
 * **Uzený hovězí jazyk v Teriyaki omáčce, opečené brambory, zeleninový salátek, wasabi majonéza - JÍDLO TÝDNE** 225 Kč
