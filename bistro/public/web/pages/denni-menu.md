@@ -4,7 +4,7 @@ title: Denní menu CZ
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)  
 
 * **MENU 1: Polévka + Zapečené špenátové fleky s kuřecím masem, nivou a uzeným sýrem** 205 Kč
-* **MENU 2: Polévka + Selská vepřová krkovička, bílé dušené zelí a bramborový knedlík** 215 Kč  
+* **MENU 2: Polévka + Selská vepřová krkovička, bílé dušené zelí a bramborový knedlík** 205 Kč  
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml  
 
