@@ -13,7 +13,7 @@ title: Denní menu - EN
 
 ## MAIN COURSES
 
-* **Serbian pork risotto sprinkled with cheese, pickles** 185 CZK
+* **Serbian pork risotto sprinkled with cheese, pickles** 175 CZK
 * **Chicken leg, spinach or red cabbage, potato dumplings** 185 CZK
 * **Beef meat with dill sauce, homemade dumplings** 195 CZK
 * **Smoked beef tongue in Teriyaki sauce, roasted potatoes, vegetable salad, wasabi mayonnaise - MEAL OF THE WEEK** 225 CZK
