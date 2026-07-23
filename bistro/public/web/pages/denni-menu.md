@@ -3,19 +3,19 @@ title: Denní menu CZ
 ---
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)  
 
-* **MENU 1: Polévka + Kuřecí stehno ala bažant, špenát nebo červené zelí, bramborový knedlík** 205 Kč
-* **MENU 2: Polévka + Hovězí koprová omáčka, houskový knedlík** 215 Kč  
+* **MENU 1: Polévka + Zapečené špenátové fleky s kuřecím masem, nivou a uzeným sýrem** 205 Kč
+* **MENU 2: Polévka + Selská vepřová krkovička, bílé dušené zelí a bramborový knedlík** 215 Kč  
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml  
 
-* **Slepičí vývar s masem, zeleninou a celestýnskými nudlemi** 35 Kč
-* **Bramboračka** 35 Kč  
+* **Francouzská cibulačka se sýrovým toustem** 35 Kč
+* **Bramborová polévka s houbami** 35 Kč  
 
 ## HLAVNÍ JÍDLA
 
-* **Srbské vepřové rizoto sypané sýrem, kyselá okurka** 175 Kč
-* **Kuřecí stehno ala bažant, špenát nebo červené zelí, bramborový knedlík** 185 Kč
-* **Hovězí koprová omáčka, houskový knedlík** 195 Kč
+* **Rozlítaný vepřový španělský ptáček, pečená jasmínová rýže** 185 Kč
+* **Zapečené špenátové fleky s kuřecím masem, nivou a uzeným sýrem** 185 Kč
+* **Selská vepřová krkovička, bílé dušené zelí a bramborový knedlík** 185 Kč
 * **Uzený hovězí jazyk v Teriyaki omáčce, opečené brambory, zeleninový salátek, wasabi majonéza - JÍDLO TÝDNE** 225 Kč
 * **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 185 Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek coleslaw** 185 Kč
@@ -25,6 +25,6 @@ title: Denní menu CZ
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTATNĚ – 500ml
 
-* **Slepičí vývar s masem, zeleninou a celestýnskými nudlemi  nebo Bramboračka** 75 Kč
+**Francouzská cibulačka se sýrovým toustem nebo bramborová polévka s houbami** 75 Kč
 
-***Nabídka platí ve čtvrtek 23.7. od 10:30 do zavírací hodiny nebo do vyprodání.***
+***Nabídka platí v pátek 24.7. od 10:30 do zavírací hodiny nebo do vyprodání.***
