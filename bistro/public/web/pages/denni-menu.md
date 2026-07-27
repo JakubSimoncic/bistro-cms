@@ -3,19 +3,19 @@ title: Denní menu CZ
 ---
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)  
 
-* **MENU 1: Polévka + Vepřové nudličky Stroganoff s pečenou jasmínovou rýží** 205 Kč
-* **MENU 2: Polévka + Smažený holandský řízek s bramborovou kaší a kyselou okurkou** 205 Kč  
+* **MENU 1: Polévka + Gratinovaný sekaný vepřový biftek s čedarem a salámem Barcelona, opečené brambory a zeleninový salátek** 215 Kč
+* **MENU 2: Polévka + Srbský vepřový kotlet s pečenou jasmínovou rýží** 205 Kč  
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml  
 
 * **Gulášová polévka** 35 Kč
-* **Krémová cibulačka s krutony a sýrem** 35 Kč  
+* **Jihočeská kulajda** 35 Kč  
 
 ## HLAVNÍ JÍDLA
 
-* **Moravský vrabec, zelí, bramborový knedlík** 185 Kč
-* **Vepřové nudličky Stroganoff s pečenou jasmínovou rýží** 185 Kč
-* **Smažený holandský řízek s bramborovou kaší a kyselou okurkou** 185 Kč
+* **Pečený vepřový bůček, bílé zelí, bramborový knedlík** 185 Kč
+* **Gratinovaný sekaný vepřový biftek s čedarem a salámem Barcelona, opečené brambory a zeleninový salátek** 195 Kč
+* **Srbský vepřový kotlet s pečenou jasmínovou rýží** 185 Kč
 * **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 185 Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek coleslaw** 185 Kč
 * **Hovězí guláš s cibulkou a beraním rohem, domácí houskový knedlík** 215 Kč
@@ -24,6 +24,6 @@ title: Denní menu CZ
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTATNĚ – 500ml
 
-* **Gulášová polévka nebo Krémová cibulačka s krutony a sýrem** 75 Kč
+* **Gulášová polévka nebo Jihočeská kulajda** 75 Kč
 
-***Nabídka platí v pondělí 27.7. od 10:30 do zavírací hodiny nebo do vyprodání.***
+***Nabídka platí v úterý 28.7. od 10:30 do zavírací hodiny nebo do vyprodání.***
