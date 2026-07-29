@@ -4,7 +4,7 @@ title: Denní menu - EN
 ## SPECIAL OFFER (soup + main course)
 
 * **MENU 1: Soup + Homemade meatloaf, mashed potatoes, pickles** 195 CZK
-* **MENU 2: Soup + Potato spaetzle with chicken, pancetta, sun-dried tomatoes, onion, garlic and leek, garnished with arugula** 205 CZK
+* **MENU 2: Soup + Potato  with chicken meat, pancetta, sundried tomatoes, onion, garlic and leek, garnished with arugula** 205 CZK
 
 ## SMALL SOUP FOR THE MAIN COURSE – 250ml
 
@@ -15,7 +15,7 @@ title: Denní menu - EN
 
 * **Pork stuffed with Barcelona salami and camembert, roasted potato, tartar** 185 CZK
 * **Homemade meatloaf, mashed potatoes, pickles** 175 CZK
-* **Potato spaetzle with chicken, pancetta, sun-dried tomatoes, onion, garlic and leek, garnished with arugula** 195 CZK
+* **Potato spaetzle with chicken meat, pancetta, sundried tomatoes, onion, garlic and leek, garnished with arugula** 195 CZK
 * **Grilled stuffed wheat tortilla of your choice and French Fries** 185 CZK
 * **Pulled pork in our BBQ sauce, roasted potatoes and coleslaw** 185 CZK
 * **Beef goulash with onion and lamb's horn, homemade dumplings** 215 CZK
