@@ -13,7 +13,7 @@ title: Denní menu - EN
 
 ## MAIN COURSES
 
-* **Caesar salad with chicken meat, cherry tomatoes, herb croutons, Caesar dressing, parmesan cheese and toasted toast** 215 CZK
+* **Caesar salad with chicken meat, cherry tomatoes, herb croutons, Caesar dressing, parmesan cheese and toast** 215 CZK
 * **Spaghetti Bolognese with minced meat and parmesan cheese** 195 CZK
 * **Baked pork meat, stewed cabbage and potato dumplings** 185 CZK
 * **Grilled stuffed wheat tortilla of your choice and French Fries** 185 CZK
