@@ -4,7 +4,7 @@ title: Denní menu CZ
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)  
 
 * **MENU 1: Polévka + Domácí sekaná, bramborová kaše, kyselá okurka** 195 Kč
-* **MENU 2: Polévka + Bramborové špecle s kuřecím masem, pancetou, sušenými rajčaty, cibulí, česnekem a pórkem, zdobené rukolou** 205 Kč  
+* **MENU 2: Polévka + Bramborové špecle s kuřecím masem, pancettou, sušenými rajčaty, cibulí, česnekem a pórkem, zdobené rukolou** 205 Kč  
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml  
 
