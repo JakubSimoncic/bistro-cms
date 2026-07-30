@@ -4,7 +4,7 @@ title: Denní menu CZ
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)  
 
 * **MENU 1: Polévka + Domácí sekaná, bramborová kaše, kyselá okurka** 195 Kč
-* **MENU 2: Polévka + Bramborové špecle s kuřecím masem, pancetou, sušenými rajčaty, cibulí, česnekem a pórkem, zdobené rukolou** 215 Kč  
+* **MENU 2: Polévka + Bramborové špecle s kuřecím masem, pancetou, sušenými rajčaty, cibulí, česnekem a pórkem, zdobené rukolou** 205 Kč  
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml  
 
@@ -13,9 +13,9 @@ title: Denní menu CZ
 
 ## HLAVNÍ JÍDLA
 
-* **Vepřová kapsa plněná salámem Barcelona a hermelínem, opečený brambor, tatarka** 185 Kč
+* **Vepřová kapsa plněná salámem Barcelona a hermelínem, opečený brambor, tatarka** 195 Kč
 * **Domácí sekaná, bramborová kaše, kyselá okurka** 175 Kč
-* **Bramborové špecle s kuřecím masem, pancetou, sušenými rajčaty, cibulí, česnekem a pórkem, zdobené rukolou** 195 Kč
+* **Bramborové špecle s kuřecím masem, pancetou, sušenými rajčaty, cibulí, česnekem a pórkem, zdobené rukolou** 185 Kč
 * **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 185 Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek coleslaw** 195 Kč
 * **Hovězí guláš s cibulkou a beraním rohem, domácí houskový knedlík** 215 Kč
