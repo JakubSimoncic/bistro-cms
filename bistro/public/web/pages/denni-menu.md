@@ -15,7 +15,7 @@ title: Denní menu CZ
 
 * **Vepřová kapsa plněná salámem Barcelona a hermelínem, opečený brambor, tatarka** 195 Kč
 * **Domácí sekaná, bramborová kaše, kyselá okurka** 175 Kč
-* **Bramborové špecle s kuřecím masem, pancetou, sušenými rajčaty, cibulí, česnekem a pórkem, zdobené rukolou** 185 Kč
+* **Bramborové špecle s kuřecím masem, pancettou, sušenými rajčaty, cibulí, česnekem a pórkem, zdobené rukolou** 185 Kč
 * **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 185 Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek coleslaw** 195 Kč
 * **Hovězí guláš s cibulkou a beraním rohem, domácí houskový knedlík** 215 Kč
