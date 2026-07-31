@@ -26,4 +26,4 @@ title: Denní menu CZ
 
 * **Frankfurtská polévka nebo Špenátový krém s krutony** 75 Kč
 
-***Nabídka platí v pátek 1.8. od 10:30 do zavírací hodiny nebo do vyprodání.***
+***Nabídka platí v pátek 1.8. od 10:00 do zavírací hodiny nebo do vyprodání.***
