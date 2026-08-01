@@ -16,7 +16,6 @@ title: Denní menu - EN
 * **Spaghetti Bolognese with minced meat and parmesan cheese** 195 CZK
 * **Pork Stroganoff noodles and baked jasmine rice** 185 CZK
 * **Chicken meat with creamy pepper sauce and Fusilli pasta** 185 CZK
-* **Homemade meatloaf, boiled potatoes and pickles** 175 CZK
 * **Grilled stuffed wheat tortilla of your choice and French Fries** 185 CZK
 * **Pulled pork in our BBQ sauce, roasted potatoes and coleslaw** 195 CZK
 * **Beef goulash with onion and lamb's horn, homemade dumplings** 215 CZK
