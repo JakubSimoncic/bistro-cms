@@ -3,19 +3,20 @@ title: Denní menu CZ
 ---
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)  
 
-* **MENU 1: Polévka + Boloňské špagety s mletým masem a parmazánem** 215 Kč
-* **MENU 2: Polévka + Srbský vepřový kotlet s pečenou jasmínovou rýží** 205 Kč  
+* **MENU 1: Polévka + Vepřové nudličky Stroganoff, pečená jasmínová rýže** 205 Kč
+* **MENU 2: Polévka + Kuřecí nudličky na paprice, těstoviny Fusilli** 205 Kč  
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml  
 
-* **Frankfurtská polévka** 35 Kč
-* **Špenátový krém s krutony** 35 Kč  
+* **Zelná polévka s paprikovou klobásou** 35 Kč
+* **Krémová cibulačka se sýrem a krutony** 35 Kč  
 
 ## HLAVNÍ JÍDLA
 
-* **Caesar salát s kuřecím masem, cherry rajčaty, bylinkovými krutony, Caesar dresinkem, parmazánem a opečeným toustem** 215 Kč
-* **Boloňské špagety s mletým masem a parmazánem** 195 Kč
-* **Srbský vepřový kotlet s pečenou jasmínovou rýží** 185 Kč
+* **Boloňské špagety s hovězím mletým masem a sypané parmazánem** 195 Kč
+* **Vepřové nudličky Stroganoff, pečená jasmínová rýže** 185 Kč
+* **Kuřecí nudličky na paprice, těstoviny Fusilli** 185 Kč
+* **Domácí sekaná, vařené brambory a kyselá okurka** 175 Kč
 * **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 185 Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek coleslaw** 195 Kč
 * **Hovězí guláš s cibulkou a beraním rohem, domácí houskový knedlík** 215 Kč
@@ -24,6 +25,6 @@ title: Denní menu CZ
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTATNĚ – 500ml
 
-* **Frankfurtská polévka nebo Špenátový krém s krutony** 75 Kč
+* **Zelná polévka s paprikovou klobásou nebo krémová cibulačka se sýrem a krutony** 75 Kč
 
-***Nabídka platí v sobotu 1.8. od 10:00 do zavírací hodiny nebo do vyprodání.***
+***Nabídka platí v neděli 2.8. od 10:00 do zavírací hodiny nebo do vyprodání.***
