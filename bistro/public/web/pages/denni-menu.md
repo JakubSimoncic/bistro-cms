@@ -16,7 +16,6 @@ title: Denní menu CZ
 * **Boloňské špagety s hovězím mletým masem a sypané parmazánem** 195 Kč
 * **Vepřové nudličky Stroganoff, pečená jasmínová rýže** 185 Kč
 * **Kuřecí nudličky na paprice, těstoviny Fusilli** 185 Kč
-* **Domácí sekaná, vařené brambory a kyselá okurka** 175 Kč
 * **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 185 Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek coleslaw** 195 Kč
 * **Hovězí guláš s cibulkou a beraním rohem, domácí houskový knedlík** 215 Kč
