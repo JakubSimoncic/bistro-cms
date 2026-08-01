@@ -18,7 +18,7 @@ title: Denní menu - EN
 * **Chicken meat with creamy pepper sauce and Fusilli pasta** 185 CZK
 * **Grilled stuffed wheat tortilla of your choice and French Fries** 185 CZK
 * **Pulled pork in our BBQ sauce, roasted potatoes and coleslaw** 195 CZK
-* **Beef goulash with onion and lamb's horn, homemade dumplings** 215 CZK
+* **Beef goulash with red onion, homemade dumplings** 215 CZK
 * **Fried chicken schnitzel, homemade potato salad, lemon** 195 CZK
 * **Fried Cheese, French Fries and Tartar Sauce** 195 CZK
 
