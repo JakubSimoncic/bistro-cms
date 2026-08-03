@@ -13,7 +13,7 @@ title: Denní menu CZ
 
 ## HLAVNÍ JÍDLA
 
-* **Vepřové nudličky na červeném kari s kokosovým mlékem, houbami shiitake a bambusovými výhonky, pečená jasmínová rýže, zdobené praženým sezamem** 185 Kč
+* **Vepřové nudličky na červeném kari s kokosovým mlékem, houbami shiitake a bambusovými výhonky, pečená jasmínová rýže, zdobené praženým sezamem** 195 Kč
 * **Smažený karbanátek, bramborová kaše, zeleninový salát** 185 Kč
 * **Kuřecí kousky na paprice, těstoviny fusilli** 185 Kč
 * **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 185 Kč
