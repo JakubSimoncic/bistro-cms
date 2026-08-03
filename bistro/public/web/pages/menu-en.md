@@ -4,7 +4,7 @@ title: Denní menu - EN
 ## SPECIAL OFFER (soup + main course)
 
 * **MENU 1: Soup + Fried meatball, mashed potatoes, vegetable salad** 205 CZK
-* **MENU 2: Soup + Chicken pieces with paprika sauce, fusilli pasta** 225 CZK
+* **MENU 2: Soup + Chicken pieces with paprika sauce, fusilli pasta** 205 CZK
 
 ## SMALL SOUP FOR THE MAIN COURSE – 250ml
 
