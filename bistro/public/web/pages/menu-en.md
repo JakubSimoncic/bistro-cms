@@ -13,7 +13,7 @@ title: Denní menu - EN
 
 ## MAIN COURSES
 
-* **Pork strips on red curry with coconut milk, shiitake mushrooms and bamboo shoots, roasted jasmine rice, garnished with roasted sesame seeds** 185 CZK
+* **Pork strips on red curry with coconut milk, shiitake mushrooms and bamboo shoots, roasted jasmine rice, garnished with roasted sesame seeds** 195 CZK
 * **Fried meatball, mashed potatoes, vegetable salad** 185 CZK
 * **Chicken pieces with paprika sauce, fusilli pasta** 185 CZK
 * **Grilled stuffed wheat tortilla of your choice and French Fries** 185 CZK
