@@ -3,7 +3,7 @@ title: Denní menu CZ
 ---
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)  
 
-* **MENU 1: Polévka + Smažený karbanátek, bramborová kaše, zeleninový salát** 205 Kč
+* **MENU 1: Polévka + Smažený karbanátek, bramborová kaše, zeleninový salátek** 205 Kč
 * **MENU 2: Polévka + Kuřecí kousky na paprice, těstoviny fusilli** 205 Kč  
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml  
