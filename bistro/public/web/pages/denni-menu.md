@@ -3,19 +3,19 @@ title: Denní menu CZ
 ---
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)  
 
-* **MENU 1: Polévka + Smažená variace sýrů na špejli, vařené brambory, tatarská omáčka** 205 Kč
-* **MENU 2: Polévka + Vepřový katův šleh, pečená jasmínová rýže** 205 Kč  
+* **MENU 1: Polévka + Vepřové kýta na slanině, pečená jasmínová rýže ** 205 Kč
+* **MENU 2: Polévka + Hovězí svíčková na smetaně, brusinkový terč, domácí houskový knedlík** 235 Kč  
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml  
 
-* **Dršťková z hlívy ústřičné** 35 Kč
-* **Čočková s klobásou** 35 Kč  
+* **Bramborový krém s bylinkovými krutony a žampionovými chipsy** 35 Kč
+* **Dršťková polévka z hlívy ústřičné** 35 Kč  
 
 ## HLAVNÍ JÍDLA
 
-* **Vepřová roláda plněná anglickou slaninou, kysaným zelím, variace knedlíků** 185 Kč
-* **Smažená variace sýrů na špejli, vařené brambory, tatarská omáčka** 185 Kč
-* **Vepřový katův šleh, pečená jasmínová rýže** 185 Kč
+* **Špagety Carbonara (pancetta, česnek, žloutek, parmazán)** 215 Kč
+* **Vepřové kýta na slanině, pečená jasmínová rýže** 185 Kč
+* **Hovězí svíčková na smetaně, brusinkový terč, domácí houskový knedlík** 215 Kč
 * **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 185 Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek coleslaw** 195 Kč
 * **Hovězí guláš s cibulkou a beraním rohem, domácí houskový knedlík** 215 Kč
@@ -24,6 +24,6 @@ title: Denní menu CZ
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTATNĚ – 500ml
 
-* **Dršťková z hlívy ústřičné nebo Čočková s klobásou** 75 Kč
+* ** Bramborový krém s bylinkovými krutony a žampionovými chipsy nebo dršťková polévka z hlívy ústřičné ** 75 Kč
 
-***Nabídka platí ve středu 05.08. od 10:30 do zavírací hodiny nebo do vyprodání.***
+***Nabídka platí ve čtvrtek 6.8. od 10:30 do zavírací hodiny nebo do vyprodání.***
