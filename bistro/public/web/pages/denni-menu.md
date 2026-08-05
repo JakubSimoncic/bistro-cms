@@ -24,6 +24,6 @@ title: Denní menu CZ
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTATNĚ – 500ml
 
-* **Bramborový krém s bylinkovými krutony a žampionovými chipsy nebo dršťková polévka z hlívy ústřičné ** 75 Kč
+* **Bramborový krém s bylinkovými krutony a žampionovými chipsy nebo dršťková polévka z hlívy ústřičné** 75 Kč
 
 ***Nabídka platí ve čtvrtek 6.8. od 10:30 do zavírací hodiny nebo do vyprodání.***
