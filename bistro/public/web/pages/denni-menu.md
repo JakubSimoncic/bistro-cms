@@ -3,19 +3,20 @@ title: Denní menu CZ
 ---
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)  
 
-* **MENU 1: Polévka + Zapečené smetanové brambory s kuřecím masem, anglickou slaninou a sýrem** 205 Kč
-* **MENU 2: Polévka + Čevabčiči s hořčicí a cibulkou, vařené brambory** 205 Kč  
+* **MENU 1: Polévka + Boloňské špagety s hovězím mletým masem, parmazán** 215 Kč
+* **MENU 2: Polévka + Smažená sýrová špejle, vařené brambory, tatarská omáčka** 205 Kč  
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml  
 
-* **Valašská kyselice s paprikovou klobásou** 35 Kč
-* **Bramborový krém s bylinkovými krutony a žampionovými chipsy** 35 Kč  
+* **Boršč se zakysanou smetanou** 35 Kč
+* **Česnečka s krutony a sýrem** 35 Kč  
 
 ## HLAVNÍ JÍDLA
 
-* **Selská vepřová plec, dušené hlávkové bílé zelí a bramborový knedlík** 185 Kč
-* **Zapečené smetanové brambory s kuřecím masem, anglickou slaninou a sýrem** 185 Kč
-* **Čevabčiči s hořčicí a cibulkou, vařené brambory** 185 Kč
+* **Smažená sýrová špejle, vařené brambory, tatarská omáčka** 185 Kč
+* **Vepřová kýta na slanině, pečená jasmínová rýže** 185 Kč
+* **Vepřová roláda plněná zelím a anglickou slaninou, vařené brambory** 185 Kč
+* **Boloňské špagety s hovězím mletým masem, parmazán** 195 Kč
 * **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 185 Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek coleslaw** 195 Kč
 * **Hovězí guláš s cibulkou a beraním rohem, domácí houskový knedlík** 215 Kč
@@ -24,6 +25,6 @@ title: Denní menu CZ
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTATNĚ – 500ml
 
-* **Valašská kyselice s paprikovou klobásou nebo bramborový krém s bylinkovými krutony a žampionovými chipsy** 75 Kč
+* **Boršč se zakysanou smetanou nebo Česnečka s krutony a sýrem** 75 Kč
 
-***Nabídka platí v pátek 7.8. od 10:30 do zavírací hodiny nebo do vyprodání.***
+***Nabídka platí v sobotu 8.8. od 10:30 do zavírací hodiny nebo do vyprodání.***
