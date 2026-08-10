@@ -3,19 +3,19 @@ title: Denní menu CZ
 ---
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)  
 
-* **MENU 1: Polévka + Čočka na kyselo s paprikovou klobásou, cibulkou a kyselou okurkou** 205 Kč
-* **MENU 2: Polévka + Smažené kuřecí stripsy, vařené brambory, tatarka** 205 Kč  
+* **MENU 1: Polévka + Smažený Cordon bleu, bramborová kaše, citron** 215 Kč
+* **MENU 2: Polévka + Hovězí karabáček na víně, pečená jasmínová rýže** 215 Kč  
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml  
 
-* **Valašská kyselice s paprikovou klobásou** 35 Kč
-* **Dršťková polévka** 35 Kč  
+* **Dršťková polévka** 35 Kč
+* **Hráškovy krém s bylinkovými krutony** 35 Kč  
 
 ## HLAVNÍ JÍDLA
 
-* **Cmunda po kaplicku (uzené maso a zelí v bramboráku)** 185 Kč
-* **Čočka na kyselo s paprikovou klobásou, cibulkou a kyselou okurkou** 185 Kč
-* **Smažené kuřecí stripsy, vařené brambory, tatarka** 185 Kč
+* **Plněný paprikový lusk v rajské omáčce, těstoviny Fusilli nebo domácí houskový knedlík** 195 Kč
+* **Smažený Cordon bleu, bramborová kaše, citron** 195 Kč
+* **Hovězí karabáček na víně, pečená jasmínová rýže** 195 Kč
 * **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 185 Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek coleslaw** 195 Kč
 * **Hovězí guláš s cibulkou a beraním rohem, domácí houskový knedlík** 215 Kč
@@ -24,6 +24,6 @@ title: Denní menu CZ
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTATNĚ – 500ml
 
-* **Valašská kyselice s paprikovou klobásou nebo Dršťková polévka** 75 Kč
+* **Dršťková polévka nebo Hráškovy krém s bylinkovými krutony** 75 Kč
 
-***Nabídka platí v pondělí 10.8. od 10:30 do zavírací hodiny nebo do vyprodání.***
+***Nabídka platí v úterý 11.8. od 10:30 do zavírací hodiny nebo do vyprodání.***
