@@ -9,7 +9,7 @@ title: Denní menu CZ
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml  
 
 * **Dršťková polévka** 35 Kč
-* **Hráškovy krém s bylinkovými krutony** 35 Kč  
+* **Hráškový krém s bylinkovými krutony** 35 Kč  
 
 ## HLAVNÍ JÍDLA
 
@@ -24,6 +24,6 @@ title: Denní menu CZ
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTATNĚ – 500ml
 
-* **Dršťková polévka nebo Hráškovy krém s bylinkovými krutony** 75 Kč
+* **Dršťková polévka nebo Hráškový krém s bylinkovými krutony** 75 Kč
 
 ***Nabídka platí v úterý 11.8. od 10:30 do zavírací hodiny nebo do vyprodání.***
