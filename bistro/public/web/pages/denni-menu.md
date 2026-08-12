@@ -13,7 +13,7 @@ title: Denní menu CZ
 
 ## HLAVNÍ JÍDLA
 
-* **Segedínský guláš, houskové knedlíky** 185 Kč
+* **Segedínský guláš, houskový knedlík** 185 Kč
 * **Kuřecí nudličky gyros, hranolky, tzatziki** 185 Kč
 * **Smažený holandský řízek, bramborová kaše, kyselá okurka** 185 Kč
 * **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 185 Kč
