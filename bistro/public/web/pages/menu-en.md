@@ -4,7 +4,7 @@ title: Denní menu - EN
 ## SPECIAL OFFER (soup + main course)
 
 * **MENU 1: Soup + Chicken strips gyros, french fries, tzatziki** 205 CZK
-* **MENU 2: Soup + Fried mince meat schnitzel with cheese, mashed potatoes, pickles** 205 CZK
+* **MENU 2: Soup + Fried mince meat schnitzel with cheese, mashed potatoes, pickles- SOLD OUT** 205 CZK
 
 ## SMALL SOUP FOR THE MAIN COURSE – 250ml
 
@@ -15,7 +15,7 @@ title: Denní menu - EN
 
 * **Pork goulash with cabbage, homemade dumplings** 185 CZK
 * **Chicken strips gyros, french fries, tzatziki** 185 CZK
-* **Fried mince meat schnitzel with cheese, mashed potatoes, pickles** 185 CZK
+* **Fried mince meat schnitzel with cheese, mashed potatoes, pickles- SOLD OUT** 185 CZK
 * **Grilled stuffed wheat tortilla of your choice and French Fries** 185 CZK
 * **Pulled pork in our BBQ sauce, roasted potatoes and coleslaw** 195 CZK
 * **Beef goulash with onion, Czech-style peppers and homemade dumplings** 215 CZK
