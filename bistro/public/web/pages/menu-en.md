@@ -3,7 +3,7 @@ title: Denní menu - EN
 ---
 ## SPECIAL OFFER (soup + main course)
 
-* **MENU 1: Soup + Fried cauliflower with boiled potatoes, tartar sauce** 205 CZK
+* **MENU 1: Soup + Fried cauliflower with boiled potatoes, tartar sauce** 195 CZK
 * **MENU 2: Soup + Roasted chicken leg on bacon, baked jasmine rice** 205 CZK
 
 ## SMALL SOUP FOR THE MAIN COURSE – 250ml
@@ -14,7 +14,7 @@ title: Denní menu - EN
 ## MAIN COURSES
 
 * **Pork roasts, stewed white cabbage, potato dumplings** 185 CZK
-* **Fried cauliflower with boiled potatoes, tartar sauce** 185 CZK
+* **Fried cauliflower with boiled potatoes, tartar sauce** 175 CZK
 * **Roasted chicken leg on bacon, baked jasmine rice** 185 CZK
 * **Grilled stuffed wheat tortilla of your choice and French Fries** 185 CZK
 * **Pulled pork in our BBQ sauce, roasted potatoes and coleslaw** 195 CZK
