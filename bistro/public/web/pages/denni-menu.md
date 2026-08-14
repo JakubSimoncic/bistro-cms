@@ -3,19 +3,19 @@ title: Denní menu CZ
 ---
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)  
 
-* **MENU 1: Polévka + Smažený květák s vařeným bramborem, tatarská omáčka** 195 Kč
-* **MENU 2: Polévka + Pečené kuřecí stehno na slanině, pečená jasmínová rýže** 205 Kč  
+* **MENU 1: Polévka + Čočka na kyselo, uzená rolovaná plec, okurka a cibulka** 205 Kč
+* **MENU 2: Polévka + Smažený holandský řízek, bramborová kaše, okurka** 205 Kč  
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml  
 
-* **Frankfurtská** 35 Kč
-* **Hráškový krém s bylinkovými krutony** 35 Kč  
+* **Krémová polévka z kysaného zelí a uzeného vývaru, zdobená smaženým zelím a škvarečky** 35 Kč
+* **Gulášová polévka** 35 Kč  
 
 ## HLAVNÍ JÍDLA
 
-* **Vepřové výpečky, dušené bílé zelí, bramborový knedlík** 185 Kč
-* **Smažený květák s vařeným bramborem, tatarská omáčka** 175 Kč
-* **Pečené kuřecí stehno na slanině, pečená jasmínová rýže** 185 Kč
+* **Hovězí karabáček na víně, bramborová kaše** 205 Kč
+* **Čočka na kyselo, uzená rolovaná plec, okurka a cibulka** 185 Kč
+* **Smažený holandský řízek, bramborová kaše, okurka** 185 Kč
 * **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 185 Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek coleslaw** 195 Kč
 * **Hovězí guláš s cibulkou a beraním rohem, domácí houskový knedlík** 215 Kč
@@ -24,6 +24,6 @@ title: Denní menu CZ
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTATNĚ – 500ml
 
-* **Frankfurtská nebo Hráškový krém s bylinkovými krutony** 75 Kč
+* **Krémová polévka z kysaného zelí a uzeného vývaru, zdobená smaženým zelím a škvarečky nebo Gulášová polévka** 75 Kč
 
-***Nabídka platí ve pátek 14.8. od 10:30 do zavírací hodiny nebo do vyprodání.***
+***Nabídka platí v sobotu.8. od 10:00 do zavírací hodiny nebo do vyprodání.***
