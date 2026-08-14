@@ -26,4 +26,4 @@ title: Denní menu CZ
 
 * **Krémová polévka z kysaného zelí a uzeného vývaru, zdobená smaženým zelím a škvarečky nebo Gulášová polévka** 75 Kč
 
-***Nabídka platí v sobotu.8. od 10:00 do zavírací hodiny nebo do vyprodání.***
+***Nabídka platí v sobotu 15.8. od 10:00 do zavírací hodiny nebo do vyprodání.***
