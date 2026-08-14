@@ -3,19 +3,19 @@ title: Denní menu - EN
 ---
 ## SPECIAL OFFER (soup + main course)
 
-* **MENU 1: Soup + Fried cauliflower with boiled potatoes, tartar sauce** 195 CZK
-* **MENU 2: Soup + Roasted chicken leg on bacon, baked jasmine rice** 205 CZK
+* **MENU 1: Soup + Sour lentils, smoked rolled shoulder, cucumber and onion** 205 CZK
+* **MENU 2: Soup + Fried Dutch schnitzel, mashed potatoes, cucumber** 205 CZK
 
 ## SMALL SOUP FOR THE MAIN COURSE – 250ml
 
-* **Frankfurt** 35 CZK
-* **Pea cream with herb croutons** 35 CZK
+* **Creamy soup of sauerkraut and smoked broth, garnished with fried cabbage and cracklings** 35 CZK
+* **Goulash soup** 35 CZK
 
 ## MAIN COURSES
 
-* **Pork roasts, stewed white cabbage, potato dumplings** 185 CZK
-* **Fried cauliflower with boiled potatoes, tartar sauce** 175 CZK
-* **Roasted chicken leg on bacon, baked jasmine rice** 185 CZK
+* **Beef carabáček in wine, mashed potatoes** 205 CZK
+* **Sour lentils, smoked rolled shoulder, cucumber and onion** 185 CZK
+* **Fried Dutch schnitzel, mashed potatoes, cucumber** 185 CZK
 * **Grilled stuffed wheat tortilla of your choice and French Fries** 185 CZK
 * **Pulled pork in our BBQ sauce, roasted potatoes and coleslaw** 195 CZK
 * **Beef goulash with onion, Czech-style peppers and homemade dumplings** 215 CZK
@@ -23,6 +23,6 @@ title: Denní menu - EN
 * **Fried Cheese, French Fries and Tartar Sauce** 195 CZK
 
 ## LARGE SOUP ORDERED SEPARATELY – 500ml
-* **Frankfurt or Pea cream with herb croutons** 75 CZK
+* **Creamy soup of sauerkraut and smoked broth, garnished with fried cabbage and cracklings or Goulash soup** 75 CZK
 
-***The offer is valid on Friday 14.8. from 10:30 a.m. to closing time or until sold out.***
+***The offer is valid on Saturday 15.8. from 10:00 a.m. to closing time or until sold out.***
