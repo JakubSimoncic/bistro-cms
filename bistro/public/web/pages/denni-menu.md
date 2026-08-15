@@ -3,19 +3,19 @@ title: Denní menu CZ
 ---
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)  
 
-* **MENU 1: Polévka + Čočka na kyselo, uzená rolovaná plec, okurka a cibulka** 205 Kč
-* **MENU 2: Polévka + Smažený holandský řízek, bramborová kaše, okurka** 205 Kč  
+* **MENU 1: Polévka + Plněný paprikový lusk, rajská omáčka a těstoviny fusilli** 205 Kč
+* **MENU 2: Polévka + Segedínský vepřový guláš a domácí houskový knedlík** 205 Kč  
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml  
 
-* **Krémová polévka z kysaného zelí a uzeného vývaru, zdobená smaženým zelím a škvarečky** 35 Kč
+* **Jihočeská kulajda** 35 Kč
 * **Gulášová polévka** 35 Kč  
 
 ## HLAVNÍ JÍDLA
 
-* **Hovězí karabáček na víně, bramborová kaše** 205 Kč
-* **Čočka na kyselo, uzená rolovaná plec, okurka a cibulka** 185 Kč
-* **Smažený holandský řízek, bramborová kaše, okurka** 185 Kč
+* **Pikantní vepřová směs se zeleninou v bramboráku** 185 Kč
+* **Plněný paprikový lusk, rajská omáčka a těstoviny fusilli** 185 Kč
+* **Segedínský vepřový guláš a domácí houskový knedlík** 185 Kč
 * **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 185 Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek coleslaw** 195 Kč
 * **Hovězí guláš s cibulkou a beraním rohem, domácí houskový knedlík** 215 Kč
@@ -24,6 +24,6 @@ title: Denní menu CZ
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTATNĚ – 500ml
 
-* **Krémová polévka z kysaného zelí a uzeného vývaru, zdobená smaženým zelím a škvarečky nebo Gulášová polévka** 75 Kč
+* **Jihočeská kulajda nebo gulášová polévka** 75 Kč
 
-***Nabídka platí v sobotu 15.8. od 10:00 do zavírací hodiny nebo do vyprodání.***
+***Nabídka platí v neděli 16.8. od 10:00 do zavírací hodiny nebo do vyprodání.***
