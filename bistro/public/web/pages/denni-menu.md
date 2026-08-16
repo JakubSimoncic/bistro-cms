@@ -13,7 +13,7 @@ title: Denní menu CZ
 
 ## HLAVNÍ JÍDLA
 
-* **Špagety s kuřecím masem, smetanou, hříbky a parmazánem** 185 Kč
+* **Špagety s kuřecím masem, smetanou, hříbky a parmazánem** 215 Kč
 * **Savojské vepřové řízečky, bramborová kaše a okurka** 195 Kč
 * **Rozlítaný hovězí španělský ptáček, pečená jasmínová rýže** 205 Kč
 * **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 185 Kč
