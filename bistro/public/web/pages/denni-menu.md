@@ -26,4 +26,4 @@ title: Denní menu CZ
 
 * **Jihočeská kulajda nebo Čočková s uzeninou** 75 Kč
 
-***Nabídka platí v pondělí 17.8. od 10:00 do zavírací hodiny nebo do vyprodání.***
+***Nabídka platí v pondělí 17.8. od 10:30 do zavírací hodiny nebo do vyprodání.***
