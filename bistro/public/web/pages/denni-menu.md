@@ -3,7 +3,7 @@ title: Denní menu CZ
 ---
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)
 
-* **MENU 1: Polévka + Domácí špekový knedlík, dušené zelí, vídeňská cibulka, silná masová šťáva** 205 Kč
+* **MENU 1: Polévka + Domácí špekový knedlík, dušené zelí, vídeňská cibulka, silná masová šťáva** 195 Kč
 * **MENU 2: Polévka + Hovězí cikánská pečeně, pečená jasmínová rýže** 225 Kč
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
@@ -14,7 +14,7 @@ title: Denní menu CZ
 ## HLAVNÍ JÍDLA
 
 * **Kuřecí gyros v pšeničné tortille s česnekovou majonézou, zelným salátem a balkánským sýrem, hranolky** 195 Kč
-* **Domácí špekový knedlík, dušené zelí, vídeňská cibulka, silná masová šťáva** 185 Kč
+* **Domácí špekový knedlík, dušené zelí, vídeňská cibulka, silná masová šťáva** 175 Kč
 * **Hovězí cikánská pečeně, pečená jasmínová rýže** 205 Kč
 * **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 185 Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek coleslaw** 195 Kč
