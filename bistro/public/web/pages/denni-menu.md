@@ -9,7 +9,7 @@ title: Denní menu CZ
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml  
 
 * **Jihočeská kulajda** 35 Kč
-* **Francouzská cibulačka s parmazánem a krutony** 35 Kč  
+* **Čočková s uzeninou** 35 Kč  
 
 ## HLAVNÍ JÍDLA
 
@@ -24,6 +24,6 @@ title: Denní menu CZ
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTATNĚ – 500ml
 
-* **Jihočeská kulajda nebo francouzská cibulačka s parmazánem a krutony** 75 Kč
+* **Jihočeská kulajda nebo Čočková s uzeninou** 75 Kč
 
 ***Nabídka platí v pondělí 17.8. od 10:00 do zavírací hodiny nebo do vyprodání.***
