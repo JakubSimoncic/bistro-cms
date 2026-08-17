@@ -3,7 +3,7 @@ title: Denní menu - EN
 ---
 ## SPECIAL OFFER (soup + main course)
 
-* **MENU 1: Soup + Savoy fried pork schnitzel, mashed potatoes and pickles** 215 CZK
+* **MENU 1: Soup + Homemade meatloaf , mashed potatoes and pickles** 205 CZK
 * **MENU 2: Soup + Beef meat, meat sauce with sausage, eggs, pickles and bacon, baked jasmine rice** 225 CZK
 
 ## SMALL SOUP FOR THE MAIN COURSE – 250ml
@@ -13,8 +13,8 @@ title: Denní menu - EN
 
 ## MAIN COURSES
 
-* **Spaghetti with chicken meat, cream, mushrooms and parmesan cheese** 215 CZK
-* **Savoy fried pork schnitzel, mashed potatoes and pickles** 195 CZK
+* **Spaghetti with chicken meat, cream, mushrooms and parmesan cheese - SOLD OUT** 215 CZK
+* **Homemade meatloaf, mashed potatoes and pickles** 185 CZK
 * **Beef meat, meat sauce with sausage, eggs, pickles and bacon, baked jasmine rice** 205 CZK
 * **Grilled stuffed wheat tortilla of your choice and French Fries** 185 CZK
 * **Pulled pork in our BBQ sauce, roasted potatoes and coleslaw** 195 CZK
