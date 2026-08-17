@@ -3,7 +3,7 @@ title: Denní menu - EN
 ---
 ## SPECIAL OFFER (soup + main course)
 
-* **MENU 1: Soup + Homemade bacon dumplings, stewed cabbage, Viennese onion, strong meat gravy** 205 CZK
+* **MENU 1: Soup + Homemade bacon dumplings, stewed cabbage, Viennese onion, strong meat gravy** 195 CZK
 * **MENU 2: Soup + Roast beef meat (Gypsy style), Roasted Jasmine Rice** 225 CZK
 
 ## SMALL SOUP FOR THE MAIN COURSE – 250ml
@@ -14,7 +14,7 @@ title: Denní menu - EN
 ## MAIN COURSES
 
 * **Chicken gyros in wheat tortilla with garlic mayonnaise, cabbage salad and Balkan cheese, french fries** 195 CZK
-* **Homemade bacon dumplings, stewed cabbage, Viennese onion, strong meat gravy** 185 CZK
+* **Homemade bacon dumplings, stewed cabbage, Viennese onion, strong meat gravy** 175 CZK
 * **Roast beef meat (Gypsy style), Roasted Jasmine Rice** 195 CZK
 * **Grilled stuffed wheat tortilla of your choice and French Fries** 185 CZK
 * **Pulled pork in our BBQ sauce, roasted potatoes and coleslaw** 195 CZK
