@@ -25,4 +25,4 @@ title: Denní menu - EN
 ## LARGE SOUP ORDERED SEPARATELY – 500ml
 * **Kulajda soup or Lentils with sausage** 75 CZK
 
-***The offer is valid on Monday 17.8. from 10:00 a.m. to closing time or until sold out.***
+***The offer is valid on Monday 17.8. from 10:30 a.m. to closing time or until sold out.***
