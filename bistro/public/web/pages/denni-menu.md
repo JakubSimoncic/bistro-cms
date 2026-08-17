@@ -1,15 +1,15 @@
 ---
 title: Denní menu CZ
 ---
-## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)  
+## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)
 
 * **MENU 1: Polévka + Savojské vepřové řízečky, bramborová kaše a okurka** 215 Kč
-* **MENU 2: Polévka + Rozlítaný hovězí španělský ptáček, pečená jasmínová rýže** 225 Kč  
+* **MENU 2: Polévka + Rozlítaný hovězí španělský ptáček, pečená jasmínová rýže** 225 Kč
 
-## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml  
+## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
 * **Jihočeská kulajda** 35 Kč
-* **Čočková s uzeninou** 35 Kč  
+* **Čočková s uzeninou** 35 Kč
 
 ## HLAVNÍ JÍDLA
 
