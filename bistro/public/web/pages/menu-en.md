@@ -9,7 +9,7 @@ title: Denní menu - EN
 ## SMALL SOUP FOR THE MAIN COURSE – 250ml
 
 * **"Kulajda"- typical Czech creamy soup with dill, potatoes and mushrooms** 35 CZK
-* **French onion soup with parmesan cheese and croutons** 35 CZK
+* **Lentils with sausage** 35 CZK
 
 ## MAIN COURSES
 
@@ -23,6 +23,6 @@ title: Denní menu - EN
 * **Fried Cheese, French Fries and Tartar Sauce** 195 CZK
 
 ## LARGE SOUP ORDERED SEPARATELY – 500ml
-* **Kulajda soup or French onion soup with parmesan cheese and croutons** 75 CZK
+* **Kulajda soup or Lentils with sausage** 75 CZK
 
 ***The offer is valid on Monday 17.8. from 10:00 a.m. to closing time or until sold out.***
