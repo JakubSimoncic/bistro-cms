@@ -13,7 +13,7 @@ title: Denní menu CZ
 
 ## HLAVNÍ JÍDLA
 
-* **Smažený vídeňský telecí řízek, bramborový salát, citron ** 235 Kč
+* **Smažený vídeňský telecí řízek, bramborový salát, citron** 245 Kč
 * **Zapečené šunkofleky z uzených žeber a zelný salátek s křenem** 185 Kč
 * **Srbské vepřové rizoto sypané sýrem, kyselá okurka** 185 Kč
 * **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 185 Kč
