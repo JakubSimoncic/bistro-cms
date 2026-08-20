@@ -9,7 +9,7 @@ title: Denní menu - EN
 ## SMALL SOUP FOR THE MAIN COURSE – 250ml
 
 * **Peas soup with pepper sausage** 35 CZK
-* **Smoked rib broth with peas and rice** 35 CZK
+* **Old Bohemian potato soup** 35 CZK
 
 ## MAIN COURSES
 
