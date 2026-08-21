@@ -8,7 +8,7 @@ title: Denní menu CZ
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
-* **Hrachovka s paprikovou klobáskou** 35 Kč
+* **Hrachovka s paprikovou klobáskou a bylinkové krutony** 35 Kč
 * **Staročeská bramboračka** 35 Kč
 
 ## HLAVNÍ JÍDLA
