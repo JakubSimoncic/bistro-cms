@@ -9,7 +9,7 @@ title: Denní menu - EN
 ## SMALL SOUP FOR THE MAIN COURSE – 250ml
 
 * **French onion soup with cheese toast** 35 CZK
-* **Peas soup with pepper sausage** 35 CZK
+* **Peas soup with pepper sausage and croutons** 35 CZK
 
 ## MAIN COURSES
 
