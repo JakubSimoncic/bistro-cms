@@ -14,7 +14,7 @@ title: Denní menu - EN
 ## MAIN COURSES
 
 * **Pork meat, mushroom sauce and homemade dumplings** 185 CZK
-* **BBQ baked chicken wings seved with bread and Coleslaw** 195 CZK
+* **BBQ baked chicken wings served with bread and Coleslaw salad** 195 CZK
 * **Filleted pork tenderloin, green pepper sauce and roasted grenaille with rosemary** 245 CZK
 * **Serbian pork risotto with cheese, pickles** 185 CZK
 * **Pork cheeks in wine sauce and mashed potatoes** 185 CZK
