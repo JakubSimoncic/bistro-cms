@@ -17,7 +17,7 @@ title: Denní menu - EN
 * **BBQ baked chicken wings served with bread and Coleslaw salad** 195 CZK
 * **Filleted pork tenderloin, green pepper sauce and roasted grenaille with rosemary** 245 CZK
 * **Serbian pork risotto with cheese, pickles** 185 CZK
-* **Pork cheeks in wine sauce and mashed potatoes** 185 CZK
+* **Pork cheeks in wine sauce and mashed potatoes** 195 CZK
 * **Grilled stuffed wheat tortilla of your choice and French Fries** 185 CZK
 * **Pulled pork in our BBQ sauce, roasted potatoes and coleslaw** 195 CZK
 * **Beef goulash with onion, Czech-style peppers and homemade dumplings** 215 CZK
