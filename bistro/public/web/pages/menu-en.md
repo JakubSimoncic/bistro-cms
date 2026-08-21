@@ -3,19 +3,21 @@ title: Denní menu - EN
 ---
 ## SPECIAL OFFER (soup + main course)
 
-* **MENU 1: Soup + Pork liver on onion, baked jasmine rice** 195 CZK
-* **MENU 2: Soup + Beef meat on garlic, spinach, potato dumplings** 215 CZK
+* **MENU 1: Soup + Serbian pork risotto with cheese, pickles** 205 CZK
+* **MENU 2: Soup + Pork cheeks in wine sauce and mashed potatoes** 215 CZK
 
 ## SMALL SOUP FOR THE MAIN COURSE – 250ml
 
+* **French onion soup with cheese toast** 35 CZK
 * **Peas soup with pepper sausage** 35 CZK
-* **Old Bohemian potato soup** 35 CZK
 
 ## MAIN COURSES
 
-* **BBQ baked chicken wings, French Fries and Coleslaw** 195 CZK
-* **Pork liver on onion, baked jasmine rice** 175 CZK
-* **Beef meat on garlic, stewed spinach, potato dumplings** 195 CZK
+* **Pork meat, mushroom sauce and homemade dumplings** 185 CZK
+* **BBQ baked chicken wings seved with bread and Coleslaw** 195 CZK
+* **Filleted pork tenderloin, green pepper sauce and roasted grenaille with rosemary** 245 CZK
+* **Serbian pork risotto with cheese, pickles** 185 CZK
+* **Pork cheeks in wine sauce and mashed potatoes** 185 CZK
 * **Grilled stuffed wheat tortilla of your choice and French Fries** 185 CZK
 * **Pulled pork in our BBQ sauce, roasted potatoes and coleslaw** 195 CZK
 * **Beef goulash with onion, Czech-style peppers and homemade dumplings** 215 CZK
@@ -23,6 +25,6 @@ title: Denní menu - EN
 * **Fried Cheese, French Fries and Tartar Sauce** 195 CZK
 
 ## LARGE SOUP ORDERED SEPARATELY – 500ml
-* **Peas soup with pepper sausage or Old Bohemian potato soup** 75 CZK
+* **French onion soup with cheese toast or Peas soup with pepper sausage** 75 CZK
 
-***The offer is valid on Friday 21.8. from 10:30 a.m. to closing time or until sold out.***
+***The offer is valid on Saturday 22.8. from 10:30 a.m. to closing time or until sold out.***
