@@ -13,7 +13,7 @@ title: Denní menu - EN
 
 ## MAIN COURSES
 
-* **Fried veal schnitzel, potato salad, lemon** 245 CZK
+* **BBQ baked chicken wings, French Fries and Coleslaw** 195 CZK
 * **Pork liver on onion, baked jasmine rice** 175 CZK
 * **Beef meat on garlic, stewed spinach, potato dumplings** 195 CZK
 * **Grilled stuffed wheat tortilla of your choice and French Fries** 185 CZK
