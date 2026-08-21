@@ -13,7 +13,7 @@ title: Denní menu CZ
 
 ## HLAVNÍ JÍDLA
 
-* **Smažený vídeňský telecí řízek, bramborový salát, citron** 245 Kč
+* **BBQ kuřecí křídla, smažené hranolky a salátek coleslaw** 195 Kč
 * **Vepřová játra na cibulce, pečená jasmínová rýže** 175 Kč
 * **Hovězí na česneku, listový špenát, bramborový knedlík** 195 Kč
 * **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 185 Kč
