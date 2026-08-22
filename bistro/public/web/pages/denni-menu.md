@@ -8,7 +8,7 @@ title: Denní menu CZ
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
-* **Francouzská cibulačka se sýrovým toustem** 35 Kč
+* **Francouzská cibulačka s krutony a parmazánem** 35 Kč
 * **Hrachová polévka s paprikovou klobáskou a bylinkové krutony** 35 Kč
 
 ## HLAVNÍ JÍDLA
@@ -26,6 +26,6 @@ title: Denní menu CZ
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTATNĚ – 500ml
 
-* **Francouzská cibulačka se sýrovým toustem nebo hrachovka s paprikovou klobáskou** 75 Kč
+* **Francouzská cibulačka s krutony a parmazánem nebo hrachovka s paprikovou klobáskou** 75 Kč
 
 ***Nabídka platí v sobotu 22.8. od 10:30 do zavírací hodiny nebo do vyprodání.***
