@@ -8,7 +8,7 @@ title: Denní menu - EN
 
 ## SMALL SOUP FOR THE MAIN COURSE – 250ml
 
-* **French onion soup with cheese toast** 35 CZK
+* **French onion soup with croutons and parmesan** 35 CZK
 * **Peas soup with pepper sausage and croutons** 35 CZK
 
 ## MAIN COURSES
@@ -25,6 +25,6 @@ title: Denní menu - EN
 * **Fried Cheese, French Fries and Tartar Sauce** 195 CZK
 
 ## LARGE SOUP ORDERED SEPARATELY – 500ml
-* **French onion soup with cheese toast or Peas soup with pepper sausage** 75 CZK
+* **French onion soup with croutons and parmesan or Peas soup with pepper sausage** 75 CZK
 
 ***The offer is valid on Saturday 22.8. from 10:30 a.m. to closing time or until sold out.***
