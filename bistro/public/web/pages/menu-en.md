@@ -13,6 +13,7 @@ title: Denní menu - EN
 
 ## MAIN COURSES
 
+* **Beef meat with sauce with egg, sausage, pickles and bacon, rice or homemade dumplings** 195 CZK
 * **Pork knuckle, spinach leaf, homemade dumplings** 185 CZK
 * **Pork liver on bacon, baked jasmine rice** 175 CZK
 * **BBQ baked chicken wings served with bread and Coleslaw salad** 195 CZK
