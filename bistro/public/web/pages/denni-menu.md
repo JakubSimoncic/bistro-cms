@@ -13,6 +13,7 @@ title: Denní menu CZ
 
 ## HLAVNÍ JÍDLA
 
+* **Hovězí rozlítaný španělský ptáček s pečenou jasmínovou rýží nebo houskovým knedlíkem** 195 Kč
 * **Vepřové koleno, listový špenát, houskový knedlík** 185 Kč
 * **Vepřová játra na slanině, pečená jasmínová rýže** 175 Kč
 * **BBQ pečená kuřecí křídla s chlebem a salátek coleslaw** 195 Kč
