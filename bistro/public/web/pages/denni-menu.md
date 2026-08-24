@@ -24,6 +24,6 @@ title: Denní menu CZ
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTATNĚ – 500ml
 
-* **Frankfurtská nebo Květákový krém s krutony** 75 Kč
+* **Dršťková polévka nebo Kapustová s klobásou a brambory** 75 Kč
 
 ***Nabídka platí v úterý 25.8. od 10:30 do zavírací hodiny nebo do vyprodání.***
