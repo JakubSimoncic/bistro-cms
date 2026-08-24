@@ -13,7 +13,7 @@ title: Denní menu CZ
 
 ## HLAVNÍ JÍDLA
 
-* **Moravský vrabec, dušené zelí, bramborový knedlík** 185 Kč
+* **Moravský vrabec, bílé zelí, bramborový knedlík** 185 Kč
 * **Smažené žampiony, vařené brambory, tatarská omáčka** 175 Kč
 * **Boloňské špagety s mletým hovězím masem, parmazán** 185 Kč
 * **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 185 Kč
