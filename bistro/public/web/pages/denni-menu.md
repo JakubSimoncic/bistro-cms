@@ -14,7 +14,7 @@ title: Denní menu CZ
 ## HLAVNÍ JÍDLA
 
 * **Grilovaný vepřový špalíček z pečeně, zeleninové ratatouile, pečené rozmarýnové brambory** 195 Kč
-* **Kapustový karbanátek, bramborová kaše, kyselá okurka** 178 Kč
+* **Kapustový karbanátek, bramborová kaše, kyselá okurka** 185 Kč
 * **Plněný bramborový knedlík trhaným vepřovým masem, dušené bílé zelí, restovaná cibulka na sádle** 185 Kč
 * **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 185 Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek coleslaw** 195 Kč
