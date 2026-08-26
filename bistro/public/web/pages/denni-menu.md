@@ -3,19 +3,19 @@ title: Denní menu CZ
 ---
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)
 
-* **MENU 1: Polévka + Kapustový karbanátek, bramborová kaše, kyselá okurka** 205 Kč
-* **MENU 2: Polévka + Plněný bramborový knedlík trhaným vepřovým masem, dušené bílé zelí, restovaná cibulka na sádle** 205 Kč
+* **MENU 1: Polévka + Smažený hermelín, vařené brambory, tatarka** 205 Kč
+* **MENU 2: Polévka + Boloňské lasagne s mletým hovězím masem, zeleninový salátek s bazalkovým pestem** 215 Kč
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
-* **Dršťková polévka** 35 Kč
+* **Jihočeská kulajda** 35 Kč
 * **Květákový krém s bylinkovými krutony** 35 Kč
 
 ## HLAVNÍ JÍDLA
 
-* **Grilovaný vepřový špalíček z pečeně, zeleninové ratatouile, pečené rozmarýnové brambory** 195 Kč
-* **Kapustový karbanátek, bramborová kaše, kyselá okurka** 185 Kč
-* **Plněný bramborový knedlík trhaným vepřovým masem, dušené bílé zelí, restovaná cibulka na sádle** 185 Kč
+* **Vepřové nudličky Stroganoff, pečená jasmínová rýže** 185 Kč
+* **Smažený hermelín, vařené brambory, tatarka** 185 Kč
+* **Boloňské lasagne s mletým hovězím masem, zeleninový salátek s bazalkovým pestem** 195 Kč
 * **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 185 Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek coleslaw** 195 Kč
 * **Hovězí guláš s cibulkou a beraním rohem, domácí houskový knedlík** 215 Kč
@@ -24,6 +24,6 @@ title: Denní menu CZ
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTATNĚ – 500ml
 
-* **Dršťková polévka nebo Květákový krém s bylinkovými krutony** 75 Kč
+* **Jihočeská kulajda nebo Květákový krém s bylinkovými krutony** 75 Kč
 
-***Nabídka platí ve středu 26.8. od 10:30 do zavírací hodiny nebo do vyprodání.***
+***Nabídka platí ve čtvrtek 27.8. od 10:30 do zavírací hodiny nebo do vyprodání.***
