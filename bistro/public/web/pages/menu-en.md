@@ -9,7 +9,7 @@ title: Denní menu - EN
 ## SMALL SOUP FOR THE MAIN COURSE – 250ml
 
 * **Creamy dill soup** 35 CZK
-* **Cauliflower cream with herb croutons** 35 CZK
+* **Kale soup with pepper sausage and potatoes** 35 CZK
 
 ## MAIN COURSES
 
@@ -23,6 +23,6 @@ title: Denní menu - EN
 * **Fried Cheese, French Fries and Tartar Sauce** 195 CZK
 
 ## LARGE SOUP ORDERED SEPARATELY – 500ml
-* **Creamy dill soup or Cauliflower cream with herb croutons** 75 CZK
+* **Creamy dill soup or Kale soup with pepper sausage and potatoes** 75 CZK
 
-***The offer is valid on Thursday 26.8. from 10:30 a.m. to closing time or until sold out.***
+***The offer is valid on Thursday 27.8. from 10:30 a.m. to closing time or until sold out.***
