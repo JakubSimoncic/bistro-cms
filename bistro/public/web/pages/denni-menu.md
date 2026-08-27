@@ -9,7 +9,7 @@ title: Denní menu CZ
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
 * **Jihočeská kulajda** 35 Kč
-* **Květákový krém s bylinkovými krutony** 35 Kč
+* **Kapustová s paprikovou klobásou a bramborem** 35 Kč
 
 ## HLAVNÍ JÍDLA
 
@@ -24,6 +24,6 @@ title: Denní menu CZ
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTATNĚ – 500ml
 
-* **Jihočeská kulajda nebo Květákový krém s bylinkovými krutony** 75 Kč
+* **Jihočeská kulajda nebo Kapustová s paprikovou klobásou a bramborem** 75 Kč
 
 ***Nabídka platí ve čtvrtek 27.8. od 10:30 do zavírací hodiny nebo do vyprodání.***
