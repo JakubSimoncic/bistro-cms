@@ -3,19 +3,19 @@ title: Denní menu CZ
 ---
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)
 
-* **MENU 1: Polévka + Smažený hermelín, vařené brambory, tatarka** 205 Kč
-* **MENU 2: Polévka + Boloňské lasagne s mletým hovězím masem, zeleninový salátek s bazalkovým pestem** 215 Kč
+* **MENU 1: Polévka + Smažený květák s vařeným bramborem a tatarkou** 195 Kč
+* **MENU 2: Polévka + Segedínský guláš s houskovým knedlíkem** 205 Kč
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
 * **Jihočeská kulajda** 35 Kč
-* **Kapustová s paprikovou klobásou a bramborem** 35 Kč
+* **Bílá fazolová s uzeninou** 35 Kč
 
 ## HLAVNÍ JÍDLA
 
-* **Vepřové nudličky Stroganoff, pečená jasmínová rýže** 185 Kč
-* **Smažený hermelín, vařené brambory, tatarka** 185 Kč
-* **Boloňské lasagne s mletým hovězím masem, zeleninový salátek s bazalkovým pestem** 195 Kč
+* **Katův šleh se zeleninou, bramboráčky** 185 Kč
+* **Smažený květák s vařeným bramborem a tatarkou** 175 Kč
+* **Segedínský guláš s houskovým knedlíkem** 185 Kč
 * **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 185 Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek coleslaw** 195 Kč
 * **Hovězí guláš s cibulkou a beraním rohem, domácí houskový knedlík** 215 Kč
@@ -24,6 +24,6 @@ title: Denní menu CZ
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTATNĚ – 500ml
 
-* **Jihočeská kulajda nebo Kapustová s paprikovou klobásou a bramborem** 75 Kč
+* **Jihočeská kulajda nebo Bílá fazolová s uzeninou** 75 Kč
 
-***Nabídka platí ve čtvrtek 27.8. od 10:30 do zavírací hodiny nebo do vyprodání.***
+***Nabídka platí ve pátek 28.8. od 10:30 do zavírací hodiny nebo do vyprodání.***
