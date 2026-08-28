@@ -3,19 +3,20 @@ title: Denní menu - EN
 ---
 ## SPECIAL OFFER (soup + main course)
 
-* **MENU 1: Soup +  Fried cauliflower with boiled potatoes and tartar sauce** 195 CZK
-* **MENU 2: Soup + Pork goulash with cabbage, homemade dumplings** 205 CZK
+* **MENU 1: Soup +  Fried kale meatball with minced meat, mashed potatoes, pickles** 205 CZK
+* **MENU 2: Soup + Horseradish sauce with smoked meat, homemade dumplings** 205 CZK
 
 ## SMALL SOUP FOR THE MAIN COURSE – 250ml
 
-* **Creamy dill soup** 35 CZK
-* **White bean soup with sausage** 35 CZK
+* **Tripe soup** 35 CZK
+* **Bean soup with sausage** 35 CZK
 
 ## MAIN COURSES
 
-* **Pork spice meat with vegetables, potato pancakes** 185 CZK
-* **Fried cauliflower with boiled potatoes and tartar sauce** 175 CZK
-* **Pork goulash with cabbage, homemade dumplings** 185 CZK
+* **Meat of two colors (veal, tenderloin) on red curry with coconut milk, baked jasmine rice** 205 CZK
+* **Bolognese lasagna with minced meat and parmesan, vegetable salad with pesto** 195 CZK
+* **Fried kale meatball with minced meat, mashed potatoes, pickles** 185 CZK
+* **Horseradish sauce with smoked meat, homemade dumplings** 185 CZK
 * **Grilled stuffed wheat tortilla of your choice and French Fries** 185 CZK
 * **Pulled pork in our BBQ sauce, roasted potatoes and coleslaw** 195 CZK
 * **Beef goulash with onion, Czech-style peppers and homemade dumplings** 215 CZK
@@ -23,6 +24,6 @@ title: Denní menu - EN
 * **Fried Cheese, French Fries and Tartar Sauce** 195 CZK
 
 ## LARGE SOUP ORDERED SEPARATELY – 500ml
-* **Creamy dill soup or White bean soup with sausage** 75 CZK
+* **Tripe soup or Bean soup with sausage** 75 CZK
 
-***The offer is valid on Friday 28.8. from 10:30 a.m. to closing time or until sold out.***
+***The offer is valid on Saturday 29.8. from 10:30 a.m. to closing time or until sold out.***
