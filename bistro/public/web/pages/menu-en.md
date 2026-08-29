@@ -26,4 +26,4 @@ title: Denní menu - EN
 ## LARGE SOUP ORDERED SEPARATELY – 500ml
 * **Frankfurt soup or Goulash soup** 75 CZK
 
-***The offer is valid on Saturday 29.8. from 10:30 a.m. to closing time or until sold out.***
+***The offer is valid on Sunday 30.8. from 10:30 a.m. to closing time or until sold out.***
