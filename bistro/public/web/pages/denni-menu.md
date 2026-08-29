@@ -3,7 +3,7 @@ title: Denní menu CZ
 ---
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)
 
-* **MENU 1: Polévka + Smažený kapustový karbanátek s mletým masem, bramborová kaše, kyselá okurka** 205 Kč
+* **MENU 1: Polévka + Boloňské lasagne s mletým masem a parmazánem, zeleninový salátek s pestem** 215 Kč
 * **MENU 2: Polévka + Křenová omáčka s uzeným masem, houskový knedlík** 205 Kč
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
@@ -15,7 +15,6 @@ title: Denní menu CZ
 
 * **Maso dvou barev (telecí, panenka) na červeném kari s kokosovým mlékem, pečená jasmínová rýže** 205 Kč
 * **Boloňské lasagne s mletým masem a parmazánem, zeleninový salátek s pestem** 195 Kč
-* **Smažený kapustový karbanátek s mletým masem, bramborová kaše, kyselá okurka** 185 Kč
 * **Křenová omáčka s uzeným masem, houskový knedlík** 185 Kč
 * **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 185 Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek coleslaw** 195 Kč
