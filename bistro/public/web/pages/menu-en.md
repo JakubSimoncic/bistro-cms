@@ -25,4 +25,4 @@ title: Denní menu - EN
 ## LARGE SOUP ORDERED SEPARATELY – 500ml
 * **Beef broth with vegetables and liver riceor Goulash soup** 75 CZK
 
-***The offer is valid on Monday 30.8. from 10:30 a.m. to closing time or until sold out.***
+***The offer is valid on Monday 31.8. from 10:30 a.m. to closing time or until sold out.***
