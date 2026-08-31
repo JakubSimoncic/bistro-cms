@@ -3,19 +3,19 @@ title: Denní menu CZ
 ---
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)
 
-* **MENU 1: Polévka + Kuřecí nudličky na medu se zeleninou, jasmínová rýže** 215 Kč
-* **MENU 2: Polévka + Mexický vepřový guláš zdobený čedarem, bramboráčky** 205 Kč
+* **MENU 1: Polévka + Kuřecí paličky na paprice a těstoviny fusilli** 205 Kč
+* **MENU 2: Polévka + Smažený karbanátek, máslová bramborová kaše a okurka** 205 Kč
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
-* **Hovězí vývar se zeleninou a játrovou rýží** 35 Kč
-* **Gulášová polévka** 35 Kč
+* **Zelná polévka s klobásou** 35 Kč
+* **Krémová cibulačka s parmazánem a krutony** 35 Kč
 
 ## HLAVNÍ JÍDLA
 
-* **Smažené řízečky z vepřové panenky s domácím bramborovým salátem, citrón** 205 Kč
-* **Kuřecí nudličky na medu se zeleninou, jasmínová rýže** 195Kč
-* **Mexický vepřový guláš zdobený čedarem, bramboráčky** 185 Kč
+* **Vepřové výpečky, dušené bílé hlávkové zelí a domácí houskový knedlík** 185 Kč
+* **Kuřecí paličky na paprice a těstoviny fusilli** 185Kč
+* **Smažený karbanátek, máslová bramborová kaše a okurka** 185 Kč
 * **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 185 Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek coleslaw** 195 Kč
 * **Hovězí guláš s cibulkou a beraním rohem, domácí houskový knedlík** 215 Kč
@@ -24,6 +24,6 @@ title: Denní menu CZ
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTATNĚ – 500ml
 
-* **Hovězí vývar se zeleninou a játrovou rýží nebo Gulášová polévka** 75 Kč
+* **Zelná polévka s klobásou nebo krémová cibulačka s parmazánem a krutony** 75 Kč
 
-***Nabídka platí v pondělí 31.8. od 10:30 do zavírací hodiny nebo do vyprodání.***
+***Nabídka platí v úterý 1.9. od 10:30 do zavírací hodiny nebo do vyprodání.***
