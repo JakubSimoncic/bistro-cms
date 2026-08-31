@@ -4,7 +4,7 @@ title: Denní menu - EN
 ## SPECIAL OFFER (soup + main course)
 
 * **MENU 1: Soup + Chicken drumsticks with paprika creamy souce and fusilli pasta** 205 CZK
-* **MENU 2: Soup + Fried schnitzel from minced meat, mashed potatoes and pickles* 205 CZK
+* **MENU 2: Soup + Fried schnitzel from minced meat, mashed potatoes and pickles** 205 CZK
 
 ## SMALL SOUP FOR THE MAIN COURSE – 250ml
 
