@@ -3,19 +3,19 @@ title: Denní menu CZ
 ---
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)
 
-* **MENU 1: Polévka + Kuřecí paličky na paprice a těstoviny fusilli** 205 Kč
-* **MENU 2: Polévka + Smažený karbanátek, máslová bramborová kaše a okurka** 205 Kč
+* **MENU 1: Polévka + Vepřové na slanině, pečená jasmínová rýže** 205 Kč
+* **MENU 2: Polévka + Vepřová kýta Teriyaki, wasabi bramborová kaše a zeleninový salátek s fermentovanou ředkví** 215 Kč
 
 ## MALÁ POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
+* **Maďarská fazolová polévka s uzeninou** 35 Kč
 * **Zelná polévka s klobásou** 35 Kč
-* **Krémová cibulačka s parmazánem a krutony** 35 Kč
 
 ## HLAVNÍ JÍDLA
 
-* **Vepřové výpečky, dušené bílé hlávkové zelí a domácí houskový knedlík** 185 Kč
-* **Kuřecí paličky na paprice a těstoviny fusilli** 185Kč
-* **Smažený karbanátek, máslová bramborová kaše a okurka** 185 Kč
+* **Špagety Carbonara (pancetta, česnek, žloutek, parmazán)** 225 Kč
+* **Vepřové na slanině, pečená jasmínová rýže** 185Kč
+* **Vepřová kýta Teriyaki, wasabi bramborová kaše a zeleninový salátek s fermentovanou ředkví** 195 Kč
 * **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 185 Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek coleslaw** 195 Kč
 * **Hovězí guláš s cibulkou a beraním rohem, domácí houskový knedlík** 215 Kč
@@ -24,6 +24,6 @@ title: Denní menu CZ
 
 ## VELKÁ POLÉVKA OBJEDNANÁ SAMOSTATNĚ – 500ml
 
-* **Zelná polévka s klobásou nebo krémová cibulačka s parmazánem a krutony** 75 Kč
+* **Maďarská fazolová polévka s uzeninou nebo zelná polévka s klobásou** 75 Kč
 
-***Nabídka platí v úterý 1.9. od 10:30 do zavírací hodiny nebo do vyprodání.***
+***Nabídka platí ve středu 2.9. od 10:30 do zavírací hodiny nebo do vyprodání.***
