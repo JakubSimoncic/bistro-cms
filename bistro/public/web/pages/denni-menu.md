@@ -22,7 +22,7 @@ title: Denní menu CZ
 * **Kuřecí řízek, domácí bramborový salát, citron** 195 Kč
 * **Smažený sýr, hranolky a tatarská omáčka** 195 Kč
 
-## POLÉVKA OBJEDNANÁ SAMOSTATNĚ– 200ml / 500ml
+## POLÉVKA OBJEDNANÁ SAMOSTATNĚ– 250ml / 500ml
 
 * **Bramborová polévka nebo krémová cibulačka se sýrem a krutony** 55 / 75 Kč
 
