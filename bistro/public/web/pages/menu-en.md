@@ -3,19 +3,19 @@ title: Denní menu - EN
 ---
 ## SPECIAL OFFER (soup + main course)
 
-* **MENU 1: Soup + Pork roulade stuffed with English bacon, spinach and cheese, mashed potatoes** 205 CZK
-* **MENU 2: Soup + "Svíčková"-beef sirloin in vegetable creamy sauce and homemade dumplings** 235 CZK
+* **MENU 1: Soup + Pork roast Znojmo style, jasmine rice** 205 CZK
+* **MENU 2: Soup + Fried chicken Cordon bleu, mashed potatoes, lemon** 215 CZK
 
 ## SOUP FOR THE MAIN COURSE – 250ml
 
-* **Potato soup with vegetables** 35 CZK
-* **Creamy onion soup with cheese and croutons** 35 CZK
+* **Garlic soup with croutons and cheese** 35 CZK
+* **Potato soup** 35 CZK
 
 ## MAIN COURSES
 
-* **Pork tenderloin medallions, mushroom ragout and roasted potatoes** 205 CZK
-* **Pork roulade stuffed with English bacon, spinach and cheese, mashed potatoes** 185 CZK
-* **"Svíčková"- beef sirloin in vegetable creamy sauce and homemade dumplings** 215 CZK
+* **Fusilli with chicken, tomatoes, garlic, basil pesto, red onion, mozzarella, garnished with arugula leaves** 215 CZK
+* **Pork roast Znojmo style, jasmine rice** 185 CZK
+* **Fried chicken Cordon bleu, mashed potatoes, lemon** 195 CZK
 * **Grilled stuffed wheat tortilla of your choice and French Fries** 185 CZK
 * **Pulled pork in our BBQ sauce, roasted potatoes and coleslaw** 195 CZK
 * **Beef goulash with onion, Czech-style peppers and homemade dumplings** 215 CZK
@@ -23,6 +23,6 @@ title: Denní menu - EN
 * **Fried Cheese, French Fries and Tartar Sauce** 195 CZK
 
 ## SOUP ORDERED SEPARATELY – 250ml / 500ml
-* **Potato soup with vegetables or Creamy onion soup with cheese and croutons** 55 / 75 CZK
+* **Garlic soup with croutons and cheese or Potato soup** 55 / 75 CZK
 
-***The offer is valid on Thursday 3.9. from 10:30 a.m. to closing time or until sold out.***
+***The offer is valid on Friday 4.9. from 10:30 a.m. to closing time or until sold out.***
