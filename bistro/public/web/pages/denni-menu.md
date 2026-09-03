@@ -9,7 +9,7 @@ title: Denní menu CZ
 ## POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
 * **Česnečka s krutony a sýrem** 35 Kč
-* **Bramboračka** 35 Kč
+* **Bramborová polévka** 35 Kč
 
 ## HLAVNÍ JÍDLA
 
