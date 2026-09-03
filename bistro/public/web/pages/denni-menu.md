@@ -3,7 +3,7 @@ title: Denní menu CZ
 ---
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)
 
-* **MENU 1: Polévka + Vepřová pečeně po znojemskou, jasmínová rýže** 205 Kč
+* **MENU 1: Polévka + Vepřová pečeně po znojemsku, pečená jasmínová rýže** 205 Kč
 * **MENU 2: Polévka + Smažený kuřecí Cordon bleu, bramborová kaše, citron** 215 Kč
 
 ## POLÉVKA K HLAVNÍMU JÍDLU – 250ml
@@ -13,8 +13,8 @@ title: Denní menu CZ
 
 ## HLAVNÍ JÍDLA
 
-* **Fusilli s kuřecím masem, rajčaty, česnekem, bazalkovým pestem, červenou cibuli, mozzarellou, zdobenou lístky rukoly** 215 Kč
-* **Vepřová pečeně po znojemskou, jasmínová rýže** 185 Kč
+* **Fusilli s kuřecím masem, rajčaty, česnekem, bazalkovým pestem, červenou cibulí, mozzarellou a zdobené rukolou** 215 Kč
+* **Vepřová pečeně po znojemsku, pečená jasmínová rýže** 185 Kč
 * **Smažený kuřecí Cordon bleu, bramborová kaše, citron** 195 Kč
 * **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 185 Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek coleslaw** 195 Kč
@@ -24,6 +24,6 @@ title: Denní menu CZ
 
 ## POLÉVKA OBJEDNANÁ SAMOSTATNĚ– 250ml / 500ml
 
-* **Česnečka s krutony a sýrem nebo Bramborová** 55 / 75 Kč
+* **Česnečka s krutony a sýrem nebo bramborová polévka** 55 / 75 Kč
 
 ***Nabídka platí ve pátek 4.9. od 10:30 do zavírací hodiny nebo do vyprodání.***
