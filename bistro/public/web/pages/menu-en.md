@@ -3,7 +3,7 @@ title: Denní menu - EN
 ---
 ## SPECIAL OFFER (soup + main course)
 
-* **MENU 1: Soup + Pork roast Znojmo style, jasmine rice** 205 CZK
+* **MENU 1: Soup + Pork meat, meat souce with pickles and baked jasmine rice** 205 CZK
 * **MENU 2: Soup + Fried chicken Cordon bleu, mashed potatoes, lemon** 215 CZK
 
 ## SOUP FOR THE MAIN COURSE – 250ml
@@ -13,8 +13,8 @@ title: Denní menu - EN
 
 ## MAIN COURSES
 
-* **Fusilli with chicken, tomatoes, garlic, basil pesto, red onion, mozzarella, garnished with arugula leaves** 215 CZK
-* **Pork roast Znojmo style, jasmine rice** 185 CZK
+* **Fusilli with chicken meat, tomatoes, garlic, basil pesto, red onion, mozzarella and garnished with arugula leaves** 215 CZK
+* **Pork meat, meat souce with pickles and baked jasmine rice** 185 CZK
 * **Fried chicken Cordon bleu, mashed potatoes, lemon** 195 CZK
 * **Grilled stuffed wheat tortilla of your choice and French Fries** 185 CZK
 * **Pulled pork in our BBQ sauce, roasted potatoes and coleslaw** 195 CZK
