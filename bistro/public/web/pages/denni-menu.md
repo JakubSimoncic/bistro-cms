@@ -13,8 +13,8 @@ title: Denní menu CZ
 
 ## HLAVNÍ JÍDLA
 
-* **Vepřová roláda plněná anglickou slaninou, špenátem a sýrem, šťouchané brambory** 195 Kč
-* **Vepřová kýta Teriyaki, šťouchané brambory, salátek se zázvorem a fermentovanou ředkví** 195 Kč
+* **Vepřová roláda plněná anglickou slaninou, špenátem a sýrem, bramborová kaše** 195 Kč
+* **Vepřová kýta Teriyaki, bramborová kaše, salátek se zázvorem a fermentovanou ředkví** 195 Kč
 * **Vepřový Stroganoff, pečená jasmínová rýže** 185 Kč
 * **Kuřecí maso na paprice těstoviny Fusilli** 185 Kč
 * **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 185 Kč
