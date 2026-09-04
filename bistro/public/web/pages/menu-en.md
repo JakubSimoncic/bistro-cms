@@ -3,19 +3,20 @@ title: Denní menu - EN
 ---
 ## SPECIAL OFFER (soup + main course)
 
-* **MENU 1: Soup + Pork meat, meat souce with pickles and baked jasmine rice** 205 CZK
-* **MENU 2: Soup + Fried chicken Cordon bleu, mashed potatoes, lemon - SOLD OUT** 215 CZK
+* **MENU 1: Soup + Pork Stroganoff and baked jasmine rice** 205 CZK
+* **MENU 2: Soup + Chicken meat with creamy pepper sauce and Fusilli pasta** 205 CZK
 
 ## SOUP FOR THE MAIN COURSE – 250ml
 
-* **Garlic soup with croutons and cheese** 35 CZK
+* **Cabbage soup with pepper sausage** 35 CZK
 * **Potato soup** 35 CZK
 
 ## MAIN COURSES
 
-* **Fusilli with chicken meat, tomatoes, garlic, basil pesto, red onion, mozzarella and garnished with arugula leaves - SOLD OUT** 215 CZK
-* **Pork meat, meat souce with pickles and baked jasmine rice** 185 CZK
-* **Fried chicken Cordon bleu, mashed potatoes, lemon - SOLD OUT** 195 CZK
+* **Pork roulade stuffed with English bacon, spinach and cheese, mashed potatoes** 195 CZK
+* **Pork meat Teriyaki, mashed potatoes, salad with ginger and fermented radish** 195 CZK
+* **Pork Stroganoff and baked jasmine rice** 185 CZK
+* **Chicken meat with creamy pepper sauce and Fusilli pasta** 185 CZK
 * **Grilled stuffed wheat tortilla of your choice and French Fries** 185 CZK
 * **Pulled pork in our BBQ sauce, roasted potatoes and coleslaw** 195 CZK
 * **Beef goulash with onion, Czech-style peppers and homemade dumplings** 215 CZK
@@ -25,4 +26,4 @@ title: Denní menu - EN
 ## SOUP ORDERED SEPARATELY – 250ml / 500ml
 * **Garlic soup with croutons and cheese or Potato soup** 55 / 75 CZK
 
-***The offer is valid on Friday 4.9. from 10:30 a.m. to closing time or until sold out.***
+***The offer is valid on Saturday 5.9. from 10:30 a.m. to closing time or until sold out.***
