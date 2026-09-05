@@ -3,20 +3,19 @@ title: Denní menu CZ
 ---
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)
 
-* **MENU 1: Polévka + Vepřový Stroganoff, pečená jasmínová rýže** 205 Kč
-* **MENU 2: Polévka + Kuřecí maso na paprice, těstoviny Fusilli** 205 Kč
+* **MENU 1: Polévka + Vepřové výpečky, dušené hlávkové bílé zelí a domácí houskový knedlík** 205 Kč
+* **MENU 2: Polévka + Hovězí znojemská pečeně a pečená jasmínová rýže** 215 Kč
 
 ## POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
-* **Zelná polévka s paprikovou klobásou** 35 Kč
-* **Bramborová polévka** 35 Kč
+* **Hovězí vývar s masem, zeleninou a celestýnskými nudlemi** 35 Kč
+* **Česnečka se sýrem a krutony** 35 Kč
 
 ## HLAVNÍ JÍDLA
 
-* **Vepřová roláda plněná anglickou slaninou, špenátem a sýrem, bramborová kaše** 195 Kč
-* **Vepřová kýta Teriyaki, bramborová kaše, salátek se zázvorem a fermentovanou ředkví** 195 Kč
-* **Vepřový Stroganoff, pečená jasmínová rýže** 185 Kč
-* **Kuřecí maso na paprice těstoviny Fusilli** 185 Kč
+* **Pikantní kuřecí nudličky na medu se zeleninou a pečená jasmínová rýže** 195 Kč
+* **Vepřové výpečky, dušené hlávkové bílé zelí a domácí houskový knedlík** 185 Kč
+* **Hovězí znojemská pečeně a pečená jasmínová rýže** 195 Kč
 * **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 185 Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek coleslaw** 195 Kč
 * **Hovězí guláš s cibulkou a beraním rohem, domácí houskový knedlík** 215 Kč
@@ -25,6 +24,6 @@ title: Denní menu CZ
 
 ## POLÉVKA OBJEDNANÁ SAMOSTATNĚ– 250ml / 500ml
 
-* **Zelná polévka s paprikovou klobásou nebo bramborová polévka** 55 / 75 Kč
+* ** Hovězí vývar s masem, zeleninou a celestýnskými nudlemi nebo česnečka se sýrem a krutony ** 55 / 75 Kč
 
-***Nabídka platí v sobotu 5.9. od 10:30 do zavírací hodiny nebo do vyprodání.***
+***Nabídka platí v neděli 6.9. od 10:30 do zavírací hodiny nebo do vyprodání.***
