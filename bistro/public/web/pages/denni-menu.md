@@ -24,6 +24,6 @@ title: Denní menu CZ
 
 ## POLÉVKA OBJEDNANÁ SAMOSTATNĚ– 250ml / 500ml
 
-* ** Hovězí vývar s masem, zeleninou a celestýnskými nudlemi nebo česnečka se sýrem a krutony ** 55 / 75 Kč
+* **Hovězí vývar s masem, zeleninou a celestýnskými nudlemi nebo česnečka se sýrem a krutony** 55 / 75 Kč
 
 ***Nabídka platí v neděli 6.9. od 10:30 do zavírací hodiny nebo do vyprodání.***
