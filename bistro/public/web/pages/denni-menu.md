@@ -3,7 +3,7 @@ title: Denní menu CZ
 ---
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)
 
-* **MENU 1: Polévka + Vepřové výpečky, dušené hlávkové bílé zelí a domácí houskový knedlík** 205 Kč
+* **MENU 1: Polévka + Vepřové výpečky, dušené hlávkové bílé zelí a domácí houskový knedlík - VYPRODÁNO** 205 Kč
 * **MENU 2: Polévka + Hovězí znojemská pečeně a pečená jasmínová rýže** 215 Kč
 
 ## POLÉVKA K HLAVNÍMU JÍDLU – 250ml
@@ -14,7 +14,7 @@ title: Denní menu CZ
 ## HLAVNÍ JÍDLA
 
 * **Pikantní kuřecí nudličky na medu se zeleninou a pečená jasmínová rýže** 195 Kč
-* **Vepřové výpečky, dušené hlávkové bílé zelí a domácí houskový knedlík** 185 Kč
+* **Vepřové výpečky, dušené hlávkové bílé zelí a domácí houskový knedlík - VYPRODÁNO** 185 Kč
 * **Hovězí znojemská pečeně a pečená jasmínová rýže** 195 Kč
 * **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 185 Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek coleslaw** 195 Kč
