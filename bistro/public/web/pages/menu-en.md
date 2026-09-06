@@ -3,7 +3,7 @@ title: Denní menu - EN
 ---
 ## SPECIAL OFFER (soup + main course)
 
-* **MENU 1: Soup + Pork meat , braised white cabbage and homemade dumplings** 205 CZK
+* **MENU 1: Soup + Chicken meat with creamy pepper sauce and Fusilli** 205 CZK
 * **MENU 2: Soup + Beef meat, meat sauce with pickles and baked jasmine rice** 215 CZK
 
 ## SOUP FOR THE MAIN COURSE – 250ml
@@ -14,7 +14,7 @@ title: Denní menu - EN
 ## MAIN COURSES
 
 * **Spicy chicken noodles in honey and vegetables, baked jasmine rice** 195 CZK
-* **Pork meat , braised white cabbage and homemade dumplings** 185 CZK
+* **Chicken meat with creamy pepper sauce and Fusilli** 185 CZK
 * **Beef meat, meat sauce with pickles and baked jasmine rice** 195 CZK
 * **Grilled stuffed wheat tortilla of your choice and French Fries** 185 CZK
 * **Pulled pork in our BBQ sauce, roasted potatoes and coleslaw** 195 CZK
