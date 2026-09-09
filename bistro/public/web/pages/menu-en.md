@@ -15,7 +15,7 @@ title: Denní menu - EN
 
 * **Parmesan risotto with filleted pork tenderloin meat** 225 CZK
 * **Chicken ala duck, red cabbage and potato dumplings** 185 CZK
-* **Beef chilli con Carne with beans, baked jasmine rice** 195 CZK
+* **Beef Chilli con Carne with beans, baked jasmine rice** 195 CZK
 * **Grilled stuffed wheat tortilla of your choice and French Fries** 185 CZK
 * **Pulled pork in our BBQ sauce, roasted potatoes and coleslaw** 195 CZK
 * **Beef goulash with onion, Czech-style peppers and homemade dumplings** 235 CZK
