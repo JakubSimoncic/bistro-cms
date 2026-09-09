@@ -14,7 +14,7 @@ title: Denní menu CZ
 
 * **Parmazánové rizoto s filírovanou vepřovou panenkou** 225 Kč
 * **Kuře ala kachna, červené zelí a bramborový knedlík** 185 Kč
-* **Chilli con Carne, pečená jasmínová rýže** 195 Kč
+* **Hovězí Chilli con Carne, pečená jasmínová rýže** 195 Kč
 * **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 185 Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek coleslaw** 195 Kč
 * **Hovězí guláš s cibulkou a beraním rohem, domácí houskový knedlík** 235 Kč
