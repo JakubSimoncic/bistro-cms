@@ -7,12 +7,12 @@ title: Denní menu CZ
 * **MENU 2: Polévka + Chilli con Carne, pečená jasmínová rýže** 225 Kč
 ## POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
-* **Frankfurtská polévka s uzeninou** 35 Kč
+* **Frankfurtská polévka s párkem** 35 Kč
 * **Dršťková polévka z hlívy ústřičné** 35 Kč
 
 ## HLAVNÍ JÍDLA
 
-* **Parmazánové rizoto s filírovanou vepřovou panenkou** 225 Kč
+* **Parmazánové rizoto s filírovanou vepřovou panenkou** 215 Kč
 * **Kuře ala kachna, červené zelí a bramborový knedlík** 185 Kč
 * **Hovězí Chilli con Carne, pečená jasmínová rýže** 195 Kč
 * **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 185 Kč
@@ -23,6 +23,6 @@ title: Denní menu CZ
 
 ## POLÉVKA OBJEDNANÁ SAMOSTATNĚ– 250ml / 500ml
 
-* **Frankfurtská polévka s uzeninou nebo dršťková polévka z hlívy ústřičné** 55 / 75 Kč
+* **Frankfurtská polévka s párkem nebo dršťková polévka z hlívy ústřičné** 55 / 75 Kč
 
 ***Nabídka platí ve čtvrtek 10.9. od 10:30 do zavírací hodiny nebo do vyprodání.***
