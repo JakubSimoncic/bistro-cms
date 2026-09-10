@@ -4,7 +4,7 @@ title: Denní menu CZ
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)
 
 * **MENU 1: Polévka + Kuře ala kachna, červené zelí a bramborový knedlík** 205 Kč
-* **MENU 2: Polévka + Chilli con Carne, pečená jasmínová rýže** 225 Kč
+* **MENU 2: Polévka + Chilli con Carne, pečená jasmínová rýže** 215 Kč
 ## POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
 * **Frankfurtská polévka s párkem** 35 Kč
