@@ -4,7 +4,7 @@ title: Denní menu - EN
 ## SPECIAL OFFER (soup + main course)
 
 * **MENU 1: Soup + Chicken ala duck, red cabbage and potato dumplings** 205 CZK
-* **MENU 2: Soup + Beef chilli con Carne, baked jasmine rice** 225 CZK
+* **MENU 2: Soup + Beef chilli con Carne, baked jasmine rice** 215 CZK
 ## SOUP FOR THE MAIN COURSE – 250ml
 
 * **Frankfurter soup with sausage** 35 CZK
