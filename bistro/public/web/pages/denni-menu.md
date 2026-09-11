@@ -3,18 +3,20 @@ title: Denní menu CZ
 ---
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)
 
-* **MENU 1: Polévka + Kuřecí nudličky Gyros, smažené hranolky a tzatziki** 205 Kč
-* **MENU 2: Polévka + Cikánská hovězí pečeně, pečená jasmínová rýže** 215 Kč
+* **MENU 1: Polévka + Zapečené smetanové brambory s vepřovým masem, anglickou slaninou a uzeným sýrem, salátek Coleslaw** 205 Kč
+* **MENU 2: Polévka + Hovězí Chilli con Carne, pečená jasmínová rýže a zdobené smaženou tortillou** 215 Kč
+
 ## POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
+* **Gulášová polévka** 35 Kč
 * **Brokolicový krém s bylinkovými krutony** 35 Kč
-* **Frankfurtská polévka s párkem** 35 Kč
 
 ## HLAVNÍ JÍDLA
 
 * **Smažený holandský řízek, máslová bramborová kaše a kyselá okurka** 185 Kč
-* **Kuřecí nudličky Gyros, smažené hranolky a tzatziki** 185 Kč
-* **Cikánská hovězí pečeně, pečená jasmínová rýže** 195 Kč
+* **Koprová omáčka s hovězím masem, domácí houskový knedlík** 215 Kč
+* **Zapečené smetanové brambory s vepřovým masem, anglickou slaninou a uzeným sýrem, salátek Coleslaw** 185 Kč
+* **Hovězí Chilli con Carne, pečená jasmínová rýže a zdobené smaženou tortillou** 195 Kč
 * **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 185 Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek coleslaw** 195 Kč
 * **Hovězí guláš s cibulkou a beraním rohem, domácí houskový knedlík** 235 Kč
@@ -23,6 +25,6 @@ title: Denní menu CZ
 
 ## POLÉVKA OBJEDNANÁ SAMOSTATNĚ– 250ml / 500ml
 
-* **Brokolicový krém s bylinkovými krutony nebo frankfurtská polévka s párkem** 55 / 75 Kč
+* **Gulášová polévka nebo brokolicový krém s bylinkovými krutony** 55 / 75 Kč
 
-***Nabídka platí v pátek 11.9. od 10:30 do zavírací hodiny nebo do vyprodání.***
+***Nabídka platí v sobotu 12.9. od 10:30 do zavírací hodiny nebo do vyprodání.***
