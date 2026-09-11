@@ -16,7 +16,7 @@ title: Denní menu - EN
 * **Fried schnitzel from minced meat, mashed potatoes and pickles** 185 CZK
 * **Beef meat in creamy dill sauce and homemade dumplings** 215 CZK
 * **Creamy baked potatoes with pork meat, English bacon and smoked cheese; coleslaw** 185 CZK
-* **Beef Chili con Carne, baked jasmine rice, garnished with fried tortilla strip** 195 CZK
+* **Beef Chilli con Carne, baked jasmine rice, garnished with fried tortilla strip** 195 CZK
 * **Grilled stuffed wheat tortilla of your choice and French Fries** 185 CZK
 * **Pulled pork in our BBQ sauce, roasted potatoes and coleslaw** 195 CZK
 * **Beef goulash with onion, Czech-style peppers and homemade dumplings** 235 CZK
