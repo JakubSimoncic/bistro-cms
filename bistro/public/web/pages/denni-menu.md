@@ -12,7 +12,7 @@ title: Denní menu CZ
 
 ## HLAVNÍ JÍDLA
 
-* **Smažený holandský řízek, máslová bramborová kaše a kyselá okurka** 195 Kč
+* **Smažený holandský řízek, máslová bramborová kaše a kyselá okurka** 185 Kč
 * **Kuřecí nudličky Gyros, smažené hranolky a tzatziki** 185 Kč
 * **Cikánská hovězí pečeně, pečená jasmínová rýže** 195 Kč
 * **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 185 Kč
