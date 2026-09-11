@@ -13,7 +13,7 @@ title: Denní menu - EN
 
 ## MAIN COURSES
 
-* **Fried schnitzel from minced meat, mashed potatoes and pickles** 195 CZK
+* **Fried schnitzel from minced meat, mashed potatoes and pickles** 185 CZK
 * **Chicken Gyros noodles, French Fries and tzatziki** 185 CZK
 * **Gypsy beef roast meat and sauce, baked jasmine rice** 195 CZK
 * **Grilled stuffed wheat tortilla of your choice and French Fries** 185 CZK
