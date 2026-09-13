@@ -3,19 +3,18 @@ title: Denní menu - EN
 ---
 ## SPECIAL OFFER (soup + main course)
 
-* **MENU 1: Soup + Baked pork meat, white cabbage, bread dumplings** 205 CZK
+* **MENU 1: Soup + Homemade meatloaf, potato salad** 205 CZK
 * **MENU 2: Soup + Roast Gypsy Beef, Roasted Jasmine Rice** 235 CZK
 
 ## SOUP FOR THE MAIN COURSE – 250ml
 
 * **Tripe with Oyster mushroom** 35 CZK
-* **Cabbage soup with sausage** 35 CZK
+* **Cabbage soup with sausage - SOLD OUT** 35 CZK
 
 ## MAIN COURSES
 
 * **Homemade meatloaf, potato salad** 185 CZK
-* **Chinese Chicken Strips, Roasted Jasmine Rice** 185 CZK
-* **Baked pork meat, white cabbage, bread dumplings** 185 CZK
+* **Chinese Chicken Strips, Roasted Jasmine Rice - SOLD OUT** 185 CZK
 * **Roast Gypsy Beef, Roasted Jasmine Rice** 215 CZK
 * **Grilled stuffed wheat tortilla of your choice and French Fries** 185 CZK
 * **Pulled pork in our BBQ sauce, roasted potatoes and coleslaw** 195 CZK
