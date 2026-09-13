@@ -3,8 +3,8 @@ title: Denní menu CZ
 ---
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)
 
-* **MENU 1: Polévka + Drůbeží játra na cibulce, pečená jasmínová rýže** 205 Kč
-* **MENU 2: Polévka + Segedínský vepřový guláš, houskový knedlík** 235 Kč
+* **MENU 1: Polévka + Drůbeží játra na cibulce, pečená jasmínová rýže** 195 Kč
+* **MENU 2: Polévka + Segedínský vepřový guláš, houskový knedlík** 205 Kč
 
 ## POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
