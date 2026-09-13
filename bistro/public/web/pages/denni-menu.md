@@ -13,7 +13,7 @@ title: Denní menu CZ
 
 ## HLAVNÍ JÍDLA
 
-* **Vepřové řízečky z vepřové panenky, bramborový salát** 195 Kč
+* **Řízečky z vepřové panenky, bramborový salát** 195 Kč
 * **Drůbeží játra na cibulce, pečená jasmínová rýže** 185 Kč
 * **Segedínský vepřový guláš, houskový knedlík** 175 Kč
 * **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 185 Kč
