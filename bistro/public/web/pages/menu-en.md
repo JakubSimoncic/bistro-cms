@@ -14,8 +14,8 @@ title: Denní menu - EN
 ## MAIN COURSES
 
 * **Pork tenderloin schnitzels, potato salad** 195 CZK
-* **Poultry liver with onion, baked jasmine rice** 185 CZK
-* **Roast Gypsy Beef, Roasted Jasmine Rice** 175 CZK
+* **Poultry liver with onion, baked jasmine rice** 175 CZK
+* **Pork gouslash with cabbage, homemade dumplings** 185 CZK
 * **Grilled stuffed wheat tortilla of your choice and French Fries** 185 CZK
 * **Pulled pork in our BBQ sauce, roasted potatoes and coleslaw** 195 CZK
 * **Beef goulash with onion, Czech-style peppers and homemade dumplings** 235 CZK
