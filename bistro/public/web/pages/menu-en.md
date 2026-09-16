@@ -3,19 +3,19 @@ title: Denní menu - EN
 ---
 ## SPECIAL OFFER (soup + main course)
 
-* **MENU 1: Soup + Fried cauliflower, boiled potatoes, tartar sauce** 195 CZK
-* **MENU 2: Soup + Pea porridge, smoked pork meat, onion, pickles** 205 CZK
+* **MENU 1: Soup + Beer-braised pork flank meat, mashed potatoes** 205 CZK
+* **MENU 2: Soup + Beef roast meat, meat sauce with eggs and baked jasmine rice** 215 CZK
 
 ## SOUP FOR THE MAIN COURSE – 250ml
 
-* **Creamy dill soup** 35 CZK
-* **Borscht with sour cream** 35 CZK
+* **Tripe soup** 35 CZK
+* **Creamy dill soup with potatoes and mushrooms** 35 CZK
 
 ## MAIN COURSES
 
-* **Spicy meat mixture with vegetables (pork tenderloin and chicken), baked jasmine rice** 185 CZK
-* **Fried cauliflower, boiled potatoes, tartar sauce** 175 CZK
-* **Pea porridge, smoked pork meat, onion, pickle** 185 CZK
+* **Fusilli pasta with chicken meat, leaf spinach, garlic, cream and parmesan cheese** 215 CZK
+* **Beer-braised pork flank meat, mashed potatoes** 185 CZK
+* **Beef roast meat, meat sauce with eggs and baked jasmine rice** 195 CZK
 * **Grilled stuffed wheat tortilla of your choice and French Fries** 185 CZK
 * **Pulled pork in our BBQ sauce, roasted potatoes and coleslaw** 195 CZK
 * **Beef goulash with onion, Czech-style peppers and homemade dumplings** 235 CZK
@@ -23,6 +23,6 @@ title: Denní menu - EN
 * **Fried Cheese, French Fries and Tartar Sauce** 195 CZK
 
 ## SOUP ORDERED SEPARATELY – 250ml / 500ml
-* **Creamy dill soup or Borscht with sour cream** 55 / 75 CZK
+* **Tripe soup or Creamy dill soup with potatoes and mushrooms** 55 / 75 CZK
 
-***The offer is valid on Wednesday 16.9. from 10:30 a.m. to closing time or until sold out.***
+***The offer is valid on Thursday 17.9. from 10:30 a.m. to closing time or until sold out.***
