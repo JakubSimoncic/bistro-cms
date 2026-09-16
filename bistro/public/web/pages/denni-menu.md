@@ -18,7 +18,7 @@ title: Denní menu CZ
 * **Hrachová kaše, uzená plec, cibulka, kyselá okurka** 185 Kč
 * **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 185 Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek coleslaw** 195 Kč
-* **Hovězí guláš s cibulkou a beraním rohem, domácí houskový knedlík** 215 Kč
+* **Hovězí guláš s cibulkou a beraním rohem, domácí houskový knedlík** 235 Kč
 * **Kuřecí řízek, domácí bramborový salát, citron** 195 Kč
 * **Smažený sýr, hranolky a tatarská omáčka** 195 Kč
 
