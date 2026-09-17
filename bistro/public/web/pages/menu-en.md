@@ -1,7 +1,7 @@
 ---
 title: Denní menu - EN
 ---
-## SPECIAL OBeef brFFER (soup + main course)
+## SPECIAL OFFER (soup + main course)
 
 * **MENU 1: Soup + Beef chilli con carne, roasted jasmine rice** 205 CZK
 * **MENU 2: Soup + Fried chicken Cordon bleu, mashed potatoes, lemon** 215 CZK
