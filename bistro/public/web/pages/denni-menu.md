@@ -3,19 +3,20 @@ title: Denní menu CZ
 ---
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)
 
-* **MENU 1: Polévka + Hovězí chilli con carne, pečená jasmínová rýže** 205 Kč
-* **MENU 2: Polévka + Smažený kuřecí Cordon bleu, bramborová kaše, citron** 215 Kč
+* **MENU 1: Polévka + Drůbeží játra na cibulce, pečená jasmínová rýže** 205 Kč
+* **MENU 2: Polévka + Vepřové na houbách, pečená jasmínová rýže nebo houskový knedlík** 205 Kč
 
 ## POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
-* **Hovězí vývar se zeleninou a játrovou rýží** 35 Kč
-* **Dršťková polévka** 35 Kč
+* **Jihočeská kulajda** 35 Kč
+* **Boršč se zakysanou smetanou** 35 Kč
 
 ## HLAVNÍ JÍDLA
 
-* **Vepřové na paprice, houskový knedlík nebo těstoviny Fusilli** 185 Kč
-* **Hovězí chilli con carne, pečená jasmínová rýže** 185 Kč
-* **Smažený kuřecí Cordon bleu, bramborová kaše, citron** 195 Kč
+* **Pikantní masová směs se zeleninou, hranolky** 185 Kč
+* **Domácí sekaná s bramborovým salátem** 185 Kč
+* **Drůbeží játra na cibulce, pečená jasmínová rýže** 185 Kč
+* **Vepřové na houbách, pečená jasmínová rýže nebo houskový knedlík** 185 Kč
 * **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 185 Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek coleslaw** 195 Kč
 * **Hovězí guláš s cibulkou a beraním rohem, domácí houskový knedlík** 235 Kč
@@ -24,6 +25,6 @@ title: Denní menu CZ
 
 ## POLÉVKA OBJEDNANÁ SAMOSTATNĚ– 250ml / 500ml
 
-* **Hovězí vývar se zeleninou a játrovou rýží nebo Dršťková polévka** 55 / 75 Kč
+* **Jihočeská kulajda nebo Boršč se zakysanou smetanou** 55 / 75 Kč
 
-***Nabídka platí ve pátek 18.9. od 10:30 do zavírací hodiny nebo do vyprodání.***
+***Nabídka platí v sobotu 19.9. od 10:30 do zavírací hodiny nebo do vyprodání.***
