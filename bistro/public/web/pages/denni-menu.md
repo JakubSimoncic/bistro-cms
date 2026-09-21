@@ -3,19 +3,19 @@ title: Denní menu CZ
 ---
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)
 
-* **MENU 1: Polévka + Srbské vepřové rizoto sypané sýrem, kyselá okurka** 205 Kč
-* **MENU 2: Polévka + Hovězí rajská pečeně, houskový knedlík** 215 Kč
+* **MENU 1: Polévka + Hovězí burrito v tortille s fazolovou pastou, rýží, cibuli, paprikou, čedarem, hranolky a zakysaná smetana** 215 Kč
+* **MENU 2: Polévka + Savojské řízečky, bramborová kaše, okurka** 205 Kč
 
 ## POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
+* **Frankfurtská polévka** 35 Kč
 * **Valašská kyselice s klobásou** 35 Kč
-* **Krémová cibulačka s krutony a sýrem** 35 Kč
 
 ## HLAVNÍ JÍDLA
 
-* **Smažený karbanátek, bramborová kaše, kyselá okurka** 185 Kč
-* **Srbské vepřové rizoto sypané sýrem, kyselá okurka** 185 Kč
-* **Hovězí rajská pečeně, houskový knedlík** 195 Kč
+* **Hovězí burrito v tortille s fazolovou pastou, rýží, cibuli, paprikou, čedarem, hranolky a zakysaná smetana** 195 Kč
+* **Savojské řízečky, bramborová kaše, okurka** 185 Kč
+* **Hovězí rozlítaný španělský ptáček, jasmínová rýže** 215 Kč
 * **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 185 Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek coleslaw** 195 Kč
 * **Hovězí guláš s cibulkou a beraním rohem, domácí houskový knedlík** 235 Kč
@@ -24,6 +24,6 @@ title: Denní menu CZ
 
 ## POLÉVKA OBJEDNANÁ SAMOSTATNĚ– 250ml / 500ml
 
-* **Valašská kyselice s klobásou nebo Krémová cibulačka s krutony a sýrem** 55 / 75 Kč
+* **Frankfurtská polévka nebo Valašská kyselice s klobásou** 55 / 75 Kč
 
-***Nabídka platí v pondělí 21.9. od 10:30 do zavírací hodiny nebo do vyprodání.***
+***Nabídka platí v úterý 22.9. od 10:30 do zavírací hodiny nebo do vyprodání.***
