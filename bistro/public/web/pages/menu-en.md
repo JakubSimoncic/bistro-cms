@@ -15,7 +15,7 @@ title: Denní menu - EN
 
 * **Beef burrito in tortilla with bean paste, rice, onion, peppers, cheddar, french fries and sour cream** 195 CZKs
 * **Savoy schnitzels, mashed potatoes, cucumber** 185 CZK
-* ** Beef meat with sauce, Jasmine Rice** 215 CZK
+* **Beef meat with sauce, Jasmine Rice** 215 CZK
 * **Grilled stuffed wheat tortilla of your choice and French Fries** 185 CZK
 * **Pulled pork in our BBQ sauce, roasted potatoes and coleslaw** 195 CZK
 * **Beef goulash with onion, Czech-style peppers and homemade dumplings** 235 CZK
