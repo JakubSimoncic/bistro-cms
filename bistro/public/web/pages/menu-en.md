@@ -13,7 +13,7 @@ title: Denní menu - EN
 
 ## MAIN COURSES
 
-* **Beef burrito in tortilla with bean paste, rice, onion, peppers, cheddar, french fries and sour cream** 195 CZKs
+* **Beef burrito in tortilla with bean paste, rice, onion, peppers, cheddar, french fries and sour cream** 195 CZK
 * **Savoy schnitzels, mashed potatoes, cucumber** 185 CZK
 * **Beef meat with sauce, Jasmine Rice** 215 CZK
 * **Grilled stuffed wheat tortilla of your choice and French Fries** 185 CZK
