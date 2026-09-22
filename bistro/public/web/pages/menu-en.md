@@ -8,8 +8,8 @@ title: Denní menu - EN
 
 ## SOUP FOR THE MAIN COURSE – 250ml
 
+* **Frankfurt soup** 35 CZK
 * **Cabbage soup with sausage** 35 CZK
-* **Creamy onion soup with croutons and cheese** 35 CZK
 
 ## MAIN COURSES
 
@@ -23,6 +23,6 @@ title: Denní menu - EN
 * **Fried Cheese, French Fries and Tartar Sauce** 195 CZK
 
 ## SOUP ORDERED SEPARATELY – 250ml / 500ml
-* **Cabbage soup with sausage Creamy onion soup with croutons and cheese** 55 / 75 CZK
+* **Frankfurt soup or Cabbage soup with sausage** 55 / 75 CZK
 
 ***The offer is valid on Tuesday 22.9. from 10:30 a.m. to closing time or until sold out.***
