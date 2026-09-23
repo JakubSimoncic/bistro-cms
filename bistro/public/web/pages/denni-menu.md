@@ -9,7 +9,7 @@ title: Denní menu CZ
 ## POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
 * **Bramborová polévka** 35 Kč
-* **Kapustová s klobásou a bramborem** 35 Kč
+* **Kapustová polévka s klobásou a bramborem** 35 Kč
 
 ## HLAVNÍ JÍDLA
 
