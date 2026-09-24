@@ -13,7 +13,7 @@ title: Denní menu - EN
 
 ## MAIN COURSES
 
-* **Pork burger with sun-dried tomatoes, roasted pancetta, mozzarella, garlic dressing, lettuce, and arugula in homemade bun; French Fries** 225 CZK
+* **Pork burger with sun-dried tomatoes, roasted pancetta, mozzarella, garlic dressing, lettuce and arugula in homemade bun; French Fries** 225 CZK
 * **"Halušky"- Czech gnocchi with smoked meat, cabbage and sautéed onion** 175 CZK
 * **Beef meat with tomato sauce, homemade dumplings** 205 CZK
 * **Grilled stuffed wheat tortilla of your choice and French Fries** 185 CZK
