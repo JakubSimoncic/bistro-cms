@@ -15,7 +15,7 @@ title: Denní menu CZ
 
 * **Vepřový burger se sušenými rajčaty, opečenou pancettou, mozzarellou, česnekovým dresinkem, ledovým salátem a rukolou v domácí housce; smažené hranolky** 225 Kč
 * **Halušky s uzeným masem, zelím a restovanou cibulkou** 175 Kč
-* **Rajská omáčka s hovězím masem, domácí houskový knedlík** 195 Kč
+* **Rajská omáčka s hovězím masem, domácí houskový knedlík** 205 Kč
 * **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 185 Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek coleslaw** 195 Kč
 * **Hovězí guláš s cibulkou a beraním rohem, domácí houskový knedlík** 235 Kč
