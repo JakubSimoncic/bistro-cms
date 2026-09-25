@@ -17,7 +17,7 @@ title: Denní menu CZ
 * **Hovězí na česneku, listový špenát, bramborový knedlík** 215 Kč
 * **Rozlítaný španělský ptáček, jasmínová rýže** 205 Kč
 * **Segedínský guláš, domácí houskový knedlík** 195 Kč
-* **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 185 Kč
+* **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 195 Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek coleslaw** 195 Kč
 * **Hovězí guláš s cibulkou a beraním rohem, domácí houskový knedlík** 235 Kč
 * **Kuřecí řízek, domácí bramborový salát, citron** 195 Kč
