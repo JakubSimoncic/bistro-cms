@@ -3,20 +3,20 @@ title: Denní menu CZ
 ---
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)
 
-* **MENU 1: Polévka + Segedínský guláš, domácí houskový knedlík** 215 Kč
-* **MENU 2: Polévka + Rozlítaný španělský ptáček, jasmínová rýže** 225 Kč
+* **MENU 1: Polévka + Halušky s uzeným masem, zelím a cibulkou** 205 Kč
+* **MENU 2: Polévka + Hovězí rajská omáčka, domácí houskový knedlík** 225 Kč
 
 ## POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
-* **Kapustová s klobásou a bramborem** 35 Kč
-* **Krémová cibulačka s krutony a sýrem** 35 Kč
+* **Čočková s uzeninou** 35 Kč
+* **Gulášová polévka** 35 Kč
 
 ## HLAVNÍ JÍDLA
 
-* **Pikantní masová směs se zeleninou, hranolky** 195 Kč
-* **Hovězí na česneku, listový špenát, bramborový knedlík** 215 Kč
-* **Rozlítaný španělský ptáček, jasmínová rýže** 205 Kč
-* **Segedínský guláš, domácí houskový knedlík** 195 Kč
+* **Moravský vrabec, zelí, bramborový knedlík** 195 Kč
+* **Vepřové nudličky Stroganoff, jasmínová rýže** 195 Kč
+* **Halušky s uzeným masem, zelím a cibulkou** 185 Kč
+* **Hovězí rajská omáčka, domácí houskový knedlík** 205 Kč
 * **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 195 Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek coleslaw** 195 Kč
 * **Hovězí guláš s cibulkou a beraním rohem, domácí houskový knedlík** 235 Kč
@@ -25,6 +25,6 @@ title: Denní menu CZ
 
 ## POLÉVKA OBJEDNANÁ SAMOSTATNĚ– 250ml / 500ml
 
-* **Kapustová s klobásou a bramborem nebo Krémová cibulačka s krutony a sýrem** 55 / 75 Kč
+* **Čočková s uzeninou nebo Gulášová polévka** 55 / 75 Kč
 
-***Nabídka platí v sobotu 26.9. od 10:30 do zavírací hodiny nebo do vyprodání.***
+***Nabídka platí v nedělí 27.9. od 10:30 do zavírací hodiny nebo do vyprodání.***
