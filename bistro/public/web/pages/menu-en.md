@@ -3,20 +3,20 @@ title: Denní menu - EN
 ---
 ## SPECIAL OFFER (soup + main course)
 
-* **MENU 1: Soup + Szeged goulash, homemade bread dumplings** 215 CZK
-* **MENU 2: Soup + Beef meat with sauce, Jasmine Rice** 225 CZK
+* **MENU 1: Soup + Dumplings with smoked meat, cabbage and onion** 205 CZK
+* **MENU 2: Soup + Beef tomato sauce, homemade bread dumplings** 225 CZK
 
 ## SOUP FOR THE MAIN COURSE – 250ml
 
-* **Kale soup with sausage and potatoes** 35 CZK
-* **Creamy onion soup with croutons and cheese** 35 CZK
+* **Lentils with sausage** 35 CZK
+* **Goulash soup** 35 CZK
 
 ## MAIN COURSES
 
-* **Spicy meat mixture with vegetables, french fries** 195 CZK
-* **Beef with garlic, spinach leaves, potato dumplings** 215 CZK
-* **Beef meat with sauce, Jasmine Rice** 205 CZK
-* **Szeged goulash, homemade bread dumplings** 195 CZK
+* **Moravian sparrow, cabbage, potato dumplings** 195 CZK
+* **Pork strips Stroganoff, jasmine rice** 195 CZK
+* **Dumplings with smoked meat, cabbage and onion** 185 CZK
+* **Beef tomato sauce, homemade bread dumplings** 205 CZK
 * **Grilled stuffed wheat tortilla of your choice and French Fries** 195 CZK
 * **Pulled pork in our BBQ sauce, roasted potatoes and coleslaw** 195 CZK
 * **Beef goulash with onion, Czech-style peppers and homemade dumplings** 235 CZK
@@ -24,6 +24,6 @@ title: Denní menu - EN
 * **Fried Cheese, French Fries and Tartar Sauce** 195 CZK
 
 ## SOUP ORDERED SEPARATELY – 250ml / 500ml
-* **Kale soup with sausage and potatoes or Creamy onion soup with croutons and cheese** 55 / 75 CZK
+* **Lentils with sausage or Goulash soup** 55 / 75 CZK
 
-***The offer is valid on Saturday 26.9. from 10:30 a.m. to closing time or until sold out.***
+***The offer is valid on Sunday 27.9. from 10:30 a.m. to closing time or until sold out.***
