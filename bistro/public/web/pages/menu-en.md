@@ -26,4 +26,4 @@ title: Denní menu - EN
 * **French onion soup with croutons and Parmesan soup or Goulash soup** 55 / 75 CZK
 
 
-***The offer is valid on Sunday 27.9. from 10:30 a.m. to closing time or until sold out.***
+***The offer is valid on Monday 28.9. from 10:30 a.m. to closing time or until sold out.***
