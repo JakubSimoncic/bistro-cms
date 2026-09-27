@@ -3,7 +3,7 @@ title: Denní menu - EN
 ---
 ## SPECIAL OFFER (soup + main course)
 
-* **MENU 1: Soup + Fried patty (minced pork with cheese) with buttery mashed potatoes, pickle 205 CZK
+* **MENU 1: Soup + Fried patty (minced pork with cheese) with buttery mashed potatoes, pickle** 205 CZK
 * **MENU 2: Soup + Potato pancake, smoked meat, cabbage** 205 CZK
 
 ## SOUP WITH MAIN COURSE – 250ml
