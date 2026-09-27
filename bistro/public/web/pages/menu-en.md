@@ -3,7 +3,7 @@ title: Denní menu - EN
 ---
 ## SPECIAL OFFER (soup + main course)
 
-* **MENU 1: Soup + Fried patty (minced pork with cheese) with buttery mashed potatoes, pickle** 205 CZK
+* **MENU 1: Soup + Fried patty (minced pork with cheese) with buttery mashed potatoes, pickle 205 CZK
 * **MENU 2: Soup + Potato pancake, smoked meat, cabbage** 205 CZK
 
 ## SOUP WITH MAIN COURSE – 250ml
@@ -16,7 +16,7 @@ title: Denní menu - EN
 * **Fried patty (minced pork with cheese) with buttery mashed potatoes, pickle** 185 CZK
 * **Potato pancake, smoked meat, cabbage** 185 CZK
 * **BBQ chicken wings, French fries, coleslaw** 195 CZK
-* **Grilled stuffed wheat tortilla of your choice and French Fries** 195 CZK
+* **Grilled stuffed wheat tortilla of your choice and French Fries** 185 CZK
 * **Pulled pork in our BBQ sauce, roasted potatoes and coleslaw** 195 CZK
 * **Beef goulash with onion, Czech-style peppers and homemade dumplings** 235 CZK
 * **Fried chicken schnitzel, homemade potato salad, lemon** 195 CZK
