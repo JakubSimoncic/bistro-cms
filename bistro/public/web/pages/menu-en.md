@@ -3,20 +3,19 @@ title: Denní menu - EN
 ---
 ## SPECIAL OFFER (soup + main course)
 
-* **MENU 1: Soup + Dumplings with smoked meat, cabbage and onion** 205 CZK
-* **MENU 2: Soup + Tomato sauce with beef and Fusilli pasta** 225 CZK
+* **MENU 1: Soup + Fried patty (minced pork with cheese) with buttery mashed potatoes, pickle 205 CZK
+* **MENU 2: Soup + Potato pancake, smoked meat, cabbage** 205 CZK
 
-## SOUP FOR THE MAIN COURSE – 250ml
+## SOUP WITH MAIN COURSE – 250ml
 
-* **Lentils with sausage** 35 CZK
+* **French onion soup with croutons and Parmesan** 35 CZK
 * **Goulash soup** 35 CZK
 
 ## MAIN COURSES
 
-* **Moravian sparrow, cabbage, potato dumplings** 195 CZK
-* **Pork strips Stroganoff, jasmine rice** 195 CZK
-* **Dumplings with smoked meat, cabbage and onion** 185 CZK
-* **Tomato sauce with beef and Fusilli pasta** 205 CZK
+* **Fried patty (minced pork with cheese) with buttery mashed potatoes, pickle** 185 CZK
+* **Potato pancake, smoked meat, cabbage** 185 CZK
+* **BBQ chicken wings, French fries, coleslaw** 195 CZK
 * **Grilled stuffed wheat tortilla of your choice and French Fries** 195 CZK
 * **Pulled pork in our BBQ sauce, roasted potatoes and coleslaw** 195 CZK
 * **Beef goulash with onion, Czech-style peppers and homemade dumplings** 235 CZK
@@ -24,6 +23,7 @@ title: Denní menu - EN
 * **Fried Cheese, French Fries and Tartar Sauce** 195 CZK
 
 ## SOUP ORDERED SEPARATELY – 250ml / 500ml
-* **Lentils with sausage or Goulash soup** 55 / 75 CZK
+* **French onion soup with croutons and Parmesan soup or Goulash soup** 55 / 75 CZK
+
 
 ***The offer is valid on Sunday 27.9. from 10:30 a.m. to closing time or until sold out.***
