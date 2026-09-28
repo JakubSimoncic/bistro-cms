@@ -4,18 +4,18 @@ title: Denní menu CZ
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)
 
 * **MENU 1: Polévka + Smažený holandský řízek s vařeným bramborem, kyselá okurka** 205 Kč
-* **MENU 2: Polévka + Hovězí na česneku se špenátem, bramborový knedlík** 215 Kč
+* **MENU 2: Polévka + Cmunda po kaplicku (uzené maso a zelí v bramboráku)** 205 Kč
 
 ## POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
 * **Francouzská cibulačka s krutony a parmazánem** 35 Kč
-* **Gulášová polévka** 35 Kč
+* **Hrachová s uzeninou** 35 Kč
 
 ## HLAVNÍ JÍDLA
 
 * **Smažený holandský řízek s vařeným bramborem, kyselá okurka** 185 Kč
-* **Hovězí na česneku se špenátem, bramborový knedlík** 195 Kč
-* **BBQ Kuřecí křídla, hranolky, coleslaw salát** 195 Kč
+* **Cmunda po kaplicku (uzené maso a zelí v bramboráku)** 185 Kč
+* **Hoisin burger s trhaným kachním masem, wasabi majonéza, čínské zelí, rajče, marinovaná salátová okurka, hranolky** 225 Kč
 * **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 185 Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek coleslaw** 195 Kč
 * **Hovězí guláš s cibulkou a beraním rohem, domácí houskový knedlík** 235 Kč
@@ -24,6 +24,6 @@ title: Denní menu CZ
 
 ## POLÉVKA OBJEDNANÁ SAMOSTATNĚ– 250ml / 500ml
 
-* **Francouzská cibulačka s krutony a parmazánem nebo Gulášová polévka** 55 / 75 Kč
+* **Francouzská cibulačka s krutony a parmazánem nebo Hrachová s uzeninou** 55 / 75 Kč
 
-***Nabídka platí v pondělí 28.9. od 10:30 do zavírací hodiny nebo do vyprodání.***
+***Nabídka platí v úterý 29.9. od 10:30 do zavírací hodiny nebo do vyprodání.***
