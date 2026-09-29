@@ -3,7 +3,7 @@ title: Denní menu - EN
 ---
 ## SPECIAL OFFER (soup + main course)
 
-* **MENU 1: Soup + Fried patty (minced pork with cheese) with boiled potatoes, pickle** 205 CZK
+* **MENU 1: Soup + Fried patty (minced pork with cheese) with mashed potatoes, pickle** 205 CZK
 * **MENU 2: Soup + Cmunda po kaplicku (smoked meat and cabbage in potato pancake)** 205 CZK
 
 ## SOUP WITH MAIN COURSE – 250ml
@@ -13,7 +13,7 @@ title: Denní menu - EN
 
 ## MAIN COURSES
 
-* **Fried patty (minced pork with cheese) with boiled potatoes, pickle** 185 CZK
+* **Fried patty (minced pork with cheese) with mashed potatoes, pickle** 185 CZK
 * **Cmunda po kaplicku (smoked meat and cabbage in potato pancake)** 185 CZK
 * **Hoisin burger with shredded duck meat, wasabi mayonnaise, Chinese cabbage, tomato, marinated cucumber, french fries** 225 CZK
 * **Grilled stuffed wheat tortilla of your choice and French Fries** 185 CZK
