@@ -3,7 +3,7 @@ title: Denní menu CZ
 ---
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)
 
-* **MENU 1: Polévka + Smažený holandský řízek s bramborovým saláte** 205 Kč
+* **MENU 1: Polévka + Smažený holandský řízek s bramborovým salátem** 205 Kč
 * **MENU 2: Polévka + Cmunda po kaplicku (uzené maso a zelí v bramboráku)** 205 Kč
 
 ## POLÉVKA K HLAVNÍMU JÍDLU – 250ml
