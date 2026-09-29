@@ -13,7 +13,7 @@ title: Denní menu - EN
 
 ## MAIN COURSES
 
-* **Dumplings with shredded duck meat, red cabbage, strong duck juice and Viennese onion** 215 CZK
+* **Potato dumplings with shredded duck meat, red cabbage, strong duck juice and Viennese onion** 215 CZK
 * **Chicken strips on yellow curry with vegetables, baked jasmine rice** 185 CZK
 * **Pork roll stuffed with minced meat, sun-dried tomatoes and mozzarella, mashed potatoes with spring onions** 185 CZK
 * **Grilled stuffed wheat tortilla of your choice and French Fries** 185 CZK
