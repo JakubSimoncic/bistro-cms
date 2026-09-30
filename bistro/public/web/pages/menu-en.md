@@ -4,7 +4,7 @@ title: Denní menu - EN
 ## SPECIAL OFFER (soup + main course)
 
 * **MENU 1: Soup + Roasted Chicken pieces in Tandoori spice, roasted potatoes with onion and herb-garlic mayonnaise** 205 CZK
-* **MENU 2: Soup + Pork cheeks meat in red wine and vegetable, mashed potatoes** 205 CZK
+* **MENU 2: Soup + Pork cheeks in red wine and vegetable, mashed potatoes** 205 CZK
 
 ## SOUP WITH MAIN COURSE – 250ml
 
@@ -15,7 +15,7 @@ title: Denní menu - EN
 
 * **Pork meat, bacon sauce and roasted jasmine rice** 185 CZK
 * **Roasted Chicken pieces in Tandoori spice, roasted potatoes with onion and herb-garlic mayonnaise** 185 CZK
-* **Pork cheeks meat in red wine and vegetable, mashed potatoes** 185 CZK
+* **Pork cheeks in red wine and vegetable, mashed potatoes** 185 CZK
 * **Grilled stuffed wheat tortilla of your choice and French Fries** 185 CZK
 * **Pulled pork in our BBQ sauce, roasted potatoes and coleslaw** 195 CZK
 * **Beef goulash with onion, Czech-style peppers and homemade dumplings** 235 CZK
