@@ -8,7 +8,7 @@ title: Denní menu - EN
 
 ## SOUP WITH MAIN COURSE – 250ml
 
-* **Beef broth with meat, vegetables and frittata noodles ** 35 CZK
+* **Beef broth with meat, vegetables and frittata noodles** 35 CZK
 * **Cabbage soup with paprika sausage** 35 CZK
 
 ## MAIN COURSES
