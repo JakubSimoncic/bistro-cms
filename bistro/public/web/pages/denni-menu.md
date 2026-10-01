@@ -3,19 +3,19 @@ title: Denní menu CZ
 ---
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)
 
-* **MENU 1: Polévka + Pečené kuřecí špalíčky v Tandoori koření, pečené brambory s cibulí a bylinkovo česneková majonéza** 205 Kč
-* **MENU 2: Polévka + Vepřová líčka na červeném víně a zelenině, bramborová kaše** 205 Kč
+* **MENU 1: Polévka + Pečené vepřové koleno, hořčice, křen, okurka a chleba** 205 Kč
+* **MENU 2: Polévka + Smažený sýrový špíz, vařené brambory, tatarská omáčka** 215 Kč
 
 ## POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
-* **Hovězí vývar s masem, zeleninou a fritátovými nudlemi** 35 Kč
-* **Zelná polévka s paprikovou klobásou** 35 Kč
+* **Jihočeská kulajda** 35 Kč
+* **Brokolicový krém, zakysaná smetana, bylinkové krutony** 35 Kč
 
 ## HLAVNÍ JÍDLA
 
-* **Vepřové na slanině a pečená jasmínová rýže** 185 Kč
-* **Pečené kuřecí špalíčky v Tandoori koření, pečené brambory s cibulí a bylinkovo česneková majonéza** 185 Kč
-* **Vepřová líčka na červeném víně a zelenině, bramborová kaše** 185 Kč
+* **Grilovaná vepřová pečeně, omáčka z modrého sýra, opečené brambory ** 215 Kč
+* **Pečené vepřové koleno, hořčice, křen, okurka a chleba** 185 Kč
+* **Smažený sýrový špíz, vařené brambory, tatarská omáčka** 195 Kč
 * **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 185 Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek coleslaw** 195 Kč
 * **Hovězí guláš s cibulkou a beraním rohem, domácí houskový knedlík** 235 Kč
@@ -24,6 +24,6 @@ title: Denní menu CZ
 
 ## POLÉVKA OBJEDNANÁ SAMOSTATNĚ– 250ml / 500ml
 
-* **Hovězí vývar s masem, zeleninou a fritátovými nudlemi nebo zelná polévka s paprikovou klobásou** 55 / 75 Kč
+* **Jihočeská kulajda nebo Brokolicový krém, zakysaná smetana, bylinkové krutony** 55 / 75 Kč
 
-***Nabídka platí ve čtvrtek 1.10. od 10:30 do zavírací hodiny nebo do vyprodání.***
+***Nabídka platí ve pátek 2.10. od 10:30 do zavírací hodiny nebo do vyprodání.***
