@@ -13,7 +13,7 @@ title: Denní menu CZ
 
 ## HLAVNÍ JÍDLA
 
-* **Grilovaná vepřová pečeně, omáčka z modrého sýra, opečené brambory ** 215 Kč
+* **Grilovaná vepřová pečeně, omáčka z modrého sýra, opečené brambory** 215 Kč
 * **Pečené vepřové koleno, hořčice, křen, okurka a chleba** 185 Kč
 * **Smažený sýrový špíz, vařené brambory, tatarská omáčka** 195 Kč
 * **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 185 Kč
