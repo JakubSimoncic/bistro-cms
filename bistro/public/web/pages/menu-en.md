@@ -3,19 +3,20 @@ title: Denní menu - EN
 ---
 ## SPECIAL OFFER (soup + main course)
 
-* **MENU 1: Soup + Roasted pork knuckle, mustard, horseradish, cucumber and bread** 205 CZK
-* **MENU 2: Soup + Fried cheese skewer, boiled potatoes, tartar sauce** 215 CZK
+* **MENU 1: Soup + BBQ chicken wings, french fries, coleslaw** 205 CZK
+* **MENU 2: Soup + Pork roll stuffed with minced meat, sun-dried tomatoes and mozzarella, boiled potatoes, strong roast** 215 CZK
 
 ## SOUP WITH MAIN COURSE – 250ml
 
-* **South Bohemian kulajda** 35 CZK
-* **Broccoli cream, sour cream, herb croutons** 35 CZK
+* **Cabbage soup with pepper sausage** 35 CZK
+* **Beef broth with meat, vegetables and frittata noodles** 35 CZK
 
 ## MAIN COURSES
 
 * **Grilled pork roast, blue cheese sauce, roasted potatoes** 215 CZK
-* **Roasted pork knuckle, mustard, horseradish, cucumber and bread** 185 CZK
-* **Fried cheese skewer, boiled potatoes, tartar sauce** 195 CZK
+* **Pork Stroganoff Strips, Roasted Jasmine Rice** 215 CZK
+* **BBQ chicken wings, french fries, coleslaw** 185 CZK
+* **Pork roll stuffed with minced meat, sun-dried tomatoes and mozzarella, boiled potatoes, strong roast** 195 CZK
 * **Grilled stuffed wheat tortilla of your choice and French Fries** 185 CZK
 * **Pulled pork in our BBQ sauce, roasted potatoes and coleslaw** 195 CZK
 * **Beef goulash with onion, Czech-style peppers and homemade dumplings** 235 CZK
@@ -23,7 +24,7 @@ title: Denní menu - EN
 * **Fried Cheese, French Fries and Tartar Sauce** 195 CZK
 
 ## SOUP ORDERED SEPARATELY – 250ml / 500ml
-* **South Bohemian kulajda or Broccoli cream, sour cream, herb croutons** 55 / 75 CZK
+* **Cabbage soup with pepper sausage or Beef broth with meat, vegetables and frittata noodles** 55 / 75 CZK
 
 
-***The offer is valid on Friday 2.10. from 10:30 a.m. to closing time or until sold out.***
+***The offer is valid on Saturday 3.10. from 10:30 a.m. to closing time or until sold out.***
