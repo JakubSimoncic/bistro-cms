@@ -13,7 +13,7 @@ title: Denní menu CZ
 
 ## HLAVNÍ JÍDLA
 
-* **Grilovaná vepřová pečeně, omáčka z modrého sýra, opečené brambory** 252 Kč
+* **Grilovaná vepřová pečeně, omáčka z modrého sýra, opečené brambory** 225 Kč
 * **Vepřové nudličky Stroganoff, pečená jasmínová rýže** 195Kč
 * **BBQ kuřecí křídla, hranolky, coleslaw** 195 Kč
 * **Vepřová roláda plněná mletým masem, sušenými rajčaty a mozzarellou, vařené brambory, silný výpek** 195 Kč
