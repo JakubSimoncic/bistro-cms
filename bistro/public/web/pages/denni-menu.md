@@ -3,7 +3,7 @@ title: Denní menu CZ
 ---
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)
 
-* **MENU 1: Polévka + BBQ kuřecí křídla, hranolky, coleslaw** 205 Kč
+* **MENU 1: Polévka + BBQ kuřecí křídla, hranolky, coleslaw** 215 Kč
 * **MENU 2: Polévka + Vepřová roláda plněná mletým masem, sušenými rajčaty a mozzarellou, vařené brambory, silný výpek** 215 Kč
 
 ## POLÉVKA K HLAVNÍMU JÍDLU – 250ml
