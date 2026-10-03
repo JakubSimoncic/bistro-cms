@@ -24,7 +24,7 @@ title: Denní menu - EN
 * **Fried Cheese, French Fries and Tartar Sauce** 215 CZK
 
 ## SOUP ORDERED SEPARATELY – 250ml / 500ml
-* **Kulajda* creamy dill soup with mushrooms or Pea soup with smoked meat** 55 / 75 CZK
+* **Kulajda (creamy dill soup with mushrooms) or Pea soup with smoked meat** 55 / 75 CZK
 
 
 ***The offer is valid on Sunday 4.10. from 10:30 a.m. to closing time or until sold out.***
