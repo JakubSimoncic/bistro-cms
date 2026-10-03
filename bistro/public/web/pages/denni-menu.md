@@ -13,8 +13,8 @@ title: Denní menu CZ
 
 ## HLAVNÍ JÍDLA
 
-* **Grilovaný steak z vepřové pečeně, BBQ omáčka nebo omáčka z modrého sýru a opečené brambory** 225 Kč
 * **Cmunda po kaplicku (uzené maso a zelí v bramboráku)** 195 Kč
+* **Grilovaný steak z vepřové pečeně, BBQ omáčka nebo omáčka z modrého sýru a opečené brambory** 225 Kč
 * **Rozlítaný vepřový španělský ptáček, pečená jasmínová rýže** 195 Kč
 * **Vepřová líčka na červeném víně a zelenině, bramborová kaše** 195 Kč
 * **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 185 Kč
@@ -25,6 +25,6 @@ title: Denní menu CZ
 
 ## POLÉVKA OBJEDNANÁ SAMOSTATNĚ– 250ml / 500ml
 
-* ** Jihočeská kulajda s houbami nebo hrachová polévka s uzeninou ** 55 / 75 Kč
+* **Jihočeská kulajda s houbami nebo hrachová polévka s uzeninou** 55 / 75 Kč
 
 ***Nabídka platí v neděli 4.10. od 10:30 do zavírací hodiny nebo do vyprodání.***
