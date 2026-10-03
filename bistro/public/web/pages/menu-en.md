@@ -4,7 +4,7 @@ title: Denní menu - EN
 ## SPECIAL OFFER (soup + main course)
 
 * **MENU 1: Soup + Pork meat, meat sauce with bacon, eggs and pickles, roasted jasmine rice** 215 CZK
-* **MENU 2: Soup + Pork cheeks meat in red wine and vegetable, mashed potatoes** 215 CZK
+* **MENU 2: Soup + Pork cheek meat in red wine and vegetable, mashed potatoes** 215 CZK
 
 ## SOUP WITH MAIN COURSE – 250ml
 
