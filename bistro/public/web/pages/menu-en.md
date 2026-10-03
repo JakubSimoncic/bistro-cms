@@ -8,7 +8,7 @@ title: Denní menu - EN
 
 ## SOUP WITH MAIN COURSE – 250ml
 
-* **Kulajda(creamy dill soup with mushrooms)** 35 CZK
+* **Kulajda (creamy dill soup with mushrooms)** 35 CZK
 * **Pea soup with smoked meat** 35 CZK
 
 ## MAIN COURSES
