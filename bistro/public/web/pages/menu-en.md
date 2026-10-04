@@ -16,7 +16,6 @@ title: Denní menu - EN
 * **Pork roulade stuffed with cabbage, potato dumplings and rich gravy** 185 CZK
 * **Fried mushrooms, boiled potatoes and tartar sauce** 175 CZK
 * **Pork meat, meat sauce with pickles and baked jasmine rice** 185 CZK
-* **Pork cheeks meat in red wine and vegetable, mashed potatoes** 195 CZK
 * **Grilled stuffed wheat tortilla of your choice and French Fries** 185 CZK
 * **Pulled pork in our BBQ sauce, roasted potatoes and coleslaw** 195 CZK
 * **Beef goulash with onion, Czech-style peppers and homemade dumplings** 235 CZK
