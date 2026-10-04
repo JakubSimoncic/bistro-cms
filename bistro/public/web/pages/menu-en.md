@@ -3,28 +3,28 @@ title: Denní menu - EN
 ---
 ## SPECIAL OFFER (soup + main course)
 
-* **MENU 1: Soup + Pork meat, meat sauce with bacon, eggs and pickles, roasted jasmine rice** 215 CZK
-* **MENU 2: Soup + Pork cheek meat in red wine and vegetable, mashed potatoes** 215 CZK
+* **MENU 1: Soup + Fried mushrooms, boiled potatoes and tartar sauce** 195 CZK
+* **MENU 2: Soup + Pork meat, meat sauce with pickles and baked jasmine rice** 205 CZK
 
 ## SOUP WITH MAIN COURSE – 250ml
 
-* **Kulajda (creamy dill soup with mushrooms)** 35 CZK
-* **Pea soup with smoked meat** 35 CZK
+* **Creamy onion soup with cheese and croutons** 35 CZK
+* **Tripe soup** 35 CZK
 
 ## MAIN COURSES
 
-* **Smoked pork meat and cabbage in potato pancake** 195 CZK
-* **Grilled pork steak, BBQ or blue cheese sauce, roasted potatoes** 225 CZK
-* **Pork meat, meat sauce with bacon, eggs and pickles, roasted jasmine rice** 195 CZK
+* **Pork roulade stuffed with cabbage, potato dumplings and rich gravy** 185 CZK
+* **Fried mushrooms, boiled potatoes and tartar sauce** 175 CZK
+* **Pork meat, meat sauce with pickles and baked jasmine rice** 185 CZK
 * **Pork cheeks meat in red wine and vegetable, mashed potatoes** 195 CZK
 * **Grilled stuffed wheat tortilla of your choice and French Fries** 185 CZK
-* **Pulled pork in our BBQ sauce, roasted potatoes and coleslaw** 215 CZK
+* **Pulled pork in our BBQ sauce, roasted potatoes and coleslaw** 195 CZK
 * **Beef goulash with onion, Czech-style peppers and homemade dumplings** 235 CZK
-* **Fried chicken schnitzel, homemade potato salad, lemon** 215 CZK
-* **Fried Cheese, French Fries and Tartar Sauce** 215 CZK
+* **Fried chicken schnitzel, homemade potato salad, lemon** 195 CZK
+* **Fried Cheese, French Fries and Tartar Sauce** 195 CZK
 
 ## SOUP ORDERED SEPARATELY – 250ml / 500ml
-* **Kulajda (creamy dill soup with mushrooms) or Pea soup with smoked meat** 55 / 75 CZK
+* **Creamy onion soup with cheese and croutons or Tripe soup** 55 / 75 CZK
 
 
-***The offer is valid on Sunday 4.10. from 10:30 a.m. to closing time or until sold out.***
+***The offer is valid on Monday 5.10. from 10:30 a.m. to closing time or until sold out.***
