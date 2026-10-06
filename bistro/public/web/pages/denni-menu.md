@@ -3,19 +3,19 @@ title: Denní menu CZ
 ---
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)
 
-* **MENU 1: Polévka + Drůbeží játra na cibulce, pečená jasmínová rýže** 195 Kč
-* **MENU 2: Polévka + Smažený karbanátek, bramborová kaše, okurka** 205 Kč
+* **MENU 1: Polévka + Smažená vinná klobása, bramborová kaše, okurka** 205 Kč
+* **MENU 2: Polévka + Kuřecí maso na paprice, domácí houskový knedlík** 205 Kč
 
 ## POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
-* **Dršťková polévka** 35 Kč
-* **Česnečka s krutony a sýrem** 35 Kč
+* **Žampionový krém s bylinkovými krutony** 35 Kč
+* **Frankfurtská polévka** 35 Kč
 
 ## HLAVNÍ JÍDLA
 
-* **Vepřové výpečky, dušené kysané zelí, bramborový knedlík** 185 Kč
-* **Drůbeží játra na cibulce, pečená jasmínová rýže** 175 Kč
-* **Smažený karbanátek, bramborová kaše, okurka** 185 Kč
+* **Vepřové nudličky kung-pao s arašídy a zeleninou, pečená jasmínová rýže** 185 Kč
+* **Smažená vinná klobása, bramborová kaše, okurka** 185 Kč
+* **Kuřecí maso na paprice, domácí houskový knedlík** 185 Kč
 * **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 185 Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek coleslaw** 195 Kč
 * **Hovězí guláš s cibulkou a beraním rohem, domácí houskový knedlík** 235 Kč
@@ -26,4 +26,4 @@ title: Denní menu CZ
 
 * **Dršťková polévka nebo Česnečka s krutony a sýrem** 55 / 75 Kč
 
-***Nabídka platí v úterý 6.10. od 10:30 do zavírací hodiny nebo do vyprodání.***
+***Nabídka platí ve středu 7.10. od 10:30 do zavírací hodiny nebo do vyprodání.***
