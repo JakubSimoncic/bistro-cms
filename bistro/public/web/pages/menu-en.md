@@ -3,19 +3,19 @@ title: Denní menu - EN
 ---
 ## SPECIAL OFFER (soup + main course)
 
-* **MENU 1: Soup + Fried wine sausage, mashed potatoes, cucumber** 205 CZK
-* **MENU 2: Soup + Chicken with paprika, homemade bread dumplings** 205 CZK
+* **MENU 1: Soup + Fried cauliflower, boiled potatoes and tartar sauce** 195 CZK
+* **MENU 2: Soup + "Svíčková"- Sirloin meat in vegetable creamy sauce and homemade dumplings** 235 CZK
 
 ## SOUP WITH MAIN COURSE – 250ml
 
-* **Mushroom cream with herb croutons** 35 CZK
-* **Frankfurt soup** 35 CZK
+* **Frankfurter soup** 35 CZK
+* **Goulash soup** 35 CZK
 
 ## MAIN COURSES
 
-* **Kung-pao pork strips with peanuts and vegetables, baked jasmine rice** 185 CZK
-* **Fried wine sausage, mashed potatoes, cucumber** 185 CZK
-* **Chicken with paprika, homemade bread dumplings** 185 CZK
+* **Spaghetti Bolognese with minced beef meat and parmesan cheese** 185 CZK
+* **Fried cauliflower, boiled potatoes and tartar sauce** 175 CZK
+* **"Svíčková"- Sirloin meat in vegetable creamy sauce and homemade dumplings** 215 CZK
 * **Grilled stuffed wheat tortilla of your choice and French Fries** 185 CZK
 * **Pulled pork in our BBQ sauce, roasted potatoes and coleslaw** 195 CZK
 * **Beef goulash with onion, Czech-style peppers and homemade dumplings** 235 CZK
@@ -23,7 +23,7 @@ title: Denní menu - EN
 * **Fried Cheese, French Fries and Tartar Sauce** 195 CZK
 
 ## SOUP ORDERED SEPARATELY – 250ml / 500ml
-* **Mushroom cream with herb croutons or Frankfurt soup** 55 / 75 CZK
+* **Frankfurter soup or Goulash soup** 55 / 75 CZK
 
 
-***The offer is valid on Wedesday 7.10. from 10:30 a.m. to closing time or until sold out.***
+***The offer is valid on Thursday 8.10. from 10:30 a.m. to closing time or until sold out.***
