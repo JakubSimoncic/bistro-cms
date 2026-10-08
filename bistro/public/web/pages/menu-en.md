@@ -13,7 +13,7 @@ title: Denní menu - EN
 
 ## MAIN COURSES
 
-* **Baked potatoes with smoked meat and eggs, pickle** 185 CZK
+* **Baked potatoes with smoked meat and eggs, pickles** 185 CZK
 * **Homemade meatloaf, mashed potatoes and pickles** 185 CZK
 * **Szeged pork goulash and homemade dumplings** 185 CZK
 * **Grilled stuffed wheat tortilla of your choice and French Fries** 185 CZK
