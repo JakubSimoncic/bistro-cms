@@ -3,7 +3,7 @@ title: Denní menu CZ
 ---
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)
 
-* **MENU 1: Polévka + Kuřecí nudličky na kari se zeleninou, jasmínová rýže** 205 Kč
+* **MENU 1: Polévka + Francouzské brambory s uzeným masem, okurka** 205 Kč
 * **MENU 2: Polévka + Boloňské špagety, hovězím mletým masem, parmazán** 215 Kč
 
 ## POLÉVKA K HLAVNÍMU JÍDLU – 250ml
@@ -13,8 +13,8 @@ title: Denní menu CZ
 
 ## HLAVNÍ JÍDLA
 
-* **Znojemská vepřová pečeně, pečená jasmínová rýže** 195 Kč
-* **Kuřecí nudličky na kari se zeleninou, jasmínová rýže** 185 Kč
+* **Znojemská omáčka s vepřovým masem, pečená jasmínová rýže** 195 Kč
+* **Francouzské brambory s uzeným masem, okurka** 185 Kč
 * **Boloňské špagety, hovězím mletým masem, parmazán** 195 Kč
 * **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 195 Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek coleslaw** 215 Kč
