@@ -4,7 +4,7 @@ title: Denní menu CZ
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)
 
 * **MENU 1: Polévka + Francouzské brambory s uzeným masem, okurka** 205 Kč
-* **MENU 2: Polévka + Boloňské špagety, hovězím mletým masem, parmazán** 215 Kč
+* **MENU 2: Polévka + Boloňské špagety s hovězím mletým masem, parmazán** 215 Kč
 
 ## POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
@@ -15,7 +15,7 @@ title: Denní menu CZ
 
 * **Znojemská omáčka s vepřovým masem, pečená jasmínová rýže** 195 Kč
 * **Francouzské brambory s uzeným masem, okurka** 185 Kč
-* **Boloňské špagety, hovězím mletým masem, parmazán** 195 Kč
+* **Boloňské špagety s hovězím mletým masem, parmazán** 195 Kč
 * **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 195 Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek coleslaw** 215 Kč
 * **Hovězí guláš s cibulkou a beraním rohem, domácí houskový knedlík** 235 Kč
