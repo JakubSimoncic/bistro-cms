@@ -3,8 +3,8 @@ title: Denní menu - EN
 ---
 ## SPECIAL OFFER (soup + main course)
 
-* **MENU 1: Soup + Chicken strips for curry with vegetables, jasmine rice** 205 CZK
-* **MENU 2: Soup + Spaghetti bolognese, minced beef, parmesan** 205 CZK
+* **MENU 1: Soup + French potatoes with smoked meat, cucumber** 205 CZK
+* **MENU 2: Soup + Spaghetti bolognese with minced beef, parmesan** 205 CZK
 
 ## SOUP WITH MAIN COURSE – 250ml
 
@@ -13,9 +13,9 @@ title: Denní menu - EN
 
 ## MAIN COURSES
 
-* **Znojmo roast pork, baked jasmine rice** 195 CZK
-* **Chicken strips for curry with vegetables, jasmine rice** 185 CZK
-* **Spaghetti bolognese, minced beef, parmesan** 195 CZK
+* **Znojmo sauce with pork meat baked jasmine rice** 195 CZK
+* **French potatoes with smoked meat, cucumber** 185 CZK
+* **Spaghetti bolognese with minced beef, parmesan** 195 CZK
 * **Grilled stuffed wheat tortilla of your choice and French Fries** 195 CZK
 * **Pulled pork in our BBQ sauce, roasted potatoes and coleslaw** 215 CZK
 * **Beef goulash with onion, Czech-style peppers and homemade dumplings** 235 CZK
