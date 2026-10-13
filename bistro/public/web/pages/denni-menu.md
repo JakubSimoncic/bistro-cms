@@ -26,4 +26,4 @@ title: Denní menu CZ
 
 * **Čočková s paprikovou klobásou nebo Zelňačka s uzeninou** 55 / 75 Kč
 
-***Nabídka platí v úterý 13.10. od 10:30 do zavírací hodiny nebo do vyprodání.***
+***Nabídka platí ve středu 14.10. od 10:30 do zavírací hodiny nebo do vyprodání.***
