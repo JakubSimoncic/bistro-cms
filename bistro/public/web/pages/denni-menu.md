@@ -4,7 +4,7 @@ title: Denní menu CZ
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)
 
 * **MENU 1: Polévka + Zapečené těstoviny s kuřecím masem, listovým špenátem, smetanou a parmazánem** 205 Kč
-* **MENU 2: Polévka + Křenová omáčka s uzeným masem, houskový knedlík* 205 Kč
+* **MENU 2: Polévka + Křenová omáčka s uzeným masem, houskový knedlík** 205 Kč
 
 ## POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
