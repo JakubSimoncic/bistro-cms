@@ -4,7 +4,7 @@ title: Denní menu - EN
 ## SPECIAL OFFER (soup + main course)
 
 * **MENU 1: Soup + Baked pasta with chicken, spinach, cream and parmesan** 205 CZK
-* **MENU 2: Soup + Horseradish sauce with smoked meat, bread dumplings** 205 CZK
+* **MENU 2: Soup + Horseradish sauce with smoked meat, homemade dumplings** 205 CZK
 
 ## SOUP WITH MAIN COURSE – 250ml
 
@@ -15,7 +15,7 @@ title: Denní menu - EN
 
 * **Pork meat with mushrooms, baked jasmine rice** 185 CZK
 * **Baked pasta with chicken, spinach, cream and parmesan** 185 CZK
-* **Horseradish sauce with smoked meat, bread dumplings** 185 CZK
+* **Horseradish sauce with smoked meat, homemade dumplings** 185 CZK
 * **Grilled stuffed wheat tortilla of your choice and French Fries** 185 CZK
 * **Pulled pork in our BBQ sauce, roasted potatoes and coleslaw** 195 CZK
 * **Beef goulash with onion, Czech-style peppers and homemade dumplings** 235 CZK
