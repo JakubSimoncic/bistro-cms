@@ -3,7 +3,7 @@ title: Denní menu CZ
 ---
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)
 
-* **MENU 1: Polévka + Pečené kuřecí stehno s bramborovou kaší a okurkovým salátkem** 195 Kč
+* **MENU 1: Polévka + Pečené kuřecí stehno s bramborovou kaší a okurkovým salátkem** 205 Kč
 * **MENU 2: Polévka + Hovězí cikánská pečeně, pečená jasmínová rýže** 215 Kč
 
 ## POLÉVKA K HLAVNÍMU JÍDLU – 250ml
@@ -14,7 +14,7 @@ title: Denní menu CZ
 ## HLAVNÍ JÍDLA
 
 * **Trhané kachní maso podávané s bramborovými halušky, červeným brusinkovým hlávkovým zelím, silnou kachní šťávou a vídeňskou cibulkou** 195 Kč
-* **Pečené kuřecí stehno s bramborovou kaší a okurkovým salátkem** 175 Kč
+* **Pečené kuřecí stehno s bramborovou kaší a okurkovým salátkem** 185 Kč
 * **Hovězí cikánská pečeně, pečená jasmínová rýže** 195 Kč
 * **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 185 Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek coleslaw** 195 Kč
