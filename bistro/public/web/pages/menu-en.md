@@ -4,7 +4,7 @@ title: Denní menu - EN
 ## SPECIAL OFFER (soup + main course)
 
 * **MENU 1: Soup + Roasted chicken leg with mashed potatoes and cucumber salad** 205 CZK
-* **MENU 2: Soup + Roast Gypsy Beef, Roasted Jasmine Rice** 205 CZK
+* **MENU 2: Soup + Roast Gypsy Beef, Roasted Jasmine Rice** 215 CZK
 
 ## SOUP WITH MAIN COURSE – 250ml
 
@@ -13,9 +13,9 @@ title: Denní menu - EN
 
 ## MAIN COURSES
 
-* **Pulled duck meat served with potato dumplings, red cranberry cabbage, strong duck sauce and Viennese onion** 185 CZK
+* **Pulled duck meat served with potato dumplings, red cranberry cabbage, strong duck sauce and Viennese onion** 195 CZK
 * **Roasted chicken leg with mashed potatoes and cucumber salad** 185 CZK
-* **Roast Gypsy Beef, Roasted Jasmine Rice** 185 CZK
+* **Roast Gypsy Beef, Roasted Jasmine Rice** 195 CZK
 * **Grilled stuffed wheat tortilla of your choice and French Fries** 185 CZK
 * **Pulled pork in our BBQ sauce, roasted potatoes and coleslaw** 195 CZK
 * **Beef goulash with onion, Czech-style peppers and homemade dumplings** 235 CZK
