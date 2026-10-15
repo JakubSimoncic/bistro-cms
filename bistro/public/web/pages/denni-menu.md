@@ -24,6 +24,6 @@ title: Denní menu CZ
 
 ## POLÉVKA OBJEDNANÁ SAMOSTATNĚ– 250ml / 500ml
 
-* **Dýňový krém se zakysanou smetanou nebo Dršťková polévka** 55 / 75 Kč
+* **Dýňový krém se zakysanou smetanou nebo dršťková polévka** 55 / 75 Kč
 
 ***Nabídka platí v pátek 16.10. od 10:30 do zavírací hodiny nebo do vyprodání.***
