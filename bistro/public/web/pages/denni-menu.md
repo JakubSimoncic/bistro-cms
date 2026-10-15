@@ -13,7 +13,7 @@ title: Denní menu CZ
 
 ## HLAVNÍ JÍDLA
 
-* **Trhané kachní maso podávané s bramborovými halušky, červeným brusinkovým hlávkovým zelím, silnou kachní šťávou a vídeňskou cibulkou** 195 Kč
+* **Bramborové halušky s trhaným kachním masem, červeným brusinkovým hlávkovým zelím, silnou kachní šťávou a vídeňskou cibulkou** 215 Kč
 * **Pečené kuřecí stehno s bramborovou kaší a okurkovým salátkem** 185 Kč
 * **Hovězí cikánská pečeně, pečená jasmínová rýže** 195 Kč
 * **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 185 Kč
