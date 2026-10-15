@@ -3,7 +3,7 @@ title: Denní menu - EN
 ---
 ## SPECIAL OFFER (soup + main course)
 
-* **MENU 1: Soup + Old Bohemian Platter (sausage, roasted and smoked pork meat, cabbage and dumplings variation)** 205 CZK
+* **MENU 1: Soup + Old Bohemian Platter (sausage, roasted and smoked pork meat, cabbage and dumpling variation)** 205 CZK
 * **MENU 2: Soup + Spicy pork meat with vegetables and potato pancakes** 205 CZK
 
 ## SOUP WITH MAIN COURSE – 250ml
