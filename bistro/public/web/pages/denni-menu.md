@@ -4,7 +4,7 @@ title: Denní menu CZ
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)
 
 * **MENU 1: Polévka + Staročeská bašta (špekáček, pečené a uzené vepřové maso, variace zelí, houskový a bramborový knedlík)** 205 Kč
-* **MENU 2: Polévka + Vepřový katův šleh a bramboráčky** 215 Kč
+* **MENU 2: Polévka + Vepřový katův šleh a bramboráčky** 205 Kč
 
 ## POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
