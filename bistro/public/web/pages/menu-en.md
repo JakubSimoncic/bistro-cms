@@ -4,7 +4,7 @@ title: Denní menu - EN
 ## SPECIAL OFFER (soup + main course)
 
 * **MENU 1: Soup + Pork Frankfurt goulash with potato pancakes** 215 CZK
-* **MENU 2: Soup + Horseradish sauce with beef, homemade dumplings** 235 CZK
+* **MENU 2: Soup + Hamburg pork shoulder, homemade bread dumplings** 235 CZK
 
 ## SOUP WITH MAIN COURSE – 250ml
 
