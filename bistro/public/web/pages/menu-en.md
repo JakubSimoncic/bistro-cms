@@ -17,10 +17,10 @@ title: Denní menu - EN
 * **Serbian pork risotto topped with cheese, pickles** 185 CZK
 * **Fried schnitzel from minced meat and cabbage, mashed potatoes, tomato salad** 185 CZK
 * **Grilled stuffed wheat tortilla of your choice and French Fries** 195 CZK
-* **Pulled pork in our BBQ sauce, roasted potatoes and coleslaw** 215 CZK
+* **Pulled pork in our BBQ sauce, roasted potatoes and coleslaw** 195 CZK
 * **Beef goulash with onion, Czech-style peppers and homemade dumplings** 235 CZK
-* **Fried chicken schnitzel, homemade potato salad, lemon** 215 CZK
-* **Fried Cheese, French Fries and Tartar Sauce** 215 CZK
+* **Fried chicken schnitzel, homemade potato salad, lemon** 195 CZK
+* **Fried Cheese, French Fries and Tartar Sauce** 195 CZK
 
 ## SOUP ORDERED SEPARATELY – 250ml / 500ml
 * **"Kulajda"- creamy dill soup with potatoes and mushrooms or Lentil soup with sausage** 55 / 75 CZK
