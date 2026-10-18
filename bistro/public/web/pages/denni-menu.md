@@ -3,19 +3,19 @@ title: Denní menu CZ
 ---
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)
 
-* **MENU 1: Polévka + Vepřový frankfurtský guláš, domácí houskový knedlík** 215 Kč
-* **MENU 2: Polévka + Vepřový katův šleh, pečená jasmínová rýže** 215 Kč
+* **MENU 1: Polévka + Srbské vepřové rizoto sypané sýrem, kyselá okurka** 205 Kč
+* **MENU 2: Polévka + Smažený masový karbanátek s kapustou, máslová bramborová kaše, rajčatový salátek** 205 Kč
 
 ## POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
-* **Zelňačka s klobásou** 35 Kč
-* **Dýňový krém s kokosovým mlékem a zakysanou smetanou** 35 Kč
+* **Jihočeská kulajda** 35 Kč
+* **Čočková polévka s klobásou** 35 Kč
 
 ## HLAVNÍ JÍDLA
 
-* **Grilovaná vepřová krkovice, omáčka s restovaným chorizem, cibulí a česnekem, hranolky** 225 Kč
-* **Vepřový katův šleh, pečená jasmínová rýže** 195 Kč
-* **Vepřový frankfurtský guláš, domácí houskový knedlík** 195 Kč
+* **Plněný bramborový knedlík uzeným masem, dušené kyselé zelí, cibulka na sádle a vídeňská cibulka** 185 Kč
+* **Srbské vepřové rizoto sypané sýrem, kyselá okurka** 185 Kč
+* **Smažený karbanátek s kapustou, máslová bramborová kaše, rajčatový salátek** 185 Kč
 * **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 195 Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek coleslaw** 215 Kč
 * **Hovězí guláš s cibulkou a beraním rohem, domácí houskový knedlík** 235 Kč
@@ -24,6 +24,6 @@ title: Denní menu CZ
 
 ## POLÉVKA OBJEDNANÁ SAMOSTATNĚ– 250ml / 500ml
 
-* **Zelňačka s klobásou nebo Dýňový krém s kokosovým mlékem a zakysanou smetanou** 55 / 75 Kč
+* **Jihočeská kulajda nebo čočková polévka s klobásou** 55 / 75 Kč
 
-***Nabídka platí v nedělí 18.10. od 10:30 do zavírací hodiny nebo do vyprodání.***
+***Nabídka platí v pondělí 19.10. od 10:30 do zavírací hodiny nebo do vyprodání.***
