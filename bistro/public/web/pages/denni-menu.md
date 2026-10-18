@@ -17,10 +17,10 @@ title: Denní menu CZ
 * **Srbské vepřové rizoto sypané sýrem, kyselá okurka** 185 Kč
 * **Smažený karbanátek s kapustou, máslová bramborová kaše, rajčatový salátek** 185 Kč
 * **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 195 Kč
-* **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek coleslaw** 215 Kč
+* **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek coleslaw** 195 Kč
 * **Hovězí guláš s cibulkou a beraním rohem, domácí houskový knedlík** 235 Kč
-* **Kuřecí řízek, domácí bramborový salát, citron** 215 Kč
-* **Smažený sýr, hranolky a tatarská omáčka** 215 Kč
+* **Kuřecí řízek, domácí bramborový salát, citron** 195 Kč
+* **Smažený sýr, hranolky a tatarská omáčka** 195 Kč
 
 ## POLÉVKA OBJEDNANÁ SAMOSTATNĚ– 250ml / 500ml
 
