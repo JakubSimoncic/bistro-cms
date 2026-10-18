@@ -13,7 +13,7 @@ title: Denní menu - EN
 
 ## MAIN COURSES
 
-* **Potato dumpling stuffed with smoked meat, served with braised sauerkraut, onions sautéed in lard, and crispy fried onions** 185 CZK
+* **Potato dumpling stuffed with smoked meat, served with braised sauerkraut, onions sautéed in lard and crispy fried onions** 185 CZK
 * **Serbian pork risotto topped with cheese, pickles** 185 CZK
 * **Fried schnitzel from minced meat and cabbage, mashed potatoes, tomato salad** 185 CZK
 * **Grilled stuffed wheat tortilla of your choice and French Fries** 195 CZK
