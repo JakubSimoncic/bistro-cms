@@ -16,6 +16,7 @@ title: Denní menu CZ
 * **Vepřová roláda plněná žemlovou nádivkou, šťouchané brambory** 185 Kč
 * **Hovězí na česneku, listový špenát a bramborový knedlík** 195 Kč
 * **Grilovaný kuřecí steak, bazalkové pesto, grilovaná zelenina a smažené hranolky** 215 Kč
+* **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 195 Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek coleslaw** 195 Kč
 * **Hovězí guláš s cibulkou a beraním rohem, domácí houskový knedlík** 235 Kč
 * **Kuřecí řízek, domácí bramborový salát, citron** 195 Kč
