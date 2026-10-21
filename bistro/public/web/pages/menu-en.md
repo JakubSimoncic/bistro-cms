@@ -3,18 +3,19 @@ title: Denní menu - EN
 ---
 ## SPECIAL OFFER (soup + main course)
 
-* **MENU 1: Soup + Serbian pork risotto topped with cheese, pickles** 205 CZK
-* **MENU 2: Soup + Beef meat with dill sauce, homemade bread dumplings** 235 CZK
+* **MENU 1: Soup + Pork roulade with bread-based stuffing, mashed potatoes** 205 CZK
+* **MENU 2: Soup + Beef meat with garlic, leaf spinach and potato dumplings** 215 CZK
 
 ## SOUP WITH MAIN COURSE – 250ml
 
-* **French onion soup, croutons, parmesan cheese** 35 CZK
-* **Lentil soup with sausage** 35 CZK
+* **French onion soup with croutons and parmesan cheese** 35 CZK
+* **Goulash soup** 35 CZK
 
 ## MAIN COURSES
 
-* **Serbian pork risotto topped with cheese, pickles** 185 CZK
-* **Beef meat with dill sauce, homemade bread dumplings** 215 CZK
+* **Pork roulade with bread-based stuffing, mashed potatoes** 185 CZK
+* **Beef meat with garlic, leaf spinach and potato dumplings** 195 CZK
+* **Grilled chicken steak, basil pesto, grilled vegetables and French Fries** 215 CZK
 * **Grilled stuffed wheat tortilla of your choice and French Fries** 195 CZK
 * **Pulled pork in our BBQ sauce, roasted potatoes and coleslaw** 195 CZK
 * **Beef goulash with onion, Czech-style peppers and homemade dumplings** 235 CZK
@@ -22,7 +23,7 @@ title: Denní menu - EN
 * **Fried Cheese, French Fries and Tartar Sauce** 195 CZK
 
 ## SOUP ORDERED SEPARATELY – 250ml / 500ml
-* **Lentil soup with sausage or French onion soup, croutons, parmesan** 55 / 75 CZK
+* **Goulash soup or French onion soup with croutons and parmesan cheese** 55 / 75 CZK
 
 
-***The offer is valid on Wednesday 21.10. from 10:30 a.m. to closing time or until sold out.***
+***The offer is valid on Thursday 22.10. from 10:30 a.m. to closing time or until sold out.***
