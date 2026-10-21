@@ -8,8 +8,8 @@ title: Denní menu - EN
 
 ## SOUP WITH MAIN COURSE – 250ml
 
-* **French onion soup with croutons and parmesan cheese** 35 CZK
 * **Goulash soup** 35 CZK
+* **French onion soup with croutons and parmesan cheese** 35 CZK
 
 ## MAIN COURSES
 
