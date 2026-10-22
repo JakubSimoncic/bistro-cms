@@ -15,7 +15,7 @@ title: Denní menu - EN
 
 * **Pork roulade with bread-based stuffing, mashed potatoes** 185 CZK
 * **Beef meat with garlic, leaf spinach and potato dumplings** 195 CZK
-* **Grilled chicken steak, basil pesto, grilled vegetables and French Fries** 215 CZK
+* **Grilled chicken steak, basil pesto, grilled vegetables and French Fries** 225 CZK
 * **Grilled stuffed wheat tortilla of your choice and French Fries** 195 CZK
 * **Pulled pork in our BBQ sauce, roasted potatoes and coleslaw** 195 CZK
 * **Beef goulash with onion, Czech-style peppers and homemade dumplings** 235 CZK
