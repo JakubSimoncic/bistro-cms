@@ -13,7 +13,7 @@ title: Denní menu - EN
 
 ## MAIN COURSES
 
-* **Baked pork meat, braised red cabbage and potato dumplings** 195 CZK
+* **Baked pork meat, braised red cabbage and homemade dumplings** 195 CZK
 * **Pork meat Stroganoff and roasted jasmine rice** 195 CZK
 * **Beef meat with garlic, leaf spinach and potato dumplings** 215 CZK
 * **Grilled stuffed wheat tortilla of your choice and French Fries** 195 CZK
