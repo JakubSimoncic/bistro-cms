@@ -13,7 +13,7 @@ title: Denní menu CZ
 
 ## HLAVNÍ JÍDLA
 
-* **Selská vepřová plec, dušené červené zelí a bramborový knedlík** 195 Kč
+* **Selská vepřová plec, dušené červené zelí a domácí houskový knedlík** 195 Kč
 * **Vepřové nudličky Stroganoff a pečená jasmínová rýže** 195 Kč
 * **Hovězí na česneku, listový špenát a bramborový knedlík** 215 Kč
 * **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 195 Kč
