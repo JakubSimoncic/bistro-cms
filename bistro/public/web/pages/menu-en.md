@@ -3,7 +3,7 @@ title: Denní menu - EN
 ---
 ## SPECIAL OFFER (soup + main course)
 
-* **MENU 1: Soup + Pork meat Stroganoff and roasted jasmine rice** 215 CZK
+* **MENU 1: Soup + Pork Stroganoff meat and roasted jasmine rice** 215 CZK
 * **MENU 2: Soup + Beef meat with garlic, leaf spinach and potato dumplings** 235 CZK
 
 ## SOUP WITH MAIN COURSE – 250ml
