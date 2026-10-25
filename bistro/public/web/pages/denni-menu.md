@@ -3,27 +3,27 @@ title: Denní menu CZ
 ---
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)
 
-* **MENU 1: Polévka + Vepřové nudličky Stroganoff a pečená jasmínová rýže** 215 Kč
-* **MENU 2: Polévka + Hovězí na česneku, listový špenát a bramborový knedlík** 235 Kč
+* **MENU 1: Polévka + Smažená sýrová variace (uz.sýr, hermelín), vařený brambor, tatarka** 215 Kč
+* **MENU 2: Polévka + Moravský vrabec, dušené bílé zelí, bramborový knedlík** 205 Kč
 
 ## POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
 * **Boršč se zakysanou smetanou** 35 Kč
-* **Kapustová polévka s mletým masem a bramborem** 35 Kč
+* **Brokolicový krém s krutony** 35 Kč
 
 ## HLAVNÍ JÍDLA
 
-* **Selská vepřová plec, dušené červené zelí a domácí houskový knedlík** 195 Kč
-* **Vepřové nudličky Stroganoff a pečená jasmínová rýže** 195 Kč
-* **Hovězí na česneku, listový špenát a bramborový knedlík** 215 Kč
-* **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 195 Kč
-* **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek coleslaw** 215 Kč
+* **Hovězí svíčková na smetaně s domácím houskovým knedlíkem, brusinkový terč** 215 Kč
+* **Smažená sýrová variace (uzený sýr, hermelín), vařený brambor, tatarka** 195 Kč
+* **Moravský vrabec, dušené bílé zelí, bramborový knedlík** 185 Kč
+* **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 185 Kč
+* **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek coleslaw** 195 Kč
 * **Hovězí guláš s cibulkou a beraním rohem, domácí houskový knedlík** 235 Kč
-* **Kuřecí řízek, domácí bramborový salát, citron** 215 Kč
-* **Smažený sýr, hranolky a tatarská omáčka** 215 Kč
+* **Kuřecí řízek, domácí bramborový salát, citron** 195 Kč
+* **Smažený sýr, hranolky a tatarská omáčka** 195 Kč
 
 ## POLÉVKA OBJEDNANÁ SAMOSTATNĚ– 250ml / 500ml
 
-* **Boršč se zakysanou smetanou nebo kapustová polévka s mletým masem a bramborem** 55 / 75 Kč
+* **Borčš se zakysanou smetanou nebo brokolicový krém s krutony** 55 / 75 Kč
 
-***Nabídka platí v neděli 25.10. od 10:30 do zavírací hodiny nebo do vyprodání.***
+***Nabídka platí ve pondělí 26.10. od 10:30 do zavírací hodiny nebo do vyprodání.***
