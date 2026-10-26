@@ -3,7 +3,7 @@ title: Denní menu CZ
 ---
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)
 
-* **MENU 1: Polévka + Smažená sýrová variace (uz.sýr, hermelín), vařený brambor, tatarka** 215 Kč
+* **MENU 1: Polévka + Smažená sýrová variace (uzený sýr, hermelín), vařený brambor, tatarka** 205 Kč
 * **MENU 2: Polévka + Moravský vrabec, dušené bílé zelí, bramborový knedlík** 205 Kč
 
 ## POLÉVKA K HLAVNÍMU JÍDLU – 250ml
@@ -14,7 +14,7 @@ title: Denní menu CZ
 ## HLAVNÍ JÍDLA
 
 * **Hovězí svíčková na smetaně s domácím houskovým knedlíkem, brusinkový terč** 215 Kč
-* **Smažená sýrová variace (uzený sýr, hermelín), vařený brambor, tatarka** 195 Kč
+* **Smažená sýrová variace (uzený sýr, hermelín), vařený brambor, tatarka** 185 Kč
 * **Moravský vrabec, dušené bílé zelí, bramborový knedlík** 185 Kč
 * **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 185 Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek coleslaw** 195 Kč
