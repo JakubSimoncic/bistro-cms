@@ -26,4 +26,4 @@ title: Denní menu CZ
 
 * **Fazolová polévka s paprikovou klobásou nebo brokolicový krém s krutony** 55 / 75 Kč
 
-***Nabídka platí v úterý 2.10. od 10:30 do zavírací hodiny nebo do vyprodání.***
+***Nabídka platí v úterý 27.10. od 10:30 do zavírací hodiny nebo do vyprodání.***
