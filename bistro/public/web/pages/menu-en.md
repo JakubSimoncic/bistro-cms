@@ -3,7 +3,7 @@ title: Denní menu - EN
 ---
 ## SPECIAL OFFER (Soup + Main Course)
 
-* **MENU 1: Soup + Fried smoked cheese and Camembert cheese), boiled potatoes, tartar sauce** 215 CZK
+* **MENU 1: Soup + Fried smoked cheese and Camembert cheese), boiled potatoes, tartar sauce** 205 CZK
 * **MENU 2: Soup + Moravian-style Roast Pork, stewed white cabbage, potato dumplings** 205 CZK
 
 ## SOUP (with a main course) – 250ml
@@ -14,7 +14,7 @@ title: Denní menu - EN
 ## MAIN COURSES
 
 * **Beef tenderloin in cream sauce (Svíčková) with homemade bread dumplings, cranberry garnish** 215 CZK
-* **Fried smoked cheese and Camembert cheese, boiled potatoes, tartar sauce** 195 CZK
+* **Fried smoked cheese and Camembert cheese, boiled potatoes, tartar sauce** 185 CZK
 * **Moravian-style Roast Pork, stewed white cabbage, potato dumplings** 185 CZK
 * **Grilled stuffed wheat tortilla (choice of filling) served with French fries** 185 CZK
 * **Pulled pork in our house BBQ sauce, roasted potatoes, and coleslaw** 195 CZK
