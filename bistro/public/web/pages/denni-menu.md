@@ -3,7 +3,7 @@ title: Denní menu CZ
 ---
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)
 
-* **MENU 1: Polévka + Rozlítaný vepřový španělský ptáček, pečená jasmínová rýže** 215 Kč
+* **MENU 1: Polévka + Rozlítaný vepřový španělský ptáček, pečená jasmínová rýže** 205 Kč
 * **MENU 2: Polévka + Opečená jitrnice, vařené brambory, kysané zelí, hořčice** 205 Kč
 
 ## POLÉVKA K HLAVNÍMU JÍDLU – 250ml
@@ -13,8 +13,8 @@ title: Denní menu CZ
 
 ## HLAVNÍ JÍDLA
 
-* **Halušky s uzeným masem, zelím a cibulkou** 185 Kč
-* **Rozlítaný vepřový španělský ptáček, pečená jasmínová rýže** 195 Kč
+* **Halušky s uzeným masem, zelím a cibulkou** 175 Kč
+* **Rozlítaný vepřový španělský ptáček, pečená jasmínová rýže** 185 Kč
 * **Opečená jitrnice, vařené brambory, kysané zelí, hořčice** 185 Kč
 * **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 185 Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek coleslaw** 195 Kč
@@ -24,6 +24,6 @@ title: Denní menu CZ
 
 ## POLÉVKA OBJEDNANÁ SAMOSTATNĚ– 250ml / 500ml
 
-* **Frankfurtská s párkem nebo Kukuřičný krém s kokosovým mlékem** 55 / 75 Kč
+* **Frankfurtská s párkem nebo kukuřičný krém s kokosovým mlékem** 55 / 75 Kč
 
 ***Nabídka platí ve čtvrtek 29.10. od 10:30 do zavírací hodiny nebo do vyprodání.***
