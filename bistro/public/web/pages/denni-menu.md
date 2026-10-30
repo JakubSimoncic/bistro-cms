@@ -3,8 +3,6 @@ title: Denní menu CZ
 ---
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)
 
-* **MENU 1: Polévka + Smaž## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)
-
 * **MENU 1: Polévka + Rozlítaný vepřový španělský ptáček, pečená jasmínová rýže** 215 Kč
 * **MENU 2: Polévka + Pečený zabijačkový prejt, vařené brambory, kysané zelí a hořčice** 205 Kč
 
