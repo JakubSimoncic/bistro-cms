@@ -3,11 +3,6 @@ title: Denní menu - EN
 ---
 ## SPECIAL OFFER (Soup + Main Course)
 
-* **MENU 1: Soup + Fried cauliflower, boiled potatoes and tartar sauce** 195 CZK
-* **MENU 2: Soup + Chicken meat in creamy paprika sauce with Fusilli pasta or dumplings** 205 CZK
-
-## SOUP (with a ## SPECIAL OFFER (Soup + Main Course)
-
 * **MENU 1: Soup + Pork meat, meat sauce with sausage, eggs and pickles, jasmine rice** 215 CZK
 * **MENU 2: Soup + „Prejt“ -traditional pork offal hash, boiled potatoes, sauerkraut and mustard** 205 CZK
 
