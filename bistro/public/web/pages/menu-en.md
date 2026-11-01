@@ -15,7 +15,7 @@ title: Denní menu - EN
 
 * **Pork meat, mushroom sauce and roasted jasmine rice** 195 CZK
 * **Roasted hash and traditional "lepenice"- mashed potatoes with sauerkraut** 185 CZK
-* **Traditional pork offal goulash, homemade dumplings** 185 CZK*
+* **Traditional pork offal goulash, homemade dumplings** 185 CZK
 * **Pork meat, white cabbage and potato dumplings** 195 CZK
 * **Grilled stuffed wheat tortilla of your choice and French Fries** 185 CZK
 * **Pulled pork meat in our BBQ sauce, roasted potatoes and coleslaw** 215 CZK
