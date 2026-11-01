@@ -3,29 +3,28 @@ title: Denní menu - EN
 ---
 ## SPECIAL OFFER (Soup + Main Course)
 
-* **MENU 1: Soup + Traditional pork offal goulash, homemade dumplings** 205 CZK
-* **MENU 2: Soup + Pork meat, white cabbage and potato dumplings** 215 CZK
+* **MENU 1: Soup + Baked pasta with smoked meat, pickles** 195 CZK
+* **MENU 2: Soup + Cevapcici (grilled minced meat rolls) with boiled potato, onion and mustard** 205 CZK
 
 ## SOUP (with a main course) – 250ml
 
-* **Creamy corn soup with coconut milk and fried tortilla strips** 35 CZK
-* **Frankfurter soup** 35 CZK
+* **Goulash soup** 35 CZK
+* **Leek with egg** 35 CZK
 
 ## MAIN COURSES
 
-* **Pork meat, mushroom sauce and roasted jasmine rice** 195 CZK
-* **Roasted hash and traditional "lepenice"- mashed potatoes with sauerkraut** 185 CZK
-* **Traditional pork offal goulash, homemade dumplings** 185 CZK
-* **Pork meat, white cabbage and potato dumplings** 195 CZK
+* **Pork goulash with cabbage** 185 CZK
+* **Baked pasta with smoked meat, pickles** 175 CZK
+* **Cevapcici (grilled minced meat rolls) with boiled potato, onion and mustard** 185 CZK
 * **Grilled stuffed wheat tortilla of your choice and French Fries** 185 CZK
-* **Pulled pork meat in our BBQ sauce, roasted potatoes and coleslaw** 215 CZK
+* **Pulled pork meat in our BBQ sauce, roasted potatoes and coleslaw** 195 CZK
 * **Beef goulash with onions and pickled chili pepper, homemade dumplings** 235 CZK
-* **Chicken schnitzel, homemade potato salad, lemon** 215 CZK
-* **Fried cheese, French Fries and Tartar Sauce** 215 CZK
+* **Chicken schnitzel, homemade potato salad, lemon** 195 CZK
+* **Fried cheese, French Fries and Tartar Sauce** 195 CZK
 
 ## SOUP ORDERED SEPARATELY – 250ml / 500ml
 
-* **Creamy Corn Soup with coconut milk and fried tortilla strips or Frankfurter Soup** 55 / 75 CZK
+* **Goulash soup or Leek with egg** 55 / 75 CZK
 
-***Offer valid on Sunday 1.11. from 10:30 AM until closing or while supplies last.***
+***Offer valid on Monday 02.11. from 10:30 AM until closing or while supplies last.***
 main course) – 250ml
