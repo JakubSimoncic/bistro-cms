@@ -13,7 +13,7 @@ title: Denní menu CZ
 
 ## HLAVNÍ JÍDLA
 
-* **Rajská omáčka s hovězím masem, domácí houskový knedlík** 185 Kč
+* **Rajská omáčka s hovězím masem, domácí houskový knedlík** 195 Kč
 * **Čočka na kyselo, grilovaná papriková klobása, kyselá okurka** 175 Kč
 * **Vepřová kapsa plněná anglickou slaninou, kysaným zelím, šťouchané brambory, silná šťáva** 185 Kč
 * **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 185 Kč
