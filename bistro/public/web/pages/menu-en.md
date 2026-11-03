@@ -9,7 +9,7 @@ title: Denní menu - EN
 ## SOUP (with a main course) – 250ml
 
 * **Tripe soup** 35 CZK
-* **South Bohemian kulajda** 35 CZK
+* **Kulajda - creamy dill soup** 35 CZK
 
 ## MAIN COURSES
 
@@ -24,7 +24,7 @@ title: Denní menu - EN
 
 ## SOUP ORDERED SEPARATELY – 250ml / 500ml
 
-* **Tripe soup or South Bohemian kulajda** 55 / 75 CZK
+* **Tripe soup or Kulajda - creamy dill soup** 55 / 75 CZK
 
 ***Offer valid on Wednesday 04.11. from 10:30 AM until closing or while supplies last.***
 main course) – 250ml
