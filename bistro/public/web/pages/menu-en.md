@@ -3,19 +3,19 @@ title: Denní menu - EN
 ---
 ## SPECIAL OFFER (Soup + Main Course)
 
-* **MENU 1: Soup + Roasted chicken leg ala duck, red cabbage, potato dumplings** 205 CZK
-* **MENU 2: Soup + Fried schnitzel from minced meat and cheese, mashed potatoes, pickles** 205 CZK
+* **MENU 1: Soup + Homemade meatloaf, mashed potatoes, pickles** 205 CZK
+* **MENU 2: Soup + Spaghetti Bolognese with minced meat, Parmesan cheese** 205 CZK
 
 ## SOUP (with a main course) – 250ml
 
 * **Tripe soup** 35 CZK
-* **Kulajda - creamy dill soup** 35 CZK
+* **Beef broth with meat, vegetables and frittata noodles** 35 CZK
 
 ## MAIN COURSES
 
-* **Chicken strips on red curry with coconut milk and vegetables, baked jasmine rice** 185 CZK
-* **Roasted chicken leg ala duck, red cabbage, potato dumplings** 185 CZK
-* **Fried schnitzel from minced meat and cheese, mashed potatoes, pickles** 185 CZK
+* **Beef gypsy-style roast, roasted jasmine rice** 195 CZK
+* **Homemade meatloaf, mashed potatoes, pickles** 185 CZK
+* **Spaghetti Bolognese with minced meat, Parmesan cheese** 185 CZK
 * **Grilled stuffed wheat tortilla of your choice and French Fries** 185 CZK
 * **Pulled pork meat in our BBQ sauce, roasted potatoes and coleslaw** 195 CZK
 * **Beef goulash with onions and pickled chili pepper, homemade dumplings** 235 CZK
@@ -24,7 +24,7 @@ title: Denní menu - EN
 
 ## SOUP ORDERED SEPARATELY – 250ml / 500ml
 
-* **Tripe soup or Kulajda - creamy dill soup** 55 / 75 CZK
+* **Tripe soup or Beef broth with meat, vegetables and frittata noodles** 55 / 75 CZK
 
-***Offer valid on Wednesday 04.11. from 10:30 AM until closing or while supplies last.***
+***Offer valid on Thursday 05.11. from 10:30 AM until closing or while supplies last.***
 main course) – 250ml
