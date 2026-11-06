@@ -18,10 +18,10 @@ title: Denní menu - EN
 * **Segedin pork goulash, homemade dumplings** 195 CZK
 * **Baked meat rolls, boiled potatoes, onion and mustard** 195 CZK
 * **Grilled stuffed wheat tortilla of your choice and French Fries** 185 CZK
-* **Pulled pork meat in our BBQ sauce, roasted potatoes and coleslaw** 195 CZK
+* **Pulled pork meat in our BBQ sauce, roasted potatoes and coleslaw** 215 CZK
 * **Beef goulash with onions and pickled chili pepper, homemade dumplings** 235 CZK
-* **Chicken schnitzel, homemade potato salad, lemon** 195 CZK
-* **Fried cheese, French Fries and Tartar Sauce** 195 CZK
+* **Chicken schnitzel, homemade potato salad, lemon** 215 CZK
+* **Fried cheese, French Fries and Tartar Sauce** 215 CZK
 
 ## SOUP ORDERED SEPARATELY – 250ml / 500ml
 
