@@ -13,7 +13,7 @@ title: Denní menu - EN
 
 ## MAIN COURSES
 
-* **Roasted chicken leg, red cabbage and potato dumplings** 185 CZK
+* **Roasted chicken thigh, red cabbage and potato dumplings** 185 CZK
 * **Pork meat, meat sauce with bacon, roasted jasmine rice** 185 CZK
 * **Segedin pork goulash, homemade dumplings** 195 CZK
 * **Baked meat rolls, boiled potatoes, onion and mustard** 195 CZK
