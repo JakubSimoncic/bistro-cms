@@ -3,20 +3,20 @@ title: Denní menu - EN
 ---
 ## SPECIAL OFFER (Soup + Main Course)
 
-* **MENU 1: Soup + Segedin pork goulash, homemade dumplings** 215 CZK
-* **MENU 2: Soup + Baked meat rolls, boiled potatoes, onion and mustard** 215 CZK
+* **MENU 1: Soup + Baked ham-spots with smoked meat, sour cucumber** 215 CZK
+* **MENU 2: Soup + Chicken Noodles on Red Curry with Coconut Milk, Rice** 215 CZK
 
 ## SOUP (with a main course) – 250ml
 
-* **Lentil soup with sausage** 35 CZK
-* **Traditional Czech potato soup with mushrooms** 35 CZK
+* **Cabbage with sausage** 35 CZK
+* **Beef broth with meat, vegetables and fritat noodles** 35 CZK
 
 ## MAIN COURSES
 
-* **Roasted chicken thigh, red cabbage and potato dumplings** 185 CZK
-* **Pork meat, meat sauce with bacon, roasted jasmine rice** 185 CZK
-* **Segedin pork goulash, homemade dumplings** 195 CZK
-* **Baked meat rolls, boiled potatoes, onion and mustard** 195 CZK
+* **Roasted duck 1/4, stewed red cabbage and Carlsbad dumplings** 325 CZK
+* **Pork meat with mushrooms, roasted jasmine rice** 195 CZK
+* **Chicken Noodles on Red Curry with Coconut Milk, Rice** 195 CZK
+* **Chicken Noodles on Red Curry with Coconut Milk, Rice** 195 CZK
 * **Grilled stuffed wheat tortilla of your choice and French Fries** 185 CZK
 * **Pulled pork meat in our BBQ sauce, roasted potatoes and coleslaw** 215 CZK
 * **Beef goulash with onions and pickled chili pepper, homemade dumplings** 235 CZK
@@ -25,7 +25,7 @@ title: Denní menu - EN
 
 ## SOUP ORDERED SEPARATELY – 250ml / 500ml
 
-* **Lentil soup with sausage or Traditional Czech potato soup with mushrooms** 55 / 75 CZK
+* **Cabbage with sausage or Beef broth with meat, vegetables and fritat noodles** 55 / 75 CZK
 
-***Offer valid on Saturday 07.11. from 10:30 AM until closing or while supplies last.***
+***Offer valid on Sunday 08.11. from 10:30 AM until closing or while supplies last.***
 main course) – 250ml
