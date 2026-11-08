@@ -13,7 +13,7 @@ title: Denní menu CZ
 
 ## HLAVNÍ JÍDLA
 
-* **Pečené kachna 1/4, dušené červené zelí a karlovarský knedlík** 325 Kč
+* **Pečené kachna 1/4, dušené červené zelí a karlovarský knedlík** 295 Kč
 * **Vepřové maso na houbách, pečená jasmínová rýže** 195 Kč
 * **Zapečené šunkofleky s uzeným masem, kyselá okurka** 195 Kč
 * **Kuřecí nudličky na červeném kari s kokosovým mlékem, rýže** 195 Kč
