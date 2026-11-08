@@ -18,10 +18,10 @@ title: Denní menu - EN
 * **Cmunda po kaplicku (potato pancake, smoked meat, cabbage)** 185 CZK
 * **Roast Beef Stephen, Roasted Jasmine Rice** 195 CZK
 * **Grilled stuffed wheat tortilla of your choice and French Fries** 185 CZK
-* **Pulled pork meat in our BBQ sauce, roasted potatoes and coleslaw** 215 CZK
+* **Pulled pork meat in our BBQ sauce, roasted potatoes and coleslaw** 195 CZK
 * **Beef goulash with onions and pickled chili pepper, homemade dumplings** 235 CZK
-* **Chicken schnitzel, homemade potato salad, lemon** 215 CZK
-* **Fried cheese, French Fries and Tartar Sauce** 215 CZK
+* **Chicken schnitzel, homemade potato salad, lemon** 195 CZK
+* **Fried cheese, French Fries and Tartar Sauce** 195 CZK
 
 ## SOUP ORDERED SEPARATELY – 250ml / 500ml
 
