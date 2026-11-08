@@ -25,6 +25,6 @@ title: Denní menu CZ
 
 ## POLÉVKA OBJEDNANÁ SAMOSTATNĚ– 250ml / 500ml
 
-* **Zelná s klobásou nebo Hovězí vývar s masem, zeleninou a fritatovými nudlemi** 55 / 75 Kč
+* **Kachní kaldoun s domácími nudlemi nebo Zelňačka s paprikovou klobásou** 55 / 75 Kč
 
 ***Nabídka platí v pondělí 9.11. od 10:30 do zavírací hodiny nebo do vyprodání.***
