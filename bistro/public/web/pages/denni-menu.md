@@ -3,20 +3,20 @@ title: Denní menu CZ
 ---
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)
 
-* **MENU 1: Polévka + Zapečené šunkofleky s uzeným masem, kyselá okurka** 215 Kč
-* **MENU 2: Polévka + Kuřecí nudličky na červeném kari s kokosovým mlékem, rýže** 215 Kč
+* **MENU 1: Polévka + Cmunda po kaplicku (bramborák, uzené maso, zelí)** 205 Kč
+* **MENU 2: Polévka + Hovězí štěpánská pečeně, pečená jasmínová rýže** 215 Kč
 
 ## POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
-* **Zelná s klobásou** 35 Kč
-* **Hovězí vývar s masem, zeleninou a fritatovými nudlemi** 35 Kč
+* **Kachní kaldoun s domácími nudlemi** 35 Kč
+* **Zelňačka s paprikovou klobásou** 35 Kč
 
 ## HLAVNÍ JÍDLA
 
 * **Pečené kachna 1/4, dušené červené zelí a karlovarský knedlík** 295 Kč
-* **Vepřové maso na houbách, pečená jasmínová rýže** 195 Kč
-* **Zapečené šunkofleky s uzeným masem, kyselá okurka** 195 Kč
-* **Kuřecí nudličky na červeném kari s kokosovým mlékem, rýže** 195 Kč
+* **Špagety carbonara (pancetta, česnek, žloutek), parmazán** 215 Kč
+* **Cmunda po kaplicku (bramborák, uzené maso, zelí)** 185 Kč
+* **Hovězí štěpánská pečeně, pečená jasmínová rýže** 195 Kč
 * **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 185 Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek coleslaw** 215 Kč
 * **Hovězí guláš s cibulkou a beraním rohem, domácí houskový knedlík** 235 Kč
@@ -27,4 +27,4 @@ title: Denní menu CZ
 
 * **Zelná s klobásou nebo Hovězí vývar s masem, zeleninou a fritatovými nudlemi** 55 / 75 Kč
 
-***Nabídka platí v nedělí 8.11. od 10:30 do zavírací hodiny nebo do vyprodání.***
+***Nabídka platí v pondělí 9.11. od 10:30 do zavírací hodiny nebo do vyprodání.***
