@@ -8,7 +8,7 @@ title: Denní menu - EN
 
 ## SOUP (with a main course) – 250ml
 
-* **Cabbage with sausage** 35 CZK
+* **Cabbage soup with sausage** 35 CZK
 * **Beef broth with meat, vegetables and fritat noodles** 35 CZK
 
 ## MAIN COURSES
