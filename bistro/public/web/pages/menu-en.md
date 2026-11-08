@@ -13,7 +13,7 @@ title: Denní menu - EN
 
 ## MAIN COURSES
 
-* **Roasted duck 1/4, stewed red cabbage and Carlsbad dumplings** 325 CZK
+* **Roasted duck 1/4, stewed red cabbage and Carlsbad dumplings** 295 CZK
 * **Pork meat with mushrooms, roasted jasmine rice** 195 CZK
 * **Chicken Noodles on Red Curry with Coconut Milk, Rice** 195 CZK
 * **Chicken Noodles on Red Curry with Coconut Milk, Rice** 195 CZK
