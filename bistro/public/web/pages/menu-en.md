@@ -25,7 +25,7 @@ title: Denní menu - EN
 
 ## SOUP ORDERED SEPARATELY – 250ml / 500ml
 
-* **Cabbage with sausage or Beef broth with meat, vegetables and fritat noodles** 55 / 75 CZK
+* **Cabbage soup with sausage or Beef broth with meat, vegetables and fritat noodles** 55 / 75 CZK
 
 ***Offer valid on Sunday 08.11. from 10:30 AM until closing or while supplies last.***
 main course) – 250ml
