@@ -9,7 +9,7 @@ title: Denní menu - EN
 ## SOUP (with a main course) – 250ml
 
 * **Duck kaldoun with homemade noodles** 35 CZK
-* **Beef broth with meat, vegetables and fritat noodles** 35 CZK
+* **Cabbage soup with pepper sausage** 35 CZK
 
 ## MAIN COURSES
 
