@@ -4,7 +4,7 @@ title: Denní menu - EN
 ## SPECIAL OFFER (Soup + Main Course)
 
 * **MENU 1: Soup + "Cmunda"- potato pancake with smoked meat and cabbage** 205 CZK
-* **MENU 2: Soup + Chicken Noodles on Red Curry with Coconut Milk, Rice** 215 CZK
+* **MENU 2: Soup + Beef meat, meat souce with eggs, Roasted Jasmine Rice** 215 CZK
 
 ## SOUP (with a main course) – 250ml
 
