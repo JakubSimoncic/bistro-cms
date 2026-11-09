@@ -28,4 +28,3 @@ title: Denní menu - EN
 * **Duck kaldoun with homemade noodles or Cabbage soup with pepper sausage** 55 / 75 CZK
 
 ***Offer valid on Monday 9.11. from 10:30 AM until closing or while supplies last.***
-main course) – 250ml
