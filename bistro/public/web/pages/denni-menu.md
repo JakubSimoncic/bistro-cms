@@ -4,7 +4,7 @@ title: Denní menu CZ
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)
 
 * **MENU 1: Polévka + Smažené žampiony, vařené brambory, tatarská omáčka** 195 Kč
-* **MENU 2: Polévka + Zapečené plněné brambory s mletým masem a sýrem, okurkový salát** 205 Kč
+* **MENU 2: Polévka + Zapečené plněné brambory s mletým masem a sýrem, okurkový salát** 215 Kč
 
 ## POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
