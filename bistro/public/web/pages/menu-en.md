@@ -4,7 +4,7 @@ title: Denní menu - EN
 ## SPECIAL OFFER (Soup + Main Course)
 
 * **MENU 1: Soup + Serbian pork risotto with cheese, pickles** 205 CZK
-* **MENU 2: Soup + Fried chicken strips, baked potatoes with onion and bacon, garlic mayonnaise** 215 CZK
+* **MENU 2: Soup + Fried chicken strips, baked potatoes with onion and bacon, garlic mayonnaise** 205 CZK
 
 ## SOUP (with a main course) – 250ml
 
