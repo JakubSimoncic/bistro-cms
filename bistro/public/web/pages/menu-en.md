@@ -9,7 +9,7 @@ title: Denní menu - EN
 ## SOUP (with a main course) – 250ml
 
 * **Oyster mushroom tripe** 35 CZK
-* **Creamy garlic soup with croutons and cheese** 35 CZK
+* **Frankfourt soup** 35 CZK
 
 ## MAIN COURSES
 
