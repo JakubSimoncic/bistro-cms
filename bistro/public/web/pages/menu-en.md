@@ -9,7 +9,7 @@ title: Denní menu - EN
 ## SOUP (with a main course) – 250ml
 
 * **Bean soup with pepper sausage** 35 CZK
-* **Frankfourt soup** 35 CZK
+* **Cabbage cream with sour cream and fried cabbage** 35 CZK
 
 ## MAIN COURSES
 
