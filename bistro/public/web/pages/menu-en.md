@@ -3,7 +3,7 @@ title: Denní menu - EN
 ---
 ## SPECIAL OFFER (Soup + Main Course)
 
-* **MENU 1: Soup + Schnitzel from minced meat, mashed potatoes, pickles** 205 CZK
+* **MENU 1: Soup + Fried brie cheese stuffed with ham, boiled potatoes, and tartar sauce** 205 CZK
 * **MENU 2: Soup + Pork strips Stroganoff, baked jasmine rice** 205 CZK
 
 ## SOUP (with a main course) – 250ml
