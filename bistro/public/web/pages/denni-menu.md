@@ -13,7 +13,7 @@ title: Denní menu CZ
 
 ## HLAVNÍ JÍDLA
 
-* **Staročeská bašta (pečeně, krkovice, uzené maso, klobása a 2 druhy zelí, variace knedlíku)** 195 Kč
+* **Staročeská bašta (pečená krkovice, uzené maso, klobása, 2 druhy zelí a variace knedlíků)** 195 Kč
 * **Smažený karbanátek, máslová bramborová kaše, okurka** 185 Kč
 * **Vepřové nudličky stroganoff, pečená jasmínová rýže** 185 Kč
 * **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 185 Kč
@@ -24,6 +24,6 @@ title: Denní menu CZ
 
 ## POLÉVKA OBJEDNANÁ SAMOSTATNĚ– 250ml / 500ml
 
-* **Fazolová s paprikovou klobásou nebo Zelný krém se zakysanou smetanou a smaženým zelím** 55 / 75 Kč
+* **Fazolová s paprikovou klobásou nebo zelný krém se zakysanou smetanou a smaženým zelím** 55 / 75 Kč
 
 ***Nabídka platí ve čtvrtek 12.11. od 10:30 do zavírací hodiny nebo do vyprodání.***
