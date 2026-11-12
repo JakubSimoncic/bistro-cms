@@ -3,8 +3,8 @@ title: Denní menu - EN
 ---
 ## SPECIAL OFFER (Soup + Main Course)
 
-* **MENU 1: Soup + Fried minced meat, butter mashed potatoes, cucumber** 205 CZK
-* **MENU 2: Soup + Baked stuffed potatoes with minced meat and cheese, cucumber salad** 215 CZK
+* **MENU 1: Soup + Schnitzel from minced meat, mashed potatoes, pickles** 205 CZK
+* **MENU 2: Soup + Pork strips Stroganoff, baked jasmine rice** 205 CZK
 
 ## SOUP (with a main course) – 250ml
 
@@ -13,8 +13,8 @@ title: Denní menu - EN
 
 ## MAIN COURSES
 
-* **Old Bohemian bastion (roast, pork neck, smoked meat, sausage and 2 types of cabbage, a variety of dumplings)** 195 CZK
-* **Fried minced meat, butter mashed potatoes, cucumber** 185 CZK
+* **Old Bohemian mix (pork meat, smoked meat, sausage, 2 types of cabbage and variety of dumplings)** 195 CZK
+* **Schnitzel from minced meat, mashed potatoes, pickles** 185 CZK
 * **Pork strips stroganoff, baked jasmine rice** 185 CZK
 * **Grilled stuffed wheat tortilla of your choice and French Fries** 185 CZK
 * **Pulled pork meat in our BBQ sauce, roasted potatoes and coleslaw** 195 CZK
