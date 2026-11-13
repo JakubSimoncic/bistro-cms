@@ -13,7 +13,7 @@ title: Denní menu - EN
 
 ## MAIN COURSES
 
-* **Roast pork with garlic, spinach leaves, potato dumplings** 195 CZK
+* **Roast pork with garlic, spinach and potato dumplings** 195 CZK
 * **Potato pancake stuffed with chicken strips with vegetables** 195 CZK
 * **Fried meatball, boiled potatoes, mustard, pickles** 185 CZK
 * **Serbian pork risotto sprinkled with cheese, pickles** 185 CZK
