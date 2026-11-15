@@ -3,20 +3,19 @@ title: Denní menu - EN
 ---
 ## SPECIAL OFFER (Soup + Main Course)
 
-* **MENU 1: Soup + -** 
-* **MENU 2: Soup + Pork strips Stroganoff, baked jasmine rice** 205 CZK
+* **MENU 1: Soup + Poultry Livers with Onions, Roasted Jasmine Rice** 195 CZK
+* **MENU 2: Soup + Roasted pork knuckle, stewed white cabbage and potato dumplings** 205 CZK
 
 ## SOUP (with a main course) – 250ml
 
-* **Frankfurt** 35 CZK
-* **Beef broth** 35 CZK
+* **Goulash soup with potatoes** 35 CZK
+* **Beef Broth with meat, vegetables and celestinian noodles** 35 CZK
 
 ## MAIN COURSES
 
-* **Roast beef meat, meaty sauce with eggs, baked jasmine rice** 215 CZK
-* **Halusky (potato dumplings) with smoked meat and cabbage** 185 CZK
-* **Homemade meatloaf with potato salad** 185 CZK
-* **Pork strips Stroganoff, baked jasmine rice** 185 CZK
+* **Fried Cordon bleu, mashed Potatoes, Lemon** 195 CZK
+* **Poultry livers with onions, roasted jasmine rice** 175 CZK
+* **Roasted pork knuckle, stewed white cabbage and potato dumplings** 185 CZK
 * **Grilled stuffed wheat tortilla of your choice and French Fries** 195 CZK
 * **Pulled pork meat in our BBQ sauce, roasted potatoes and coleslaw** 215 CZK
 * **Beef goulash with onions and pickled chili pepper, homemade dumplings** 235 CZK
@@ -25,6 +24,6 @@ title: Denní menu - EN
 
 ## SOUP ORDERED SEPARATELY – 250ml / 500ml
 
-* **Frankfurt or Beef broth** 55 / 75 CZK
+* **Goulash soup with potatoes or Beef broth with meat and vegetables** 55 / 75 CZK
 
-***Offer valid on Sunday 15.11. from 10:30 AM until closing or while supplies last.***
+***Offer valid on Monday 16.11. from 10:30 AM until closing or while supplies last.***
