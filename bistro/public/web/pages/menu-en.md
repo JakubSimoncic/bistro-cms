@@ -4,7 +4,7 @@ title: Denní menu - EN
 ## SPECIAL OFFER (Soup + Main Course)
 
 * **MENU 1: Soup + Poultry Livers with Onions, Roasted Jasmine Rice** 195 CZK
-* **MENU 2: Soup + Roasted pork knuckle, stewed white cabbage and potato dumplings** 205 CZK
+* **MENU 2: Soup + Roasted pork knuckle, stewed white cabbage and homemade dumplings** 205 CZK
 
 ## SOUP (with a main course) – 250ml
 
@@ -15,7 +15,7 @@ title: Denní menu - EN
 
 * **Fried Cordon bleu, mashed Potatoes, Lemon** 195 CZK
 * **Poultry livers with onions, roasted jasmine rice** 175 CZK
-* **Roasted pork knuckle, stewed white cabbage and potato dumplings** 185 CZK
+* **Roasted pork knuckle, stewed white cabbage and homemade dumplings** 185 CZK
 * **Grilled stuffed wheat tortilla of your choice and French Fries** 195 CZK
 * **Pulled pork meat in our BBQ sauce, roasted potatoes and coleslaw** 195 CZK
 * **Beef goulash with onions and pickled chili pepper, homemade dumplings** 235 CZK
