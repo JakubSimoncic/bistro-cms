@@ -15,7 +15,7 @@ title: Denní menu CZ
 
 * **Hovězí koprová omáčka, domácí houskový knedlík** 215 Kč
 * **Smažená vepřová krkovička, šťouchané brambory s cibulkou, kyselá okurka a citron** 185 Kč
-* **Vídeňská vepřová pečeně, vídeňská cibulka a pečená jasmínová rýže** 195 Kč
+* **Vídeňská vepřová pečeně, vídeňská cibulka a pečená jasmínová rýže** 185 Kč
 * **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 195 Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek coleslaw** 195 Kč
 * **Hovězí guláš s cibulkou a beraním rohem, domácí houskový knedlík** 235 Kč
