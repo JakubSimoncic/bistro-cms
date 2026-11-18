@@ -4,7 +4,7 @@ title: Denní menu CZ
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)
 
 * **MENU 1: Polévka + Smažená vepřová krkovička, šťouchané brambory s cibulkou, kyselá okurka a citron** 205 Kč
-* **MENU 2: Polévka + Vídeňská vepřová pečeně, vídeňská cibulka a pečená jasmínová rýže** 215 Kč
+* **MENU 2: Polévka + Vídeňská vepřová pečeně, vídeňská cibulka a pečená jasmínová rýže** 205 Kč
 
 ## POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
