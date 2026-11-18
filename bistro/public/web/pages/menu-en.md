@@ -26,4 +26,4 @@ title: Denní menu - EN
 
 * **Asian chicken with egg and mung beans or Sauerkraut soup with sausage** 55 / 75 CZK
 
-***Offer valid on Wednesday 18.11. from 10:30 AM until closing or while supplies last.***
+***Offer valid on Tuesday 19.11. from 10:30 AM until closing or while supplies last.***
