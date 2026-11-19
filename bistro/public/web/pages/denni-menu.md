@@ -8,7 +8,7 @@ title: Denní menu CZ
 
 ## POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
-* **Asijská kuřecí s vejcem a mungo kličky** 35 Kč
+* **Asijská kuřecí s vejcem a mungo klíčky** 35 Kč
 * **Zelňačka s uzeninou** 35 Kč
 
 ## HLAVNÍ JÍDLA
