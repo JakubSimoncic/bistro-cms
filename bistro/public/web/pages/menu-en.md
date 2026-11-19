@@ -4,7 +4,7 @@ title: Denní menu - EN
 ## SPECIAL OFFER (Soup + Main Course)
 
 * **MENU 1: Soup + Chicken thigh slice with mushrooms, jasmine rice** 205 CZK
-* **MENU 2: Soup + Moravian sparrow, cabbage, bread dumplings** 205 CZK
+* **MENU 2: Soup + Baked pork meat, cabbage, bread dumplings** 205 CZK
 
 ## SOUP (with a main course) – 250ml
 
@@ -15,7 +15,7 @@ title: Denní menu - EN
 
 * **Teriyaki pork shoulder, wasabi mashed potatoes, salad with fermented radish and ginger** 185 CZK
 * **Chicken thigh slice with mushrooms, jasmine rice** 185 CZK
-* **Moravian sparrow, cabbage, bread dumplings** 185 CZK
+* **Baked pork meat, cabbage, bread dumplings** 185 CZK
 * **Grilled stuffed wheat tortilla of your choice and French Fries** 195 CZK
 * **Pulled pork meat in our BBQ sauce, roasted potatoes and coleslaw** 195 CZK
 * **Beef goulash with onions and pickled chili pepper, homemade dumplings** 235 CZK
