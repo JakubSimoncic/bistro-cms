@@ -24,6 +24,6 @@ title: Denní menu CZ
 
 ## POLÉVKA OBJEDNANÁ SAMOSTATNĚ– 250ml / 500ml
 
-* **Asijská kuřecí s vejcem a mungo kličky nebo Zelňačka s uzeninou** 55 / 75 Kč
+* **Asijská kuřecí s vejcem a mungo klíčky nebo Zelňačka s uzeninou** 55 / 75 Kč
 
 ***Nabídka platí ve čtvrtek 19.11. od 10:30 do zavírací hodiny nebo do vyprodání.***
