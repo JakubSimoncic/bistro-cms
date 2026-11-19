@@ -4,7 +4,7 @@ title: Denní menu - EN
 ## SPECIAL OFFER (Soup + Main Course)
 
 * **MENU 1: Soup + Chicken thigh slice with mushrooms, jasmine rice** 205 CZK
-* **MENU 2: Soup + Viennese style pork meat, fried onion and roasted jasmine rice** 205 CZK
+* **MENU 2: Soup + Moravian sparrow, cabbage, bread dumplings** 205 CZK
 
 ## SOUP (with a main course) – 250ml
 
