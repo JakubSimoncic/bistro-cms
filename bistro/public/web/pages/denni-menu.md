@@ -13,7 +13,7 @@ title: Denní menu CZ
 
 ## HLAVNÍ JÍDLA
 
-* **Vepřová plec teriyaki, wasabi bramborová kaše, salátek s fermentovanou ředkví a zátvorem** 185 Kč
+* **Vepřová plec teriyaki, wasabi bramborová kaše, salátek s fermentovanou ředkví a zázvorem** 185 Kč
 * **Kuřecí stehenní plátek na houbách, pečená jasmínová rýže** 185 Kč
 * **Moravský vrabec, zelí, houskový knedlík** 185 Kč
 * **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 195 Kč
