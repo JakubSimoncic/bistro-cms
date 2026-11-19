@@ -3,19 +3,19 @@ title: Denní menu - EN
 ---
 ## SPECIAL OFFER (Soup + Main Course)
 
-* **MENU 1: Soup + Chicken thigh slice with mushrooms, jasmine rice** 205 CZK
-* **MENU 2: Soup + Baked pork meat, cabbage, bread dumplings** 205 CZK
+* **MENU 1: Soup + Stewed pork with carrots, boiled potatoes** 205 CZK
+* **MENU 2: Soup + Traditional Svíčková - Beef in cream sauce, cranberry target, homemade dumpling** 245 CZK
 
 ## SOUP (with a main course) – 250ml
 
-* **Asian chicken with egg and mung beans** 35 CZK
-* **Sauerkraut soup with sausage** 35 CZK
+* **Lentil soup with paprika sausage** 35 CZK
+* **Borscht with sour cream** 35 CZK
 
 ## MAIN COURSES
 
-* **Teriyaki pork shoulder, wasabi mashed potatoes, salad with fermented radish and ginger** 185 CZK
-* **Chicken thigh slice with mushrooms, jasmine rice** 185 CZK
-* **Baked pork meat, cabbage, bread dumplings** 185 CZK
+* **Fusilli with pork tenderloin, porcini mushrooms, cream, and Parmesan** 195 CZK
+* **Stewed pork with carrots, boiled potatoes** 185 CZK
+* **Traditional Svíčková - Beef in cream sauce, cranberry target, homemade dumpling** 225 CZK
 * **Grilled stuffed wheat tortilla of your choice and French Fries** 195 CZK
 * **Pulled pork meat in our BBQ sauce, roasted potatoes and coleslaw** 195 CZK
 * **Beef goulash with onions and pickled chili pepper, homemade dumplings** 235 CZK
@@ -24,6 +24,6 @@ title: Denní menu - EN
 
 ## SOUP ORDERED SEPARATELY – 250ml / 500ml
 
-* **Asian chicken with egg and mung beans or Sauerkraut soup with sausage** 55 / 75 CZK
+* **Lentil soup with paprika sausage or Borscht with sour cream** 55 / 75 CZK
 
-***Offer valid on Tuesday 19.11. from 10:30 AM until closing or while supplies last.***
+***Offer valid on Friday 20.11. from 10:30 AM until closing or while supplies last.***
