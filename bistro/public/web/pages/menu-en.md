@@ -3,20 +3,25 @@ title: Denní menu - EN
 ---
 ## SPECIAL OFFER (Soup + Main Course)
 
-* **MENU 1: Soup + Poultry liver sautéed with onions, served with jasmine rice** 195 CZK
-* **MENU 2: Soup + Beef in dill sauce, served with a variety of dumplings** 245 CZK
+* **MENU 1: Soup + Poultry liver with onions, served with jasmine rice** 205 CZK
+* **MENU 2: Soup + Beef in dill sauce, served with a variety of dumplings (Karlovy Vary-style and bread dumplings)** 245 CZK
 
-## SOUP (to accompany a main course) – 250 ml
+## SPECIAL OFFER (Soup + Main Course)
 
-* **Asian-style chicken soup with egg and mung bean sprouts** 35 CZK
-* **Borscht with sour cream** 35 CZK
+* **MENU 1: Soup + Moravian-style roast pork, stewed white cabbage, bread dumpling** 205 CZK
+* **MENU 2: Soup + Sausage-potato goulash served with toasted bread** 195 CZK
+
+## SOUP WITH MAIN COURSE – 250ml
+
+* **Lentil soup with sausage** 35 CZK
+* **Frankfurter-style soup** 35 CZK
 
 ## MAIN COURSES
 
-* **Poultry liver sautéed with onions, served with jasmine rice** 175 CZK
-* **Beef meat in dill sauce, served with dumplings** 225 CZK
-* **Chicken thigh fillet with mushrooms souace, served with rice** 185 CZK
-* **Roasted pork knuckle, white cabbage, bread dumplings** 185 CZK
+* **Pork stewed with carrots, boiled potatoes with parsley** 185 CZK
+* **Teriyaki pork shoulder, boiled potatoes, salad with fermented radish, and wasabi mayonnaise** 185 CZK
+* **Sausage-potato goulash, served with toasted bread** 175 CZK
+* **Moravian-style roast pork, stewed white cabbage, bread dumpling** 185 CZK
 * **Grilled stuffed wheat tortilla of your choice and French Fries** 195 CZK
 * **Pulled pork meat in our BBQ sauce, roasted potatoes and coleslaw** 215 CZK
 * **Beef goulash with onions and pickled chili pepper, homemade dumplings** 245 CZK
@@ -25,6 +30,6 @@ title: Denní menu - EN
 
 ## SOUP ORDERED SEPARATELY – 250ml / 500ml
 
-* **Asian-style chicken soup with egg and mung bean sprouts or Borscht with sour cream** 55 / 75 CZK
+* **Lentil soup with sausage or Frankfurter-style soup** 55 / 75 CZK
 
-***Offer valid on Saturday 21.11. from 10:00 AM until closing or while supplies last.***
+***Offer valid on Sunday 22.11. from 10:00 AM until closing or while supplies last.***
