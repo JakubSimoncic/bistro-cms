@@ -3,11 +3,6 @@ title: Denní menu - EN
 ---
 ## SPECIAL OFFER (Soup + Main Course)
 
-* **MENU 1: Soup + Poultry liver with onions, served with jasmine rice** 205 CZK
-* **MENU 2: Soup + Beef in dill sauce, served with a variety of dumplings (Karlovy Vary-style and bread dumplings)** 245 CZK
-
-## SPECIAL OFFER (Soup + Main Course)
-
 * **MENU 1: Soup + Moravian-style roast pork, stewed white cabbage, bread dumpling** 205 CZK
 * **MENU 2: Soup + Sausage-potato goulash served with toasted bread** 195 CZK
 
