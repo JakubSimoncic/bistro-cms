@@ -3,8 +3,8 @@ title: Denní menu - EN
 ---
 ## SPECIAL OFFER (Soup + Main Course)
 
-* **MENU 1: Soup + Moravian-style roast pork, stewed white cabbage, bread dumpling** 205 CZK
-* **MENU 2: Soup + Sausage-potato goulash served with toasted bread** 195 CZK
+* **MENU 1: Soup + Roast pork meat, stewed white cabbage, dumplings** 205 CZK
+* **MENU 2: Soup + Sausage potato goulash served with toasted bread** 195 CZK
 
 ## SOUP WITH MAIN COURSE – 250ml
 
@@ -14,12 +14,12 @@ title: Denní menu - EN
 ## MAIN COURSES
 
 * **Pork stewed with carrots, boiled potatoes with parsley** 185 CZK
-* **Teriyaki pork shoulder, boiled potatoes, salad with fermented radish, and wasabi mayonnaise** 185 CZK
-* **Sausage-potato goulash, served with toasted bread** 175 CZK
-* **Moravian-style roast pork, stewed white cabbage, bread dumpling** 185 CZK
+* **Teriyaki pork shoulder, boiled potatoes, salad with fermented radish and wasabi mayonnaise** 195 CZK
+* **Sausage potato goulash, served with toasted bread** 175 CZK
+* **Roast pork meat, stewed white cabbage, dumplings** 185 CZK
 * **Grilled stuffed wheat tortilla of your choice and French Fries** 195 CZK
 * **Pulled pork meat in our BBQ sauce, roasted potatoes and coleslaw** 215 CZK
-* **Beef goulash with onions and pickled chili pepper, homemade dumplings** 245 CZK
+* **Beef goulash with onions and pickled chili pepper, homemade dumplings** 235 CZK
 * **Chicken schnitzel, homemade potato salad, lemon** 215 CZK
 * **Fried cheese, French Fries and Tartar Sauce** 215 CZK
 
