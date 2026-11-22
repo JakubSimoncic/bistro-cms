@@ -14,12 +14,12 @@ title: Denní menu CZ
 ## HLAVNÍ JÍDLA
 
 * **Vepřové v mrkvi, vařený brambor s petrželkou** 185 Kč
-* **Vepřová plec teriyaki, vařený brambor, salátek s fermentovanou ředkví a wasabi majonéza** 185 Kč
+* **Vepřová plec teriyaki, vařený brambor, salátek s fermentovanou ředkví a wasabi majonéza** 195 Kč
 * **Buřtguláš s rozpečeným chlebem** 175 Kč
 * **Moravský vrabec, dušené bílé zelí, houskový knedlík** 185 Kč
 * **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 195 Kč
 * **Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek coleslaw** 215 Kč
-* **Hovězí guláš s cibulkou a beraním rohem, domácí houskový knedlík** 245 Kč
+* **Hovězí guláš s cibulkou a beraním rohem, domácí houskový knedlík** 235 Kč
 * **Kuřecí řízek, domácí bramborový salát, citron** 215 Kč
 * **Smažený sýr, hranolky a tatarská omáčka** 215 Kč
 
