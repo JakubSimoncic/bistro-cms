@@ -17,10 +17,10 @@ title: Denní menu - EN
 * **Chicken meat with creamy paprika sauce and Fusilli Pasta** 185 CZK
 * **Fried schnitzel from minced meat and cheese, mashed potatoes, pickles** 185 CZK
 * **Grilled stuffed wheat tortilla of your choice and French Fries** 195 CZK
-* **Pulled pork meat in our BBQ sauce, roasted potatoes and coleslaw** 215 CZK
+* **Pulled pork meat in our BBQ sauce, roasted potatoes and coleslaw** 195 CZK
 * **Beef goulash with onions and pickled chili pepper, homemade dumplings** 235 CZK
-* **Chicken schnitzel, homemade potato salad, lemon** 215 CZK
-* **Fried cheese, French Fries and Tartar Sauce** 215 CZK
+* **Chicken schnitzel, homemade potato salad, lemon** 195 CZK
+* **Fried cheese, French Fries and Tartar Sauce** 195 CZK
 
 ## SOUP ORDERED SEPARATELY – 250ml / 500ml
 
