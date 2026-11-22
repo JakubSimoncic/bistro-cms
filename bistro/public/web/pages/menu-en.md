@@ -3,20 +3,19 @@ title: Denní menu - EN
 ---
 ## SPECIAL OFFER (Soup + Main Course)
 
-* **MENU 1: Soup + Roast pork meat, stewed white cabbage, dumplings** 205 CZK
-* **MENU 2: Soup + Sausage potato goulash served with toasted bread** 195 CZK
+* **MENU 1: Soup + Chicken meat with creamy paprika sauce and Fusilli Pasta** 205 CZK
+* **MENU 2: Soup + Fried schnitzel from minced meat and cheese, mashed potatoes, pickles** 205 CZK
 
 ## SOUP WITH MAIN COURSE – 250ml
 
-* **Lentil soup with sausage** 35 CZK
 * **Frankfurter-style soup** 35 CZK
+* **Traditional Czech garlic soup with cheese and croutons** 35 CZK
 
 ## MAIN COURSES
 
-* **Pork stewed with carrots, boiled potatoes with parsley** 185 CZK
-* **Teriyaki pork shoulder, boiled potatoes, salad with fermented radish and wasabi mayonnaise** 195 CZK
-* **Sausage potato goulash, served with toasted bread** 175 CZK
-* **Roast pork meat, stewed white cabbage, dumplings** 185 CZK
+* **Czech potatoe gnocchi with pulled duck meat, braised red cabbage, rich duck sauce and fried onion** 215 CZK
+* **Chicken meat with creamy paprika sauce and Fusilli Pasta** 185 CZK
+* **Fried schnitzel from minced meat and cheese, mashed potatoes, pickles** 185 CZK
 * **Grilled stuffed wheat tortilla of your choice and French Fries** 195 CZK
 * **Pulled pork meat in our BBQ sauce, roasted potatoes and coleslaw** 215 CZK
 * **Beef goulash with onions and pickled chili pepper, homemade dumplings** 235 CZK
@@ -25,6 +24,6 @@ title: Denní menu - EN
 
 ## SOUP ORDERED SEPARATELY – 250ml / 500ml
 
-* **Lentil soup with sausage or Frankfurter-style soup** 55 / 75 CZK
+* **Traditional Czech garlic soup with cheese and croutons or Frankfurter-style soup** 55 / 75 CZK
 
-***Offer valid on Sunday 22.11. from 10:00 AM until closing or while supplies last.***
+***Offer valid on Monday 23.11. from 10:00 AM until closing or while supplies last.***
