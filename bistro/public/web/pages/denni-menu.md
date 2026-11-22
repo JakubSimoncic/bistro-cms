@@ -13,7 +13,7 @@ title: Denní menu CZ
 
 ## HLAVNÍ JÍDLA
 
-* **Halušky s trhaným kachním masem, dušené hlávkové červené zelí, silná kachní šťáva a vídeňská cubulka** 215 Kč
+* **Halušky s trhaným kachním masem, dušené hlávkové červené zelí, silná kachní šťáva a vídeňská cibulka** 215 Kč
 * **Kuřecí maso na paprice a těstoviny Fusilli** 185 Kč
 * **Smažený holandský řízek, bramborová kaše, kyselá okurka** 185 Kč
 * **Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 195 Kč
