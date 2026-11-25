@@ -13,7 +13,7 @@ title: Denní menu - EN
 
 ## MAIN COURSES
 
-* **Baked chicken steak with bacon and smoked cheese, roasted potatoes with leeks and garlic dip** 215 CZK
+* **Baked chicken steak with bacon and smoked cheese, roasted potatoes with leeks and garlic dip** 205 CZK
 * **Baked potatoes with smoked meat and eggs, cabbage and carrot salad** 185 CZK
 * **Pork meat, meat sauce with pickles, baked jasmine rice** 185 CZK
 * **Grilled stuffed wheat tortilla of your choice and French Fries** 185 CZK
