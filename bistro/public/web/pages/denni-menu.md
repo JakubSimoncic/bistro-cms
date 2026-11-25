@@ -13,7 +13,7 @@ title: Denní menu CZ
 
 ## HLAVNÍ JÍDLA
 
-* **150g Zapečený kuřecí plátek s anglickou slaninou a uzeným sýrem, pečené brambory s pórkem a česnekový dip** 215 Kč
+* **150g Zapečený kuřecí plátek s anglickou slaninou a uzeným sýrem, pečené brambory s pórkem a česnekový dip** 205 Kč
 * **300g Zapečené francouzské brambory s uzeným masem a zelný salátek s mrkví** 185 Kč
 * **150g Vepřová znojemská pečeně, pečená jasmínová rýže** 185 Kč
 * **1ks Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 185 Kč
