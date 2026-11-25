@@ -9,7 +9,7 @@ title: Denní menu CZ
 ## POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
 * **Gulášová polévka** 35 Kč
-* **staročeská bramboračka s houbami** 35 Kč
+* **Staročeská bramboračka s houbami** 35 Kč
 
 ## HLAVNÍ JÍDLA
 
