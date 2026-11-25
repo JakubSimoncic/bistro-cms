@@ -26,4 +26,4 @@ title: Denní menu CZ
 
 * **Gulášová polévka nebo staročeská bramboračka s houbami** 55 / 75 Kč
 
-***Nabídka platí ve středu 26.11. od 10:00 do zavírací hodiny nebo do vyprodání.***
+***Nabídka platí ve čtvrtek 26.11. od 10:00 do zavírací hodiny nebo do vyprodání.***
