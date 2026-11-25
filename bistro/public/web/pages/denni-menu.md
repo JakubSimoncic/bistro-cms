@@ -13,7 +13,7 @@ title: Denní menu CZ
 
 ## HLAVNÍ JÍDLA
 
-* **150g Segedínský vepřový guláš, domácí bramborový knedlík** 185 Kč
+* **150g Segedínský vepřový guláš, domácí houskový knedlík** 185 Kč
 * **150g Cikánská vepřová pečeně, pečená jasmínová rýže** 185 Kč
 * **1ks  Pečené nadívané kuřecí stehno, bramborová kaše, kyselá okurka** 185 Kč
 * **1ks  Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 185 Kč
