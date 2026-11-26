@@ -14,7 +14,7 @@ title: Denní menu CZ
 ## HLAVNÍ JÍDLA
 
 * **150g Hovězí guláš, červená cibule, berany roh, domácí houskový knedlík** 215 Kč
-* **150g Smažený květák, vařené brambory, tatarská omáčka** 185 Kč
+* **150g Smažený květák, vařené brambory, tatarská omáčka** 175 Kč
 * **1ks  Mexické kuřecí burrito (fazolová pasta, paprika, cibule, koriandr, trhané kuřecí maso, sýr čedar, rýže), hranolky a zakysaná smetaná** 195 Kč
 * **1ks  Grilovaná plněná pšeničná tortilla dle výběru a smažené hranolky** 185 Kč
 * **200g Trhané vepřové maso v naší BBQ omáčce, opečené brambory a salátek coleslaw** 195 Kč
