@@ -3,19 +3,19 @@ title: Denní menu - EN
 ---
 ## SPECIAL OFFER (Soup + Main Course)
 
-* **MENU 1: Soup + Pork roast meat, Gypsy-style sauce and baked jasmine rice** 205 CZK
-* **MENU 2: Soup + Baked stuffed chicken thigh, mashed potatoes, pickles** 205 CZK
+* **MENU 1: Soup + Fried cauliflower, boiled potatoes, tartar sauce** 195 CZK
+* **MENU 2: Soup + Mexican chicken burrito (bean paste, bell pepper, onion, coriander, pulled chicken, cheddar cheese, rice), fries, and sour cream** 215 CZK
 
 ## SOUP WITH MAIN COURSE – 250ml
 
-* **Goulash soup** 35 CZK
-* **Traditional Czech potato soup with mushrooms** 35 CZK
+* **Tripe Soup** 35 CZK
+* **Beef broth, with liver rice, vegetables, and frittata noodles** 35 CZK
 
 ## MAIN COURSES
 
-* **Segedin pork goulash (sauerkraut goulash), homemade dumplings** 185 CZK
-* **Pork roast meat, Gypsy-style sauce and baked jasmine rice** 185 CZK
-* **Baked stuffed chicken thigh, mashed potatoes, pickles** 185 CZK
+* **Beef goulash, red onion, homemade bread dumpling** 215 CZK
+* **Fried cauliflower, boiled potatoes, tartar sauce** 175 CZK
+* **Mexican chicken burrito (bean paste, bell pepper, onion, coriander, pulled chicken, cheddar cheese, rice), fries, and sour cream** 195 CZK
 * **Grilled stuffed wheat tortilla of your choice and French Fries** 185 CZK
 * **Pulled pork meat in our BBQ sauce, roasted potatoes and coleslaw** 195 CZK
 * **"Svíčková"- Beef tenderloin in creamy vegetable sauce and homemade dumplings** 255 CZK
@@ -24,6 +24,6 @@ title: Denní menu - EN
 
 ## SOUP ORDERED SEPARATELY – 250ml / 500ml
 
-* **Goulash soup or traditional Czech potato soup with mushrooms** 55 / 75 CZK
+* **Tripe Soup or Beef broth, with liver rice, vegetables, and frittata noodles** 55 / 75 CZK
 
-***Offer valid on Thursday 26.11. from 10:00 AM until closing or while supplies last.***
+***Offer valid on Friday 27.11. from 10:00 AM until closing or while supplies last.***
