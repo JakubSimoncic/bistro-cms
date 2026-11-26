@@ -4,7 +4,7 @@ title: Denní menu CZ
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)
 
 * **MENU 1: Polévka + Smažený květák, vařené brambory, tatarská omáčka** 195 Kč
-* **MENU 2: Polévka + Mexické kuřecí burrito (fazolová pasta, paprika, cibule, koriandr, trhané kuřecí maso, sýr čedar, rýže), hranolky a zakysaná smetaná ** 215 Kč
+* **MENU 2: Polévka + Mexické kuřecí burrito (fazolová pasta, paprika, cibule, koriandr, trhané kuřecí maso, sýr čedar, rýže), hranolky a zakysaná smetaná** 215 Kč
 
 ## POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
