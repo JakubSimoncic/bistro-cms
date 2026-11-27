@@ -25,6 +25,6 @@ title: Denní menu CZ
 
 ## POLÉVKA OBJEDNANÁ SAMOSTATNĚ– 250ml / 500ml
 
-* **Dršťková polévka nebo Hovězí vývar s játrovou rýží, zeleninou a fritatovými nudlemi** 55 / 75 Kč
+* **Dršťková polévka nebo Jihočeská kulajda** 55 / 75 Kč
 
 ***Nabídka platí v sobotu 28.11. od 10:00 do zavírací hodiny nebo do vyprodání.***
