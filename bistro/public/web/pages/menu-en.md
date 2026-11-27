@@ -3,8 +3,8 @@ title: Denní menu - EN
 ---
 ## SPECIAL OFFER (Soup + Main Course)
 
-* **MENU 1: Soup + Beef goulash, red onion, homemade bread dumpling** 195 CZK
-* **MENU 2: Soup + Mexican chicken mix with beans and baked jasmine rice** 215 CZK
+* **MENU 1: Soup + Beef goulash, red onion, homemade bread dumpling** 255 CZK
+* **MENU 2: Soup + Mexican chicken mix with beans and baked jasmine rice** 205 CZK
 
 ## SOUP WITH MAIN COURSE – 250ml
 
