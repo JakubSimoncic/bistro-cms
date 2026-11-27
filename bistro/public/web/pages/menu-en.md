@@ -27,4 +27,4 @@ title: Denní menu - EN
 
 * **Tripe Soup or Creamy dill soup** 55 / 75 CZK
 
-***Offer valid on Friday 27.11. from 10:00 AM until closing or while supplies last.***
+***Offer valid on Saturday 28.11. from 10:00 AM until closing or while supplies last.***
