@@ -3,8 +3,8 @@ title: Denní menu CZ
 ---
 ## ZVÝHODNĚNÁ NABÍDKA (polévka + hl. jídlo)
 
-* **MENU 1: Polévka + Hovězí guláš, červená cibule, beraní roh, domácí houskový knedlík** 195 Kč
-* **MENU 2: Polévka + Mexická kuřecí směs s fazolemi a pečenou jasmínovou rýží** 215 Kč
+* **MENU 1: Polévka + Hovězí guláš, červená cibule, beraní roh, domácí houskový knedlík** 255 Kč
+* **MENU 2: Polévka + Mexická kuřecí směs s fazolemi a pečenou jasmínovou rýží** 205 Kč
 
 ## POLÉVKA K HLAVNÍMU JÍDLU – 250ml
 
