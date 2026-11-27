@@ -27,4 +27,4 @@ title: Denní menu CZ
 
 * **Dršťková polévka nebo Hovězí vývar s játrovou rýží, zeleninou a fritatovými nudlemi** 55 / 75 Kč
 
-***Nabídka platí ve pátek 27.11. od 10:00 do zavírací hodiny nebo do vyprodání.***
+***Nabídka platí v sobotu 28.11. od 10:00 do zavírací hodiny nebo do vyprodání.***
